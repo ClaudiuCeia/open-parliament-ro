@@ -82,14 +82,20 @@ jobs:
         git config --local user.name "Cronicar Bot"
 
         TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+
+        # Build commit message with proper newlines
         COMMIT_MSG="Automated data update - $TIMESTAMP"
 
-        # Add stats to commit message
-        if [ "${{ steps.analyze_changes.outputs.added_files }}" -gt 0 ]; then
-          COMMIT_MSG="$COMMIT_MSG\n\nAdded: ${{ steps.analyze_changes.outputs.added_files }} files"
-        fi
-        if [ "${{ steps.analyze_changes.outputs.modified_files }}" -gt 0 ]; then
-          COMMIT_MSG="$COMMIT_MSG\nModified: ${{ steps.analyze_changes.outputs.modified_files }} files"
+        if [ "${{ steps.analyze_changes.outputs.added_files }}" -gt 0 ] || [ "${{ steps.analyze_changes.outputs.modified_files }}" -gt 0 ]; then
+          COMMIT_MSG="$COMMIT_MSG"$'\n\n'
+          
+          if [ "${{ steps.analyze_changes.outputs.added_files }}" -gt 0 ]; then
+            COMMIT_MSG="$COMMIT_MSG""Added: ${{ steps.analyze_changes.outputs.added_files }} files"$'\n'
+          fi
+          
+          if [ "${{ steps.analyze_changes.outputs.modified_files }}" -gt 0 ]; then
+            COMMIT_MSG="$COMMIT_MSG""Modified: ${{ steps.analyze_changes.outputs.modified_files }} files"
+          fi
         fi
 
         git commit -m "$COMMIT_MSG"
@@ -106,14 +112,13 @@ jobs:
         git config --local user.name "Cronicar Bot"
 
         TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
-        COMMIT_MSG="Data update with deletions - $TIMESTAMP"
 
-        # Add detailed stats
-        COMMIT_MSG="$COMMIT_MSG\n\nCHANGES SUMMARY:"
-        COMMIT_MSG="$COMMIT_MSG\n- Added: ${{ steps.analyze_changes.outputs.added_files }} files"
-        COMMIT_MSG="$COMMIT_MSG\n- Modified: ${{ steps.analyze_changes.outputs.modified_files }} files"
-        COMMIT_MSG="$COMMIT_MSG\n- Deleted: ${{ steps.analyze_changes.outputs.deleted_files }} files"
-        COMMIT_MSG="$COMMIT_MSG\n\nDeletions detected - please review for potential scraper issues."
+        # Build commit message with proper newlines
+        COMMIT_MSG="Data update with deletions - $TIMESTAMP"$'\n\n'"CHANGES SUMMARY:"
+        COMMIT_MSG="$COMMIT_MSG"$'\n'"- Added: ${{ steps.analyze_changes.outputs.added_files }} files"
+        COMMIT_MSG="$COMMIT_MSG"$'\n'"- Modified: ${{ steps.analyze_changes.outputs.modified_files }} files"
+        COMMIT_MSG="$COMMIT_MSG"$'\n'"- Deleted: ${{ steps.analyze_changes.outputs.deleted_files }} files"
+        COMMIT_MSG="$COMMIT_MSG"$'\n\n'"Deletions detected - please review for potential scraper issues."
 
         git commit -m "$COMMIT_MSG"
         git push origin "$BRANCH_NAME"
