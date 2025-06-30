@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-28T18:28:20.673Z",
+  "lastUpdated": "2025-06-30T14:25:13.850Z",
   "data": [
     {
       "idi": "77844",
@@ -11,9 +11,9 @@
       },
       "recipient": "Agenţia Naţională pentru Sport\nîn atenţia:\ndomnului\nConstantin-Bogdan Matei\n- Presedinte",
       "dates": {
-        "registration": "2025-03-02T22:00:00.000Z",
-        "presentation": "2025-03-02T22:00:00.000Z",
-        "communication": "2025-05-02T21:00:00.000Z",
+        "registration": "2025-03-03T00:00:00.000Z",
+        "presentation": "2025-03-03T00:00:00.000Z",
+        "communication": "2025-05-03T00:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris\n\nconsultaţi stenograma sedinţei camerei deputaţilor din 03.03.2025\n\n                 \n                 sau înregistrarea video a şedinţei",
@@ -24,7 +24,7 @@
       "answers": [
         {
           "registrationId": "1932",
-          "date": "2025-03-03T22:00:00.000Z",
+          "date": "2025-03-04T00:00:00.000Z",
           "responseType": "în scris",
           "author": "Agenţia Naţională pentru Sport\ncomunicat de:\ndomnul\nConstantin-Bogdan Matei\n- Presedinte",
           "textUrl": "https://www.cdep.ro/interpel/2025/r328A.pdf"
@@ -40,9 +40,9 @@
       },
       "recipient": "Ministerul Culturii\nîn atenţia:\ndoamnei\nNatalia-Elena Intotero\n- Ministru",
       "dates": {
-        "registration": "2025-04-02T21:00:00.000Z",
-        "presentation": "2025-04-02T21:00:00.000Z",
-        "communication": "2025-04-02T21:00:00.000Z",
+        "registration": "2025-04-03T00:00:00.000Z",
+        "presentation": "2025-04-03T00:00:00.000Z",
+        "communication": "2025-04-03T00:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -64,7 +64,7 @@
         "registration": null,
         "presentation": null,
         "communication": null,
-        "responseDue": "2025-09-03T21:00:00.000Z"
+        "responseDue": "2025-09-04T00:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i541A.pdf",
@@ -74,7 +74,7 @@
       "answers": [
         {
           "registrationId": "875",
-          "date": "2025-03-03T22:00:00.000Z",
+          "date": "2025-03-04T00:00:00.000Z",
           "responseType": "în scris",
           "author": "Departamentul pentru Românii de Pretutindeni",
           "textUrl": "https://www.cdep.ro/interpel/2025/r541A.pdf"
@@ -119,10 +119,10 @@
       },
       "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndoamnei\nSimona Bucura-Oprescu\n- Ministru",
       "dates": {
-        "registration": "2025-08-03T21:00:00.000Z",
-        "presentation": "2025-08-03T21:00:00.000Z",
-        "communication": "2025-08-03T21:00:00.000Z",
-        "responseDue": "2025-02-04T22:00:00.000Z"
+        "registration": "2025-08-04T00:00:00.000Z",
+        "presentation": "2025-08-04T00:00:00.000Z",
+        "communication": "2025-08-04T00:00:00.000Z",
+        "responseDue": "2025-02-05T00:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i227B.pdf",
@@ -148,10 +148,10 @@
       },
       "recipient": "Ministerul Culturii\nîn atenţia:\ndoamnei\nNatalia-Elena Intotero\n- Ministru",
       "dates": {
-        "registration": "2025-08-03T21:00:00.000Z",
-        "presentation": "2025-08-03T21:00:00.000Z",
-        "communication": "2025-08-03T21:00:00.000Z",
-        "responseDue": "2025-02-04T22:00:00.000Z"
+        "registration": "2025-08-04T00:00:00.000Z",
+        "presentation": "2025-08-04T00:00:00.000Z",
+        "communication": "2025-08-04T00:00:00.000Z",
+        "responseDue": "2025-02-05T00:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i228B.pdf",
@@ -177,9 +177,9 @@
       },
       "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
       "dates": {
-        "registration": "2025-03-05T22:00:00.000Z",
-        "presentation": "2025-03-05T22:00:00.000Z",
-        "communication": "2025-04-05T21:00:00.000Z",
+        "registration": "2025-03-06T00:00:00.000Z",
+        "presentation": "2025-03-06T00:00:00.000Z",
+        "communication": "2025-04-06T00:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -206,9 +206,9 @@
       },
       "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
       "dates": {
-        "registration": "2025-03-05T22:00:00.000Z",
-        "presentation": "2025-03-05T22:00:00.000Z",
-        "communication": "2025-03-05T22:00:00.000Z",
+        "registration": "2025-03-06T00:00:00.000Z",
+        "presentation": "2025-03-06T00:00:00.000Z",
+        "communication": "2025-03-06T00:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -227,9 +227,9 @@
       },
       "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
       "dates": {
-        "registration": "2025-03-05T22:00:00.000Z",
-        "presentation": "2025-03-05T22:00:00.000Z",
-        "communication": "2025-03-05T22:00:00.000Z",
+        "registration": "2025-03-06T00:00:00.000Z",
+        "presentation": "2025-03-06T00:00:00.000Z",
+        "communication": "2025-03-06T00:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",

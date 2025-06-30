@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-28T18:35:05.542Z",
+  "lastUpdated": "2025-06-30T14:32:04.923Z",
   "data": [
     {
       "idi": "78397",
@@ -11,9 +11,9 @@
       },
       "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIon-Marcel Ciolacu\n- Prim-Ministru al României",
       "dates": {
-        "registration": "2025-02-03T22:00:00.000Z",
-        "presentation": "2025-02-03T22:00:00.000Z",
-        "communication": "2025-02-03T22:00:00.000Z",
+        "registration": "2025-02-04T00:00:00.000Z",
+        "presentation": "2025-02-04T00:00:00.000Z",
+        "communication": "2025-02-04T00:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -24,7 +24,7 @@
       "answers": [
         {
           "registrationId": "3109",
-          "date": "2025-07-04T21:00:00.000Z",
+          "date": "2025-07-05T00:00:00.000Z",
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r726A.pdf"

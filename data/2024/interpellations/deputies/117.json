@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-28T18:29:36.020Z",
+  "lastUpdated": "2025-06-30T14:26:33.760Z",
   "data": [
     {
       "idi": "77737",
@@ -14,7 +14,7 @@
         "registration": null,
         "presentation": null,
         "communication": null,
-        "responseDue": "2025-12-02T22:00:00.000Z"
+        "responseDue": "2025-12-03T00:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i221A.pdf",
@@ -24,7 +24,7 @@
       "answers": [
         {
           "registrationId": "953",
-          "date": "2025-10-02T21:00:00.000Z",
+          "date": "2025-10-03T00:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Muncii şi Solidarităţii Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r221A.pdf"
@@ -47,9 +47,9 @@
       },
       "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndomnului\nMircea Fechet\n- Ministru",
       "dates": {
-        "registration": "2025-04-02T21:00:00.000Z",
-        "presentation": "2025-04-02T21:00:00.000Z",
-        "communication": "2025-04-02T21:00:00.000Z",
+        "registration": "2025-04-03T00:00:00.000Z",
+        "presentation": "2025-04-03T00:00:00.000Z",
+        "communication": "2025-04-03T00:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -76,9 +76,9 @@
       },
       "recipient": "",
       "dates": {
-        "registration": "2025-04-02T21:00:00.000Z",
-        "presentation": "2025-04-02T21:00:00.000Z",
-        "communication": "2025-04-02T21:00:00.000Z",
+        "registration": "2025-04-03T00:00:00.000Z",
+        "presentation": "2025-04-03T00:00:00.000Z",
+        "communication": "2025-04-03T00:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -112,10 +112,10 @@
       },
       "recipient": "",
       "dates": {
-        "registration": "2025-08-03T21:00:00.000Z",
-        "presentation": "2025-08-03T21:00:00.000Z",
-        "communication": "2025-09-03T21:00:00.000Z",
-        "responseDue": "2025-05-04T21:00:00.000Z"
+        "registration": "2025-08-04T00:00:00.000Z",
+        "presentation": "2025-08-04T00:00:00.000Z",
+        "communication": "2025-09-04T00:00:00.000Z",
+        "responseDue": "2025-05-05T00:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i792A.pdf",
@@ -125,7 +125,7 @@
       "answers": [
         {
           "registrationId": "918",
-          "date": "2025-09-04T21:00:00.000Z",
+          "date": "2025-09-05T00:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nAngel Tîlvăr\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r792A.pdf"
@@ -161,7 +161,7 @@
       "answers": [
         {
           "registrationId": "18581",
-          "date": "2025-06-05T21:00:00.000Z",
+          "date": "2025-06-06T00:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nIoan Taban\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r307B.pdf"
@@ -197,7 +197,7 @@
         },
         {
           "registrationId": "18581",
-          "date": "2025-06-05T21:00:00.000Z",
+          "date": "2025-06-06T00:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nMircea Fechet\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/2r308B.pdf"
@@ -226,7 +226,7 @@
       "answers": [
         {
           "registrationId": "18581",
-          "date": "2025-06-05T21:00:00.000Z",
+          "date": "2025-06-06T00:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nMircea Fechet\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r309B.pdf"
@@ -242,9 +242,9 @@
       },
       "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndomnului\nMircea Fechet\n- Ministru",
       "dates": {
-        "registration": "2025-04-05T21:00:00.000Z",
-        "presentation": "2025-04-05T21:00:00.000Z",
-        "communication": "2025-04-05T21:00:00.000Z",
+        "registration": "2025-04-06T00:00:00.000Z",
+        "presentation": "2025-04-06T00:00:00.000Z",
+        "communication": "2025-04-06T00:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -263,9 +263,9 @@
       },
       "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndomnului\nMircea Fechet\n- Ministru",
       "dates": {
-        "registration": "2025-04-05T21:00:00.000Z",
-        "presentation": "2025-04-05T21:00:00.000Z",
-        "communication": "2025-04-05T21:00:00.000Z",
+        "registration": "2025-04-06T00:00:00.000Z",
+        "presentation": "2025-04-06T00:00:00.000Z",
+        "communication": "2025-04-06T00:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
