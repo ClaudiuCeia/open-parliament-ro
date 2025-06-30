@@ -8,6 +8,7 @@ export const $fetch = async (
   url: string,
   retries = 3,
   delay = 50,
+  timeout = 30000, // 30 second timeout
 ): Promise<{ html: string; $: cheerio.CheerioAPI }> => {
   const log = logger.child({ module: "$fetch" });
 
@@ -21,7 +22,19 @@ export const $fetch = async (
   for (let i = 0; i <= retries; i++) {
     try {
       log.debug(`GET ${url}`);
-      const res = await fetch(url);
+      
+      // Create timeout controller
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), timeout);
+      
+      const res = await fetch(url, { 
+        signal: controller.signal,
+        headers: {
+          'User-Agent': 'Open Parliament Romania Bot (github.com/ClaudiuCeia/open-parliament-ro)'
+        }
+      });
+      
+      clearTimeout(timeoutId);
 
       if (!res.ok) {
         throw new Error(`HTTP ${res.status} ${res.statusText}`);
@@ -37,10 +50,15 @@ export const $fetch = async (
     } catch (err) {
       const jitter = Math.random() * 500;
       const wait = delay * 2 ** i + jitter;
-      log.debug(`[retry:${i}] ${err}. Waiting ${wait.toFixed(0)}ms…`);
+      
+      if (err instanceof Error && err.name === 'AbortError') {
+        log.warn(`[retry:${i}] Timeout after ${timeout}ms for ${url}. Waiting ${wait.toFixed(0)}ms…`);
+      } else {
+        log.debug(`[retry:${i}] ${err}. Waiting ${wait.toFixed(0)}ms…`);
+      }
 
       if (i === retries) {
-        throw new Error(`Failed after ${retries} retries: ${url}`);
+        throw new Error(`Failed after ${retries} retries: ${url} (last error: ${err})`);
       }
 
       await new Promise((r) => setTimeout(r, wait));
