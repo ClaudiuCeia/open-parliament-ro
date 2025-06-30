@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:17:42.431Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:27:32.382Z",
   "data": [
     {
       "idp": "22262",
-      "title": "Propunere legislativă pentru modificarea şi completarea legii 198/2023 privind învăţământul preuniversitar, cu modificările şi completările ulterioareDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea legii 198/2023 privind învăţământul preuniversitar, cu modificările şi completările ulterioare",
       "registrationNumber": {
         "bpi": "62/18-03-2025",
         "deputyChamber": "77/19.03.2025",
@@ -96,7 +96,7 @@
     },
     {
       "idp": "22264",
-      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"",
       "registrationNumber": {
         "bpi": "64/18-03-2025",
         "deputyChamber": "81/19.03.2025",
@@ -255,7 +255,7 @@
     },
     {
       "idp": "22324",
-      "title": "Propunere legislativă pentru modificarea Legii nr.47/1992 privind organizarea şi funcţionarea Curţii ConstituţionaleDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea Legii nr.47/1992 privind organizarea şi funcţionarea Curţii Constituţionale",
       "registrationNumber": {
         "bpi": "124/25-04-2025",
         "deputyChamber": "121/06.05.2025"
@@ -306,7 +306,6 @@
         "211",
         "212",
         "215",
-        "221",
         "224",
         "228",
         "235",
@@ -323,7 +322,8 @@
         "301",
         "315",
         "321",
-        "325"
+        "325",
+        "221"
       ],
       "publicConsultation": {
         "dueDate": "2025-06-02T00:00:00.000Z",
@@ -343,7 +343,7 @@
     },
     {
       "idp": "22430",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "247/18-06-2025",
         "deputyChamber": "209/23.06.2025"
@@ -390,7 +390,6 @@
         "210",
         "211",
         "215",
-        "221",
         "224",
         "227",
         "228",
@@ -407,7 +406,8 @@
         "298",
         "315",
         "321",
-        "325"
+        "325",
+        "221"
       ],
       "publicConsultation": {
         "dueDate": "2025-07-28T00:00:00.000Z",
@@ -427,10 +427,10 @@
     },
     {
       "idp": "22450",
-      "title": "Propunere legislativă pentru modificarea şi completarea legii 198/2023 privind învăţământul preuniversitar, cu modificările şi completările ulterioareDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea legii 198/2023 privind învăţământul preuniversitar, cu modificările şi completările ulterioare",
       "registrationNumber": {
         "bpi": "268/25-06-2025",
-        "deputyChamber": "BP268/25.06.2025",
+        "deputyChamber": "220/30.06.2025",
         "senateChamber": "L157/2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
@@ -438,8 +438,8 @@
       "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
       "emergencyProcedure": false,
       "status": {
-        "short": "respinsade senat",
-        "long": "respinsa de catre Senat"
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
       "initiators": [
         "5",
@@ -504,27 +504,19 @@
       "publicConsultation": "",
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/as268.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/in268.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/em268.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/0/em268.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/pl268.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/0/pl268.pdf",
           "title": "Forma iniţiatorului"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/ces268.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/0/ces268.pdf",
           "title": "Avizul Consiliului Economic şi Social"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/cl268.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/0/cl268.pdf",
           "title": "Avizul Consiliului Legislativ"
         }
       ],
@@ -532,7 +524,7 @@
     },
     {
       "idp": "22278",
-      "title": "Proiect de Hotărâre privind modificarea Regulamentului Camerei DeputaţilorDerularea procedurii legislative",
+      "title": "Proiect de Hotărâre privind modificarea Regulamentului Camerei Deputaţilor",
       "registrationNumber": {
         "bpi": "77/26-03-2025",
         "deputyChamber": "BP77/26.03.2025"
@@ -582,7 +574,6 @@
         "210",
         "211",
         "215",
-        "221",
         "224",
         "228",
         "230",
@@ -601,7 +592,8 @@
         "301",
         "315",
         "321",
-        "325"
+        "325",
+        "221"
       ],
       "publicConsultation": "",
       "documents": [

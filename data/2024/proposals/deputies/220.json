@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:17:36.083Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:27:28.456Z",
   "data": [
     {
       "idp": "22208",
-      "title": "Proiect de Lege pentru modificarea art.7 şi art.28 din Legea nr.227/2015 privind Codul Fiscal şi art.3 din Legea nr.15/1994 privind amortizarea capitalului imobilizat în active corporale şi necorporaleDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea art.7 şi art.28 din Legea nr.227/2015 privind Codul Fiscal şi art.3 din Legea nr.15/1994 privind amortizarea capitalului imobilizat în active corporale şi necorporale",
       "registrationNumber": {
         "bpi": "9/11-02-2025157/14-05-2025",
         "deputyChamber": "152/20.05.2025",
@@ -18,7 +18,11 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["213", "220", "313"],
+      "initiators": [
+        "213",
+        "220",
+        "313"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -42,7 +46,7 @@
     },
     {
       "idp": "22387",
-      "title": "Propunere legislativă pentru eliminarea impozitului pe bacşiş prin modificarea Ordonanţei de urgenţă 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscaleDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru eliminarea impozitului pe bacşiş prin modificarea Ordonanţei de urgenţă 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale",
       "registrationNumber": {
         "bpi": "194/28-05-2025",
         "deputyChamber": "177/02.06.2025",
@@ -113,7 +117,7 @@
     },
     {
       "idp": "22405",
-      "title": "Propunere legislativă pentru deconspirarea rudelor lucrătorilor Securităţii care ocupă demnităţi sau funcţii publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru deconspirarea rudelor lucrătorilor Securităţii care ocupă demnităţi sau funcţii publice",
       "registrationNumber": {
         "bpi": "214/11-06-2025",
         "deputyChamber": "186/16.06.2025",

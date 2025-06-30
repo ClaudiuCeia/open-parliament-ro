@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:12:40.936Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:33:57.325Z",
   "data": [
     {
       "idp": "22329",
-      "title": "Proiect de Lege pentru instituirea zilei de 15 august ca „Ziua Maramureşului”Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea zilei de 15 august ca „Ziua Maramureşului”",
       "registrationNumber": {
         "bpi": "129/29-04-2025",
         "deputyChamber": "128/06.05.2025",
@@ -18,7 +18,9 @@
         "short": "la promulgare",
         "long": "lege trimisa la promulgare"
       },
-      "initiators": ["31"],
+      "initiators": [
+        "31"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -38,7 +40,7 @@
     },
     {
       "idp": "22345",
-      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţiiDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii",
       "registrationNumber": {
         "bpi": "145/08-05-2025",
         "deputyChamber": "140/12.05.2025",
@@ -50,7 +52,7 @@
       "emergencyProcedure": false,
       "status": {
         "short": "lege 100/2025",
-        "long": "Lege 100/2025LEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
+        "long": "Lege 100/2025\nLEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
       },
       "initiators": [
         "34",
@@ -138,7 +140,7 @@
     },
     {
       "idp": "22343",
-      "title": "Proiect de Lege pentru completarea articolului 363 din Ordonanţa de urgenţă a Guvernului nr.57/2019 privind Codul administrativ, precum şi pentru modificarea Legii serviciului de salubrizare a localităţilor nr.101/2006Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru completarea articolului 363 din Ordonanţa de urgenţă a Guvernului nr.57/2019 privind Codul administrativ, precum şi pentru modificarea Legii serviciului de salubrizare a localităţilor nr.101/2006",
       "registrationNumber": {
         "bpi": "143/08-05-2025",
         "deputyChamber": "142/12.05.2025",
@@ -195,7 +197,7 @@
     },
     {
       "idp": "22383",
-      "title": "Propunere legislativă privind organizarea, funcţionarea şi administrarea Catalogului Naţional al Serviciilor PubliceDerularea procedurii legislative",
+      "title": "Propunere legislativă privind organizarea, funcţionarea şi administrarea Catalogului Naţional al Serviciilor Publice",
       "registrationNumber": {
         "bpi": "189/28-05-2025",
         "deputyChamber": "172/02.06.2025"
@@ -205,8 +207,8 @@
       "type": "Propunere legislativa",
       "emergencyProcedure": false,
       "status": {
-        "short": "aviz/punct de vederesolicitat",
-        "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+        "short": "procedura legislativa încetata",
+        "long": "procedura legislativa încetata"
       },
       "initiators": [
         "306",
@@ -266,7 +268,7 @@
     },
     {
       "idp": "22244",
-      "title": "Propunere legislativă pentru completarea art.28 Ordonanţa de urgenţă nr.109/2011 privind guvernanţa corporativă a întreprinderilor publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.28 Ordonanţa de urgenţă nr.109/2011 privind guvernanţa corporativă a întreprinderilor publice",
       "registrationNumber": {
         "bpi": "45/05-03-2025203/03-06-2025",
         "deputyChamber": "182/04.06.2025",
@@ -280,7 +282,17 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["31", "57", "81", "84", "182", "232", "278", "283", "311"],
+      "initiators": [
+        "31",
+        "57",
+        "81",
+        "84",
+        "182",
+        "232",
+        "278",
+        "283",
+        "311"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -307,8 +319,175 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22244"
     },
     {
+      "idp": "22455",
+      "title": "Proiect de Lege pentru modificarea art.18 alin.(1) lit.b) din Ordonanţa de urgenţă a Guvernului nr.140/2021 privind anumite aspecte referitoare la contractele de vânzare de bunuri",
+      "registrationNumber": {
+        "bpi": "273/25-06-2025",
+        "deputyChamber": "222/30.06.2025",
+        "senateChamber": "L154/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n140/2021",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "7",
+        "14",
+        "31",
+        "46",
+        "49",
+        "56",
+        "79",
+        "88",
+        "110",
+        "118",
+        "153",
+        "205",
+        "208",
+        "214",
+        "332",
+        "232",
+        "234",
+        "244",
+        "273",
+        "276",
+        "295",
+        "311"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/2/em273.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/2/ces273.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/2/cl273.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/2/cc273.pdf",
+          "title": "Avizul Consiliului Concurenței"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22455"
+    },
+    {
+      "idp": "22456",
+      "title": "Proiect de Lege pentru modificarea art.6 alin.(1) lit.h) din Ordonanţa Guvernului nr.39/2015 privind cazierul fiscal",
+      "registrationNumber": {
+        "bpi": "274/25-06-2025",
+        "deputyChamber": "223/30.06.2025",
+        "senateChamber": "L166/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nO.G. nr.\n39/2015",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "7",
+        "30",
+        "31",
+        "56",
+        "66",
+        "79",
+        "81",
+        "110",
+        "143",
+        "153",
+        "182",
+        "214",
+        "234",
+        "311",
+        "320"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/3/em274.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/3/ces274.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/3/cl274.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22456"
+    },
+    {
+      "idp": "22297",
+      "title": "Propunere legislativă pentru modificarea art.18 alin.(1) lit.b) din Ordonanţa de urgenţă nr.140/2021 privind anumite aspecte referitoare la contractele de vânzare de bunuri",
+      "registrationNumber": {
+        "bpi": "98/02-04-2025",
+        "deputyChamber": "BP98/02.04.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n140/2021",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "7",
+        "14",
+        "31",
+        "46",
+        "49",
+        "56",
+        "79",
+        "88",
+        "110",
+        "118",
+        "153",
+        "205",
+        "208",
+        "214",
+        "332",
+        "232",
+        "234",
+        "244",
+        "273",
+        "276",
+        "295",
+        "311"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/8/in98.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/8/em98.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/8/pl98.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22297"
+    },
+    {
       "idp": "22300",
-      "title": "Propunere legislativă pentru modificarea articolului 6 din Ordonanţa Guvernului nr.39/2015 privind cazierul fiscalDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea articolului 6 din Ordonanţa Guvernului nr.39/2015 privind cazierul fiscal",
       "registrationNumber": {
         "bpi": "100/08-04-2025",
         "deputyChamber": "BP100/08.04.2025"
@@ -357,7 +536,7 @@
     },
     {
       "idp": "22392",
-      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.53/3003 - Codul muncii şi a art.6 din Legea nr.108/1999 pentru înfiinţarea şi organizarea Inspecţiei MunciiDerularea procedurii legislative",
+      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.53/3003 - Codul muncii şi a art.6 din Legea nr.108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii",
       "registrationNumber": {
         "bpi": "199/02-06-2025",
         "deputyChamber": "BP199/02.06.2025"
@@ -414,7 +593,7 @@
     },
     {
       "idp": "22428",
-      "title": "Propunere legislativă privind completarea Legii 504/2002 publicată în Monitorul Oficial al României, partea I, nr.534 din 22 iulie 2002Derularea procedurii legislative",
+      "title": "Propunere legislativă privind completarea Legii 504/2002 publicată în Monitorul Oficial al României, partea I, nr.534 din 22 iulie 2002",
       "registrationNumber": {
         "bpi": "245/18-06-2025",
         "deputyChamber": "BP245/18.06.2025"
@@ -427,7 +606,15 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": ["32", "31", "159", "329", "122", "241", "282"],
+      "initiators": [
+        "32",
+        "31",
+        "159",
+        "329",
+        "122",
+        "241",
+        "282"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -440,181 +627,6 @@
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22428"
-    },
-    {
-      "idp": "22297",
-      "title": "Propunere legislativă pentru modificarea art.18 alin.(1) lit.b) din Ordonanţa de urgenţă nr.140/2021 privind anumite aspecte referitoare la contractele de vânzare de bunuriDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "98/02-04-2025",
-        "deputyChamber": "BP98/02.04.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n140/2021",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "7",
-        "14",
-        "31",
-        "46",
-        "49",
-        "56",
-        "79",
-        "88",
-        "110",
-        "118",
-        "153",
-        "205",
-        "208",
-        "214",
-        "332",
-        "232",
-        "234",
-        "244",
-        "273",
-        "276",
-        "295",
-        "311"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/8/in98.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/8/em98.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/8/pl98.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22297"
-    },
-    {
-      "idp": "22455",
-      "title": "Proiect de Lege pentru modificarea art.18 alin.(1) lit.b) din Ordonanţa de urgenţă a Guvernului nr.140/2021 privind anumite aspecte referitoare la contractele de vânzare de bunuriDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "273/25-06-2025",
-        "deputyChamber": "BP273/25.06.2025",
-        "senateChamber": "L154/2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n140/2021",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "adoptatde senat",
-        "long": "adoptat de catre Senat"
-      },
-      "initiators": [
-        "7",
-        "14",
-        "31",
-        "46",
-        "49",
-        "56",
-        "79",
-        "88",
-        "110",
-        "118",
-        "153",
-        "205",
-        "208",
-        "214",
-        "332",
-        "232",
-        "234",
-        "244",
-        "273",
-        "276",
-        "295",
-        "311"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/3/as273.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/3/em273.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/3/ces273.pdf",
-          "title": "Avizul Consiliului Economic şi Social"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/3/cl273.pdf",
-          "title": "Avizul Consiliului Legislativ"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/3/cc273.pdf",
-          "title": "Avizul Consiliului Concurenței"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22455"
-    },
-    {
-      "idp": "22456",
-      "title": "Proiect de Lege pentru modificarea art.6 alin.(1) lit.h) din Ordonanţa Guvernului nr.39/2015 privind cazierul fiscalDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "274/25-06-2025",
-        "deputyChamber": "BP274/25.06.2025",
-        "senateChamber": "L166/2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Proiect de Lege\npentru\nmodificarea\nO.G. nr.\n39/2015",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "adoptatde senat",
-        "long": "adoptat de catre Senat"
-      },
-      "initiators": [
-        "7",
-        "30",
-        "31",
-        "56",
-        "66",
-        "79",
-        "81",
-        "110",
-        "143",
-        "153",
-        "182",
-        "214",
-        "234",
-        "311",
-        "320"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/4/as274.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/4/em274.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/4/ces274.pdf",
-          "title": "Avizul Consiliului Economic şi Social"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/4/cl274.pdf",
-          "title": "Avizul Consiliului Legislativ"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22456"
     }
   ]
 }

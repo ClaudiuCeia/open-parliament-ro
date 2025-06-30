@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:13:34.818Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:25:18.212Z",
   "data": [
     {
       "idp": "22363",
-      "title": "Propunere legislativă pentru modificarea art.142 alin.(1) din Legea nr.303/2022 privind statutul judecătorilor şi procurorilorDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.142 alin.(1) din Legea nr.303/2022 privind statutul judecătorilor şi procurorilor",
       "registrationNumber": {
         "bpi": "165/21-05-2025",
         "deputyChamber": "157/26.05.2025"
@@ -60,7 +60,7 @@
     },
     {
       "idp": "22386",
-      "title": "Propunere legislativă pentru stimularea investiţiilor în stocarea energiei electrice şi modificarea art.291 alin.(2) din Legea 227/2015 Codul FiscalDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru stimularea investiţiilor în stocarea energiei electrice şi modificarea art.291 alin.(2) din Legea 227/2015 Codul Fiscal",
       "registrationNumber": {
         "bpi": "193/28-05-2025",
         "deputyChamber": "174/02.06.2025",
@@ -120,7 +120,7 @@
     },
     {
       "idp": "22407",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.77/2009 privind organizarea şi exploatarea jocurilor de norocDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.77/2009 privind organizarea şi exploatarea jocurilor de noroc",
       "registrationNumber": {
         "bpi": "217/11-06-2025",
         "deputyChamber": "188/16.06.2025",
@@ -183,7 +183,7 @@
     },
     {
       "idp": "22412",
-      "title": "Propunere legislativă privind limitarea plăţilor către operatorii de jocuri de norocDerularea procedurii legislative",
+      "title": "Propunere legislativă privind limitarea plăţilor către operatorii de jocuri de noroc",
       "registrationNumber": {
         "bpi": "225/11-06-2025",
         "deputyChamber": "191/16.06.2025",
@@ -252,7 +252,7 @@
     },
     {
       "idp": "22413",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale PermanenteDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente",
       "registrationNumber": {
         "bpi": "226/11-06-2025",
         "deputyChamber": "197/16.06.2025",
@@ -301,71 +301,11 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22413"
     },
     {
-      "idp": "22448",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electoraleDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "266/25-06-2025",
-        "deputyChamber": "BP266/25.06.2025",
-        "senateChamber": "L147/2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n334/2006",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "respinsade senat",
-        "long": "respinsa de catre Senat"
-      },
-      "initiators": [
-        "4",
-        "12",
-        "48",
-        "82",
-        "90",
-        "121",
-        "125",
-        "126",
-        "140",
-        "236",
-        "285",
-        "299",
-        "314"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/as266.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/in266.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/em266.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/pl266.pdf",
-          "title": "Forma iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/ces266.pdf",
-          "title": "Avizul Consiliului Economic şi Social"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/cl266.pdf",
-          "title": "Avizul Consiliului Legislativ"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22448"
-    },
-    {
       "idp": "22458",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publiceDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",
       "registrationNumber": {
         "bpi": "276/25-06-2025",
-        "deputyChamber": "BP276/25.06.2025",
+        "deputyChamber": "221/30.06.2025",
         "senateChamber": "L133/2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
@@ -373,8 +313,8 @@
       "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n195/2002",
       "emergencyProcedure": false,
       "status": {
-        "short": "adoptatde senat",
-        "long": "adoptat de catre Senat"
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
       "initiators": [
         "332",
@@ -410,23 +350,71 @@
       "publicConsultation": "",
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/6/as276.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/6/em276.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/1/em276.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/6/ces276.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/1/ces276.pdf",
           "title": "Avizul Consiliului Economic şi Social"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/6/cl276.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/1/cl276.pdf",
           "title": "Avizul Consiliului Legislativ"
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22458"
+    },
+    {
+      "idp": "22448",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+      "registrationNumber": {
+        "bpi": "266/25-06-2025",
+        "deputyChamber": "225/30.06.2025",
+        "senateChamber": "L147/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n334/2006",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "4",
+        "12",
+        "48",
+        "82",
+        "90",
+        "121",
+        "125",
+        "126",
+        "140",
+        "236",
+        "285",
+        "299",
+        "314"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/5/em266.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/5/pl266.pdf",
+          "title": "Forma iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/5/ces266.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/5/cl266.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22448"
     }
   ]
 }

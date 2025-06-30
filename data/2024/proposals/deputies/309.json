@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:23:03.247Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:29:50.457Z",
   "data": [
     {
       "idp": "22316",
-      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.286/2009 privind Codul penalDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.286/2009 privind Codul penal",
       "registrationNumber": {
         "bpi": "115/15-04-2025",
         "deputyChamber": "115/22.04.2025",
@@ -18,7 +18,15 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["63", "131", "309", "9", "129", "208", "308"],
+      "initiators": [
+        "63",
+        "131",
+        "309",
+        "9",
+        "129",
+        "208",
+        "308"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -46,7 +54,7 @@
     },
     {
       "idp": "22403",
-      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parteDerularea procedurii legislative",
+      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parte",
       "registrationNumber": {
         "bpi": "212/11-06-2025",
         "deputyChamber": "BP212/11.06.2025"

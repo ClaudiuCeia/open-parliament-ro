@@ -1,4 +1,4 @@
-name: Automated Data Scraping
+name: Automated data scraping
 
 on:
   # Run every 3 hours for redundancy

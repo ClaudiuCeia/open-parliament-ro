@@ -1,21 +1,21 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:12:09.119Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:33:19.790Z",
   "data": [
     {
       "idp": "22459",
-      "title": "Propunere legislativă pentru completarea Legii nr.50/1991 privind autorizarea executării lucrărilor de construcţii, republicată în Monitorul Oficial al României, Partea I, nr.933 din 13 octombrie 2004, cu modificările şi completările ulterioareDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Legii nr.50/1991 privind autorizarea executării lucrărilor de construcţii, republicată în Monitorul Oficial al României, Partea I, nr.933 din 13 octombrie 2004, cu modificările şi completările ulterioare",
       "registrationNumber": {
         "bpi": "277/25-06-2025",
-        "deputyChamber": "BP277/25.06.2025"
+        "deputyChamber": "217/30.06.2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
+      "decidingChamber": "Senatul",
       "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n50/1991",
       "emergencyProcedure": false,
       "status": {
-        "short": "",
-        "long": ""
+        "short": "aviz/punct de vederesolicitat",
+        "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
       },
       "initiators": [
         "3",
@@ -45,18 +45,17 @@
         "250",
         "257"
       ],
-      "publicConsultation": "",
+      "publicConsultation": {
+        "dueDate": "2025-08-04T00:00:00.000Z",
+        "count": 0
+      },
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/7/in277.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/7/em277.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/7/em277.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/7/pl277.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/7/pl277.pdf",
           "title": "Forma iniţiatorului"
         }
       ],
@@ -64,7 +63,7 @@
     },
     {
       "idp": "22389",
-      "title": "Propunere legislativă pentru modificarea Legii nr.143/2000, republicată, privind combaterea traficului şi consumului ilicit de droguriDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea Legii nr.143/2000, republicată, privind combaterea traficului şi consumului ilicit de droguri",
       "registrationNumber": {
         "bpi": "196/28-05-2025",
         "deputyChamber": "BP196/28.05.2025"
@@ -137,7 +136,7 @@
     },
     {
       "idp": "22390",
-      "title": "Propunere legislativă pentru modificarea Legii nr.135/2010, republicat, privind Codul de procedură penalăDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea Legii nr.135/2010, republicat, privind Codul de procedură penală",
       "registrationNumber": {
         "bpi": "197/28-05-2025",
         "deputyChamber": "BP197/28.05.2025"

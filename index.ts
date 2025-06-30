@@ -3,15 +3,38 @@ import { runScraper } from "./src/lib/runScraper";
 
 const args = process.argv.slice(2);
 
-const verboseFlags = ["--verbose", "-v"];
-const isVerbose = args.some((arg) => verboseFlags.includes(arg));
+// Expand combined short flags like -vf to -v -f
+const expandedArgs: string[] = [];
+for (const arg of args) {
+  if (arg.startsWith('-') && !arg.startsWith('--') && arg.length > 2) {
+    // Split combined short flags like -vf into -v -f
+    for (let i = 1; i < arg.length; i++) {
+      expandedArgs.push(`-${arg[i]}`);
+    }
+  } else {
+    expandedArgs.push(arg);
+  }
+}
 
-const cleanArgs = args.filter((arg) => !verboseFlags.includes(arg));
+const verboseFlags = ["--verbose", "-v"];
+const isVerbose = expandedArgs.some((arg) => verboseFlags.includes(arg));
+
+const forceFlags = ["--force", "-f"];
+const isForce = expandedArgs.some((arg) => forceFlags.includes(arg));
+
+const cleanArgs = expandedArgs.filter((arg) => !verboseFlags.includes(arg) && !forceFlags.includes(arg));
 
 if (isVerbose) {
   logger.level = "debug";
 } else {
   logger.level = "info";
+}
+
+if (isVerbose) {
+  console.log("[debug] Verbose mode enabled");
+}
+if (isForce) {
+  console.log("[debug] Force mode enabled");
 }
 
 const jobDir = `${import.meta.dir}/src/jobs`;
@@ -46,11 +69,12 @@ if (requestedJobs.length === 0) {
     console.log(` --${jobName} (${job.name}, version: ${job.version})`);
   }
   console.log(
-    "\nUsage: bun scrape [--verbose|-v] --deputies --deputies_detail ...",
+    "\nUsage: bun scrape [--verbose|-v] [--force|-f] --deputies --deputies_detail ...",
   );
-  console.log("       bun scrape [--verbose|-v] --all");
+  console.log("       bun scrape [--verbose|-v] [--force|-f] --all");
   console.log("\nOptions:");
   console.log("  --verbose, -v    Enable debug logging");
+  console.log("  --force, -f      Force scrape even if cached");
   process.exit(0);
 }
 
@@ -80,5 +104,8 @@ if (runAll) {
 for (const jobName of jobsToRun) {
   const job = availableJobs.get(jobName);
   console.log(`\n[runner] Running: ${job.name} (version: ${job.version})`);
-  await runScraper(job);
+  
+  // If force flag is set, use maxAge of 0 to bypass cache
+  const maxAge = isForce ? 0 : undefined;
+  await runScraper(job, maxAge);
 }

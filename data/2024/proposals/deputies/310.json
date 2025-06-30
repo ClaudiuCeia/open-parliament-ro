@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:23:05.313Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:29:51.419Z",
   "data": [
     {
       "idp": "22264",
-      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"",
       "registrationNumber": {
         "bpi": "64/18-03-2025",
         "deputyChamber": "81/19.03.2025",
@@ -163,7 +163,7 @@
     },
     {
       "idp": "22275",
-      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă 57/2019 privind Codul administrativDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă 57/2019 privind Codul administrativ",
       "registrationNumber": {
         "bpi": "74/25-03-2025",
         "deputyChamber": "86/26.03.2025",
@@ -225,7 +225,7 @@
     },
     {
       "idp": "22298",
-      "title": "Propunere legislativă privind înfiinţarea Institutului de Formare în Sectorul PublicDerularea procedurii legislative",
+      "title": "Propunere legislativă privind înfiinţarea Institutului de Formare în Sectorul Public",
       "registrationNumber": {
         "bpi": "95/02-04-2025",
         "deputyChamber": "102/07.04.2025",
@@ -293,7 +293,7 @@
     },
     {
       "idp": "22406",
-      "title": "Propunere legislativă pentru modificarea alineatului (4) al articolului 139 din Legea învăţământului preuniversitar nr.198/2023 şi pentru modificarea şi completarea Legii învăţământului superior nr.199/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea alineatului (4) al articolului 139 din Legea învăţământului preuniversitar nr.198/2023 şi pentru modificarea şi completarea Legii învăţământului superior nr.199/2023",
       "registrationNumber": {
         "bpi": "215/11-06-2025",
         "deputyChamber": "187/16.06.2025",
@@ -352,7 +352,7 @@
     },
     {
       "idp": "22296",
-      "title": "Propunere legislativă pentru completarea Legii nr.267/2008 privind unele măsuri speciale pentru reglementarea avansului rest de justificat şi pentru efectuarea recepţiei în fază unică a lucrărilor de construcţii şi a instalaţiilor aferente acestora la obiectivul de investiţii Palatul Parlamentului, precum şi pentru reglementarea unor măsuri cu privire la administrarea imobilului „Palatul Parlamentului”Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Legii nr.267/2008 privind unele măsuri speciale pentru reglementarea avansului rest de justificat şi pentru efectuarea recepţiei în fază unică a lucrărilor de construcţii şi a instalaţiilor aferente acestora la obiectivul de investiţii Palatul Parlamentului, precum şi pentru reglementarea unor măsuri cu privire la administrarea imobilului „Palatul Parlamentului”",
       "registrationNumber": {
         "bpi": "97/02-04-2025264/25-06-2025",
         "deputyChamber": "215/25.06.2025",
@@ -363,8 +363,8 @@
       "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n267/2008",
       "emergencyProcedure": false,
       "status": {
-        "short": "raportdepus",
-        "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+        "short": "la secretarulgeneral",
+        "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
       },
       "initiators": [
         "147",
@@ -405,8 +405,77 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22296"
     },
     {
+      "idp": "22457",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.19/2006 privind utilizarea plajei Mării Negre şi controlul activităţilor desfăşurate pe plajă",
+      "registrationNumber": {
+        "bpi": "275/25-06-2025",
+        "deputyChamber": "219/30.06.2025",
+        "senateChamber": "L174/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n19/2006",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "24",
+        "39",
+        "51",
+        "53",
+        "54",
+        "58",
+        "63",
+        "76",
+        "93",
+        "117",
+        "124",
+        "130",
+        "138",
+        "141",
+        "168",
+        "184",
+        "196",
+        "223",
+        "225",
+        "226",
+        "268",
+        "270",
+        "275",
+        "281",
+        "284",
+        "306",
+        "310",
+        "142",
+        "212",
+        "240",
+        "84",
+        "143",
+        "6",
+        "239"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/em275.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/ces275.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/cl275.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22457"
+    },
+    {
       "idp": "22403",
-      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parteDerularea procedurii legislative",
+      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parte",
       "registrationNumber": {
         "bpi": "212/11-06-2025",
         "deputyChamber": "BP212/11.06.2025"
@@ -459,85 +528,8 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22403"
     },
     {
-      "idp": "22457",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.19/2006 privind utilizarea plajei Mării Negre şi controlul activităţilor desfăşurate pe plajăDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "275/25-06-2025",
-        "deputyChamber": "BP275/25.06.2025",
-        "senateChamber": "L174/2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n19/2006",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "adoptatde senat",
-        "long": "adoptat de catre Senat"
-      },
-      "initiators": [
-        "24",
-        "39",
-        "51",
-        "53",
-        "54",
-        "58",
-        "63",
-        "76",
-        "93",
-        "117",
-        "124",
-        "130",
-        "138",
-        "141",
-        "168",
-        "184",
-        "196",
-        "223",
-        "225",
-        "226",
-        "268",
-        "270",
-        "275",
-        "281",
-        "284",
-        "306",
-        "310",
-        "142",
-        "212",
-        "240",
-        "84",
-        "143",
-        "6",
-        "239"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/as275.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/in275.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/em275.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/ces275.pdf",
-          "title": "Avizul Consiliului Economic şi Social"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/cl275.pdf",
-          "title": "Avizul Consiliului Legislativ"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22457"
-    },
-    {
       "idp": "22295",
-      "title": "Proiect de Hotărâre privind completarea Regulamentului Camerei DeputaţilorDerularea procedurii legislative",
+      "title": "Proiect de Hotărâre privind completarea Regulamentului Camerei Deputaţilor",
       "registrationNumber": {
         "bpi": "96/02-04-2025",
         "deputyChamber": "BP96/02.04.2025"

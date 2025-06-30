@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:12:22.361Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:33:32.941Z",
   "data": [
     {
       "idp": "22264",
-      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"",
       "registrationNumber": {
         "bpi": "64/18-03-2025",
         "deputyChamber": "81/19.03.2025",
@@ -163,7 +163,7 @@
     },
     {
       "idp": "22359",
-      "title": "Propunere legislativă pentru completarea Legii energiei electrice şi a gazelor naturale nr.123/2012Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Legii energiei electrice şi a gazelor naturale nr.123/2012",
       "registrationNumber": {
         "bpi": "162/20-05-2025",
         "deputyChamber": "156/21.05.2025"
@@ -219,7 +219,7 @@
     },
     {
       "idp": "22377",
-      "title": "Proiect de Lege pentru modificarea şi completarea anexelor nr.3 şi 4 din Legea nr.43/2014 privind protecţia animalelor utilizate în scopuri ştiinţificeDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea anexelor nr.3 şi 4 din Legea nr.43/2014 privind protecţia animalelor utilizate în scopuri ştiinţifice",
       "registrationNumber": {
         "bpi": "181/27-05-2025",
         "deputyChamber": "167/28.05.2025",
@@ -233,7 +233,9 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["14"],
+      "initiators": [
+        "14"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -253,7 +255,7 @@
     },
     {
       "idp": "22422",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ, pentru completarea Legii minelor nr.85/2003, precum şi pentru completarea art.14 din Legea nr.102/2014 privind cimitirele, crematoriile umane şi serviciile funerareDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ, pentru completarea Legii minelor nr.85/2003, precum şi pentru completarea art.14 din Legea nr.102/2014 privind cimitirele, crematoriile umane şi serviciile funerare",
       "registrationNumber": {
         "bpi": "237/17-06-2025",
         "deputyChamber": "201/18.06.2025",
@@ -313,7 +315,7 @@
     },
     {
       "idp": "22279",
-      "title": "Propunere legislativă pentru modificarea şi completarea art.63, alin.(4) şi a art.65 din Ordonanţa de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea art.63, alin.(4) şi a art.65 din Ordonanţa de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",
       "registrationNumber": {
         "bpi": "78/26-03-2025240/17-06-2025",
         "deputyChamber": "205/18.06.2025",
@@ -370,8 +372,69 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22279"
     },
     {
+      "idp": "22455",
+      "title": "Proiect de Lege pentru modificarea art.18 alin.(1) lit.b) din Ordonanţa de urgenţă a Guvernului nr.140/2021 privind anumite aspecte referitoare la contractele de vânzare de bunuri",
+      "registrationNumber": {
+        "bpi": "273/25-06-2025",
+        "deputyChamber": "222/30.06.2025",
+        "senateChamber": "L154/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n140/2021",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "7",
+        "14",
+        "31",
+        "46",
+        "49",
+        "56",
+        "79",
+        "88",
+        "110",
+        "118",
+        "153",
+        "205",
+        "208",
+        "214",
+        "332",
+        "232",
+        "234",
+        "244",
+        "273",
+        "276",
+        "295",
+        "311"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/2/em273.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/2/ces273.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/2/cl273.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/2/cc273.pdf",
+          "title": "Avizul Consiliului Concurenței"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22455"
+    },
+    {
       "idp": "22297",
-      "title": "Propunere legislativă pentru modificarea art.18 alin.(1) lit.b) din Ordonanţa de urgenţă nr.140/2021 privind anumite aspecte referitoare la contractele de vânzare de bunuriDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.18 alin.(1) lit.b) din Ordonanţa de urgenţă nr.140/2021 privind anumite aspecte referitoare la contractele de vânzare de bunuri",
       "registrationNumber": {
         "bpi": "98/02-04-2025",
         "deputyChamber": "BP98/02.04.2025"
@@ -424,71 +487,6 @@
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22297"
-    },
-    {
-      "idp": "22455",
-      "title": "Proiect de Lege pentru modificarea art.18 alin.(1) lit.b) din Ordonanţa de urgenţă a Guvernului nr.140/2021 privind anumite aspecte referitoare la contractele de vânzare de bunuriDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "273/25-06-2025",
-        "deputyChamber": "BP273/25.06.2025",
-        "senateChamber": "L154/2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n140/2021",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "adoptatde senat",
-        "long": "adoptat de catre Senat"
-      },
-      "initiators": [
-        "7",
-        "14",
-        "31",
-        "46",
-        "49",
-        "56",
-        "79",
-        "88",
-        "110",
-        "118",
-        "153",
-        "205",
-        "208",
-        "214",
-        "332",
-        "232",
-        "234",
-        "244",
-        "273",
-        "276",
-        "295",
-        "311"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/3/as273.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/3/em273.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/3/ces273.pdf",
-          "title": "Avizul Consiliului Economic şi Social"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/3/cl273.pdf",
-          "title": "Avizul Consiliului Legislativ"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/3/cc273.pdf",
-          "title": "Avizul Consiliului Concurenței"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22455"
     }
   ]
 }

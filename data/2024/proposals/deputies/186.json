@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:13:54.529Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:26:33.255Z",
   "data": [
     {
       "idp": "22317",
-      "title": "Proiect de Lege pentru modificarea art.22 din Legea nr.10/1995 privind calitatea în construcţii, precum şi pentru completarea art.26 din Legea cadastrului şi publicităţii imobiliare nr.7/1996Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea art.22 din Legea nr.10/1995 privind calitatea în construcţii, precum şi pentru completarea art.26 din Legea cadastrului şi publicităţii imobiliare nr.7/1996",
       "registrationNumber": {
         "bpi": "116/15-04-2025",
         "deputyChamber": "116/22.04.2025",
@@ -119,7 +119,7 @@
     },
     {
       "idp": "22277",
-      "title": "Proiect de Lege privind instituirea anului 2026 ca Anul Nadia ComăneciDerularea procedurii legislative",
+      "title": "Proiect de Lege privind instituirea anului 2026 ca Anul Nadia Comăneci",
       "registrationNumber": {
         "bpi": "76/25-03-2025159/14-05-2025",
         "deputyChamber": "153/20.05.2025",
@@ -214,7 +214,7 @@
     },
     {
       "idp": "22276",
-      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă nr.195/2002 privind circulaţia pe drumurile publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă nr.195/2002 privind circulaţia pe drumurile publice",
       "registrationNumber": {
         "bpi": "75/25-03-2025239/17-06-2025",
         "deputyChamber": "204/18.06.2025",
@@ -281,7 +281,7 @@
     },
     {
       "idp": "22248",
-      "title": "Proiect de Hotărâre privind modificarea Regulamentului Camerei DeputaţilorDerularea procedurii legislative",
+      "title": "Proiect de Hotărâre privind modificarea Regulamentului Camerei Deputaţilor",
       "registrationNumber": {
         "bpi": "48/06-03-2025",
         "deputyChamber": "BP48/06.03.2025"
@@ -294,7 +294,13 @@
         "short": "raportdepus",
         "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
       },
-      "initiators": ["186", "254", "9", "166", "112"],
+      "initiators": [
+        "186",
+        "254",
+        "9",
+        "166",
+        "112"
+      ],
       "publicConsultation": "",
       "documents": [
         {

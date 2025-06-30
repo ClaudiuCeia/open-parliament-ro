@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:12:59.226Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:23:10.741Z",
   "data": [
     {
       "idp": "22264",
-      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"",
       "registrationNumber": {
         "bpi": "64/18-03-2025",
         "deputyChamber": "81/19.03.2025",
@@ -163,7 +163,7 @@
     },
     {
       "idp": "22275",
-      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă 57/2019 privind Codul administrativDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă 57/2019 privind Codul administrativ",
       "registrationNumber": {
         "bpi": "74/25-03-2025",
         "deputyChamber": "86/26.03.2025",
@@ -225,7 +225,7 @@
     },
     {
       "idp": "22298",
-      "title": "Propunere legislativă privind înfiinţarea Institutului de Formare în Sectorul PublicDerularea procedurii legislative",
+      "title": "Propunere legislativă privind înfiinţarea Institutului de Formare în Sectorul Public",
       "registrationNumber": {
         "bpi": "95/02-04-2025",
         "deputyChamber": "102/07.04.2025",
@@ -293,7 +293,7 @@
     },
     {
       "idp": "22316",
-      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.286/2009 privind Codul penalDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.286/2009 privind Codul penal",
       "registrationNumber": {
         "bpi": "115/15-04-2025",
         "deputyChamber": "115/22.04.2025",
@@ -307,7 +307,15 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["63", "131", "309", "9", "129", "208", "308"],
+      "initiators": [
+        "63",
+        "131",
+        "309",
+        "9",
+        "129",
+        "208",
+        "308"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -335,7 +343,7 @@
     },
     {
       "idp": "22317",
-      "title": "Proiect de Lege pentru modificarea art.22 din Legea nr.10/1995 privind calitatea în construcţii, precum şi pentru completarea art.26 din Legea cadastrului şi publicităţii imobiliare nr.7/1996Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea art.22 din Legea nr.10/1995 privind calitatea în construcţii, precum şi pentru completarea art.26 din Legea cadastrului şi publicităţii imobiliare nr.7/1996",
       "registrationNumber": {
         "bpi": "116/15-04-2025",
         "deputyChamber": "116/22.04.2025",
@@ -450,7 +458,7 @@
     },
     {
       "idp": "22209",
-      "title": "Propunere legislativă pentru completarea art.22 din Legea nr.143/2000 privind combaterea traficului şi consumului ilicit de droguriDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.22 din Legea nr.143/2000 privind combaterea traficului şi consumului ilicit de droguri",
       "registrationNumber": {
         "bpi": "10/19-02-2025161/14-05-2025",
         "deputyChamber": "155/20.05.2025",
@@ -519,7 +527,7 @@
     },
     {
       "idp": "22373",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ",
       "registrationNumber": {
         "bpi": "177/27-05-2025",
         "deputyChamber": "160/28.05.2025",
@@ -607,7 +615,7 @@
     },
     {
       "idp": "22410",
-      "title": "Proiect de Lege pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr.69/2000Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr.69/2000",
       "registrationNumber": {
         "bpi": "220/11-06-2025",
         "deputyChamber": "193/16.06.2025",
@@ -618,8 +626,8 @@
       "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n69/2000",
       "emergencyProcedure": false,
       "status": {
-        "short": "retrimisla comisii",
-        "long": "trimis pentru raport suplimentar la comisiile permanente ale Camerei Deputatilor"
+        "short": "la secretarulgeneral",
+        "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
       },
       "initiators": [
         "18",
@@ -676,7 +684,7 @@
     },
     {
       "idp": "22276",
-      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă nr.195/2002 privind circulaţia pe drumurile publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă nr.195/2002 privind circulaţia pe drumurile publice",
       "registrationNumber": {
         "bpi": "75/25-03-2025239/17-06-2025",
         "deputyChamber": "204/18.06.2025",
@@ -743,10 +751,10 @@
     },
     {
       "idp": "22457",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.19/2006 privind utilizarea plajei Mării Negre şi controlul activităţilor desfăşurate pe plajăDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.19/2006 privind utilizarea plajei Mării Negre şi controlul activităţilor desfăşurate pe plajă",
       "registrationNumber": {
         "bpi": "275/25-06-2025",
-        "deputyChamber": "BP275/25.06.2025",
+        "deputyChamber": "219/30.06.2025",
         "senateChamber": "L174/2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
@@ -754,8 +762,8 @@
       "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n19/2006",
       "emergencyProcedure": false,
       "status": {
-        "short": "adoptatde senat",
-        "long": "adoptat de catre Senat"
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
       "initiators": [
         "24",
@@ -796,23 +804,15 @@
       "publicConsultation": "",
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/as275.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/in275.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/em275.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/em275.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/ces275.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/ces275.pdf",
           "title": "Avizul Consiliului Economic şi Social"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/cl275.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/cl275.pdf",
           "title": "Avizul Consiliului Legislativ"
         }
       ],
@@ -820,7 +820,7 @@
     },
     {
       "idp": "22403",
-      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parteDerularea procedurii legislative",
+      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parte",
       "registrationNumber": {
         "bpi": "212/11-06-2025",
         "deputyChamber": "BP212/11.06.2025"

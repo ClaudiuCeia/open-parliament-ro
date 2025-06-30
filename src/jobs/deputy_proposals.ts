@@ -7,7 +7,7 @@ import {
 } from "../lib/scrapers/proposals";
 
 export const DEPUTIES_PROPOSALS_CACHE_PATH = "./data/2024/proposals/deputies";
-export const DEPUTIES_PROPOSALS_VERSION = "0.0.1";
+export const DEPUTIES_PROPOSALS_VERSION = "0.0.2";
 
 const job: ScraperJob<LegislativeProposal[], string> = {
   isAtomic: false,

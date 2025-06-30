@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:18:15.831Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:28:28.401Z",
   "data": [
     {
       "idp": "22264",
-      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"",
       "registrationNumber": {
         "bpi": "64/18-03-2025",
         "deputyChamber": "81/19.03.2025",
@@ -163,7 +163,7 @@
     },
     {
       "idp": "22380",
-      "title": "Propunere legislativă pentru modificarea şi completare art.7 din Legea nr.41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de TeleviziuneDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completare art.7 din Legea nr.41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune",
       "registrationNumber": {
         "bpi": "186/28-05-2025",
         "deputyChamber": "171/02.06.2025"
@@ -210,7 +210,7 @@
     },
     {
       "idp": "22429",
-      "title": "Propunere legislativă pentru completarea Ordonanţei Guvernului nr.57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologicăDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Ordonanţei Guvernului nr.57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică",
       "registrationNumber": {
         "bpi": "246/18-06-2025",
         "deputyChamber": "208/23.06.2025"
@@ -223,7 +223,14 @@
         "short": "aviz/punct de vederesolicitat",
         "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
       },
-      "initiators": ["24", "71", "263", "259", "218", "87"],
+      "initiators": [
+        "24",
+        "71",
+        "263",
+        "259",
+        "218",
+        "87"
+      ],
       "publicConsultation": {
         "dueDate": "2025-07-28T00:00:00.000Z",
         "count": 0
@@ -242,7 +249,7 @@
     },
     {
       "idp": "22362",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.272/2004 privind protecţia şi promovarea drepturilor copiluluiDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.272/2004 privind protecţia şi promovarea drepturilor copilului",
       "registrationNumber": {
         "bpi": "164/21-05-2025",
         "deputyChamber": "BP164/21.05.2025"

@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:13:39.697Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:25:32.869Z",
   "data": [
     {
       "idp": "22390",
-      "title": "Propunere legislativă pentru modificarea Legii nr.135/2010, republicat, privind Codul de procedură penalăDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea Legii nr.135/2010, republicat, privind Codul de procedură penală",
       "registrationNumber": {
         "bpi": "197/28-05-2025",
         "deputyChamber": "BP197/28.05.2025"
@@ -76,7 +76,7 @@
     },
     {
       "idp": "22440",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.26/2024 privind ordinul de protecţieDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.26/2024 privind ordinul de protecţie",
       "registrationNumber": {
         "bpi": "257/23-06-2025",
         "deputyChamber": "BP257/23.06.2025"
@@ -89,13 +89,12 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": ["150", "151"],
+      "initiators": [
+        "150",
+        "151"
+      ],
       "publicConsultation": "",
       "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/7/in257.pdf",
-          "title": "Adresa iniţiatorului"
-        },
         {
           "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/7/em257.pdf",
           "title": "Expunerea de motive"
@@ -109,7 +108,7 @@
     },
     {
       "idp": "22436",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.134/2010, privind codul de procedură civilă, republicată, cu modificările şi completările ulterioareDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.134/2010, privind codul de procedură civilă, republicată, cu modificările şi completările ulterioare",
       "registrationNumber": {
         "bpi": "253/23-06-2025",
         "deputyChamber": "BP253/23.06.2025"
@@ -122,13 +121,12 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": ["150", "151"],
+      "initiators": [
+        "150",
+        "151"
+      ],
       "publicConsultation": "",
       "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/3/in253.pdf",
-          "title": "Adresa iniţiatorului"
-        },
         {
           "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/3/em253.pdf",
           "title": "Expunerea de motive"
@@ -142,7 +140,7 @@
     },
     {
       "idp": "22439",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.311/2003 a muzeelor şi a colecţiilor publice, republicată în Monitorul Oficial al României, Partea I, nr.463 din 23 mai 2014, cu modificările şi completările ulterioareDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.311/2003 a muzeelor şi a colecţiilor publice, republicată în Monitorul Oficial al României, Partea I, nr.463 din 23 mai 2014, cu modificările şi completările ulterioare",
       "registrationNumber": {
         "bpi": "256/23-06-2025",
         "deputyChamber": "BP256/23.06.2025"
@@ -155,13 +153,12 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": ["150", "151"],
+      "initiators": [
+        "150",
+        "151"
+      ],
       "publicConsultation": "",
       "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/6/in256.pdf",
-          "title": "Adresa iniţiatorului"
-        },
         {
           "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/6/iem256.pdf",
           "title": "Expunerea de motive"
@@ -175,7 +172,7 @@
     },
     {
       "idp": "22437",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.286/2009 privind Codul penal, publicată în Monitorul Oficial al României, Partea I, nr.510 din 24 iulie 2009, cu modificările şi completările ulterioareDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.286/2009 privind Codul penal, publicată în Monitorul Oficial al României, Partea I, nr.510 din 24 iulie 2009, cu modificările şi completările ulterioare",
       "registrationNumber": {
         "bpi": "254/23-06-2025",
         "deputyChamber": "BP254/23.06.2025"
@@ -188,13 +185,12 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": ["150", "151"],
+      "initiators": [
+        "150",
+        "151"
+      ],
       "publicConsultation": "",
       "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/4/in254.pdf",
-          "title": "Adresa iniţiatorului"
-        },
         {
           "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/4/em254.pdf",
           "title": "Expunerea de motive"
@@ -208,7 +204,7 @@
     },
     {
       "idp": "22438",
-      "title": "Propunere legislativă privind declararea Zilei de 5 octombrie ca \"Ziua Artiştilor Români\"Derularea procedurii legislative",
+      "title": "Propunere legislativă privind declararea Zilei de 5 octombrie ca \"Ziua Artiştilor Români\"",
       "registrationNumber": {
         "bpi": "255/23-06-2025",
         "deputyChamber": "BP255/23.06.2025"
@@ -221,13 +217,12 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": ["150", "151"],
+      "initiators": [
+        "150",
+        "151"
+      ],
       "publicConsultation": "",
       "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/5/in255.pdf",
-          "title": "Adresa iniţiatorului"
-        },
         {
           "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/5/em255.pdf",
           "title": "Expunerea de motive"
@@ -241,7 +236,7 @@
     },
     {
       "idp": "22389",
-      "title": "Propunere legislativă pentru modificarea Legii nr.143/2000, republicată, privind combaterea traficului şi consumului ilicit de droguriDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea Legii nr.143/2000, republicată, privind combaterea traficului şi consumului ilicit de droguri",
       "registrationNumber": {
         "bpi": "196/28-05-2025",
         "deputyChamber": "BP196/28.05.2025"

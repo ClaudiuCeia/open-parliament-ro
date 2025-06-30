@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:18:03.847Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:28:01.546Z",
   "data": [
     {
       "idp": "22262",
-      "title": "Propunere legislativă pentru modificarea şi completarea legii 198/2023 privind învăţământul preuniversitar, cu modificările şi completările ulterioareDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea legii 198/2023 privind învăţământul preuniversitar, cu modificările şi completările ulterioare",
       "registrationNumber": {
         "bpi": "62/18-03-2025",
         "deputyChamber": "77/19.03.2025",
@@ -96,7 +96,7 @@
     },
     {
       "idp": "22397",
-      "title": "Propunere legislativă pentru modificarea art.3 din Ordonanţa de Urgenţă a Guvernului nr.46/2022 privind măsurile de punere în aplicare a Regulamentului (UE) 2019/452 al Parlamentului European şi al Consiliului din 19 martie 2019 de stabilire a unui cadru pentru examinarea investiţiilor străine directe în Uniune, precum şi pentru modificarea şi completarea Legii concurenţei nr.21/1996Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.3 din Ordonanţa de Urgenţă a Guvernului nr.46/2022 privind măsurile de punere în aplicare a Regulamentului (UE) 2019/452 al Parlamentului European şi al Consiliului din 19 martie 2019 de stabilire a unui cadru pentru examinarea investiţiilor străine directe în Uniune, precum şi pentru modificarea şi completarea Legii concurenţei nr.21/1996",
       "registrationNumber": {
         "bpi": "206/03-06-2025",
         "deputyChamber": "185/04.06.2025",
@@ -145,7 +145,6 @@
         "210",
         "211",
         "215",
-        "221",
         "228",
         "235",
         "238",
@@ -162,7 +161,8 @@
         "301",
         "315",
         "321",
-        "325"
+        "325",
+        "221"
       ],
       "publicConsultation": "",
       "documents": [
@@ -191,7 +191,7 @@
     },
     {
       "idp": "22430",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "247/18-06-2025",
         "deputyChamber": "209/23.06.2025"
@@ -238,7 +238,6 @@
         "210",
         "211",
         "215",
-        "221",
         "224",
         "227",
         "228",
@@ -255,7 +254,8 @@
         "298",
         "315",
         "321",
-        "325"
+        "325",
+        "221"
       ],
       "publicConsultation": {
         "dueDate": "2025-07-28T00:00:00.000Z",
@@ -274,101 +274,11 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22430"
     },
     {
-      "idp": "22278",
-      "title": "Proiect de Hotărâre privind modificarea Regulamentului Camerei DeputaţilorDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "77/26-03-2025",
-        "deputyChamber": "BP77/26.03.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la comisii",
-        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
-      },
-      "initiators": [
-        "13",
-        "15",
-        "20",
-        "27",
-        "33",
-        "35",
-        "38",
-        "47",
-        "60",
-        "68",
-        "69",
-        "72",
-        "74",
-        "89",
-        "91",
-        "99",
-        "100",
-        "108",
-        "119",
-        "120",
-        "123",
-        "134",
-        "136",
-        "142",
-        "144",
-        "154",
-        "162",
-        "173",
-        "185",
-        "188",
-        "193",
-        "200",
-        "201",
-        "210",
-        "211",
-        "215",
-        "221",
-        "224",
-        "228",
-        "230",
-        "235",
-        "238",
-        "240",
-        "255",
-        "256",
-        "258",
-        "261",
-        "262",
-        "263",
-        "279",
-        "296",
-        "298",
-        "301",
-        "315",
-        "321",
-        "325"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/70/7/in29.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/70/7/em29.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/70/7/phcd29b.pdf",
-          "title": "PHCD29"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22278"
-    },
-    {
       "idp": "22457",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.19/2006 privind utilizarea plajei Mării Negre şi controlul activităţilor desfăşurate pe plajăDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.19/2006 privind utilizarea plajei Mării Negre şi controlul activităţilor desfăşurate pe plajă",
       "registrationNumber": {
         "bpi": "275/25-06-2025",
-        "deputyChamber": "BP275/25.06.2025",
+        "deputyChamber": "219/30.06.2025",
         "senateChamber": "L174/2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
@@ -376,8 +286,8 @@
       "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n19/2006",
       "emergencyProcedure": false,
       "status": {
-        "short": "adoptatde senat",
-        "long": "adoptat de catre Senat"
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
       "initiators": [
         "24",
@@ -418,23 +328,15 @@
       "publicConsultation": "",
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/as275.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/in275.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/em275.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/em275.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/ces275.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/ces275.pdf",
           "title": "Avizul Consiliului Economic şi Social"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/cl275.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/cl275.pdf",
           "title": "Avizul Consiliului Legislativ"
         }
       ],
@@ -442,10 +344,10 @@
     },
     {
       "idp": "22450",
-      "title": "Propunere legislativă pentru modificarea şi completarea legii 198/2023 privind învăţământul preuniversitar, cu modificările şi completările ulterioareDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea legii 198/2023 privind învăţământul preuniversitar, cu modificările şi completările ulterioare",
       "registrationNumber": {
         "bpi": "268/25-06-2025",
-        "deputyChamber": "BP268/25.06.2025",
+        "deputyChamber": "220/30.06.2025",
         "senateChamber": "L157/2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
@@ -453,8 +355,8 @@
       "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
       "emergencyProcedure": false,
       "status": {
-        "short": "respinsade senat",
-        "long": "respinsa de catre Senat"
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
       "initiators": [
         "5",
@@ -519,31 +421,113 @@
       "publicConsultation": "",
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/as268.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/in268.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/em268.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/0/em268.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/pl268.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/0/pl268.pdf",
           "title": "Forma iniţiatorului"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/ces268.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/0/ces268.pdf",
           "title": "Avizul Consiliului Economic şi Social"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/8/cl268.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/0/cl268.pdf",
           "title": "Avizul Consiliului Legislativ"
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22450"
+    },
+    {
+      "idp": "22278",
+      "title": "Proiect de Hotărâre privind modificarea Regulamentului Camerei Deputaţilor",
+      "registrationNumber": {
+        "bpi": "77/26-03-2025",
+        "deputyChamber": "BP77/26.03.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "13",
+        "15",
+        "20",
+        "27",
+        "33",
+        "35",
+        "38",
+        "47",
+        "60",
+        "68",
+        "69",
+        "72",
+        "74",
+        "89",
+        "91",
+        "99",
+        "100",
+        "108",
+        "119",
+        "120",
+        "123",
+        "134",
+        "136",
+        "142",
+        "144",
+        "154",
+        "162",
+        "173",
+        "185",
+        "188",
+        "193",
+        "200",
+        "201",
+        "210",
+        "211",
+        "215",
+        "224",
+        "228",
+        "230",
+        "235",
+        "238",
+        "240",
+        "255",
+        "256",
+        "258",
+        "261",
+        "262",
+        "263",
+        "279",
+        "296",
+        "298",
+        "301",
+        "315",
+        "321",
+        "325",
+        "221"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/70/7/in29.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/70/7/em29.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/70/7/phcd29b.pdf",
+          "title": "PHCD29"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22278"
     }
   ]
 }

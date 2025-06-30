@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:18:11.041Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:28:17.924Z",
   "data": [
     {
       "idp": "22424",
-      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de Urgenţă a Guvernului nr.155 din 21 noiembrie 2001 privind aprobarea programului de gestionare a câinilor fără stăpânDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de Urgenţă a Guvernului nr.155 din 21 noiembrie 2001 privind aprobarea programului de gestionare a câinilor fără stăpân",
       "registrationNumber": {
         "bpi": "241/17-06-2025",
         "deputyChamber": "206/18.06.2025",
@@ -57,8 +57,67 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22424"
     },
     {
+      "idp": "22459",
+      "title": "Propunere legislativă pentru completarea Legii nr.50/1991 privind autorizarea executării lucrărilor de construcţii, republicată în Monitorul Oficial al României, Partea I, nr.933 din 13 octombrie 2004, cu modificările şi completările ulterioare",
+      "registrationNumber": {
+        "bpi": "277/25-06-2025",
+        "deputyChamber": "217/30.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Senatul",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n50/1991",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "aviz/punct de vederesolicitat",
+        "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+      },
+      "initiators": [
+        "3",
+        "5",
+        "70",
+        "86",
+        "135",
+        "245",
+        "318",
+        "8",
+        "15",
+        "33",
+        "99",
+        "227",
+        "301",
+        "315",
+        "21",
+        "101",
+        "128",
+        "152",
+        "312",
+        "65",
+        "77",
+        "132",
+        "164",
+        "183",
+        "250",
+        "257"
+      ],
+      "publicConsultation": {
+        "dueDate": "2025-08-04T00:00:00.000Z",
+        "count": 0
+      },
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/7/em277.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/7/pl277.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22459"
+    },
+    {
       "idp": "22404",
-      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.192/2006 privind medierea şi organizarea profesiei de mediator şi pentru completarea Legii nr.51/1995 pentru organizarea şi exercitarea profesiei de avocatDerularea procedurii legislative",
+      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.192/2006 privind medierea şi organizarea profesiei de mediator şi pentru completarea Legii nr.51/1995 pentru organizarea şi exercitarea profesiei de avocat",
       "registrationNumber": {
         "bpi": "213/11-06-2025",
         "deputyChamber": "BP213/11.06.2025"
@@ -130,66 +189,6 @@
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22404"
-    },
-    {
-      "idp": "22459",
-      "title": "Propunere legislativă pentru completarea Legii nr.50/1991 privind autorizarea executării lucrărilor de construcţii, republicată în Monitorul Oficial al României, Partea I, nr.933 din 13 octombrie 2004, cu modificările şi completările ulterioareDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "277/25-06-2025",
-        "deputyChamber": "BP277/25.06.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n50/1991",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "",
-        "long": ""
-      },
-      "initiators": [
-        "3",
-        "5",
-        "70",
-        "86",
-        "135",
-        "245",
-        "318",
-        "8",
-        "15",
-        "33",
-        "99",
-        "227",
-        "301",
-        "315",
-        "21",
-        "101",
-        "128",
-        "152",
-        "312",
-        "65",
-        "77",
-        "132",
-        "164",
-        "183",
-        "250",
-        "257"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/7/in277.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/7/em277.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/7/pl277.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22459"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:18:18.985Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:28:36.694Z",
   "data": [
     {
       "idp": "22264",
-      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"",
       "registrationNumber": {
         "bpi": "64/18-03-2025",
         "deputyChamber": "81/19.03.2025",
@@ -163,7 +163,7 @@
     },
     {
       "idp": "22301",
-      "title": "Propunere legislativă privind completarea unor acte normative din domeniul apărării naţionale, ordinii publice şi siguranţei naţionale şi completarea Legii nr.286/2009 privind Codul PenalDerularea procedurii legislative",
+      "title": "Propunere legislativă privind completarea unor acte normative din domeniul apărării naţionale, ordinii publice şi siguranţei naţionale şi completarea Legii nr.286/2009 privind Codul Penal",
       "registrationNumber": {
         "bpi": "101/08-04-2025",
         "deputyChamber": "104/14.04.2025"
@@ -232,7 +232,7 @@
     },
     {
       "idp": "22330",
-      "title": "Proiect de Lege privind modificarea Legii nr.370/2004 pentru alegerea Preşedintelui RomânieiDerularea procedurii legislative",
+      "title": "Proiect de Lege privind modificarea Legii nr.370/2004 pentru alegerea Preşedintelui României",
       "registrationNumber": {
         "bpi": "130/29-04-2025",
         "deputyChamber": "130/06.05.2025",
@@ -303,7 +303,7 @@
     },
     {
       "idp": "22363",
-      "title": "Propunere legislativă pentru modificarea art.142 alin.(1) din Legea nr.303/2022 privind statutul judecătorilor şi procurorilorDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.142 alin.(1) din Legea nr.303/2022 privind statutul judecătorilor şi procurorilor",
       "registrationNumber": {
         "bpi": "165/21-05-2025",
         "deputyChamber": "157/26.05.2025"
@@ -359,7 +359,7 @@
     },
     {
       "idp": "22379",
-      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă nr.195/2002 privind circulaţia pe drumurile publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă nr.195/2002 privind circulaţia pe drumurile publice",
       "registrationNumber": {
         "bpi": "185/27-05-2025",
         "deputyChamber": "170/28.05.2025",
@@ -430,7 +430,7 @@
     },
     {
       "idp": "22387",
-      "title": "Propunere legislativă pentru eliminarea impozitului pe bacşiş prin modificarea Ordonanţei de urgenţă 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscaleDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru eliminarea impozitului pe bacşiş prin modificarea Ordonanţei de urgenţă 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale",
       "registrationNumber": {
         "bpi": "194/28-05-2025",
         "deputyChamber": "177/02.06.2025",
@@ -501,7 +501,7 @@
     },
     {
       "idp": "22405",
-      "title": "Propunere legislativă pentru deconspirarea rudelor lucrătorilor Securităţii care ocupă demnităţi sau funcţii publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru deconspirarea rudelor lucrătorilor Securităţii care ocupă demnităţi sau funcţii publice",
       "registrationNumber": {
         "bpi": "214/11-06-2025",
         "deputyChamber": "186/16.06.2025",
@@ -553,7 +553,7 @@
     },
     {
       "idp": "22414",
-      "title": "Propunere legislativă pentru modificarea Legii nr.227/2015 privind Codul fiscalDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea Legii nr.227/2015 privind Codul fiscal",
       "registrationNumber": {
         "bpi": "227/11-06-2025",
         "deputyChamber": "198/16.06.2025",
@@ -621,7 +621,7 @@
     },
     {
       "idp": "22421",
-      "title": "Proiect de Lege privind limitarea propagării prin platforme online foarte mari, a conţinutului ilegal, care incită la ură, sau care pe teme majore de interes naţional, manipulează prin utilizarea maliţioasă a tehnologiei, cu scopul inducerii în eroare a opiniei publiceDerularea procedurii legislative",
+      "title": "Proiect de Lege privind limitarea propagării prin platforme online foarte mari, a conţinutului ilegal, care incită la ură, sau care pe teme majore de interes naţional, manipulează prin utilizarea maliţioasă a tehnologiei, cu scopul inducerii în eroare a opiniei publice",
       "registrationNumber": {
         "bpi": "235/17-06-2025",
         "deputyChamber": "200/18.06.2025",
@@ -686,7 +686,7 @@
     },
     {
       "idp": "22435",
-      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de Urgenţă a Guvernului nr.57 din 2019 privind Codul administrativDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de Urgenţă a Guvernului nr.57 din 2019 privind Codul administrativ",
       "registrationNumber": {
         "bpi": "252/23-06-2025",
         "deputyChamber": "214/25.06.2025"
@@ -699,7 +699,16 @@
         "short": "aviz/punct de vederesolicitat",
         "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
       },
-      "initiators": ["29", "45", "125", "181", "213", "236", "267", "328"],
+      "initiators": [
+        "29",
+        "45",
+        "125",
+        "181",
+        "213",
+        "236",
+        "267",
+        "328"
+      ],
       "publicConsultation": {
         "dueDate": "2025-07-29T00:00:00.000Z",
         "count": 0
@@ -718,7 +727,7 @@
     },
     {
       "idp": "22366",
-      "title": "Propunere legislativă pentru completarea Legii nr.678/2001 privind prevenirea şi combaterea traficului de persoane şi a art.30 din Ordonanţa Guvernului nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în RomâniaDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Legii nr.678/2001 privind prevenirea şi combaterea traficului de persoane şi a art.30 din Ordonanţa Guvernului nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în România",
       "registrationNumber": {
         "bpi": "168/21-05-2025",
         "deputyChamber": "BP168/21.05.2025"
@@ -787,7 +796,7 @@
     },
     {
       "idp": "22367",
-      "title": "Propunere legislativă pentru modificarea art.6 alin.1 lit.s) din Legea vânătorii şi a protecţiei fondului cinegetic nr.407/2006Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.6 alin.1 lit.s) din Legea vânătorii şi a protecţiei fondului cinegetic nr.407/2006",
       "registrationNumber": {
         "bpi": "169/22-05-2025",
         "deputyChamber": "BP169/22.05.2025"

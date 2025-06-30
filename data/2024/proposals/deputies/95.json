@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:13:15.396Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:24:09.321Z",
   "data": [
     {
       "idp": "22264",
-      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"",
       "registrationNumber": {
         "bpi": "64/18-03-2025",
         "deputyChamber": "81/19.03.2025",
@@ -163,7 +163,7 @@
     },
     {
       "idp": "22273",
-      "title": "Propunere legislativă pentru completarea art.143 din Legea învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.143 din Legea învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "72/21-03-2025",
         "deputyChamber": "84/24.03.2025",
@@ -221,7 +221,7 @@
     },
     {
       "idp": "22317",
-      "title": "Proiect de Lege pentru modificarea art.22 din Legea nr.10/1995 privind calitatea în construcţii, precum şi pentru completarea art.26 din Legea cadastrului şi publicităţii imobiliare nr.7/1996Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea art.22 din Legea nr.10/1995 privind calitatea în construcţii, precum şi pentru completarea art.26 din Legea cadastrului şi publicităţii imobiliare nr.7/1996",
       "registrationNumber": {
         "bpi": "116/15-04-2025",
         "deputyChamber": "116/22.04.2025",
@@ -336,7 +336,7 @@
     },
     {
       "idp": "22345",
-      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţiiDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii",
       "registrationNumber": {
         "bpi": "145/08-05-2025",
         "deputyChamber": "140/12.05.2025",
@@ -436,7 +436,7 @@
     },
     {
       "idp": "22357",
-      "title": "Proiect de Lege pentru instituirea anului 2026 ca Anul Constantin BrâncuşiDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2026 ca Anul Constantin Brâncuşi",
       "registrationNumber": {
         "bpi": "158/14-05-2025",
         "deputyChamber": "151/20.05.2025",
@@ -447,8 +447,8 @@
       "type": "Proiect de Lege",
       "emergencyProcedure": false,
       "status": {
-        "short": "adoptat",
-        "long": "adoptat de catre Camera Deputatilor"
+        "short": "la secretarulgeneral",
+        "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
       },
       "initiators": [
         "1",
@@ -525,7 +525,7 @@
     },
     {
       "idp": "22406",
-      "title": "Propunere legislativă pentru modificarea alineatului (4) al articolului 139 din Legea învăţământului preuniversitar nr.198/2023 şi pentru modificarea şi completarea Legii învăţământului superior nr.199/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea alineatului (4) al articolului 139 din Legea învăţământului preuniversitar nr.198/2023 şi pentru modificarea şi completarea Legii învăţământului superior nr.199/2023",
       "registrationNumber": {
         "bpi": "215/11-06-2025",
         "deputyChamber": "187/16.06.2025",
@@ -584,7 +584,7 @@
     },
     {
       "idp": "22268",
-      "title": "Proiect de Lege pentru modificarea art.54 din Legea nr.273/2006 privind finanţele publice localeDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea art.54 din Legea nr.273/2006 privind finanţele publice locale",
       "registrationNumber": {
         "bpi": "69/19-03-2025222/11-06-2025",
         "deputyChamber": "190/16.06.2025",
@@ -646,7 +646,7 @@
     },
     {
       "idp": "22410",
-      "title": "Proiect de Lege pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr.69/2000Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr.69/2000",
       "registrationNumber": {
         "bpi": "220/11-06-2025",
         "deputyChamber": "193/16.06.2025",
@@ -657,8 +657,8 @@
       "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n69/2000",
       "emergencyProcedure": false,
       "status": {
-        "short": "retrimisla comisii",
-        "long": "trimis pentru raport suplimentar la comisiile permanente ale Camerei Deputatilor"
+        "short": "la secretarulgeneral",
+        "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
       },
       "initiators": [
         "18",
@@ -715,7 +715,7 @@
     },
     {
       "idp": "22411",
-      "title": "Proiect de Lege pentru modificarea şi completarea art.143 din Legea învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea art.143 din Legea învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "223/11-06-2025",
         "deputyChamber": "195/16.06.2025",
@@ -773,8 +773,70 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22411"
     },
     {
+      "idp": "22444",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobililelor preluate în mod abuziv în perioada regimului comunist în România",
+      "registrationNumber": {
+        "bpi": "261/24-06-2025",
+        "deputyChamber": "BP261/24.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n165/2013",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "34",
+        "53",
+        "58",
+        "64",
+        "95",
+        "130",
+        "207",
+        "232",
+        "125",
+        "25",
+        "28",
+        "85",
+        "87",
+        "111",
+        "139",
+        "159",
+        "160",
+        "161",
+        "165",
+        "166",
+        "176",
+        "180",
+        "195",
+        "206",
+        "217",
+        "277",
+        "291",
+        "316",
+        "329",
+        "330",
+        "241",
+        "331"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/1/em261.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/1/pl261.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22444"
+    },
+    {
       "idp": "22416",
-      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",
       "registrationNumber": {
         "bpi": "229/11-06-2025",
         "deputyChamber": "BP229/11.06.2025"
@@ -844,74 +906,8 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22416"
     },
     {
-      "idp": "22444",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobililelor preluate în mod abuziv în perioada regimului comunist în RomâniaDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "261/24-06-2025",
-        "deputyChamber": "BP261/24.06.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n165/2013",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "34",
-        "53",
-        "58",
-        "64",
-        "95",
-        "130",
-        "207",
-        "232",
-        "125",
-        "25",
-        "28",
-        "85",
-        "87",
-        "111",
-        "139",
-        "159",
-        "160",
-        "161",
-        "165",
-        "166",
-        "176",
-        "180",
-        "195",
-        "206",
-        "217",
-        "277",
-        "291",
-        "316",
-        "329",
-        "330",
-        "241",
-        "331"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/1/in261.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/1/em261.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/1/pl261.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22444"
-    },
-    {
       "idp": "22366",
-      "title": "Propunere legislativă pentru completarea Legii nr.678/2001 privind prevenirea şi combaterea traficului de persoane şi a art.30 din Ordonanţa Guvernului nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în RomâniaDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Legii nr.678/2001 privind prevenirea şi combaterea traficului de persoane şi a art.30 din Ordonanţa Guvernului nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în România",
       "registrationNumber": {
         "bpi": "168/21-05-2025",
         "deputyChamber": "BP168/21.05.2025"
@@ -980,7 +976,7 @@
     },
     {
       "idp": "22445",
-      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România - RepublicatăDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România - Republicată",
       "registrationNumber": {
         "bpi": "262/24-06-2025",
         "deputyChamber": "BP262/24.06.2025"
@@ -1028,10 +1024,6 @@
       ],
       "publicConsultation": "",
       "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/2/in262.pdf",
-          "title": "Adresa iniţiatorului"
-        },
         {
           "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/2/em262.pdf",
           "title": "Expunerea de motive"

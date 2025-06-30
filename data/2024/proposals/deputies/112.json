@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:13:21.920Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:24:30.943Z",
   "data": [
     {
       "idp": "22296",
-      "title": "Propunere legislativă pentru completarea Legii nr.267/2008 privind unele măsuri speciale pentru reglementarea avansului rest de justificat şi pentru efectuarea recepţiei în fază unică a lucrărilor de construcţii şi a instalaţiilor aferente acestora la obiectivul de investiţii Palatul Parlamentului, precum şi pentru reglementarea unor măsuri cu privire la administrarea imobilului „Palatul Parlamentului”Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Legii nr.267/2008 privind unele măsuri speciale pentru reglementarea avansului rest de justificat şi pentru efectuarea recepţiei în fază unică a lucrărilor de construcţii şi a instalaţiilor aferente acestora la obiectivul de investiţii Palatul Parlamentului, precum şi pentru reglementarea unor măsuri cu privire la administrarea imobilului „Palatul Parlamentului”",
       "registrationNumber": {
         "bpi": "97/02-04-2025264/25-06-2025",
         "deputyChamber": "215/25.06.2025",
@@ -15,8 +15,8 @@
       "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n267/2008",
       "emergencyProcedure": false,
       "status": {
-        "short": "raportdepus",
-        "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+        "short": "la secretarulgeneral",
+        "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
       },
       "initiators": [
         "147",
@@ -58,7 +58,7 @@
     },
     {
       "idp": "22295",
-      "title": "Proiect de Hotărâre privind completarea Regulamentului Camerei DeputaţilorDerularea procedurii legislative",
+      "title": "Proiect de Hotărâre privind completarea Regulamentului Camerei Deputaţilor",
       "registrationNumber": {
         "bpi": "96/02-04-2025",
         "deputyChamber": "BP96/02.04.2025"
@@ -102,7 +102,7 @@
     },
     {
       "idp": "22248",
-      "title": "Proiect de Hotărâre privind modificarea Regulamentului Camerei DeputaţilorDerularea procedurii legislative",
+      "title": "Proiect de Hotărâre privind modificarea Regulamentului Camerei Deputaţilor",
       "registrationNumber": {
         "bpi": "48/06-03-2025",
         "deputyChamber": "BP48/06.03.2025"
@@ -115,7 +115,13 @@
         "short": "raportdepus",
         "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
       },
-      "initiators": ["186", "254", "9", "166", "112"],
+      "initiators": [
+        "186",
+        "254",
+        "9",
+        "166",
+        "112"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -136,6 +142,76 @@
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22248"
+    },
+    {
+      "idp": "22462",
+      "title": "Propunere legislativă pentru completarea Legii nr.61/1991 pentru sancţionarea faptelor de înălcare a unor norme de convieţuire socială, a ordinii şi liniştii publice - Republicată precum şi completarea Legii nr.544/2001 privind liberul acces la informaţiile de interes public",
+      "registrationNumber": {
+        "bpi": "279/30-06-2025",
+        "deputyChamber": "BP279/30.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n61/1991",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "",
+        "long": ""
+      },
+      "initiators": [
+        "25",
+        "28",
+        "85",
+        "87",
+        "111",
+        "139",
+        "159",
+        "160",
+        "161",
+        "163",
+        "165",
+        "166",
+        "176",
+        "180",
+        "195",
+        "206",
+        "217",
+        "277",
+        "291",
+        "316",
+        "329",
+        "330",
+        "6",
+        "37",
+        "83",
+        "105",
+        "107",
+        "112",
+        "122",
+        "171",
+        "187",
+        "216",
+        "233",
+        "241",
+        "282",
+        "322"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/9/in279.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/9/em279.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/9/pl279.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22462"
     }
   ]
 }

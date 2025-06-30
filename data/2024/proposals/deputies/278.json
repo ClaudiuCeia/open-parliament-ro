@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:18:26.529Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:28:56.460Z",
   "data": [
     {
       "idp": "22345",
-      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţiiDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii",
       "registrationNumber": {
         "bpi": "145/08-05-2025",
         "deputyChamber": "140/12.05.2025",
@@ -104,7 +104,7 @@
     },
     {
       "idp": "22359",
-      "title": "Propunere legislativă pentru completarea Legii energiei electrice şi a gazelor naturale nr.123/2012Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Legii energiei electrice şi a gazelor naturale nr.123/2012",
       "registrationNumber": {
         "bpi": "162/20-05-2025",
         "deputyChamber": "156/21.05.2025"
@@ -160,7 +160,7 @@
     },
     {
       "idp": "22240",
-      "title": "Proiect de Lege pentru instituirea zilei de 15 mai ca Ziua naţională a FamilieiDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea zilei de 15 mai ca Ziua naţională a Familiei",
       "registrationNumber": {
         "bpi": "41/04-03-2025190/28-05-2025",
         "deputyChamber": "173/02.06.2025",
@@ -211,7 +211,7 @@
     },
     {
       "idp": "22387",
-      "title": "Propunere legislativă pentru eliminarea impozitului pe bacşiş prin modificarea Ordonanţei de urgenţă 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscaleDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru eliminarea impozitului pe bacşiş prin modificarea Ordonanţei de urgenţă 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale",
       "registrationNumber": {
         "bpi": "194/28-05-2025",
         "deputyChamber": "177/02.06.2025",
@@ -282,7 +282,7 @@
     },
     {
       "idp": "22244",
-      "title": "Propunere legislativă pentru completarea art.28 Ordonanţa de urgenţă nr.109/2011 privind guvernanţa corporativă a întreprinderilor publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.28 Ordonanţa de urgenţă nr.109/2011 privind guvernanţa corporativă a întreprinderilor publice",
       "registrationNumber": {
         "bpi": "45/05-03-2025203/03-06-2025",
         "deputyChamber": "182/04.06.2025",
@@ -296,7 +296,17 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["31", "57", "81", "84", "182", "232", "278", "283", "311"],
+      "initiators": [
+        "31",
+        "57",
+        "81",
+        "84",
+        "182",
+        "232",
+        "278",
+        "283",
+        "311"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -324,7 +334,7 @@
     },
     {
       "idp": "22392",
-      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.53/3003 - Codul muncii şi a art.6 din Legea nr.108/1999 pentru înfiinţarea şi organizarea Inspecţiei MunciiDerularea procedurii legislative",
+      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.53/3003 - Codul muncii şi a art.6 din Legea nr.108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii",
       "registrationNumber": {
         "bpi": "199/02-06-2025",
         "deputyChamber": "BP199/02.06.2025"
@@ -381,7 +391,7 @@
     },
     {
       "idp": "22299",
-      "title": "Proiect de Hotărâre pentru modificarea Regulamentului Camerei DeputaţilorDerularea procedurii legislative",
+      "title": "Proiect de Hotărâre pentru modificarea Regulamentului Camerei Deputaţilor",
       "registrationNumber": {
         "bpi": "99/07-04-2025",
         "deputyChamber": "BP99/07.04.2025"

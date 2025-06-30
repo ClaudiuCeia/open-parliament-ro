@@ -145,7 +145,7 @@ export const getDeputyLegislativeProposals = async (
       continue;
     }
 
-    const title = $$("div.detalii-initiativa > h4").text().trim();
+    const title = $$("div.detalii-initiativa > h4").first().text().trim();
     const bpiRegistration = $$("td:contains('- B.P.I.:') + td").text().trim();
     const deputyChamberRegistration = $$(
       "td:contains('- Camera Deputaţilor:') + td",
@@ -170,7 +170,11 @@ export const getDeputyLegislativeProposals = async (
       .trim()
       .toLowerCase()
       .includes("da");
-    const statusLong = $$("td:contains('Stadiu:') + td").text().trim();
+    const statusLong = $$("td:contains('Stadiu:') + td")
+      .html()
+      ?.replace(/<br\s*\/?>/gi, '\n')
+      ?.replace(/<[^>]*>/g, '')
+      ?.trim() || "";
 
     const initiatorsContainer = $$(
       "td:contains('Initiator: ') + td table a",

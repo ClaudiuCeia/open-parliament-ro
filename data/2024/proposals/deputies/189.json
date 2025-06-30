@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:13:55.917Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:26:37.342Z",
   "data": [
     {
       "idp": "22273",
-      "title": "Propunere legislativă pentru completarea art.143 din Legea învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.143 din Legea învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "72/21-03-2025",
         "deputyChamber": "84/24.03.2025",
@@ -62,7 +62,7 @@
     },
     {
       "idp": "22284",
-      "title": "Propunere legislativă pentru modificarea art.108 din Legea învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.108 din Legea învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "84/27-03-2025",
         "deputyChamber": "87/31.03.2025"
@@ -116,7 +116,7 @@
     },
     {
       "idp": "22293",
-      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă a Guvernului nr.97/2005 privind evidenţa, domiciliul, reşedinţa şi actele de identitate ale cetăţenilor româniDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă a Guvernului nr.97/2005 privind evidenţa, domiciliul, reşedinţa şi actele de identitate ale cetăţenilor români",
       "registrationNumber": {
         "bpi": "93/01-04-2025",
         "deputyChamber": "101/02.04.2025",
@@ -130,7 +130,16 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["12", "90", "121", "125", "172", "189", "317", "328"],
+      "initiators": [
+        "12",
+        "90",
+        "121",
+        "125",
+        "172",
+        "189",
+        "317",
+        "328"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -158,7 +167,7 @@
     },
     {
       "idp": "22301",
-      "title": "Propunere legislativă privind completarea unor acte normative din domeniul apărării naţionale, ordinii publice şi siguranţei naţionale şi completarea Legii nr.286/2009 privind Codul PenalDerularea procedurii legislative",
+      "title": "Propunere legislativă privind completarea unor acte normative din domeniul apărării naţionale, ordinii publice şi siguranţei naţionale şi completarea Legii nr.286/2009 privind Codul Penal",
       "registrationNumber": {
         "bpi": "101/08-04-2025",
         "deputyChamber": "104/14.04.2025"
@@ -227,7 +236,7 @@
     },
     {
       "idp": "22379",
-      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă nr.195/2002 privind circulaţia pe drumurile publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă nr.195/2002 privind circulaţia pe drumurile publice",
       "registrationNumber": {
         "bpi": "185/27-05-2025",
         "deputyChamber": "170/28.05.2025",
@@ -298,7 +307,7 @@
     },
     {
       "idp": "22386",
-      "title": "Propunere legislativă pentru stimularea investiţiilor în stocarea energiei electrice şi modificarea art.291 alin.(2) din Legea 227/2015 Codul FiscalDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru stimularea investiţiilor în stocarea energiei electrice şi modificarea art.291 alin.(2) din Legea 227/2015 Codul Fiscal",
       "registrationNumber": {
         "bpi": "193/28-05-2025",
         "deputyChamber": "174/02.06.2025",
@@ -358,7 +367,7 @@
     },
     {
       "idp": "22411",
-      "title": "Proiect de Lege pentru modificarea şi completarea art.143 din Legea învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea art.143 din Legea învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "223/11-06-2025",
         "deputyChamber": "195/16.06.2025",
@@ -417,7 +426,7 @@
     },
     {
       "idp": "22413",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale PermanenteDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente",
       "registrationNumber": {
         "bpi": "226/11-06-2025",
         "deputyChamber": "197/16.06.2025",
@@ -467,7 +476,7 @@
     },
     {
       "idp": "22367",
-      "title": "Propunere legislativă pentru modificarea art.6 alin.1 lit.s) din Legea vânătorii şi a protecţiei fondului cinegetic nr.407/2006Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.6 alin.1 lit.s) din Legea vânătorii şi a protecţiei fondului cinegetic nr.407/2006",
       "registrationNumber": {
         "bpi": "169/22-05-2025",
         "deputyChamber": "BP169/22.05.2025"

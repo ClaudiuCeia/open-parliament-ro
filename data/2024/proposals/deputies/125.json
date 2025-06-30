@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:13:27.192Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:24:49.347Z",
   "data": [
     {
       "idp": "22264",
-      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"",
       "registrationNumber": {
         "bpi": "64/18-03-2025",
         "deputyChamber": "81/19.03.2025",
@@ -163,7 +163,7 @@
     },
     {
       "idp": "22273",
-      "title": "Propunere legislativă pentru completarea art.143 din Legea învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.143 din Legea învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "72/21-03-2025",
         "deputyChamber": "84/24.03.2025",
@@ -221,7 +221,7 @@
     },
     {
       "idp": "22284",
-      "title": "Propunere legislativă pentru modificarea art.108 din Legea învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.108 din Legea învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "84/27-03-2025",
         "deputyChamber": "87/31.03.2025"
@@ -275,7 +275,7 @@
     },
     {
       "idp": "22293",
-      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă a Guvernului nr.97/2005 privind evidenţa, domiciliul, reşedinţa şi actele de identitate ale cetăţenilor româniDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă a Guvernului nr.97/2005 privind evidenţa, domiciliul, reşedinţa şi actele de identitate ale cetăţenilor români",
       "registrationNumber": {
         "bpi": "93/01-04-2025",
         "deputyChamber": "101/02.04.2025",
@@ -289,7 +289,16 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["12", "90", "121", "125", "172", "189", "317", "328"],
+      "initiators": [
+        "12",
+        "90",
+        "121",
+        "125",
+        "172",
+        "189",
+        "317",
+        "328"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -317,7 +326,7 @@
     },
     {
       "idp": "22301",
-      "title": "Propunere legislativă privind completarea unor acte normative din domeniul apărării naţionale, ordinii publice şi siguranţei naţionale şi completarea Legii nr.286/2009 privind Codul PenalDerularea procedurii legislative",
+      "title": "Propunere legislativă privind completarea unor acte normative din domeniul apărării naţionale, ordinii publice şi siguranţei naţionale şi completarea Legii nr.286/2009 privind Codul Penal",
       "registrationNumber": {
         "bpi": "101/08-04-2025",
         "deputyChamber": "104/14.04.2025"
@@ -386,7 +395,7 @@
     },
     {
       "idp": "22319",
-      "title": "Propunere legislativă privind responsabilitatea contractuală şi răspunderea financiară în antecontractele de vânzare-cumpărare încheiate cu dezvoltatori imobiliari.Derularea procedurii legislative",
+      "title": "Propunere legislativă privind responsabilitatea contractuală şi răspunderea financiară în antecontractele de vânzare-cumpărare încheiate cu dezvoltatori imobiliari.",
       "registrationNumber": {
         "bpi": "118/15-04-2025",
         "deputyChamber": "119/22.04.2025",
@@ -448,7 +457,7 @@
     },
     {
       "idp": "22328",
-      "title": "Proiect de Lege pentru completarea Legii nr.286/2009 privind Codul penalDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru completarea Legii nr.286/2009 privind Codul penal",
       "registrationNumber": {
         "bpi": "128/29-04-2025",
         "deputyChamber": "129/06.05.2025",
@@ -496,7 +505,7 @@
     },
     {
       "idp": "22330",
-      "title": "Proiect de Lege privind modificarea Legii nr.370/2004 pentru alegerea Preşedintelui RomânieiDerularea procedurii legislative",
+      "title": "Proiect de Lege privind modificarea Legii nr.370/2004 pentru alegerea Preşedintelui României",
       "registrationNumber": {
         "bpi": "130/29-04-2025",
         "deputyChamber": "130/06.05.2025",
@@ -567,7 +576,7 @@
     },
     {
       "idp": "22363",
-      "title": "Propunere legislativă pentru modificarea art.142 alin.(1) din Legea nr.303/2022 privind statutul judecătorilor şi procurorilorDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.142 alin.(1) din Legea nr.303/2022 privind statutul judecătorilor şi procurorilor",
       "registrationNumber": {
         "bpi": "165/21-05-2025",
         "deputyChamber": "157/26.05.2025"
@@ -623,7 +632,7 @@
     },
     {
       "idp": "22371",
-      "title": "Proiect de Lege pentru completarea Legii nr.286/2009 privind Codul penalDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru completarea Legii nr.286/2009 privind Codul penal",
       "registrationNumber": {
         "bpi": "175/27-05-2025",
         "deputyChamber": "164/28.05.2025",
@@ -634,8 +643,8 @@
       "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n286/2009",
       "emergencyProcedure": false,
       "status": {
-        "short": "raportdepus",
-        "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+        "short": "pe ordinea de zi",
+        "long": "pe ordinea de zi a sedintelor Camerei Deputatilor"
       },
       "initiators": [
         "29",
@@ -664,7 +673,7 @@
     },
     {
       "idp": "22384",
-      "title": "Proiect de Lege privind abrogarea Legii nr.133/2019 pentru înfiinţarea Agenţiei pentru Calitatea şi Marketingul Produselor AgroalimentareDerularea procedurii legislative",
+      "title": "Proiect de Lege privind abrogarea Legii nr.133/2019 pentru înfiinţarea Agenţiei pentru Calitatea şi Marketingul Produselor Agroalimentare",
       "registrationNumber": {
         "bpi": "191/28-05-2025",
         "deputyChamber": "175/02.06.2025",
@@ -717,7 +726,7 @@
     },
     {
       "idp": "22407",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.77/2009 privind organizarea şi exploatarea jocurilor de norocDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.77/2009 privind organizarea şi exploatarea jocurilor de noroc",
       "registrationNumber": {
         "bpi": "217/11-06-2025",
         "deputyChamber": "188/16.06.2025",
@@ -780,7 +789,7 @@
     },
     {
       "idp": "22412",
-      "title": "Propunere legislativă privind limitarea plăţilor către operatorii de jocuri de norocDerularea procedurii legislative",
+      "title": "Propunere legislativă privind limitarea plăţilor către operatorii de jocuri de noroc",
       "registrationNumber": {
         "bpi": "225/11-06-2025",
         "deputyChamber": "191/16.06.2025",
@@ -849,7 +858,7 @@
     },
     {
       "idp": "22411",
-      "title": "Proiect de Lege pentru modificarea şi completarea art.143 din Legea învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea art.143 din Legea învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "223/11-06-2025",
         "deputyChamber": "195/16.06.2025",
@@ -908,7 +917,7 @@
     },
     {
       "idp": "22414",
-      "title": "Propunere legislativă pentru modificarea Legii nr.227/2015 privind Codul fiscalDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea Legii nr.227/2015 privind Codul fiscal",
       "registrationNumber": {
         "bpi": "227/11-06-2025",
         "deputyChamber": "198/16.06.2025",
@@ -976,7 +985,7 @@
     },
     {
       "idp": "22421",
-      "title": "Proiect de Lege privind limitarea propagării prin platforme online foarte mari, a conţinutului ilegal, care incită la ură, sau care pe teme majore de interes naţional, manipulează prin utilizarea maliţioasă a tehnologiei, cu scopul inducerii în eroare a opiniei publiceDerularea procedurii legislative",
+      "title": "Proiect de Lege privind limitarea propagării prin platforme online foarte mari, a conţinutului ilegal, care incită la ură, sau care pe teme majore de interes naţional, manipulează prin utilizarea maliţioasă a tehnologiei, cu scopul inducerii în eroare a opiniei publice",
       "registrationNumber": {
         "bpi": "235/17-06-2025",
         "deputyChamber": "200/18.06.2025",
@@ -1041,7 +1050,7 @@
     },
     {
       "idp": "22433",
-      "title": "Propunere legislativă pentru modificarea art.23 alin.(11), precum şi art.207 alin.(4) lit.c) din Legea învăţământul preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.23 alin.(11), precum şi art.207 alin.(4) lit.c) din Legea învăţământul preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "250/23-06-2025",
         "deputyChamber": "213/25.06.2025"
@@ -1095,7 +1104,7 @@
     },
     {
       "idp": "22435",
-      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de Urgenţă a Guvernului nr.57 din 2019 privind Codul administrativDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de Urgenţă a Guvernului nr.57 din 2019 privind Codul administrativ",
       "registrationNumber": {
         "bpi": "252/23-06-2025",
         "deputyChamber": "214/25.06.2025"
@@ -1108,7 +1117,16 @@
         "short": "aviz/punct de vederesolicitat",
         "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
       },
-      "initiators": ["29", "45", "125", "181", "213", "236", "267", "328"],
+      "initiators": [
+        "29",
+        "45",
+        "125",
+        "181",
+        "213",
+        "236",
+        "267",
+        "328"
+      ],
       "publicConsultation": {
         "dueDate": "2025-07-29T00:00:00.000Z",
         "count": 0
@@ -1126,8 +1144,186 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22435"
     },
     {
+      "idp": "22458",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",
+      "registrationNumber": {
+        "bpi": "276/25-06-2025",
+        "deputyChamber": "221/30.06.2025",
+        "senateChamber": "L133/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n195/2002",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "332",
+        "12",
+        "26",
+        "29",
+        "36",
+        "44",
+        "45",
+        "82",
+        "90",
+        "94",
+        "121",
+        "125",
+        "126",
+        "140",
+        "149",
+        "167",
+        "172",
+        "181",
+        "198",
+        "213",
+        "236",
+        "247",
+        "269",
+        "285",
+        "293",
+        "299",
+        "314",
+        "195",
+        "291"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/1/em276.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/1/ces276.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/1/cl276.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22458"
+    },
+    {
+      "idp": "22448",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+      "registrationNumber": {
+        "bpi": "266/25-06-2025",
+        "deputyChamber": "225/30.06.2025",
+        "senateChamber": "L147/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n334/2006",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "4",
+        "12",
+        "48",
+        "82",
+        "90",
+        "121",
+        "125",
+        "126",
+        "140",
+        "236",
+        "285",
+        "299",
+        "314"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/5/em266.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/5/pl266.pdf",
+          "title": "Forma iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/5/ces266.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/5/cl266.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22448"
+    },
+    {
+      "idp": "22444",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobililelor preluate în mod abuziv în perioada regimului comunist în România",
+      "registrationNumber": {
+        "bpi": "261/24-06-2025",
+        "deputyChamber": "BP261/24.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n165/2013",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "34",
+        "53",
+        "58",
+        "64",
+        "95",
+        "130",
+        "207",
+        "232",
+        "125",
+        "25",
+        "28",
+        "85",
+        "87",
+        "111",
+        "139",
+        "159",
+        "160",
+        "161",
+        "165",
+        "166",
+        "176",
+        "180",
+        "195",
+        "206",
+        "217",
+        "277",
+        "291",
+        "316",
+        "329",
+        "330",
+        "241",
+        "331"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/1/em261.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/1/pl261.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22444"
+    },
+    {
       "idp": "22367",
-      "title": "Propunere legislativă pentru modificarea art.6 alin.1 lit.s) din Legea vânătorii şi a protecţiei fondului cinegetic nr.407/2006Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.6 alin.1 lit.s) din Legea vânătorii şi a protecţiei fondului cinegetic nr.407/2006",
       "registrationNumber": {
         "bpi": "169/22-05-2025",
         "deputyChamber": "BP169/22.05.2025"
@@ -1187,267 +1383,8 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22367"
     },
     {
-      "idp": "22458",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publiceDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "276/25-06-2025",
-        "deputyChamber": "BP276/25.06.2025",
-        "senateChamber": "L133/2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n195/2002",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "adoptatde senat",
-        "long": "adoptat de catre Senat"
-      },
-      "initiators": [
-        "332",
-        "12",
-        "26",
-        "29",
-        "36",
-        "44",
-        "45",
-        "82",
-        "90",
-        "94",
-        "121",
-        "125",
-        "126",
-        "140",
-        "149",
-        "167",
-        "172",
-        "181",
-        "198",
-        "213",
-        "236",
-        "247",
-        "269",
-        "285",
-        "293",
-        "299",
-        "314",
-        "195",
-        "291"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/6/as276.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/6/em276.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/6/ces276.pdf",
-          "title": "Avizul Consiliului Economic şi Social"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/6/cl276.pdf",
-          "title": "Avizul Consiliului Legislativ"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22458"
-    },
-    {
-      "idp": "22448",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electoraleDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "266/25-06-2025",
-        "deputyChamber": "BP266/25.06.2025",
-        "senateChamber": "L147/2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n334/2006",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "respinsade senat",
-        "long": "respinsa de catre Senat"
-      },
-      "initiators": [
-        "4",
-        "12",
-        "48",
-        "82",
-        "90",
-        "121",
-        "125",
-        "126",
-        "140",
-        "236",
-        "285",
-        "299",
-        "314"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/as266.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/in266.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/em266.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/pl266.pdf",
-          "title": "Forma iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/ces266.pdf",
-          "title": "Avizul Consiliului Economic şi Social"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/6/cl266.pdf",
-          "title": "Avizul Consiliului Legislativ"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22448"
-    },
-    {
-      "idp": "22444",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobililelor preluate în mod abuziv în perioada regimului comunist în RomâniaDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "261/24-06-2025",
-        "deputyChamber": "BP261/24.06.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n165/2013",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "34",
-        "53",
-        "58",
-        "64",
-        "95",
-        "130",
-        "207",
-        "232",
-        "125",
-        "25",
-        "28",
-        "85",
-        "87",
-        "111",
-        "139",
-        "159",
-        "160",
-        "161",
-        "165",
-        "166",
-        "176",
-        "180",
-        "195",
-        "206",
-        "217",
-        "277",
-        "291",
-        "316",
-        "329",
-        "330",
-        "241",
-        "331"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/1/in261.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/1/em261.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/1/pl261.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22444"
-    },
-    {
-      "idp": "22445",
-      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România - RepublicatăDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "262/24-06-2025",
-        "deputyChamber": "BP262/24.06.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n94/2000",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "34",
-        "53",
-        "64",
-        "95",
-        "130",
-        "207",
-        "232",
-        "125",
-        "25",
-        "28",
-        "85",
-        "87",
-        "111",
-        "139",
-        "159",
-        "160",
-        "161",
-        "165",
-        "166",
-        "176",
-        "180",
-        "195",
-        "206",
-        "217",
-        "277",
-        "291",
-        "316",
-        "329",
-        "330",
-        "241",
-        "331"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/2/in262.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/2/em262.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/2/pl262.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22445"
-    },
-    {
       "idp": "22366",
-      "title": "Propunere legislativă pentru completarea Legii nr.678/2001 privind prevenirea şi combaterea traficului de persoane şi a art.30 din Ordonanţa Guvernului nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în RomâniaDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Legii nr.678/2001 privind prevenirea şi combaterea traficului de persoane şi a art.30 din Ordonanţa Guvernului nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în România",
       "registrationNumber": {
         "bpi": "168/21-05-2025",
         "deputyChamber": "BP168/21.05.2025"
@@ -1513,6 +1450,67 @@
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22366"
+    },
+    {
+      "idp": "22445",
+      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România - Republicată",
+      "registrationNumber": {
+        "bpi": "262/24-06-2025",
+        "deputyChamber": "BP262/24.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n94/2000",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "34",
+        "53",
+        "64",
+        "95",
+        "130",
+        "207",
+        "232",
+        "125",
+        "25",
+        "28",
+        "85",
+        "87",
+        "111",
+        "139",
+        "159",
+        "160",
+        "161",
+        "165",
+        "166",
+        "176",
+        "180",
+        "195",
+        "206",
+        "217",
+        "277",
+        "291",
+        "316",
+        "329",
+        "330",
+        "241",
+        "331"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/2/em262.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/2/pl262.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22445"
     }
   ]
 }

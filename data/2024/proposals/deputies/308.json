@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:23:02.665Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:29:50.074Z",
   "data": [
     {
       "idp": "22316",
-      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.286/2009 privind Codul penalDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.286/2009 privind Codul penal",
       "registrationNumber": {
         "bpi": "115/15-04-2025",
         "deputyChamber": "115/22.04.2025",
@@ -18,7 +18,15 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["63", "131", "309", "9", "129", "208", "308"],
+      "initiators": [
+        "63",
+        "131",
+        "309",
+        "9",
+        "129",
+        "208",
+        "308"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -46,7 +54,7 @@
     },
     {
       "idp": "22345",
-      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţiiDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii",
       "registrationNumber": {
         "bpi": "145/08-05-2025",
         "deputyChamber": "140/12.05.2025",
@@ -146,7 +154,7 @@
     },
     {
       "idp": "22277",
-      "title": "Proiect de Lege privind instituirea anului 2026 ca Anul Nadia ComăneciDerularea procedurii legislative",
+      "title": "Proiect de Lege privind instituirea anului 2026 ca Anul Nadia Comăneci",
       "registrationNumber": {
         "bpi": "76/25-03-2025159/14-05-2025",
         "deputyChamber": "153/20.05.2025",
@@ -241,7 +249,7 @@
     },
     {
       "idp": "22359",
-      "title": "Propunere legislativă pentru completarea Legii energiei electrice şi a gazelor naturale nr.123/2012Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Legii energiei electrice şi a gazelor naturale nr.123/2012",
       "registrationNumber": {
         "bpi": "162/20-05-2025",
         "deputyChamber": "156/21.05.2025"
@@ -297,7 +305,7 @@
     },
     {
       "idp": "22374",
-      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.448 din 6 decembrie 2006 privind protecţia şi promovarea drepturilor persoanelor cu handicapDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.448 din 6 decembrie 2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap",
       "registrationNumber": {
         "bpi": "178/27-05-2025",
         "deputyChamber": "161/28.05.2025",
@@ -347,7 +355,7 @@
     },
     {
       "idp": "22245",
-      "title": "Proiect de Lege privind declararea lunii martie ca Luna FemeilorDerularea procedurii legislative",
+      "title": "Proiect de Lege privind declararea lunii martie ca Luna Femeilor",
       "registrationNumber": {
         "bpi": "46/05-03-2025200/03-06-2025",
         "deputyChamber": "181/04.06.2025",
@@ -400,7 +408,7 @@
     },
     {
       "idp": "22268",
-      "title": "Proiect de Lege pentru modificarea art.54 din Legea nr.273/2006 privind finanţele publice localeDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea art.54 din Legea nr.273/2006 privind finanţele publice locale",
       "registrationNumber": {
         "bpi": "69/19-03-2025222/11-06-2025",
         "deputyChamber": "190/16.06.2025",
@@ -462,7 +470,7 @@
     },
     {
       "idp": "22415",
-      "title": "Propunere legislativă pentru completarea art.111 alin.(2) din Legea nr.227/2015 privind Codul fiscalDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.111 alin.(2) din Legea nr.227/2015 privind Codul fiscal",
       "registrationNumber": {
         "bpi": "228/11-06-2025",
         "deputyChamber": "199/16.06.2025",
@@ -522,7 +530,7 @@
     },
     {
       "idp": "22296",
-      "title": "Propunere legislativă pentru completarea Legii nr.267/2008 privind unele măsuri speciale pentru reglementarea avansului rest de justificat şi pentru efectuarea recepţiei în fază unică a lucrărilor de construcţii şi a instalaţiilor aferente acestora la obiectivul de investiţii Palatul Parlamentului, precum şi pentru reglementarea unor măsuri cu privire la administrarea imobilului „Palatul Parlamentului”Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Legii nr.267/2008 privind unele măsuri speciale pentru reglementarea avansului rest de justificat şi pentru efectuarea recepţiei în fază unică a lucrărilor de construcţii şi a instalaţiilor aferente acestora la obiectivul de investiţii Palatul Parlamentului, precum şi pentru reglementarea unor măsuri cu privire la administrarea imobilului „Palatul Parlamentului”",
       "registrationNumber": {
         "bpi": "97/02-04-2025264/25-06-2025",
         "deputyChamber": "215/25.06.2025",
@@ -533,8 +541,8 @@
       "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n267/2008",
       "emergencyProcedure": false,
       "status": {
-        "short": "raportdepus",
-        "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+        "short": "la secretarulgeneral",
+        "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
       },
       "initiators": [
         "147",
@@ -576,7 +584,7 @@
     },
     {
       "idp": "22362",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.272/2004 privind protecţia şi promovarea drepturilor copiluluiDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.272/2004 privind protecţia şi promovarea drepturilor copilului",
       "registrationNumber": {
         "bpi": "164/21-05-2025",
         "deputyChamber": "BP164/21.05.2025"

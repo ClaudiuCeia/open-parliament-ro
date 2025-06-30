@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:18:37.235Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:29:31.763Z",
   "data": [
     {
       "idp": "22233",
-      "title": "Propunere legislativă pentru completarea art.546 din Ordonanţa de urgenţă a Guvernului nr.57/2019 privind Codul administrativDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.546 din Ordonanţa de urgenţă a Guvernului nr.57/2019 privind Codul administrativ",
       "registrationNumber": {
         "bpi": "35/26-02-2025",
         "deputyChamber": "63/03.03.2025"
@@ -17,7 +17,9 @@
         "short": "retrasade catre initiator",
         "long": "procedura legislativa încetata prin retragere de catre initiator"
       },
-      "initiators": ["297"],
+      "initiators": [
+        "297"
+      ],
       "publicConsultation": {
         "dueDate": "2025-03-31T00:00:00.000Z",
         "count": 0
@@ -40,7 +42,7 @@
     },
     {
       "idp": "22275",
-      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă 57/2019 privind Codul administrativDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă 57/2019 privind Codul administrativ",
       "registrationNumber": {
         "bpi": "74/25-03-2025",
         "deputyChamber": "86/26.03.2025",
@@ -102,7 +104,7 @@
     },
     {
       "idp": "22321",
-      "title": "Propunere legislativă pentru conectarea românilor din afara graniţelor cu ţaraDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru conectarea românilor din afara graniţelor cu ţara",
       "registrationNumber": {
         "bpi": "120/16-04-2025",
         "deputyChamber": "112/22.04.2025"
@@ -115,7 +117,11 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["118", "272", "297"],
+      "initiators": [
+        "118",
+        "272",
+        "297"
+      ],
       "publicConsultation": {
         "dueDate": "2025-04-30T00:00:00.000Z",
         "count": 0
@@ -134,7 +140,7 @@
     },
     {
       "idp": "22331",
-      "title": "Propunere legislativă pentru modificarea şi completarea art.58 din Legea nr.360/2023 privind sistemul public de pensiiDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea art.58 din Legea nr.360/2023 privind sistemul public de pensii",
       "registrationNumber": {
         "bpi": "131/29-04-2025",
         "deputyChamber": "131/06.05.2025",
@@ -148,7 +154,9 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["297"],
+      "initiators": [
+        "297"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -176,7 +184,7 @@
     },
     {
       "idp": "22332",
-      "title": "Propunere legislativă privind obligativitatea publicării CV-urilor demnitarilor pe site-urile oficiale ale institiţiilor publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă privind obligativitatea publicării CV-urilor demnitarilor pe site-urile oficiale ale institiţiilor publice",
       "registrationNumber": {
         "bpi": "132/29-04-2025",
         "deputyChamber": "132/06.05.2025",
@@ -190,7 +198,9 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["297"],
+      "initiators": [
+        "297"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -214,7 +224,7 @@
     },
     {
       "idp": "22345",
-      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţiiDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii",
       "registrationNumber": {
         "bpi": "145/08-05-2025",
         "deputyChamber": "140/12.05.2025",
@@ -314,7 +324,7 @@
     },
     {
       "idp": "22370",
-      "title": "Proiect de Lege pentru completarea art.15 alin.(2) din Ordonanţa de urgenţă a Guvernului nr.77/2009 privind organizarea şi exploatarea jocurilor de norocDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru completarea art.15 alin.(2) din Ordonanţa de urgenţă a Guvernului nr.77/2009 privind organizarea şi exploatarea jocurilor de noroc",
       "registrationNumber": {
         "bpi": "174/27-05-2025",
         "deputyChamber": "163/28.05.2025",
@@ -328,7 +338,9 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["297"],
+      "initiators": [
+        "297"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -352,7 +364,7 @@
     },
     {
       "idp": "22234",
-      "title": "Propunere legislativă privind modificarea Legii nr.219/1998 privind regimul concesiunilorDerularea procedurii legislative",
+      "title": "Propunere legislativă privind modificarea Legii nr.219/1998 privind regimul concesiunilor",
       "registrationNumber": {
         "bpi": "36/26-02-2025183/27-05-2025",
         "deputyChamber": "169/28.05.2025",
@@ -366,7 +378,9 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["297"],
+      "initiators": [
+        "297"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -394,7 +408,7 @@
     },
     {
       "idp": "22198",
-      "title": "Propunere legislativă pentru completarea art.15 alin.(2) din Ordonanţa de urgenţă a Guvernului nr.77/2009 privind organizarea şi exploatarea jocurilor de norocDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.15 alin.(2) din Ordonanţa de urgenţă a Guvernului nr.77/2009 privind organizarea şi exploatarea jocurilor de noroc",
       "registrationNumber": {
         "bpi": "803/23-12-2024",
         "deputyChamber": "BP803/23.12.2024"
@@ -407,7 +421,9 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": ["297"],
+      "initiators": [
+        "297"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -427,7 +443,7 @@
     },
     {
       "idp": "22392",
-      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.53/3003 - Codul muncii şi a art.6 din Legea nr.108/1999 pentru înfiinţarea şi organizarea Inspecţiei MunciiDerularea procedurii legislative",
+      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.53/3003 - Codul muncii şi a art.6 din Legea nr.108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii",
       "registrationNumber": {
         "bpi": "199/02-06-2025",
         "deputyChamber": "BP199/02.06.2025"
@@ -484,7 +500,7 @@
     },
     {
       "idp": "22299",
-      "title": "Proiect de Hotărâre pentru modificarea Regulamentului Camerei DeputaţilorDerularea procedurii legislative",
+      "title": "Proiect de Hotărâre pentru modificarea Regulamentului Camerei Deputaţilor",
       "registrationNumber": {
         "bpi": "99/07-04-2025",
         "deputyChamber": "BP99/07.04.2025"

@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:13:11.764Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:23:53.201Z",
   "data": [
     {
       "idp": "22398",
-      "title": "Propunere legislativă pentru completarea art.74 a Legii nr.198 din 4 iulie 2023 învăţământului preuniversitarDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.74 a Legii nr.198 din 4 iulie 2023 învăţământului preuniversitar",
       "registrationNumber": {
         "bpi": "207/03-06-2025",
         "deputyChamber": "178/04.06.2025"
@@ -14,8 +14,8 @@
       "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
       "emergencyProcedure": false,
       "status": {
-        "short": "aviz/punct de vederesolicitat",
-        "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
       "initiators": [
         "3",
@@ -53,69 +53,67 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22398"
     },
     {
-      "idp": "22365",
-      "title": "Propunere legislativă pentru modificarea art.4 alin.(2) din Legea 370/2004 pentru alegerea Preşedintelui RomânieiDerularea procedurii legislative",
+      "idp": "22459",
+      "title": "Propunere legislativă pentru completarea Legii nr.50/1991 privind autorizarea executării lucrărilor de construcţii, republicată în Monitorul Oficial al României, Partea I, nr.933 din 13 octombrie 2004, cu modificările şi completările ulterioare",
       "registrationNumber": {
-        "bpi": "167/21-05-2025",
-        "deputyChamber": "BP167/21.05.2025"
+        "bpi": "277/25-06-2025",
+        "deputyChamber": "217/30.06.2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n370/2004",
+      "decidingChamber": "Senatul",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n50/1991",
       "emergencyProcedure": false,
       "status": {
-        "short": "la senat",
-        "long": "la Senat"
+        "short": "aviz/punct de vederesolicitat",
+        "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
       },
       "initiators": [
         "3",
         "5",
-        "62",
         "70",
         "86",
-        "103",
         "135",
-        "246",
-        "10",
-        "251",
-        "137",
+        "245",
+        "318",
+        "8",
+        "15",
+        "33",
+        "99",
+        "227",
+        "301",
+        "315",
         "21",
-        "50",
-        "67",
         "101",
         "128",
         "152",
-        "169",
-        "175",
-        "218",
-        "231",
-        "237",
-        "304",
         "312",
-        "319",
-        "323",
-        "55"
+        "65",
+        "77",
+        "132",
+        "164",
+        "183",
+        "250",
+        "257"
       ],
-      "publicConsultation": "",
+      "publicConsultation": {
+        "dueDate": "2025-08-04T00:00:00.000Z",
+        "count": 0
+      },
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/7/in167.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/7/em167.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/7/em277.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/7/pl167.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/7/pl277.pdf",
           "title": "Forma iniţiatorului"
         }
       ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22365"
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22459"
     },
     {
       "idp": "22390",
-      "title": "Propunere legislativă pentru modificarea Legii nr.135/2010, republicat, privind Codul de procedură penalăDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea Legii nr.135/2010, republicat, privind Codul de procedură penală",
       "registrationNumber": {
         "bpi": "197/28-05-2025",
         "deputyChamber": "BP197/28.05.2025"
@@ -187,7 +185,7 @@
     },
     {
       "idp": "22364",
-      "title": "Propunere legislativă pentru modificarea Legii nr.33/2007 privind organizarea şi desfăşurarea alegerilor pentru Parlamentul EuropeanDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea Legii nr.33/2007 privind organizarea şi desfăşurarea alegerilor pentru Parlamentul European",
       "registrationNumber": {
         "bpi": "166/21-05-2025",
         "deputyChamber": "BP166/21.05.2025"
@@ -246,7 +244,7 @@
     },
     {
       "idp": "22391",
-      "title": "Propunere legislativă pentru modificarea Legii nr.115/2015 pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea Legii administraţiei publice locale nr.215/2001, precum şi pentru modificarea şi completarea Legii nr.393/2004 privind Statutul aleşilor localiDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea Legii nr.115/2015 pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea Legii administraţiei publice locale nr.215/2001, precum şi pentru modificarea şi completarea Legii nr.393/2004 privind Statutul aleşilor locali",
       "registrationNumber": {
         "bpi": "198/02-06-2025",
         "deputyChamber": "BP198/02.06.2025"
@@ -307,68 +305,69 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22391"
     },
     {
-      "idp": "22459",
-      "title": "Propunere legislativă pentru completarea Legii nr.50/1991 privind autorizarea executării lucrărilor de construcţii, republicată în Monitorul Oficial al României, Partea I, nr.933 din 13 octombrie 2004, cu modificările şi completările ulterioareDerularea procedurii legislative",
+      "idp": "22365",
+      "title": "Propunere legislativă pentru modificarea art.4 alin.(2) din Legea 370/2004 pentru alegerea Preşedintelui României",
       "registrationNumber": {
-        "bpi": "277/25-06-2025",
-        "deputyChamber": "BP277/25.06.2025"
+        "bpi": "167/21-05-2025",
+        "deputyChamber": "BP167/21.05.2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
       "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n50/1991",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n370/2004",
       "emergencyProcedure": false,
       "status": {
-        "short": "",
-        "long": ""
+        "short": "la senat",
+        "long": "la Senat"
       },
       "initiators": [
         "3",
         "5",
+        "62",
         "70",
         "86",
+        "103",
         "135",
-        "245",
-        "318",
-        "8",
-        "15",
-        "33",
-        "99",
-        "227",
-        "301",
-        "315",
+        "246",
+        "10",
+        "251",
+        "137",
         "21",
+        "50",
+        "67",
         "101",
         "128",
         "152",
+        "169",
+        "175",
+        "218",
+        "231",
+        "237",
+        "304",
         "312",
-        "65",
-        "77",
-        "132",
-        "164",
-        "183",
-        "250",
-        "257"
+        "319",
+        "323",
+        "55"
       ],
       "publicConsultation": "",
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/7/in277.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/7/in167.pdf",
           "title": "Adresa iniţiatorului"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/7/em277.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/7/em167.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/7/pl277.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/7/pl167.pdf",
           "title": "Forma iniţiatorului"
         }
       ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22459"
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22365"
     },
     {
       "idp": "22389",
-      "title": "Propunere legislativă pentru modificarea Legii nr.143/2000, republicată, privind combaterea traficului şi consumului ilicit de droguriDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea Legii nr.143/2000, republicată, privind combaterea traficului şi consumului ilicit de droguri",
       "registrationNumber": {
         "bpi": "196/28-05-2025",
         "deputyChamber": "BP196/28.05.2025"
@@ -441,7 +440,7 @@
     },
     {
       "idp": "22382",
-      "title": "Propunere legislativă pentru modificarea art.77 alin.(10) din Legea nr.227/2015 privind Codul fiscalDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea art.77 alin.(10) din Legea nr.227/2015 privind Codul fiscal",
       "registrationNumber": {
         "bpi": "188/28-05-2025",
         "deputyChamber": "BP188/28.05.2025"

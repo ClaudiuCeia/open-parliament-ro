@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:13:26.841Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:24:47.948Z",
   "data": [
     {
       "idp": "22264",
-      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"",
       "registrationNumber": {
         "bpi": "64/18-03-2025",
         "deputyChamber": "81/19.03.2025",
@@ -163,7 +163,7 @@
     },
     {
       "idp": "22265",
-      "title": "Proiect de Lege privind instituirea zilei de 15 iunie ca Ziua Banatului MontanDerularea procedurii legislative",
+      "title": "Proiect de Lege privind instituirea zilei de 15 iunie ca Ziua Banatului Montan",
       "registrationNumber": {
         "bpi": "1/30-01-202565/18-03-2025",
         "deputyChamber": "82/19.03.2025",
@@ -224,7 +224,7 @@
     },
     {
       "idp": "22273",
-      "title": "Propunere legislativă pentru completarea art.143 din Legea învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.143 din Legea învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "72/21-03-2025",
         "deputyChamber": "84/24.03.2025",
@@ -282,7 +282,7 @@
     },
     {
       "idp": "22298",
-      "title": "Propunere legislativă privind înfiinţarea Institutului de Formare în Sectorul PublicDerularea procedurii legislative",
+      "title": "Propunere legislativă privind înfiinţarea Institutului de Formare în Sectorul Public",
       "registrationNumber": {
         "bpi": "95/02-04-2025",
         "deputyChamber": "102/07.04.2025",
@@ -350,7 +350,7 @@
     },
     {
       "idp": "22317",
-      "title": "Proiect de Lege pentru modificarea art.22 din Legea nr.10/1995 privind calitatea în construcţii, precum şi pentru completarea art.26 din Legea cadastrului şi publicităţii imobiliare nr.7/1996Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea art.22 din Legea nr.10/1995 privind calitatea în construcţii, precum şi pentru completarea art.26 din Legea cadastrului şi publicităţii imobiliare nr.7/1996",
       "registrationNumber": {
         "bpi": "116/15-04-2025",
         "deputyChamber": "116/22.04.2025",
@@ -465,7 +465,7 @@
     },
     {
       "idp": "22277",
-      "title": "Proiect de Lege privind instituirea anului 2026 ca Anul Nadia ComăneciDerularea procedurii legislative",
+      "title": "Proiect de Lege privind instituirea anului 2026 ca Anul Nadia Comăneci",
       "registrationNumber": {
         "bpi": "76/25-03-2025159/14-05-2025",
         "deputyChamber": "153/20.05.2025",
@@ -560,7 +560,7 @@
     },
     {
       "idp": "22374",
-      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.448 din 6 decembrie 2006 privind protecţia şi promovarea drepturilor persoanelor cu handicapDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.448 din 6 decembrie 2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap",
       "registrationNumber": {
         "bpi": "178/27-05-2025",
         "deputyChamber": "161/28.05.2025",
@@ -610,7 +610,7 @@
     },
     {
       "idp": "22406",
-      "title": "Propunere legislativă pentru modificarea alineatului (4) al articolului 139 din Legea învăţământului preuniversitar nr.198/2023 şi pentru modificarea şi completarea Legii învăţământului superior nr.199/2023Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea alineatului (4) al articolului 139 din Legea învăţământului preuniversitar nr.198/2023 şi pentru modificarea şi completarea Legii învăţământului superior nr.199/2023",
       "registrationNumber": {
         "bpi": "215/11-06-2025",
         "deputyChamber": "187/16.06.2025",
@@ -669,7 +669,7 @@
     },
     {
       "idp": "22268",
-      "title": "Proiect de Lege pentru modificarea art.54 din Legea nr.273/2006 privind finanţele publice localeDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea art.54 din Legea nr.273/2006 privind finanţele publice locale",
       "registrationNumber": {
         "bpi": "69/19-03-2025222/11-06-2025",
         "deputyChamber": "190/16.06.2025",
@@ -731,7 +731,7 @@
     },
     {
       "idp": "22410",
-      "title": "Proiect de Lege pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr.69/2000Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr.69/2000",
       "registrationNumber": {
         "bpi": "220/11-06-2025",
         "deputyChamber": "193/16.06.2025",
@@ -742,8 +742,8 @@
       "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n69/2000",
       "emergencyProcedure": false,
       "status": {
-        "short": "retrimisla comisii",
-        "long": "trimis pentru raport suplimentar la comisiile permanente ale Camerei Deputatilor"
+        "short": "la secretarulgeneral",
+        "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
       },
       "initiators": [
         "18",
@@ -800,7 +800,7 @@
     },
     {
       "idp": "22411",
-      "title": "Proiect de Lege pentru modificarea şi completarea art.143 din Legea învăţământului preuniversitar nr.198/2023Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea art.143 din Legea învăţământului preuniversitar nr.198/2023",
       "registrationNumber": {
         "bpi": "223/11-06-2025",
         "deputyChamber": "195/16.06.2025",
@@ -858,8 +858,77 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22411"
     },
     {
+      "idp": "22457",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.19/2006 privind utilizarea plajei Mării Negre şi controlul activităţilor desfăşurate pe plajă",
+      "registrationNumber": {
+        "bpi": "275/25-06-2025",
+        "deputyChamber": "219/30.06.2025",
+        "senateChamber": "L174/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n19/2006",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "24",
+        "39",
+        "51",
+        "53",
+        "54",
+        "58",
+        "63",
+        "76",
+        "93",
+        "117",
+        "124",
+        "130",
+        "138",
+        "141",
+        "168",
+        "184",
+        "196",
+        "223",
+        "225",
+        "226",
+        "268",
+        "270",
+        "275",
+        "281",
+        "284",
+        "306",
+        "310",
+        "142",
+        "212",
+        "240",
+        "84",
+        "143",
+        "6",
+        "239"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/em275.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/ces275.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/cl275.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22457"
+    },
+    {
       "idp": "22403",
-      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parteDerularea procedurii legislative",
+      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parte",
       "registrationNumber": {
         "bpi": "212/11-06-2025",
         "deputyChamber": "BP212/11.06.2025"
@@ -910,83 +979,6 @@
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22403"
-    },
-    {
-      "idp": "22457",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.19/2006 privind utilizarea plajei Mării Negre şi controlul activităţilor desfăşurate pe plajăDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "275/25-06-2025",
-        "deputyChamber": "BP275/25.06.2025",
-        "senateChamber": "L174/2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n19/2006",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "adoptatde senat",
-        "long": "adoptat de catre Senat"
-      },
-      "initiators": [
-        "24",
-        "39",
-        "51",
-        "53",
-        "54",
-        "58",
-        "63",
-        "76",
-        "93",
-        "117",
-        "124",
-        "130",
-        "138",
-        "141",
-        "168",
-        "184",
-        "196",
-        "223",
-        "225",
-        "226",
-        "268",
-        "270",
-        "275",
-        "281",
-        "284",
-        "306",
-        "310",
-        "142",
-        "212",
-        "240",
-        "84",
-        "143",
-        "6",
-        "239"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/as275.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/in275.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/em275.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/ces275.pdf",
-          "title": "Avizul Consiliului Economic şi Social"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/cl275.pdf",
-          "title": "Avizul Consiliului Legislativ"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22457"
     }
   ]
 }

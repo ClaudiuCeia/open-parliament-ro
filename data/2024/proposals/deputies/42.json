@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:12:46.737Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:34:09.918Z",
   "data": [
     {
       "idp": "22264",
-      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"",
       "registrationNumber": {
         "bpi": "64/18-03-2025",
         "deputyChamber": "81/19.03.2025",
@@ -163,7 +163,7 @@
     },
     {
       "idp": "22357",
-      "title": "Proiect de Lege pentru instituirea anului 2026 ca Anul Constantin BrâncuşiDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2026 ca Anul Constantin Brâncuşi",
       "registrationNumber": {
         "bpi": "158/14-05-2025",
         "deputyChamber": "151/20.05.2025",
@@ -174,8 +174,8 @@
       "type": "Proiect de Lege",
       "emergencyProcedure": false,
       "status": {
-        "short": "adoptat",
-        "long": "adoptat de catre Camera Deputatilor"
+        "short": "la secretarulgeneral",
+        "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
       },
       "initiators": [
         "1",
@@ -252,7 +252,7 @@
     },
     {
       "idp": "22277",
-      "title": "Proiect de Lege privind instituirea anului 2026 ca Anul Nadia ComăneciDerularea procedurii legislative",
+      "title": "Proiect de Lege privind instituirea anului 2026 ca Anul Nadia Comăneci",
       "registrationNumber": {
         "bpi": "76/25-03-2025159/14-05-2025",
         "deputyChamber": "153/20.05.2025",
@@ -264,7 +264,7 @@
       "emergencyProcedure": false,
       "status": {
         "short": "la promulgare",
-        "long": "lege trimisa la promulgare\ntitlu votat:\nLegea privind instituirea anului 2026 ca „Anul Nadia Comăneci”"
+        "long": "lege trimisa la promulgare\n\ntitlu votat:\n\nLegea privind instituirea anului 2026 ca „Anul Nadia Comăneci”"
       },
       "initiators": [
         "1",
@@ -347,7 +347,7 @@
     },
     {
       "idp": "22209",
-      "title": "Propunere legislativă pentru completarea art.22 din Legea nr.143/2000 privind combaterea traficului şi consumului ilicit de droguriDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.22 din Legea nr.143/2000 privind combaterea traficului şi consumului ilicit de droguri",
       "registrationNumber": {
         "bpi": "10/19-02-2025161/14-05-2025",
         "deputyChamber": "155/20.05.2025",
@@ -416,7 +416,7 @@
     },
     {
       "idp": "22276",
-      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă nr.195/2002 privind circulaţia pe drumurile publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă nr.195/2002 privind circulaţia pe drumurile publice",
       "registrationNumber": {
         "bpi": "75/25-03-2025239/17-06-2025",
         "deputyChamber": "204/18.06.2025",
@@ -482,8 +482,69 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22276"
     },
     {
+      "idp": "22434",
+      "title": "Propunere legislativă privind instituirea Zilei Naţionale a Sportului Paralimpic",
+      "registrationNumber": {
+        "bpi": "251/23-06-2025",
+        "deputyChamber": "BP251/23.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "1",
+        "42",
+        "53",
+        "58",
+        "170",
+        "225",
+        "268",
+        "281",
+        "129",
+        "208",
+        "12",
+        "48",
+        "82",
+        "285",
+        "313",
+        "28",
+        "85",
+        "87",
+        "111",
+        "159",
+        "160",
+        "161",
+        "166",
+        "176",
+        "180",
+        "195",
+        "206",
+        "217",
+        "291",
+        "316",
+        "329"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/1/em251.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/1/pl251.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22434"
+    },
+    {
       "idp": "22403",
-      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parteDerularea procedurii legislative",
+      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parte",
       "registrationNumber": {
         "bpi": "212/11-06-2025",
         "deputyChamber": "BP212/11.06.2025"
@@ -534,71 +595,6 @@
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22403"
-    },
-    {
-      "idp": "22434",
-      "title": "Propunere legislativă privind instituirea Zilei Naţionale a Sportului ParalimpicDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "251/23-06-2025",
-        "deputyChamber": "BP251/23.06.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "1",
-        "42",
-        "53",
-        "58",
-        "170",
-        "225",
-        "268",
-        "281",
-        "129",
-        "208",
-        "12",
-        "48",
-        "82",
-        "285",
-        "313",
-        "28",
-        "85",
-        "87",
-        "111",
-        "159",
-        "160",
-        "161",
-        "166",
-        "176",
-        "180",
-        "195",
-        "206",
-        "217",
-        "291",
-        "316",
-        "329"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/1/in251.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/1/em251.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/1/pl251.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22434"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:13:10.886Z",
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T16:23:48.731Z",
   "data": [
     {
       "idp": "22264",
-      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"Derularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Cultural Mihai Eminescu\"",
       "registrationNumber": {
         "bpi": "64/18-03-2025",
         "deputyChamber": "81/19.03.2025",
@@ -163,7 +163,7 @@
     },
     {
       "idp": "22345",
-      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţiiDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii",
       "registrationNumber": {
         "bpi": "145/08-05-2025",
         "deputyChamber": "140/12.05.2025",
@@ -263,7 +263,7 @@
     },
     {
       "idp": "22359",
-      "title": "Propunere legislativă pentru completarea Legii energiei electrice şi a gazelor naturale nr.123/2012Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea Legii energiei electrice şi a gazelor naturale nr.123/2012",
       "registrationNumber": {
         "bpi": "162/20-05-2025",
         "deputyChamber": "156/21.05.2025"
@@ -319,7 +319,7 @@
     },
     {
       "idp": "22374",
-      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.448 din 6 decembrie 2006 privind protecţia şi promovarea drepturilor persoanelor cu handicapDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.448 din 6 decembrie 2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap",
       "registrationNumber": {
         "bpi": "178/27-05-2025",
         "deputyChamber": "161/28.05.2025",
@@ -369,7 +369,7 @@
     },
     {
       "idp": "22380",
-      "title": "Propunere legislativă pentru modificarea şi completare art.7 din Legea nr.41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de TeleviziuneDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completare art.7 din Legea nr.41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune",
       "registrationNumber": {
         "bpi": "186/28-05-2025",
         "deputyChamber": "171/02.06.2025"
@@ -416,7 +416,7 @@
     },
     {
       "idp": "22383",
-      "title": "Propunere legislativă privind organizarea, funcţionarea şi administrarea Catalogului Naţional al Serviciilor PubliceDerularea procedurii legislative",
+      "title": "Propunere legislativă privind organizarea, funcţionarea şi administrarea Catalogului Naţional al Serviciilor Publice",
       "registrationNumber": {
         "bpi": "189/28-05-2025",
         "deputyChamber": "172/02.06.2025"
@@ -426,8 +426,8 @@
       "type": "Propunere legislativa",
       "emergencyProcedure": false,
       "status": {
-        "short": "aviz/punct de vederesolicitat",
-        "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+        "short": "procedura legislativa încetata",
+        "long": "procedura legislativa încetata"
       },
       "initiators": [
         "306",
@@ -487,7 +487,7 @@
     },
     {
       "idp": "22240",
-      "title": "Proiect de Lege pentru instituirea zilei de 15 mai ca Ziua naţională a FamilieiDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru instituirea zilei de 15 mai ca Ziua naţională a Familiei",
       "registrationNumber": {
         "bpi": "41/04-03-2025190/28-05-2025",
         "deputyChamber": "173/02.06.2025",
@@ -538,7 +538,7 @@
     },
     {
       "idp": "22393",
-      "title": "Proiect de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr.175/2022 pentru stabilirea unor măsuri privind obiectivele de investiţii pentru realizarea de amenajări hidroenergetice în curs de execuţie, precum şi a altor proiecte de interes public major care utilizează energie regenerabilă, precum şi pentru modificarea şi completarea unor acte normativeDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr.175/2022 pentru stabilirea unor măsuri privind obiectivele de investiţii pentru realizarea de amenajări hidroenergetice în curs de execuţie, precum şi a altor proiecte de interes public major care utilizează energie regenerabilă, precum şi pentru modificarea şi completarea unor acte normative",
       "registrationNumber": {
         "bpi": "201/03-06-2025",
         "deputyChamber": "179/04.06.2025",
@@ -593,7 +593,7 @@
     },
     {
       "idp": "22244",
-      "title": "Propunere legislativă pentru completarea art.28 Ordonanţa de urgenţă nr.109/2011 privind guvernanţa corporativă a întreprinderilor publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru completarea art.28 Ordonanţa de urgenţă nr.109/2011 privind guvernanţa corporativă a întreprinderilor publice",
       "registrationNumber": {
         "bpi": "45/05-03-2025203/03-06-2025",
         "deputyChamber": "182/04.06.2025",
@@ -607,7 +607,17 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": ["31", "57", "81", "84", "182", "232", "278", "283", "311"],
+      "initiators": [
+        "31",
+        "57",
+        "81",
+        "84",
+        "182",
+        "232",
+        "278",
+        "283",
+        "311"
+      ],
       "publicConsultation": "",
       "documents": [
         {
@@ -635,7 +645,7 @@
     },
     {
       "idp": "22422",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ, pentru completarea Legii minelor nr.85/2003, precum şi pentru completarea art.14 din Legea nr.102/2014 privind cimitirele, crematoriile umane şi serviciile funerareDerularea procedurii legislative",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ, pentru completarea Legii minelor nr.85/2003, precum şi pentru completarea art.14 din Legea nr.102/2014 privind cimitirele, crematoriile umane şi serviciile funerare",
       "registrationNumber": {
         "bpi": "237/17-06-2025",
         "deputyChamber": "201/18.06.2025",
@@ -694,8 +704,228 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22422"
     },
     {
+      "idp": "22457",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.19/2006 privind utilizarea plajei Mării Negre şi controlul activităţilor desfăşurate pe plajă",
+      "registrationNumber": {
+        "bpi": "275/25-06-2025",
+        "deputyChamber": "219/30.06.2025",
+        "senateChamber": "L174/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n19/2006",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "24",
+        "39",
+        "51",
+        "53",
+        "54",
+        "58",
+        "63",
+        "76",
+        "93",
+        "117",
+        "124",
+        "130",
+        "138",
+        "141",
+        "168",
+        "184",
+        "196",
+        "223",
+        "225",
+        "226",
+        "268",
+        "270",
+        "275",
+        "281",
+        "284",
+        "306",
+        "310",
+        "142",
+        "212",
+        "240",
+        "84",
+        "143",
+        "6",
+        "239"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/em275.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/ces275.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/9/cl275.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22457"
+    },
+    {
+      "idp": "22426",
+      "title": "Propunere legislativă pentru modificarea art.10 din Ordonanţa nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în România",
+      "registrationNumber": {
+        "bpi": "243/18-06-2025",
+        "deputyChamber": "BP243/18.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nO.G. nr.\n58/1998",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "22",
+        "9",
+        "17",
+        "30",
+        "49",
+        "56",
+        "81",
+        "84",
+        "88",
+        "110",
+        "143",
+        "182",
+        "199",
+        "232",
+        "244",
+        "271",
+        "273",
+        "283",
+        "311",
+        "320"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/3/em243.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/3/pl243.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22426"
+    },
+    {
+      "idp": "22392",
+      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.53/3003 - Codul muncii şi a art.6 din Legea nr.108/1999 pentru înfiinţarea şi organizarea Inspecţiei Muncii",
+      "registrationNumber": {
+        "bpi": "199/02-06-2025",
+        "deputyChamber": "BP199/02.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n53/2003\nmodificarea\nL. nr.\n108/1999",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "7",
+        "31",
+        "49",
+        "56",
+        "57",
+        "66",
+        "79",
+        "84",
+        "110",
+        "129",
+        "199",
+        "208",
+        "214",
+        "332",
+        "232",
+        "234",
+        "244",
+        "273",
+        "278",
+        "283",
+        "297",
+        "300",
+        "311"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/9/in199.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/9/em199.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/9/pl199.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22392"
+    },
+    {
+      "idp": "22272",
+      "title": "Propunere legislativă pentru modificarea şi completarea art.15 din Ordonanţa de urgenţă nr.77/2009 privind organizarea şi exploatarea jocurilor de noroc",
+      "registrationNumber": {
+        "bpi": "66/19-03-2025",
+        "deputyChamber": "BP66/19.03.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n77/2009",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "9",
+        "66",
+        "81",
+        "84",
+        "110",
+        "182",
+        "232",
+        "271",
+        "283",
+        "311"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/60/6/in66.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/60/6/em66.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/60/6/pl66.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22272"
+    },
+    {
       "idp": "22416",
-      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publiceDerularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",
       "registrationNumber": {
         "bpi": "229/11-06-2025",
         "deputyChamber": "BP229/11.06.2025"
@@ -765,135 +995,8 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22416"
     },
     {
-      "idp": "22426",
-      "title": "Propunere legislativă pentru modificarea art.10 din Ordonanţa nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în RomâniaDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "243/18-06-2025",
-        "deputyChamber": "BP243/18.06.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nO.G. nr.\n58/1998",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "22",
-        "9",
-        "17",
-        "30",
-        "49",
-        "56",
-        "81",
-        "84",
-        "88",
-        "110",
-        "143",
-        "182",
-        "199",
-        "232",
-        "244",
-        "271",
-        "273",
-        "283",
-        "311",
-        "320"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/3/em243.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/3/pl243.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22426"
-    },
-    {
-      "idp": "22457",
-      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.19/2006 privind utilizarea plajei Mării Negre şi controlul activităţilor desfăşurate pe plajăDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "275/25-06-2025",
-        "deputyChamber": "BP275/25.06.2025",
-        "senateChamber": "L174/2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n19/2006",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "adoptatde senat",
-        "long": "adoptat de catre Senat"
-      },
-      "initiators": [
-        "24",
-        "39",
-        "51",
-        "53",
-        "54",
-        "58",
-        "63",
-        "76",
-        "93",
-        "117",
-        "124",
-        "130",
-        "138",
-        "141",
-        "168",
-        "184",
-        "196",
-        "223",
-        "225",
-        "226",
-        "268",
-        "270",
-        "275",
-        "281",
-        "284",
-        "306",
-        "310",
-        "142",
-        "212",
-        "240",
-        "84",
-        "143",
-        "6",
-        "239"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/as275.pdf",
-          "title": "Adresa Senatului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/in275.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/em275.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/ces275.pdf",
-          "title": "Avizul Consiliului Economic şi Social"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/70/5/cl275.pdf",
-          "title": "Avizul Consiliului Legislativ"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22457"
-    },
-    {
       "idp": "22368",
-      "title": "Propunere legislativă privind protecţia minorilor sub 18 ani în faţa conţinutului nociv distribuit pe platformele online de tip very large online platforms (vlop)Derularea procedurii legislative",
+      "title": "Propunere legislativă privind protecţia minorilor sub 18 ani în faţa conţinutului nociv distribuit pe platformele online de tip very large online platforms (vlop)",
       "registrationNumber": {
         "bpi": "170/27-05-2025",
         "deputyChamber": "BP170/27.05.2025"
@@ -944,109 +1047,8 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22368"
     },
     {
-      "idp": "22392",
-      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.53/3003 - Codul muncii şi a art.6 din Legea nr.108/1999 pentru înfiinţarea şi organizarea Inspecţiei MunciiDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "199/02-06-2025",
-        "deputyChamber": "BP199/02.06.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n53/2003\nmodificarea\nL. nr.\n108/1999",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "7",
-        "31",
-        "49",
-        "56",
-        "57",
-        "66",
-        "79",
-        "84",
-        "110",
-        "129",
-        "199",
-        "208",
-        "214",
-        "332",
-        "232",
-        "234",
-        "244",
-        "273",
-        "278",
-        "283",
-        "297",
-        "300",
-        "311"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/9/in199.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/9/em199.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/9/pl199.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22392"
-    },
-    {
-      "idp": "22272",
-      "title": "Propunere legislativă pentru modificarea şi completarea art.15 din Ordonanţa de urgenţă nr.77/2009 privind organizarea şi exploatarea jocurilor de norocDerularea procedurii legislative",
-      "registrationNumber": {
-        "bpi": "66/19-03-2025",
-        "deputyChamber": "BP66/19.03.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n77/2009",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "9",
-        "66",
-        "81",
-        "84",
-        "110",
-        "182",
-        "232",
-        "271",
-        "283",
-        "311"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/60/6/in66.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/60/6/em66.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/60/6/pl66.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22272"
-    },
-    {
       "idp": "22361",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr.407/2006Derularea procedurii legislative",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr.407/2006",
       "registrationNumber": {
         "bpi": "163/20-05-2025",
         "deputyChamber": "BP163/20.05.2025"
