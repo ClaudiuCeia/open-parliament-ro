@@ -4,7 +4,6 @@ on:
   # Run every 3 hours for redundancy
   schedule:
   - cron: '0 */3 * * *'
-
   # Allow manual triggering
   workflow_dispatch:
     inputs:
@@ -16,7 +15,7 @@ on:
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, linux, eu]
 
     steps:
     - name: Checkout repository
