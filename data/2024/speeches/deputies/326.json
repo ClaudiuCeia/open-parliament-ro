@@ -1,175 +1,171 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-28T14:18:22.314Z",
-  "data": {
-    "idm": "326",
-    "idv": "7642",
-    "speeches": [
-      {
-        "ids": "8898",
-        "idv": "7642",
-        "idm": "326",
-        "date": "2025-05-27T21:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 28 mai        2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8898&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1,015&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1,015&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Voicu Vuşcan - declaraţie politică având titlul \"Există o singură Românie\";"
-          }
-        ]
-      },
-      {
-        "ids": "8890",
-        "idv": "7642",
-        "idm": "326",
-        "date": "2025-05-06T21:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 7 mai        2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8890&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=5&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=5&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 14/2024 privind instituirea unei scheme de ajutor de stat pentru compensarea parţială a pierderilor suferite în anul 2023 în sectorul apicol, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei (PL-x 198/2024) (rămas pentru votul final)."
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=4&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=4&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Dezbaterea Proiectului de Lege pentru completarea art. 3 din Legea nr. 79/2019 privind instituirea Zilei naţionale a gastronomiei şi a vinului românesc (PL-x 415/2024) (rămas pentru votul final)."
-          }
-        ]
-      },
-      {
-        "ids": "8881",
-        "idv": "7642",
-        "idm": "326",
-        "date": "2025-04-01T21:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 2 aprilie    2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8881&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1,016&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1,016&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Voicu Vuşcan - declaraţie politică: \"Uniţi, independenţi şi europeni în democraţie\";"
-          }
-        ]
-      },
-      {
-        "ids": "8880",
-        "idv": "7642",
-        "idm": "326",
-        "date": "2025-03-30T21:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 31 martie     2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8880&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8880&idm=8&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8880&idm=8&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea Legii nr. 526/2003 pentru aprobarea Programului naţional de dezvoltare a turismului \"Schi în România\" (PL-x 524/2021) (rămas pentru votul final)."
-          }
-        ]
-      },
-      {
-        "ids": "8868",
-        "idv": "7642",
-        "idm": "326",
-        "date": "2025-03-11T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 12 martie     2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8868&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,017&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,017&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Voicu Vuşcan - declaraţie politică: \"Suveran şi patriot e fiecare român care îşi iubeşte ţara şi respectă legile\";"
-          }
-        ]
-      },
-      {
-        "ids": "8861",
-        "idv": "7642",
-        "idm": "326",
-        "date": "2025-02-25T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 26 februarie  2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8861&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1,018&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1,018&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Voicu Vuşcan - declaraţie politică având ca temă \"O moţiune împotriva stabilităţii României, la fel ca şi partidul care a depus-o, AUR\";"
-          }
-        ]
-      },
-      {
-        "ids": "8856",
-        "idv": "7642",
-        "idm": "326",
-        "date": "2025-02-18T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 19 februarie  2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8856&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=3&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=3&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Dezbaterea Proiectului de Lege pentru modificarea art. 2 din Ordonanţa de urgenţă a Guvernului nr. 43/2013 privind unele măsuri pentru dezvoltarea şi susţinerea fermelor de familie şi facilitarea accesului la finanţare al fermierilor (PL-x 395/2016) (rămas pentru votul final)."
-          }
-        ]
-      },
-      {
-        "ids": "8852",
-        "idv": "7642",
-        "idm": "326",
-        "date": "2025-02-11T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 12 februarie  2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8852&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1,013&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1,013&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Voicu Vuşcan - declaraţie politică referitoare la \"Investiţii de peste 250 de milioane de euro în dezvoltarea fabricilor româneşti\";"
-          }
-        ]
-      },
-      {
-        "ids": "8840",
-        "idv": "7642",
-        "idm": "326",
-        "date": "2024-12-20T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
-          }
-        ]
-      }
-    ]
-  }
+  "lastUpdated": "2025-06-30T14:17:59.117Z",
+  "data": [
+    {
+      "ids": "8898",
+      "idv": "7642",
+      "idm": "326",
+      "date": "2025-05-28T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 28 mai        2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8898&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1,015&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1,015&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Voicu Vuşcan - declaraţie politică având titlul \"Există o singură Românie\";"
+        }
+      ]
+    },
+    {
+      "ids": "8890",
+      "idv": "7642",
+      "idm": "326",
+      "date": "2025-05-07T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 7 mai        2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8890&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=5&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=5&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 14/2024 privind instituirea unei scheme de ajutor de stat pentru compensarea parţială a pierderilor suferite în anul 2023 în sectorul apicol, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei (PL-x 198/2024) (rămas pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=4&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=4&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru completarea art. 3 din Legea nr. 79/2019 privind instituirea Zilei naţionale a gastronomiei şi a vinului românesc (PL-x 415/2024) (rămas pentru votul final)."
+        }
+      ]
+    },
+    {
+      "ids": "8881",
+      "idv": "7642",
+      "idm": "326",
+      "date": "2025-04-02T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 2 aprilie    2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8881&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1,016&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1,016&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Voicu Vuşcan - declaraţie politică: \"Uniţi, independenţi şi europeni în democraţie\";"
+        }
+      ]
+    },
+    {
+      "ids": "8880",
+      "idv": "7642",
+      "idm": "326",
+      "date": "2025-03-31T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 31 martie     2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8880&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8880&idm=8&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8880&idm=8&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea Legii nr. 526/2003 pentru aprobarea Programului naţional de dezvoltare a turismului \"Schi în România\" (PL-x 524/2021) (rămas pentru votul final)."
+        }
+      ]
+    },
+    {
+      "ids": "8868",
+      "idv": "7642",
+      "idm": "326",
+      "date": "2025-03-12T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 12 martie     2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8868&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,017&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,017&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Voicu Vuşcan - declaraţie politică: \"Suveran şi patriot e fiecare român care îşi iubeşte ţara şi respectă legile\";"
+        }
+      ]
+    },
+    {
+      "ids": "8861",
+      "idv": "7642",
+      "idm": "326",
+      "date": "2025-02-26T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 26 februarie  2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8861&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1,018&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1,018&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Voicu Vuşcan - declaraţie politică având ca temă \"O moţiune împotriva stabilităţii României, la fel ca şi partidul care a depus-o, AUR\";"
+        }
+      ]
+    },
+    {
+      "ids": "8856",
+      "idv": "7642",
+      "idm": "326",
+      "date": "2025-02-19T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 19 februarie  2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8856&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=3&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru modificarea art. 2 din Ordonanţa de urgenţă a Guvernului nr. 43/2013 privind unele măsuri pentru dezvoltarea şi susţinerea fermelor de familie şi facilitarea accesului la finanţare al fermierilor (PL-x 395/2016) (rămas pentru votul final)."
+        }
+      ]
+    },
+    {
+      "ids": "8852",
+      "idv": "7642",
+      "idm": "326",
+      "date": "2025-02-12T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 12 februarie  2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8852&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1,013&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1,013&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Voicu Vuşcan - declaraţie politică referitoare la \"Investiţii de peste 250 de milioane de euro în dezvoltarea fabricilor româneşti\";"
+        }
+      ]
+    },
+    {
+      "ids": "8840",
+      "idv": "7642",
+      "idm": "326",
+      "date": "2024-12-21T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7642&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7642%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
+        }
+      ]
+    }
+  ]
 }

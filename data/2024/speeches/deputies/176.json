@@ -1,70 +1,66 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-28T14:17:21.911Z",
-  "data": {
-    "idm": "176",
-    "idv": "6701",
-    "speeches": [
-      {
-        "ids": "8904",
-        "idv": "6701",
-        "idm": "176",
-        "date": "2025-06-15T21:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 16 iunie      2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8904&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8904&idm=8&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8904&idm=8&sir=&sep=and&idv=6701&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Dezbaterea Proiectului de Lege pentru modificarea Legii fondului funciar nr. 18/1991 (PL-x 128/2024) (rămas pentru votul final)."
-          }
-        ]
-      },
-      {
-        "ids": "8898",
-        "idv": "6701",
-        "idm": "176",
-        "date": "2025-05-27T21:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 28 mai        2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8898&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=5&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=5&sir=&sep=and&idv=6701&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 7/2024 privind aprobarea schemei de ajutor de stat \"Creditul fermierului\", în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum şi pentru modificarea art. 12 alin. (1) din Legea nr. 218/2005 privind stimularea absorbţiei fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit şi afaceri maritime, gestionate de Ministerul Agriculturii şi Dezvoltării Rurale, prin instrumente financiare de garantare şi creditare, precum şi pentru susţinerea obiectivelor naţionale de politică agricolă (PL-x 117/2024) (rămas pentru votul final)."
-          }
-        ]
-      },
-      {
-        "ids": "8861",
-        "idv": "6701",
-        "idm": "176",
-        "date": "2025-02-25T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 26 februarie  2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8861&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=11&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=11&sir=&sep=and&idv=6701&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Dezbaterea Proiectului de Lege pentru modificarea art. 10 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 34/2013 privind organizarea, administrarea şi exploatarea pajiştilor permanente şi pentru modificarea şi completarea Legii fondului funciar nr. 18/1991 (PL-x 644/2024) (rămas pentru votul final)."
-          }
-        ]
-      },
-      {
-        "ids": "8840",
-        "idv": "6701",
-        "idm": "176",
-        "date": "2024-12-20T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=6701&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
-          }
-        ]
-      }
-    ]
-  }
+  "lastUpdated": "2025-06-30T14:17:03.450Z",
+  "data": [
+    {
+      "ids": "8904",
+      "idv": "6701",
+      "idm": "176",
+      "date": "2025-06-16T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 16 iunie      2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8904&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8904&idm=8&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8904&idm=8&sir=&sep=and&idv=6701&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru modificarea Legii fondului funciar nr. 18/1991 (PL-x 128/2024) (rămas pentru votul final)."
+        }
+      ]
+    },
+    {
+      "ids": "8898",
+      "idv": "6701",
+      "idm": "176",
+      "date": "2025-05-28T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 28 mai        2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8898&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=5&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=5&sir=&sep=and&idv=6701&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 7/2024 privind aprobarea schemei de ajutor de stat \"Creditul fermierului\", în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum şi pentru modificarea art. 12 alin. (1) din Legea nr. 218/2005 privind stimularea absorbţiei fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit şi afaceri maritime, gestionate de Ministerul Agriculturii şi Dezvoltării Rurale, prin instrumente financiare de garantare şi creditare, precum şi pentru susţinerea obiectivelor naţionale de politică agricolă (PL-x 117/2024) (rămas pentru votul final)."
+        }
+      ]
+    },
+    {
+      "ids": "8861",
+      "idv": "6701",
+      "idm": "176",
+      "date": "2025-02-26T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 26 februarie  2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8861&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=11&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=11&sir=&sep=and&idv=6701&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru modificarea art. 10 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 34/2013 privind organizarea, administrarea şi exploatarea pajiştilor permanente şi pentru modificarea şi completarea Legii fondului funciar nr. 18/1991 (PL-x 644/2024) (rămas pentru votul final)."
+        }
+      ]
+    },
+    {
+      "ids": "8840",
+      "idv": "6701",
+      "idm": "176",
+      "date": "2024-12-21T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=6701&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6701%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
+        }
+      ]
+    }
+  ]
 }

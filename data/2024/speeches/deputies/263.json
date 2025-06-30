@@ -1,75 +1,71 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-28T14:17:53.349Z",
-  "data": {
-    "idm": "263",
-    "idv": "7770",
-    "speeches": [
-      {
-        "ids": "8853",
-        "idv": "7770",
-        "idm": "263",
-        "date": "2025-02-16T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 17 februarie  2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8853&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12&sir=&sep=and&idv=7770&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Prezentarea, pe scurt, a interpelărilor adresate membrilor Guvernului."
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12,006&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12,006&sir=&sep=and&idv=7770&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Fabian-Cristian Radu"
-          }
-        ]
-      },
-      {
-        "ids": "8855",
-        "idv": "7770",
-        "idm": "263",
-        "date": "2025-02-04T22:00:00.000Z",
-        "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 5 februarie  2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8855&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8855&idm=2&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8855&idm=2&sir=&sep=and&idv=7770&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Dezbaterea şi adoptarea Proiectului Legii bugetului de stat pe anul 2025. (L13/2025, PL-x 1/2025)"
-          }
-        ]
-      },
-      {
-        "ids": "8846",
-        "idv": "7770",
-        "idm": "263",
-        "date": "2025-02-02T22:00:00.000Z",
-        "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 3 februarie  2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8846&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8846&idm=3&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8846&idm=3&sir=&sep=and&idv=7770&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Depunerea jurământului de către membrii Comisiei comune permanente a Camerei Deputaţilor şi Senatului pentru exercitarea controlului parlamentar asupra activităţii Serviciului Român de Informaţii."
-          }
-        ]
-      },
-      {
-        "ids": "8840",
-        "idv": "7770",
-        "idm": "263",
-        "date": "2024-12-20T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7770&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
-          }
-        ]
-      }
-    ]
-  }
+  "lastUpdated": "2025-06-30T14:17:34.061Z",
+  "data": [
+    {
+      "ids": "8853",
+      "idv": "7770",
+      "idm": "263",
+      "date": "2025-02-17T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 17 februarie  2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8853&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12&sir=&sep=and&idv=7770&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Prezentarea, pe scurt, a interpelărilor adresate membrilor Guvernului."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12,006&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12,006&sir=&sep=and&idv=7770&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Fabian-Cristian Radu"
+        }
+      ]
+    },
+    {
+      "ids": "8855",
+      "idv": "7770",
+      "idm": "263",
+      "date": "2025-02-05T00:00:00.000Z",
+      "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 5 februarie  2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8855&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8855&idm=2&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8855&idm=2&sir=&sep=and&idv=7770&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea şi adoptarea Proiectului Legii bugetului de stat pe anul 2025. (L13/2025, PL-x 1/2025)"
+        }
+      ]
+    },
+    {
+      "ids": "8846",
+      "idv": "7770",
+      "idm": "263",
+      "date": "2025-02-03T00:00:00.000Z",
+      "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 3 februarie  2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8846&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8846&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8846&idm=3&sir=&sep=and&idv=7770&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Depunerea jurământului de către membrii Comisiei comune permanente a Camerei Deputaţilor şi Senatului pentru exercitarea controlului parlamentar asupra activităţii Serviciului Român de Informaţii."
+        }
+      ]
+    },
+    {
+      "ids": "8840",
+      "idv": "7770",
+      "idm": "263",
+      "date": "2024-12-21T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7770&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7770%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
+        }
+      ]
+    }
+  ]
 }

@@ -1,140 +1,151 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-28T14:17:02.159Z",
-  "data": {
-    "idm": "122",
-    "idv": "6056",
-    "speeches": [
-      {
-        "ids": "8905",
-        "idv": "6056",
-        "idm": "122",
-        "date": "2025-06-17T21:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 18 iunie      2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8905&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1,016&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1,016&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Giureci-Slobodan Ghera - declaraţie politică intitulată \"Instituirea şi sărbătorirea Zilei Banatului Montan, în data de 15 iunie\";"
-          }
-        ]
-      },
-      {
-        "ids": "8898",
-        "idv": "6056",
-        "idm": "122",
-        "date": "2025-05-27T21:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 28 mai        2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8898&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1,013&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1,013&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Giureci-Slobodan Ghera - intervenţie intitulată \"Ziua Naţională a Republicii Croaţia\";"
-          }
-        ]
-      },
-      {
-        "ids": "8894",
-        "idv": "6056",
-        "idm": "122",
-        "date": "2025-05-20T21:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 21 mai        2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8894&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1,007&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1,007&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Giureci-Slobodan Ghera - intervenţie intitulată \"Olimpiada Naţională de Limba Croată şi Limba Rusă Maternă - un nou prilej de afirmare a identităţii culturale şi lingvistice\";"
-          }
-        ]
-      },
-      {
-        "ids": "8868",
-        "idv": "6056",
-        "idm": "122",
-        "date": "2025-03-11T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 12 martie     2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8868&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,018&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,018&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Giureci-Slobodan Ghera - intervenţie intitulată \"Sărbătorirea Zilei limbii materne croate la Ambasada Republicii Croaţia, precum şi marcarea a 58 de ani de la publicarea Declaraţiei privind denumirea şi statutul limbii literare croate\";"
-          }
-        ]
-      },
-      {
-        "ids": "8863",
-        "idv": "6056",
-        "idm": "122",
-        "date": "2025-03-04T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 5 martie     2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8863&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1,025&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1,025&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Giureci-Slobodan Ghera - declaraţie politică intitulată \"Ansamblul folcloric Karaevska Zora al Uniunii Croaţilor din România, promotor al culturii tradiţionale croate, la Târgul de Turism al României, 2025\"."
-          }
-        ]
-      },
-      {
-        "ids": "8842",
-        "idv": "6056",
-        "idm": "122",
-        "date": "2024-12-22T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 23 decembrie  2024",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8842&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Alegerea preşedintelui Camerei Deputaţilor."
-          }
-        ]
-      },
-      {
-        "ids": "8840",
-        "idv": "6056",
-        "idm": "122",
-        "date": "2024-12-20T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
-          }
-        ]
-      }
-    ]
-  }
+  "lastUpdated": "2025-06-30T14:16:45.488Z",
+  "data": [
+    {
+      "ids": "8908",
+      "idv": "6056",
+      "idm": "122",
+      "date": "2025-06-24T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 24 iunie      2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8908&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Alegerea preşedintelui Camerei Deputaţilor (PHCD 49/2025) (vot secret cu buletine de vot)."
+        }
+      ]
+    },
+    {
+      "ids": "8905",
+      "idv": "6056",
+      "idm": "122",
+      "date": "2025-06-18T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 18 iunie      2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8905&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1,016&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1,016&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Giureci-Slobodan Ghera - declaraţie politică intitulată \"Instituirea şi sărbătorirea Zilei Banatului Montan, în data de 15 iunie\";"
+        }
+      ]
+    },
+    {
+      "ids": "8898",
+      "idv": "6056",
+      "idm": "122",
+      "date": "2025-05-28T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 28 mai        2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8898&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1,013&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1,013&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Giureci-Slobodan Ghera - intervenţie intitulată \"Ziua Naţională a Republicii Croaţia\";"
+        }
+      ]
+    },
+    {
+      "ids": "8894",
+      "idv": "6056",
+      "idm": "122",
+      "date": "2025-05-21T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 21 mai        2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8894&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1,007&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1,007&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Giureci-Slobodan Ghera - intervenţie intitulată \"Olimpiada Naţională de Limba Croată şi Limba Rusă Maternă - un nou prilej de afirmare a identităţii culturale şi lingvistice\";"
+        }
+      ]
+    },
+    {
+      "ids": "8868",
+      "idv": "6056",
+      "idm": "122",
+      "date": "2025-03-12T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 12 martie     2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8868&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,018&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,018&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Giureci-Slobodan Ghera - intervenţie intitulată \"Sărbătorirea Zilei limbii materne croate la Ambasada Republicii Croaţia, precum şi marcarea a 58 de ani de la publicarea Declaraţiei privind denumirea şi statutul limbii literare croate\";"
+        }
+      ]
+    },
+    {
+      "ids": "8863",
+      "idv": "6056",
+      "idm": "122",
+      "date": "2025-03-05T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 5 martie     2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8863&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1,025&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1,025&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Giureci-Slobodan Ghera - declaraţie politică intitulată \"Ansamblul folcloric Karaevska Zora al Uniunii Croaţilor din România, promotor al culturii tradiţionale croate, la Târgul de Turism al României, 2025\"."
+        }
+      ]
+    },
+    {
+      "ids": "8842",
+      "idv": "6056",
+      "idm": "122",
+      "date": "2024-12-23T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 23 decembrie  2024",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8842&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=1&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Alegerea preşedintelui Camerei Deputaţilor."
+        }
+      ]
+    },
+    {
+      "ids": "8840",
+      "idv": "6056",
+      "idm": "122",
+      "date": "2024-12-21T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=6056&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6056%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
+        }
+      ]
+    }
+  ]
 }

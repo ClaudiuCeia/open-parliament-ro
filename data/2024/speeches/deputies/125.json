@@ -1,110 +1,106 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-28T14:17:03.255Z",
-  "data": {
-    "idm": "125",
-    "idv": "7693",
-    "speeches": [
-      {
-        "ids": "8893",
-        "idv": "7693",
-        "idm": "125",
-        "date": "2025-05-19T21:00:00.000Z",
-        "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 20 mai        2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8893&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8893&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8893&idm=1&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Alocuţiuni consacrate marcării zilei de 14 mai - Ziua Solidarităţii şi Prieteniei dintre România şi Statul Israel."
-          }
-        ]
-      },
-      {
-        "ids": "8880",
-        "idv": "7693",
-        "idm": "125",
-        "date": "2025-03-30T21:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 31 martie     2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8880&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8880&idm=4&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8880&idm=4&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Intervenţia domnului deputat George Gima, din partea Grupului parlamentar al USR."
-          }
-        ]
-      },
-      {
-        "ids": "8868",
-        "idv": "7693",
-        "idm": "125",
-        "date": "2025-03-11T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 12 martie     2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8868&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,021&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,021&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "George Gima - declaraţie politică referitoare la unele subiecte de actualitate;"
-          }
-        ]
-      },
-      {
-        "ids": "8863",
-        "idv": "7693",
-        "idm": "125",
-        "date": "2025-03-04T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 5 martie     2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8863&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-          },
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1,022&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1,022&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "George Gima - declaraţie politică având ca temă situaţia Şantierului Naval din Mangalia;"
-          }
-        ]
-      },
-      {
-        "ids": "8855",
-        "idv": "7693",
-        "idm": "125",
-        "date": "2025-02-04T22:00:00.000Z",
-        "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 5 februarie  2025",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8855&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8855&idm=2&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8855&idm=2&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Dezbaterea şi adoptarea Proiectului Legii bugetului de stat pe anul 2025. (L13/2025, PL-x 1/2025)"
-          }
-        ]
-      },
-      {
-        "ids": "8840",
-        "idv": "7693",
-        "idm": "125",
-        "date": "2024-12-20T22:00:00.000Z",
-        "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
-        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
-        "transcripts": [
-          {
-            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
-            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-            "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
-          }
-        ]
-      }
-    ]
-  }
+  "lastUpdated": "2025-06-30T14:16:46.560Z",
+  "data": [
+    {
+      "ids": "8893",
+      "idv": "7693",
+      "idm": "125",
+      "date": "2025-05-20T00:00:00.000Z",
+      "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 20 mai        2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8893&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8893&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8893&idm=1&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Alocuţiuni consacrate marcării zilei de 14 mai - Ziua Solidarităţii şi Prieteniei dintre România şi Statul Israel."
+        }
+      ]
+    },
+    {
+      "ids": "8880",
+      "idv": "7693",
+      "idm": "125",
+      "date": "2025-03-31T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 31 martie     2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8880&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8880&idm=4&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8880&idm=4&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Intervenţia domnului deputat George Gima, din partea Grupului parlamentar al USR."
+        }
+      ]
+    },
+    {
+      "ids": "8868",
+      "idv": "7693",
+      "idm": "125",
+      "date": "2025-03-12T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 12 martie     2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8868&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,021&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,021&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "George Gima - declaraţie politică referitoare la unele subiecte de actualitate;"
+        }
+      ]
+    },
+    {
+      "ids": "8863",
+      "idv": "7693",
+      "idm": "125",
+      "date": "2025-03-05T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 5 martie     2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8863&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1,022&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1,022&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "George Gima - declaraţie politică având ca temă situaţia Şantierului Naval din Mangalia;"
+        }
+      ]
+    },
+    {
+      "ids": "8855",
+      "idv": "7693",
+      "idm": "125",
+      "date": "2025-02-05T00:00:00.000Z",
+      "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 5 februarie  2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8855&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8855&idm=2&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8855&idm=2&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea şi adoptarea Proiectului Legii bugetului de stat pe anul 2025. (L13/2025, PL-x 1/2025)"
+        }
+      ]
+    },
+    {
+      "ids": "8840",
+      "idv": "7693",
+      "idm": "125",
+      "date": "2024-12-21T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7693&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7693%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
+        }
+      ]
+    }
+  ]
 }
