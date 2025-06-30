@@ -34,7 +34,8 @@ export type LegislativeProposal = {
         dueDate: Date;
         count: number;
       }
-    | string;
+    | string
+    | null;
   documents: {
     textUrl: string;
     title: string;
@@ -47,10 +48,10 @@ export type LegislativeProposal = {
 // Termen: 12.05.2025\nNumar propuneri/sugestii validate: 1
 const parsePublicConsultation = (
   text: string,
-): LegislativeProposal["publicConsultation"] | string => {
+): LegislativeProposal["publicConsultation"] => {
   // TODO: Should be optional
   if (text.trim() === "") {
-    return "";
+    return null;
   }
 
   const log = logger.child({
@@ -88,7 +89,7 @@ const parsePublicConsultation = (
     index: 0,
   });
 
-  let publicConsultation: LegislativeProposal["publicConsultation"] | string;
+  let publicConsultation: LegislativeProposal["publicConsultation"];
   if (!consultationResult.success) {
     log.debug(
       `Failed to parse public consultation for proposal: "${text}", expected "${consultationResult.expected}" at "Ln ${consultationResult.location.line}, Col ${consultationResult.location.column}"`,
