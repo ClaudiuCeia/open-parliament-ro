@@ -1,0 +1,25 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:11:22.540Z",
+  "data": {
+    "idm": "282",
+    "name": "Ionel STANCU",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=282&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/StancuIonel.JPG",
+    "group": {
+      "idg": "8",
+      "name": "Grupul parlamentar al minorităţilor naţionale",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 2,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=6103&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 9,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=282&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:09:09.437Z",
+  "data": {
+    "idm": "53",
+    "name": "Crina-Fiorela CHILAT",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=53&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/ChilatCrinaFiorela.JPG",
+    "party": {
+      "idp": "40",
+      "abbrev": "PSD",
+      "name": "Partidul Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=40"
+    },
+    "group": {
+      "idg": "1",
+      "name": "Grupul parlamentar al Partidului Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+    },
+    "district": {
+      "cir": "25",
+      "name": "MARAMUREŞ",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7732&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 21,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=53&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      }
+    }
+  }
+}

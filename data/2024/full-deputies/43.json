@@ -1,0 +1,40 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:09:02.694Z",
+  "data": {
+    "idm": "43",
+    "name": "Cristian BUICAN",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=43&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/BuicanCristian.JPG",
+    "party": {
+      "idp": "27",
+      "abbrev": "PNL",
+      "name": "Partidul Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=27"
+    },
+    "group": {
+      "idg": "3",
+      "name": "Grupul parlamentar al Partidului Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+    },
+    "district": {
+      "cir": "39",
+      "name": "VÂLCEA",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=5379&leg=2024&idl=1"
+      },
+      "Declaraţii politice depuse în scris": {
+        "count": 2,
+        "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=5379&leg=2024&idl=1"
+      },
+      "Întrebari şi interpelări": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=43&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      }
+    }
+  }
+}

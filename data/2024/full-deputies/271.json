@@ -1,0 +1,44 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:11:16.368Z",
+  "data": {
+    "idm": "271",
+    "name": "Florin-Claudiu ROMAN",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=271&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/RomanFlorinClaudiu.JPG",
+    "party": {
+      "idp": "27",
+      "abbrev": "PNL",
+      "name": "Partidul Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=27"
+    },
+    "group": {
+      "idg": "3",
+      "name": "Grupul parlamentar al Partidului Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+    },
+    "district": {
+      "cir": "1",
+      "name": "ALBA",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=1"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 24,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=6597&leg=2024&idl=1"
+      },
+      "Declaraţii politice depuse în scris": {
+        "count": 18,
+        "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=6597&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 32,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=271&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Proiecte de hotarâre iniţiate": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=271&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
+      }
+    }
+  }
+}

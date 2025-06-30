@@ -1,0 +1,21 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:11:51.990Z",
+  "data": {
+    "idm": "146",
+    "name": "Iusein IBRAM",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=146&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/IbramIusein.JPG",
+    "group": {
+      "idg": "8",
+      "name": "Grupul parlamentar al minorităţilor naţionale",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=4681&leg=2024&idl=1"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:11:26.038Z",
+  "data": {
+    "idm": "288",
+    "name": "Ştefan-Bucur STOICA",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=288&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/StoicaStefanBucur.JPG",
+    "party": {
+      "idp": "27",
+      "abbrev": "PNL",
+      "name": "Partidul Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=27"
+    },
+    "group": {
+      "idg": "3",
+      "name": "Grupul parlamentar al Partidului Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+    },
+    "district": {
+      "cir": "17",
+      "name": "DOLJ",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=6189&leg=2024&idl=1"
+      },
+      "Întrebari şi interpelări": {
+        "count": 3,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=288&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      }
+    }
+  }
+}

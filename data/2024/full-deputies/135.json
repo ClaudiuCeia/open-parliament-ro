@@ -1,0 +1,48 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:09:59.235Z",
+  "data": {
+    "idm": "135",
+    "name": "Călin-Florin GROZA",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=135&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/GrozaCalinFlorin.JPG",
+    "party": {
+      "idp": "81",
+      "abbrev": "POT",
+      "name": "Partidul Oamenilor Tineri",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=81"
+    },
+    "group": {
+      "idg": "6",
+      "name": "Grupul parlamentar POT",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+    },
+    "district": {
+      "cir": "25",
+      "name": "MARAMUREŞ",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7736&leg=2024&idl=1"
+      },
+      "Declaraţii politice depuse în scris": {
+        "count": 4,
+        "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7736&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 24,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=135&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 64,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=135&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      },
+      "Moţiuni": {
+        "count": 2,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=135&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
+      }
+    }
+  }
+}

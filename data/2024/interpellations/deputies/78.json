@@ -1,0 +1,122 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:28:16.095Z",
+  "data": [
+    {
+      "idi": "77556",
+      "title": "Întrebarea nr.94A/04-02-2025",
+      "description": "Solicitare răspuns cu privire la neprezentarea României la ceremonia de depunere a jurământului lui Donald Trump",
+      "addressee": {
+        "idm": "78"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
+      "dates": {
+        "registration": "2025-04-01T21:00:00.000Z",
+        "presentation": "2025-04-01T21:00:00.000Z",
+        "communication": "2025-05-01T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i94A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77556&idl=1",
+      "registrationId": "94A902",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "902",
+          "date": "2025-06-02T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r94A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77717",
+      "title": "Interpelarea nr.49B/18-02-2025",
+      "description": "Solicitare răspuns cu privire la rolul MAE în cadrul Conferința de securitate de la München (MSC 2025) și neprezentarea României la întâlnire informală de la Paris",
+      "addressee": {
+        "idm": "78"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-11-02T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i49B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77717&idl=1",
+      "registrationId": "49B351",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "351",
+          "date": "2025-11-02T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r49B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77874",
+      "title": "Interpelarea nr.79B/04-03-2025",
+      "description": "Solicitare răspuns MAE referitor la declarațiile politice regăsite pe pagina oficială de media a Ambasadei României în SUA",
+      "addressee": {
+        "idm": "78"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
+      "dates": {
+        "registration": "2025-04-02T21:00:00.000Z",
+        "presentation": "2025-04-02T21:00:00.000Z",
+        "communication": "2025-04-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i79B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77874&idl=1",
+      "registrationId": "79B114",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "114",
+          "date": "2025-08-03T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r79B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78357",
+      "title": "Întrebarea nr.686A/27-03-2025",
+      "description": "Solicitare răspuns MAE referitor reanalizarea includerii României în programul Visa Waiver",
+      "addressee": {
+        "idm": "78"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-02-03T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i686A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78357&idl=1",
+      "registrationId": "686A19643",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "19643",
+          "date": "2025-07-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r686A.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:10:32.489Z",
+  "data": {
+    "idm": "191",
+    "name": "Remus-Gabriel MIHALCEA",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=191&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/MihalceaRemusGabriel.JPG",
+    "party": {
+      "idp": "40",
+      "abbrev": "PSD",
+      "name": "Partidul Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=40"
+    },
+    "group": {
+      "idg": "1",
+      "name": "Grupul parlamentar al Partidului Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+    },
+    "district": {
+      "cir": "3",
+      "name": "ARGEŞ",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 3,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7268&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 9,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=191&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Proiecte de hotarâre iniţiate": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=191&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
+      }
+    }
+  }
+}

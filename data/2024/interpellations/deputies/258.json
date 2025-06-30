@@ -1,0 +1,64 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:33:31.145Z",
+  "data": [
+    {
+      "idi": "78218",
+      "title": "Interpelarea nr.137B/25-03-2025",
+      "description": "PNRR şi zonele de protecţie propuse în judeţul Gorj",
+      "addressee": {
+        "idm": "258"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndomnului\nMircea Fechet\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i137B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78218&idl=1",
+      "registrationId": "137B13582",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "13582",
+          "date": "2025-09-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nMircea Fechet\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r137B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78219",
+      "title": "Interpelarea nr.138B/25-03-2025",
+      "description": "Protejarea și dezvoltarea Complexului Energetic Oltenia",
+      "addressee": {
+        "idm": "258"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nSebastian-Ioan Burduja\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i138B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78219&idl=1",
+      "registrationId": "138B30750",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "30750",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Energiei\ncomunicat de:\ndomnul\nPavel-Casian Niţulescu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r138B.pdf"
+        }
+      ]
+    }
+  ]
+}

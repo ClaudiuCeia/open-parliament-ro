@@ -1,0 +1,779 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-30T10:13:05.262Z",
+  "data": [
+    {
+      "idp": "22301",
+      "title": "Propunere legislativă privind completarea unor acte normative din domeniul apărării naţionale, ordinii publice şi siguranţei naţionale şi completarea Legii nr.286/2009 privind Codul PenalDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "101/08-04-2025",
+        "deputyChamber": "104/14.04.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Senatul",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n286/2009",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "118",
+        "29",
+        "45",
+        "73",
+        "82",
+        "90",
+        "94",
+        "98",
+        "125",
+        "149",
+        "167",
+        "181",
+        "189",
+        "209",
+        "247",
+        "267",
+        "269",
+        "285",
+        "287",
+        "293",
+        "299",
+        "314",
+        "317",
+        "25",
+        "85",
+        "87",
+        "139",
+        "159",
+        "163",
+        "166",
+        "176",
+        "180",
+        "206",
+        "291",
+        "329",
+        "330"
+      ],
+      "publicConsultation": {
+        "dueDate": "2025-05-12T00:00:00.000Z",
+        "count": 1
+      },
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/00/4/em101.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/00/4/pl101.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22301"
+    },
+    {
+      "idp": "22319",
+      "title": "Propunere legislativă privind responsabilitatea contractuală şi răspunderea financiară în antecontractele de vânzare-cumpărare încheiate cu dezvoltatori imobiliari.Derularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "118/15-04-2025",
+        "deputyChamber": "119/22.04.2025",
+        "senateChamber": "L46/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "29",
+        "45",
+        "48",
+        "73",
+        "121",
+        "125",
+        "149",
+        "172",
+        "209",
+        "236",
+        "247",
+        "269",
+        "285",
+        "314",
+        "328"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/em118.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/pl118.pdf",
+          "title": "Forma iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/ces118.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/cl118.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/asf118.pdf",
+          "title": "Avizul Autorității de Supraveghere Financiară"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/cconc118.pdf",
+          "title": "Avizul Consiliului Concurenței"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22319"
+    },
+    {
+      "idp": "22330",
+      "title": "Proiect de Lege privind modificarea Legii nr.370/2004 pentru alegerea Preşedintelui RomânieiDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "130/29-04-2025",
+        "deputyChamber": "130/06.05.2025",
+        "senateChamber": "L71/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n370/2004",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "12",
+        "26",
+        "29",
+        "36",
+        "44",
+        "45",
+        "48",
+        "73",
+        "82",
+        "90",
+        "94",
+        "98",
+        "125",
+        "126",
+        "149",
+        "181",
+        "213",
+        "236",
+        "267",
+        "269",
+        "285",
+        "287",
+        "293",
+        "299",
+        "313",
+        "314",
+        "317",
+        "328"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/0/em130.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/0/ces130.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/0/cl130.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/0/pvg130.pdf",
+          "title": "Punctul de vedere al Guvernului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/0/aep130.pdf",
+          "title": "Avizul Autorității Electorale Permanente"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22330"
+    },
+    {
+      "idp": "22363",
+      "title": "Propunere legislativă pentru modificarea art.142 alin.(1) din Legea nr.303/2022 privind statutul judecătorilor şi procurorilorDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "165/21-05-2025",
+        "deputyChamber": "157/26.05.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Senatul",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n303/2022",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "4",
+        "12",
+        "26",
+        "29",
+        "36",
+        "73",
+        "82",
+        "90",
+        "121",
+        "125",
+        "126",
+        "140",
+        "149",
+        "172",
+        "181",
+        "247",
+        "267",
+        "269",
+        "285",
+        "293",
+        "299",
+        "313",
+        "317"
+      ],
+      "publicConsultation": {
+        "dueDate": "2025-06-27T00:00:00.000Z",
+        "count": 1
+      },
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/7/em165.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/7/pl165.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22363"
+    },
+    {
+      "idp": "22386",
+      "title": "Propunere legislativă pentru stimularea investiţiilor în stocarea energiei electrice şi modificarea art.291 alin.(2) din Legea 227/2015 Codul FiscalDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "193/28-05-2025",
+        "deputyChamber": "174/02.06.2025",
+        "senateChamber": "L78/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "305",
+        "199",
+        "4",
+        "45",
+        "73",
+        "82",
+        "90",
+        "94",
+        "121",
+        "126",
+        "140",
+        "181",
+        "189",
+        "213",
+        "236",
+        "247",
+        "260",
+        "293",
+        "299",
+        "328",
+        "25"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/4/em193.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/4/pl193.pdf",
+          "title": "Forma iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/4/cl193.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/4/opfisc193.pdf",
+          "title": "Opinia Consiliului Fiscal"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22386"
+    },
+    {
+      "idp": "22385",
+      "title": "Proiect de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr.92/2021 privind regimul deşeurilorDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "192/28-05-2025",
+        "deputyChamber": "176/02.06.2025",
+        "senateChamber": "L143/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n92/2021",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "117",
+        "184",
+        "226",
+        "307",
+        "7",
+        "12",
+        "36",
+        "48",
+        "73",
+        "82",
+        "90",
+        "94",
+        "98",
+        "198",
+        "236",
+        "285",
+        "287",
+        "314",
+        "317",
+        "330"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/6/em192.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/6/ces192.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/6/cl192.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22385"
+    },
+    {
+      "idp": "22407",
+      "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.77/2009 privind organizarea şi exploatarea jocurilor de norocDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "217/11-06-2025",
+        "deputyChamber": "188/16.06.2025",
+        "senateChamber": "L94/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n77/2009",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "12",
+        "26",
+        "29",
+        "36",
+        "48",
+        "73",
+        "82",
+        "90",
+        "98",
+        "121",
+        "125",
+        "126",
+        "140",
+        "172",
+        "181",
+        "213",
+        "247",
+        "269",
+        "285",
+        "287",
+        "293",
+        "299",
+        "314",
+        "317"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/8/em217.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/8/ces217.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/8/cl217.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/8/cconc217.pdf",
+          "title": "Avizul Consiliului Concurenței"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22407"
+    },
+    {
+      "idp": "22412",
+      "title": "Propunere legislativă privind limitarea plăţilor către operatorii de jocuri de norocDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "225/11-06-2025",
+        "deputyChamber": "191/16.06.2025",
+        "senateChamber": "L93/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "12",
+        "26",
+        "29",
+        "36",
+        "48",
+        "73",
+        "82",
+        "90",
+        "98",
+        "121",
+        "125",
+        "126",
+        "140",
+        "172",
+        "213",
+        "236",
+        "269",
+        "285",
+        "287",
+        "299",
+        "314",
+        "317"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/1/em225.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/1/pl225.pdf",
+          "title": "Forma iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/1/ces225.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/1/cl225.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/1/banca225.pdf",
+          "title": "Avizul Băncii Naționale a României"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/1/ccons225.pdf",
+          "title": "Avizul Consiliului Concurenței"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22412"
+    },
+    {
+      "idp": "22427",
+      "title": "Propunere legislativă privind organizarea şi funcţionarea Direcţiei Generale Anticorupţie din cadrul Ministerului Afacerilor InterneDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "244/18-06-2025",
+        "deputyChamber": "207/23.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Senatul",
+      "type": "Propunere legislativa",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "aviz/punct de vederesolicitat",
+        "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+      },
+      "initiators": [
+        "12",
+        "29",
+        "36",
+        "45",
+        "48",
+        "73",
+        "82",
+        "121",
+        "126",
+        "167",
+        "181",
+        "236",
+        "260",
+        "269",
+        "287",
+        "299",
+        "314",
+        "328"
+      ],
+      "publicConsultation": {
+        "dueDate": "2025-07-28T00:00:00.000Z",
+        "count": 0
+      },
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/7/em244.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/7/pl244.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22427"
+    },
+    {
+      "idp": "22433",
+      "title": "Propunere legislativă pentru modificarea art.23 alin.(11), precum şi art.207 alin.(4) lit.c) din Legea învăţământul preuniversitar nr.198/2023Derularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "250/23-06-2025",
+        "deputyChamber": "213/25.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Senatul",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "aviz/punct de vederesolicitat",
+        "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+      },
+      "initiators": [
+        "12",
+        "36",
+        "44",
+        "45",
+        "48",
+        "73",
+        "90",
+        "94",
+        "121",
+        "125",
+        "126",
+        "167",
+        "181",
+        "236",
+        "247",
+        "260",
+        "269",
+        "287",
+        "293",
+        "299",
+        "314"
+      ],
+      "publicConsultation": {
+        "dueDate": "2025-07-29T00:00:00.000Z",
+        "count": 0
+      },
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/3/em250.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/3/pl250.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22433"
+    },
+    {
+      "idp": "22443",
+      "title": "Propunere legislativă privind completarea Legii nr.121 din 18 iulie 2014 privind eficienţa energeticăDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "260/24-06-2025",
+        "deputyChamber": "BP260/24.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": ["4", "29", "73", "90", "121", "236", "317", "328"],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/0/in260.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/0/em260.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/0/pl260.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22443"
+    },
+    {
+      "idp": "22367",
+      "title": "Propunere legislativă pentru modificarea art.6 alin.1 lit.s) din Legea vânătorii şi a protecţiei fondului cinegetic nr.407/2006Derularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "169/22-05-2025",
+        "deputyChamber": "BP169/22.05.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n407/2006",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "4",
+        "12",
+        "26",
+        "45",
+        "73",
+        "82",
+        "90",
+        "94",
+        "98",
+        "121",
+        "125",
+        "126",
+        "167",
+        "181",
+        "189",
+        "198",
+        "213",
+        "236",
+        "267",
+        "269",
+        "285",
+        "287",
+        "293",
+        "299",
+        "314",
+        "317",
+        "328"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/in169.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/em169.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/pl169.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22367"
+    },
+    {
+      "idp": "22366",
+      "title": "Propunere legislativă pentru completarea Legii nr.678/2001 privind prevenirea şi combaterea traficului de persoane şi a art.30 din Ordonanţa Guvernului nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în RomâniaDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "168/21-05-2025",
+        "deputyChamber": "BP168/21.05.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n678/2001",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "1",
+        "95",
+        "168",
+        "177",
+        "192",
+        "66",
+        "81",
+        "208",
+        "4",
+        "12",
+        "26",
+        "29",
+        "45",
+        "48",
+        "73",
+        "90",
+        "94",
+        "121",
+        "125",
+        "213",
+        "236",
+        "267",
+        "269",
+        "285",
+        "287",
+        "293",
+        "299",
+        "313",
+        "314",
+        "317",
+        "75",
+        "85",
+        "37",
+        "171",
+        "216"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/8/in168.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/8/em168.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/8/pl168.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22366"
+    }
+  ]
+}

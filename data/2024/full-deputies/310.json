@@ -1,0 +1,48 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:11:39.690Z",
+  "data": {
+    "idm": "310",
+    "name": "Ştefan ŢINTĂ",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=310&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/TintaStefan.JPG",
+    "party": {
+      "idp": "40",
+      "abbrev": "PSD",
+      "name": "Partidul Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=40"
+    },
+    "group": {
+      "idg": "1",
+      "name": "Grupul parlamentar al Partidului Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+    },
+    "district": {
+      "cir": "23",
+      "name": "IALOMIŢA",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=23"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7718&leg=2024&idl=1"
+      },
+      "Declaraţii politice depuse în scris": {
+        "count": 18,
+        "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7718&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 13,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=310&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Proiecte de hotarâre iniţiate": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=310&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 38,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=310&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      }
+    }
+  }
+}

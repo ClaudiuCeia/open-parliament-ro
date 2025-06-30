@@ -1,0 +1,36 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:11:01.707Z",
+  "data": {
+    "idm": "243",
+    "name": "Marilen - Gabriel PIRTEA",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=243&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/PirteaMarilenGabriel.JPG",
+    "party": {
+      "idp": "27",
+      "abbrev": "PNL",
+      "name": "Partidul Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=27"
+    },
+    "group": {
+      "idg": "3",
+      "name": "Grupul parlamentar al Partidului Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+    },
+    "district": {
+      "cir": "36",
+      "name": "TIMIŞ",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=6705&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 3,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=243&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      }
+    }
+  }
+}

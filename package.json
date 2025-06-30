@@ -1,0 +1,37 @@
+{
+  "name": "open-parliament-ro",
+  "description": "Automated scraper for collecting data from the Romanian Parliament",
+  "version": "0.1.0",
+  "keywords": [
+    "romania",
+    "parliament",
+    "data",
+    "scraper",
+    "transparency",
+    "civic-tech"
+  ],
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "scrape": "bun run index.ts",
+    "lint": "biome check",
+    "format": "biome format --write",
+    "lint:fix": "biome check --fix"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.0.5",
+    "@types/bun": "latest",
+    "pino-pretty": "^13.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@claudiu-ceia/combine": "npm:@jsr/claudiu-ceia__combine",
+    "cheerio": "^1.1.0",
+    "fuse.js": "^7.1.0",
+    "pino": "^9.7.0",
+    "text-decoding": "^1.0.0"
+  }
+}

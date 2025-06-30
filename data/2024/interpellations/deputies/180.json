@@ -1,0 +1,93 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:31:09.580Z",
+  "data": [
+    {
+      "idi": "78715",
+      "title": "Întrebarea nr.923A/23-04-2025",
+      "description": "Stadiu imobilului înscris în CF nr/857, nr. TOPO. 3193 și 3194",
+      "addressee": {
+        "idm": "180"
+      },
+      "recipient": "Autoritatea Naţională pentru Restituirea Proprietăţilor",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i923A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78715&idl=1",
+      "registrationId": "923A3750",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3750",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Guvernul României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r923A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78716",
+      "title": "Întrebarea nr.924A/23-04-2025",
+      "description": "Stadiu Dosar nr.1993/11.02.2003",
+      "addressee": {
+        "idm": "180"
+      },
+      "recipient": "Autoritatea Naţională pentru Restituirea Proprietăţilor",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i924A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78716&idl=1",
+      "registrationId": "924A3751",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3751",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Guvernul României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r924A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78717",
+      "title": "Întrebarea nr.925A/23-04-2025",
+      "description": "Stadiu Dosar nr.1925/11.02.2003",
+      "addressee": {
+        "idm": "180"
+      },
+      "recipient": "Autoritatea Naţională pentru Restituirea Proprietăţilor",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i925A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78717&idl=1",
+      "registrationId": "925A3752",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3752",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Guvernul României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r925A.pdf"
+        }
+      ]
+    }
+  ]
+}

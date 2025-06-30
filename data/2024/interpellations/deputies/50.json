@@ -1,0 +1,377 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:27:41.576Z",
+  "data": [
+    {
+      "idi": "77704",
+      "title": "Interpelarea nr.36B/18-02-2025",
+      "description": "SIUI este declarat funcționabil off-line, dar acest lucru nu este fezabil deoarece furnizorii (medici, unități spitalicești) nu pot avea cetitudinea în timp real a calității de asigurat a pacientului. De asemenea, pot interveni erori care pot genera penalizări financiare sau alte erori care afectează confortul pacienților. De asemenea, în off-line nu se pot primi avertizări atunci când este depășit numărul de medicamente prescris pentru fiecare CNP",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-11-02T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i36B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77704&idl=1",
+      "registrationId": "36B3124",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3124",
+          "date": "2025-07-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nHoratiu - Remus Moldovan\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r36B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77848",
+      "title": "Întrebarea nr.332A/03-03-2025",
+      "description": "Solicitare de informații privind transformarea Comandamentului Energetic de Iarna in Comandamentul Energetic Național",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nSebastian-Ioan Burduja\n- Ministru",
+      "dates": {
+        "registration": "2025-03-02T22:00:00.000Z",
+        "presentation": "2025-03-02T22:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i332A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77848&idl=1",
+      "registrationId": "332A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78443",
+      "title": "Întrebarea nr.772A/07-04-2025",
+      "description": "Solicitare de informații privind rezultatele controlului la Centrul Social Casa Alexandra din Slobozia, administrată de către D.G.A.S.P.C. Ialomita",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndoamnei\nSimona Bucura-Oprescu\n- Ministru",
+      "dates": {
+        "registration": "2025-07-03T21:00:00.000Z",
+        "presentation": "2025-07-03T21:00:00.000Z",
+        "communication": "2025-09-03T21:00:00.000Z",
+        "responseDue": "2025-05-04T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i772A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78443&idl=1",
+      "registrationId": "772A2386",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "2386",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r772A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78923",
+      "title": "Interpelarea nr.364B/13-05-2025",
+      "description": "Modernizarea liniei de cale ferată Slobozia – Țăndărei – Fetești",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-03-05T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i364B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78923&idl=1",
+      "registrationId": "364B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78924",
+      "title": "Interpelarea nr.365B/13-05-2025",
+      "description": "Solicitare privind preluarea responsabilității pentru reabilitarea unui tronson de drum național din Municipiul Slobozia, județul Ialomița",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-03-05T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i365B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78924&idl=1",
+      "registrationId": "365B15317",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "15317",
+          "date": "2025-06-05T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nSorin-Mihai Grindeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r365B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78925",
+      "title": "Interpelarea nr.366B/13-05-2025",
+      "description": "Introducerea activităților extrașcolare cu rol de formare profesională pentru elevi",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-03-05T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i366B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78925&idl=1",
+      "registrationId": "366B10029",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "10029",
+          "date": "2025-10-05T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r366B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78926",
+      "title": "Interpelarea nr.367B/13-05-2025",
+      "description": "Scăderea natalității în județul Ialomița - măsuri urgente pentru redresarea demografică",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-03-05T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i367B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78926&idl=1",
+      "registrationId": "367B2686",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "2686",
+          "date": "2025-10-05T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r367B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79133",
+      "title": "Interpelarea nr.388B/03-06-2025",
+      "description": "Legătura directă între dezvoltarea infrastructurii și dinamica economică în județul Ialomița",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-03-05T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i388B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79133&idl=1",
+      "registrationId": "388B132288",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "132288",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r388B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79134",
+      "title": "Interpelarea nr.389B/03-06-2025",
+      "description": "Măsuri pentru stimularea înființării PFA-urilor de către familiile din mediul rural",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-03-05T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i389B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79134&idl=1",
+      "registrationId": "389B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79154",
+      "title": "Interpelarea nr.409B/03-06-2025",
+      "description": "Situația copiilor adoptați internațional în anii 1990 între adevăr și tăcere instituțională",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndoamnei\nSimona Bucura-Oprescu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-03-05T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i409B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79154&idl=1",
+      "registrationId": "409B2931",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "2931",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r409B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79155",
+      "title": "Interpelarea nr.410B/03-06-2025",
+      "description": "Avem apă potabilă în județul Ialomița",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndomnului\nMircea Fechet\n- Ministru",
+      "dates": {
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-03-05T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i410B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79155&idl=1",
+      "registrationId": "410B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79363",
+      "title": "Interpelarea nr.451B/17-06-2025",
+      "description": "Depolitizarea învățământului preuniversitar - prioritate pentru calitate și echitate",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-06T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i451B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79363&idl=1",
+      "registrationId": "451B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79364",
+      "title": "Interpelarea nr.452B/17-06-2025",
+      "description": "Lipsa transportului gratuit pentru elevii navetiști - risc major de abandon școlar",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-06T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i452B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79364&idl=1",
+      "registrationId": "452B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79379",
+      "title": "Interpelarea nr.467B/17-06-2025",
+      "description": "Situația inacceptabilă a infrastructurii rutiere din cartierul Slobozia Nouă, municipiul Slobozia",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-06T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i467B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79379&idl=1",
+      "registrationId": "467B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79381",
+      "title": "Interpelarea nr.469B/17-06-2025",
+      "description": "Accesibilitatea și atractivitatea vieții de student în rândul absolvenților de liceu",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-06T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i469B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79381&idl=1",
+      "registrationId": "469B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:10:23.008Z",
+  "data": {
+    "idm": "174",
+    "name": "Romeo-Daniel LUNGUchestor al Camerei Deputaţilor",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=174&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/LunguRomeoDaniel.JPG",
+    "party": {
+      "idp": "40",
+      "abbrev": "PSD",
+      "name": "Partidul Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=40"
+    },
+    "group": {
+      "idg": "1",
+      "name": "Grupul parlamentar al Partidului Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+    },
+    "district": {
+      "cir": "10",
+      "name": "BUZĂU",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 6,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7260&leg=2024&idl=1"
+      },
+      "- din care declaraţii politice": {
+        "count": 3,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7260&leg=2024&topic1=1"
+      },
+      "Declaraţii politice depuse în scris": {
+        "count": 14,
+        "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7260&leg=2024&idl=1"
+      },
+      "Luări de cuvânt în BP": {
+        "count": 7,
+        "url": "https://www.cdep.ro/bp/sedinte2015.cautare?idv=7260&leg=2024&ope=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 17,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=174&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Proiecte de hotarâre iniţiate": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=174&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
+      }
+    }
+  }
+}

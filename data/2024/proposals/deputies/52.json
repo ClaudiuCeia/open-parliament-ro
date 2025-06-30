@@ -1,0 +1,417 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-30T10:12:52.607Z",
+  "data": [
+    {
+      "idp": "22398",
+      "title": "Propunere legislativă pentru completarea art.74 a Legii nr.198 din 4 iulie 2023 învăţământului preuniversitarDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "207/03-06-2025",
+        "deputyChamber": "178/04.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Senatul",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "aviz/punct de vederesolicitat",
+        "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+      },
+      "initiators": [
+        "3",
+        "86",
+        "135",
+        "245",
+        "99",
+        "315",
+        "101",
+        "52",
+        "65",
+        "77",
+        "132",
+        "155",
+        "164",
+        "183",
+        "229",
+        "257",
+        "266"
+      ],
+      "publicConsultation": {
+        "dueDate": "2025-07-08T00:00:00.000Z",
+        "count": 2
+      },
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/8/em207.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/8/pl207.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22398"
+    },
+    {
+      "idp": "22424",
+      "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de Urgenţă a Guvernului nr.155 din 21 noiembrie 2001 privind aprobarea programului de gestionare a câinilor fără stăpânDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "241/17-06-2025",
+        "deputyChamber": "206/18.06.2025",
+        "senateChamber": "L156/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n155/2001",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "3",
+        "135",
+        "245",
+        "280",
+        "318",
+        "52",
+        "65",
+        "132",
+        "155",
+        "164",
+        "183",
+        "229",
+        "250",
+        "257",
+        "266"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/6/em241.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/6/pl241.pdf",
+          "title": "Forma iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/6/ces241.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/6/cl241.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22424"
+    },
+    {
+      "idp": "22389",
+      "title": "Propunere legislativă pentru modificarea Legii nr.143/2000, republicată, privind combaterea traficului şi consumului ilicit de droguriDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "196/28-05-2025",
+        "deputyChamber": "BP196/28.05.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n143/2000",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "3",
+        "5",
+        "86",
+        "135",
+        "150",
+        "151",
+        "245",
+        "280",
+        "318",
+        "8",
+        "10",
+        "22",
+        "158",
+        "204",
+        "251",
+        "15",
+        "47",
+        "89",
+        "119",
+        "137",
+        "154",
+        "258",
+        "262",
+        "325",
+        "21",
+        "50",
+        "67",
+        "75",
+        "101",
+        "128",
+        "152",
+        "148",
+        "169",
+        "218",
+        "237",
+        "312",
+        "319",
+        "323",
+        "52"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/6/in196.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/6/em196.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/6/pl.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22389"
+    },
+    {
+      "idp": "22431",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.96/2006 privind Statutul deputaţilor şi al senatorilorDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "248/19-06-2025",
+        "deputyChamber": "BP248/19.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor + Senatul",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n96/2006",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "",
+        "long": ""
+      },
+      "initiators": [
+        "52",
+        "65",
+        "77",
+        "132",
+        "164",
+        "183",
+        "229",
+        "257",
+        "266"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/8/as248.pdf",
+          "title": "Adresa Senatului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/8/in248.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/8/em248.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/8/pl248.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22431"
+    },
+    {
+      "idp": "22390",
+      "title": "Propunere legislativă pentru modificarea Legii nr.135/2010, republicat, privind Codul de procedură penalăDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "197/28-05-2025",
+        "deputyChamber": "BP197/28.05.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n135/2010",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "3",
+        "5",
+        "86",
+        "135",
+        "150",
+        "151",
+        "245",
+        "280",
+        "318",
+        "8",
+        "10",
+        "22",
+        "204",
+        "251",
+        "15",
+        "47",
+        "89",
+        "119",
+        "137",
+        "154",
+        "258",
+        "262",
+        "325",
+        "21",
+        "50",
+        "67",
+        "75",
+        "101",
+        "128",
+        "152",
+        "148",
+        "169",
+        "218",
+        "237",
+        "312",
+        "319",
+        "323",
+        "52"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/7/in197.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/7/em197.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/7/pl197.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22390"
+    },
+    {
+      "idp": "22382",
+      "title": "Propunere legislativă pentru modificarea art.77 alin.(10) din Legea nr.227/2015 privind Codul fiscalDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "188/28-05-2025",
+        "deputyChamber": "BP188/28.05.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n227/2015",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "3",
+        "62",
+        "86",
+        "103",
+        "135",
+        "245",
+        "246",
+        "280",
+        "318",
+        "158",
+        "21",
+        "50",
+        "67",
+        "75",
+        "101",
+        "128",
+        "152",
+        "148",
+        "169",
+        "175",
+        "218",
+        "231",
+        "237",
+        "304",
+        "312",
+        "319",
+        "323",
+        "52",
+        "55",
+        "257"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/80/8/in188.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/80/8/em188.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/80/8/pl188.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22382"
+    },
+    {
+      "idp": "22460",
+      "title": "Propunere legislativă pentru completarea Legii nr.208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente şi pentru modificarea şi completarea Legii nr.96/2006 privind statutul deputaţilor şi al senatorilorDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "242/18-06-2025",
+        "deputyChamber": "BP242/18.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n208/2015",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "",
+        "long": ""
+      },
+      "initiators": [
+        "318",
+        "21",
+        "101",
+        "128",
+        "152",
+        "169",
+        "175",
+        "231",
+        "237",
+        "304",
+        "312",
+        "319",
+        "323",
+        "52",
+        "132",
+        "229",
+        "257"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/2/in242.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/2/em242.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/2/pl242.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22460"
+    }
+  ]
+}

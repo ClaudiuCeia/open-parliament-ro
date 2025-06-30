@@ -1,0 +1,44 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:09:54.442Z",
+  "data": {
+    "idm": "126",
+    "name": "Adrian GIURGIU",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=126&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/GiurgiuAdrian1.JPG",
+    "party": {
+      "idp": "74",
+      "abbrev": "USR",
+      "name": "Uniunea Salvaţi România",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=74"
+    },
+    "group": {
+      "idg": "4",
+      "name": "Grupul parlamentar al Uniunii Salvaţi România",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+    },
+    "district": {
+      "cir": "27",
+      "name": "MUREŞ",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=27"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 4,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7234&leg=2024&idl=1"
+      },
+      "- din care declaraţii politice": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7234&leg=2024&topic1=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 24,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=126&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 4,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=126&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      }
+    }
+  }
+}

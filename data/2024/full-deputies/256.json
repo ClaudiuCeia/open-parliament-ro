@@ -1,0 +1,48 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:11:08.166Z",
+  "data": {
+    "idm": "256",
+    "name": "Florin-Cornel POPOVICI",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=256&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/PopoviciFlorinCornel.JPG",
+    "party": {
+      "idp": "77",
+      "abbrev": "AUR",
+      "name": "Alianţa pentru Unirea Românilor",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=77"
+    },
+    "group": {
+      "idg": "2",
+      "name": "Grupul parlamentar AUR",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+    },
+    "district": {
+      "cir": "36",
+      "name": "TIMIŞ",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 3,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7784&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 11,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=256&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Proiecte de hotarâre iniţiate": {
+        "count": 2,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=256&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 46,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=256&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      },
+      "Moţiuni": {
+        "count": 3,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=256&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
+      }
+    }
+  }
+}

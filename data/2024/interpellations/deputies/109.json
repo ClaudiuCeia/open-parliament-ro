@@ -1,0 +1,27 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:29:28.691Z",
+  "data": [
+    {
+      "idi": "79200",
+      "title": "Întrebarea nr.1290A/03-06-2025",
+      "description": "Necesitatea redeschiderii Consulatului General al României la Odesa",
+      "addressee": {
+        "idm": "109"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-04-05T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1290A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79200&idl=1",
+      "registrationId": "1290A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
+}

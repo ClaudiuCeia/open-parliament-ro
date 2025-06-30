@@ -1,0 +1,64 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:30:31.996Z",
+  "data": [
+    {
+      "idi": "78173",
+      "title": "Întrebarea nr.584A/19-03-2025",
+      "description": "Lipsa manualelor școlare pentru clasa pregătitoare, deși acestea fac parte din învățământul obligatoriu",
+      "addressee": {
+        "idm": "159"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-09-03T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i584A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78173&idl=1",
+      "registrationId": "584A9211",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "9211",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r584A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78401",
+      "title": "Întrebarea nr.730A/02-04-2025",
+      "description": "Problema direcțiilor de tineret pe nivelul județelor în urma fuziunii prin absorbție cu Ministerul Familiei, Tineretului și Egalității de Șanse",
+      "addressee": {
+        "idm": "159"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndoamnei\nSimona Bucura-Oprescu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-03T22:00:00.000Z",
+        "presentation": "2025-02-03T22:00:00.000Z",
+        "communication": "2025-02-03T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i730A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78401&idl=1",
+      "registrationId": "730A2772",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "2772",
+          "date": "2025-12-05T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r730A.pdf"
+        }
+      ]
+    }
+  ]
+}

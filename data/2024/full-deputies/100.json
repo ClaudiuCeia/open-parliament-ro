@@ -1,0 +1,52 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:09:38.155Z",
+  "data": {
+    "idm": "100",
+    "name": "Mihai-Adrian ENACHE",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=100&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/EnacheMihaiAdrian.JPG",
+    "party": {
+      "idp": "77",
+      "abbrev": "AUR",
+      "name": "Alianţa pentru Unirea Românilor",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=77"
+    },
+    "group": {
+      "idg": "2",
+      "name": "Grupul parlamentar AUR",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+    },
+    "district": {
+      "cir": "41",
+      "name": "BUCUREŞTI",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=41"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 28,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7802&leg=2024&idl=1"
+      },
+      "- din care declaraţii politice": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7802&leg=2024&topic1=1"
+      },
+      "Luări de cuvânt în BP": {
+        "count": 13,
+        "url": "https://www.cdep.ro/bp/sedinte2015.cautare?idv=7802&leg=2024&ope=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 15,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=100&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Proiecte de hotarâre iniţiate": {
+        "count": 2,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=100&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
+      },
+      "Moţiuni": {
+        "count": 3,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=100&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
+      }
+    }
+  }
+}

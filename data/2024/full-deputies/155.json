@@ -1,0 +1,40 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:10:11.077Z",
+  "data": {
+    "idm": "155",
+    "name": "Ancuţa-Florina IRIMIA",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=155&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/IrimiaAncutaFlorina.JPG",
+    "party": {
+      "idp": "81",
+      "abbrev": "POT",
+      "name": "Partidul Oamenilor Tineri",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=81"
+    },
+    "group": {
+      "idg": "6",
+      "name": "Grupul parlamentar POT",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+    },
+    "district": {
+      "cir": "24",
+      "name": "IAŞI",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7728&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 12,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=155&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Moţiuni": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=155&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
+      }
+    }
+  }
+}

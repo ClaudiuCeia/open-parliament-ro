@@ -1,0 +1,122 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:33:50.094Z",
+  "data": [
+    {
+      "idi": "77699",
+      "title": "Interpelarea nr.31B/18-02-2025",
+      "description": "Aprobarea licenței de concesiune pentru exploatarea zăcământului de sare gemă din zona Valea Florilor, județul Cluj",
+      "addressee": {
+        "idm": "263"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIon-Marcel Ciolacu\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-11-02T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i31B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77699&idl=1",
+      "registrationId": "31B2375",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "2375",
+          "date": "2025-12-04T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Guvernul României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r31B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78577",
+      "title": "Întrebarea nr.839A/11-04-2025",
+      "description": "Modalitatea prin care anumiți polițiști protejează cetățenii și consecințele neglijării atribuțiilor de serviciu",
+      "addressee": {
+        "idm": "263"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-11-03T22:00:00.000Z",
+        "presentation": "2025-11-03T22:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-12-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i839A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78577&idl=1",
+      "registrationId": "839A12527",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "12527",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r839A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78705",
+      "title": "Interpelarea nr.327B/23-04-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 31B - Aprobarea licenței de concesiune pentru exploatarea zăcământului de sare gemă din zona Valea Florilor, județul Cluj",
+      "addressee": {
+        "idm": "263"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIon-Marcel Ciolacu\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i327B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78705&idl=1",
+      "registrationId": "327B2375",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "2375",
+          "date": "2025-12-04T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Guvernul României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r327B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78757",
+      "title": "Întrebarea nr.964A/25-04-2025",
+      "description": "Securitatea națională a României pe fondul conflictului militar din regiune și a situației geopolitice de la nivel global",
+      "addressee": {
+        "idm": "263"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nAngel Tîlvăr\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i964A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78757&idl=1",
+      "registrationId": "964A1090",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "1090",
+          "date": "2025-03-05T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nAngel Tîlvăr\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r964A.pdf"
+        }
+      ]
+    }
+  ]
+}

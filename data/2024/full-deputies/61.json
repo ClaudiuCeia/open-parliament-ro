@@ -1,0 +1,44 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:09:14.982Z",
+  "data": {
+    "idm": "61",
+    "name": "Răzvan-Iulian CIORTEA",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=61&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/CiorteaRazvanIulian.JPG",
+    "party": {
+      "idp": "40",
+      "abbrev": "PSD",
+      "name": "Partidul Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=40"
+    },
+    "group": {
+      "idg": "1",
+      "name": "Grupul parlamentar al Partidului Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+    },
+    "district": {
+      "cir": "13",
+      "name": "CLUJ",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7629&leg=2024&idl=1"
+      },
+      "Declaraţii politice depuse în scris": {
+        "count": 14,
+        "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7629&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 9,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=61&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 15,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=61&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      }
+    }
+  }
+}

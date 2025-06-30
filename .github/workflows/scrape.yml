@@ -1,0 +1,137 @@
+name: Automated Data Scraping
+
+on:
+  # Run every 3 hours for redundancy
+  schedule:
+  - cron: '0 */3 * * *'
+
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      jobs:
+        description: 'Jobs to run (e.g., "--deputies --deputies_detail" or "--all")'
+        required: false
+        default: '--all'
+        type: string
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Setup bun
+      uses: oven-sh/setup-bun@v1
+      with:
+        bun-version: latest
+
+    - name: Install dependencies
+      run: bun install
+
+    - name: Run scrapers
+      run: |
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          bun scrape ${{ github.event.inputs.jobs }}
+        else
+          bun scrape --all
+        fi
+
+    - name: Analyze data changes
+      id: analyze_changes
+      run: |
+        git add data/
+
+        if git diff --staged --quiet; then
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+          echo "No data changes detected"
+          exit 0
+        fi
+
+        echo "has_changes=true" >> $GITHUB_OUTPUT
+
+        # Count different types of changes
+        ADDED_FILES=$(git diff --staged --name-only --diff-filter=A data/ | wc -l)
+        MODIFIED_FILES=$(git diff --staged --name-only --diff-filter=M data/ | wc -l)
+        DELETED_FILES=$(git diff --staged --name-only --diff-filter=D data/ | wc -l)
+
+        echo "added_files=$ADDED_FILES" >> $GITHUB_OUTPUT
+        echo "modified_files=$MODIFIED_FILES" >> $GITHUB_OUTPUT
+        echo "deleted_files=$DELETED_FILES" >> $GITHUB_OUTPUT
+
+        # Determine if changes are safe to auto-commit (additive only)
+        if [ $DELETED_FILES -gt 0 ]; then
+          echo "safe_to_commit=false" >> $GITHUB_OUTPUT
+          echo "Deletions detected - will create PR for review"
+        else
+          echo "safe_to_commit=true" >> $GITHUB_OUTPUT
+          echo "Only additions/modifications - safe to auto-commit"
+        fi
+
+    - name: Auto-commit safe changes
+      if: steps.analyze_changes.outputs.has_changes == 'true' && steps.analyze_changes.outputs.safe_to_commit == 'true'
+      run: |
+        git config --local user.email "cronicar.bot@civicworks.dev"
+        git config --local user.name "Cronicar Bot"
+
+        TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+        COMMIT_MSG="Automated data update - $TIMESTAMP"
+
+        # Add stats to commit message
+        if [ "${{ steps.analyze_changes.outputs.added_files }}" -gt 0 ]; then
+          COMMIT_MSG="$COMMIT_MSG\n\nAdded: ${{ steps.analyze_changes.outputs.added_files }} files"
+        fi
+        if [ "${{ steps.analyze_changes.outputs.modified_files }}" -gt 0 ]; then
+          COMMIT_MSG="$COMMIT_MSG\nModified: ${{ steps.analyze_changes.outputs.modified_files }} files"
+        fi
+
+        git commit -m "$COMMIT_MSG"
+        git push
+
+    - name: Create PR for unsafe changes
+      if: steps.analyze_changes.outputs.has_changes == 'true' && steps.analyze_changes.outputs.safe_to_commit == 'false'
+      run: |
+        # Create a new branch for the PR
+        BRANCH_NAME="data-update-$(date -u '+%Y%m%d-%H%M%S')"
+        git checkout -b "$BRANCH_NAME"
+
+        git config --local user.email "cronicar.bot@civicworks.dev"
+        git config --local user.name "Cronicar Bot"
+
+        TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+        COMMIT_MSG="Data update with deletions - $TIMESTAMP"
+
+        # Add detailed stats
+        COMMIT_MSG="$COMMIT_MSG\n\nCHANGES SUMMARY:"
+        COMMIT_MSG="$COMMIT_MSG\n- Added: ${{ steps.analyze_changes.outputs.added_files }} files"
+        COMMIT_MSG="$COMMIT_MSG\n- Modified: ${{ steps.analyze_changes.outputs.modified_files }} files"
+        COMMIT_MSG="$COMMIT_MSG\n- Deleted: ${{ steps.analyze_changes.outputs.deleted_files }} files"
+        COMMIT_MSG="$COMMIT_MSG\n\nDeletions detected - please review for potential scraper issues."
+
+        git commit -m "$COMMIT_MSG"
+        git push origin "$BRANCH_NAME"
+
+        # Create PR using GitHub CLI
+        gh pr create \
+          --title "Data update with deletions - review required" \
+          --body "Automated scraping detected file deletions which may indicate scraper issues. Please review the changes before merging.\n\n**Changes:**\n- Added: ${{ steps.analyze_changes.outputs.added_files }} files\n- Modified: ${{ steps.analyze_changes.outputs.modified_files }} files\n- Deleted: ${{ steps.analyze_changes.outputs.deleted_files }} files\n\nTimestamp: $TIMESTAMP" \
+          --head "$BRANCH_NAME" \
+          --base main
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Summary
+      run: |
+        if [ "${{ steps.analyze_changes.outputs.has_changes }}" = "true" ]; then
+          if [ "${{ steps.analyze_changes.outputs.safe_to_commit }}" = "true" ]; then
+            echo "Scraping completed successfully - changes auto-committed"
+          else
+            echo "Scraping completed - PR created for review due to deletions"
+          fi
+        else
+          echo "Scraping completed successfully with no changes"
+        fi

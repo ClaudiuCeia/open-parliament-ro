@@ -1,0 +1,64 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:29:27.871Z",
+  "data": [
+    {
+      "idi": "77922",
+      "title": "Interpelarea nr.127B/04-03-2025",
+      "description": "Stadiul și măsurile pentru implementarea proiectului podului și hidrocentralei Turnu Măgurele – Nikopol",
+      "addressee": {
+        "idm": "108"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-04-02T21:00:00.000Z",
+        "presentation": "2025-04-02T21:00:00.000Z",
+        "communication": "2025-04-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i127B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77922&idl=1",
+      "registrationId": "127B7425",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "7425",
+          "date": "2025-03-03T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nSorin-Mihai Grindeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r127B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78222",
+      "title": "Interpelarea nr.141B/25-03-2025",
+      "description": "Reclamații comportament abuziv la Oficiul Județean Poșta Română Teleorman",
+      "addressee": {
+        "idm": "108"
+      },
+      "recipient": "Ministerul Cercetării, Inovării și Digitalizării\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i141B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78222&idl=1",
+      "registrationId": "141B3630",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3630",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nBogdan-Gruia Ivan\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r141B.pdf"
+        }
+      ]
+    }
+  ]
+}

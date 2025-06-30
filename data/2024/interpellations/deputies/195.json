@@ -1,0 +1,64 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:31:19.350Z",
+  "data": [
+    {
+      "idi": "77961",
+      "title": "Întrebarea nr.372A/05-03-2025",
+      "description": "Date privind sume de încasat la bugetul de stat din impozitul pe profit, din impozitul pe veniturile microîntreprinderilor și din impozitul pe venit, precum și sume orientate potrivit Legii nr.227/2015 privind Codul fiscal pentru sponsorizări, acte de mecenat, sprijinirea organizațiilor neguvernamentale",
+      "addressee": {
+        "idm": "195"
+      },
+      "recipient": "Ministerul Finanțelor",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i372A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77961&idl=1",
+      "registrationId": "372A160434",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "160434",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r372A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78089",
+      "title": "Întrebarea nr.500A/12-03-2025",
+      "description": "Clarificarea situației fostei Fabrici de Spirt din Sfântu Gheorghe, județul Covasna - notificare nr.119/2001 - revenire la Întrebarea nr.1021A/07.04.2021",
+      "addressee": {
+        "idm": "195"
+      },
+      "recipient": "Autoritatea pentru Administrarea Activelor Statului",
+      "dates": {
+        "registration": "2025-12-02T22:00:00.000Z",
+        "presentation": "2025-12-02T22:00:00.000Z",
+        "communication": "2025-12-02T22:00:00.000Z",
+        "responseDue": "2025-02-03T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i500A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78089&idl=1",
+      "registrationId": "500A25/3481",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "25/3481",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea pentru Administrarea Activelor Statului\ncomunicat de:\ndomnul\nFlorian Daniel Geantă\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r500A.pdf"
+        }
+      ]
+    }
+  ]
+}

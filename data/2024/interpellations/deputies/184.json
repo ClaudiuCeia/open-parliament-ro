@@ -1,0 +1,64 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:31:12.561Z",
+  "data": [
+    {
+      "idi": "77892",
+      "title": "Interpelarea nr.97B/04-03-2025",
+      "description": "Optimizarea Programului Rabla pentru stimularea achiziției de autovehicule produse în România",
+      "addressee": {
+        "idm": "184"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndomnului\nMircea Fechet\n- Ministru",
+      "dates": {
+        "registration": "2025-04-02T21:00:00.000Z",
+        "presentation": "2025-04-02T21:00:00.000Z",
+        "communication": "2025-04-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i97B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77892&idl=1",
+      "registrationId": "97B10227",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "10227",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nMircea Fechet\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r97B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77893",
+      "title": "Interpelarea nr.98B/04-03-2025",
+      "description": "Măsurile adoptate în urma menținerii ratingului de țară al României de către agenția Fitch și avertismentele asociate",
+      "addressee": {
+        "idm": "184"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nBarna Tánczos\n- Ministru",
+      "dates": {
+        "registration": "2025-04-02T21:00:00.000Z",
+        "presentation": "2025-04-02T21:00:00.000Z",
+        "communication": "2025-04-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i98B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77893&idl=1",
+      "registrationId": "98B160431-4",
+      "requestedResponseType": "în scris şi oral",
+      "answers": [
+        {
+          "registrationId": "160431-4",
+          "date": "2025-03-03T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r98B.pdf"
+        }
+      ]
+    }
+  ]
+}

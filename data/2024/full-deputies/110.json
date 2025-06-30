@@ -1,0 +1,44 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:09:44.884Z",
+  "data": {
+    "idm": "110",
+    "name": "Călin-Graţian GAL",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=110&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/GalCalinGratian.JPG",
+    "party": {
+      "idp": "27",
+      "abbrev": "PNL",
+      "name": "Partidul Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=27"
+    },
+    "group": {
+      "idg": "3",
+      "name": "Grupul parlamentar al Partidului Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+    },
+    "district": {
+      "cir": "5",
+      "name": "BIHOR",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 6,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7662&leg=2024&idl=1"
+      },
+      "- din care declaraţii politice": {
+        "count": 2,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7662&leg=2024&topic1=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 29,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=110&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 9,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=110&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      }
+    }
+  }
+}

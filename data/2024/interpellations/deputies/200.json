@@ -1,0 +1,85 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:31:23.739Z",
+  "data": [
+    {
+      "idi": "77977",
+      "title": "Întrebarea nr.388A/05-03-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 14286A- Situația Muzeului zoologic Constantin Romanescu – județul Neamț",
+      "addressee": {
+        "idm": "200"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndoamnei\nNatalia-Elena Intotero\n- Ministru",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i388A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77977&idl=1",
+      "registrationId": "388A1878",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "1878",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Culturii\ncomunicat de:\ndoamna\nNatalia-Elena Intotero\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r388A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78418",
+      "title": "Întrebarea nr.747A/03-04-2025",
+      "description": "Clarificări privind tentativa de impunere a zonelor de protecție strictă (ZPS) în județul Neamț fără consultare reală, prin proceduri opace și fără asumare guvernamentală clară",
+      "addressee": {
+        "idm": "200"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndomnului\nMircea Fechet\n- Ministru",
+      "dates": {
+        "registration": "2025-03-03T22:00:00.000Z",
+        "presentation": "2025-03-03T22:00:00.000Z",
+        "communication": "2025-09-03T21:00:00.000Z",
+        "responseDue": "2025-05-04T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i747A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78418&idl=1",
+      "registrationId": "747A16254",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "16254",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nMircea Fechet\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r747A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78758",
+      "title": "Întrebarea nr.965A/25-04-2025",
+      "description": "Soarta noului spital din Piatra-Neamț, în contextul anulării licitației din data de 28 februarie 2025",
+      "addressee": {
+        "idm": "200"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i965A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78758&idl=1",
+      "registrationId": "965A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
+}

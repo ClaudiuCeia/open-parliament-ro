@@ -1,0 +1,1220 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:33:29.730Z",
+  "data": [
+    {
+      "idi": "77984",
+      "title": "Întrebarea nr.395A/05-03-2025",
+      "description": "Solicitare informațiilor privind constatări anulate sau modificate în cadrul procesului de validare a rapoartelor de audit ale Curții de Conturi a României",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i395A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77984&idl=1",
+      "registrationId": "395A20500",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "20500",
+          "date": "2025-10-03T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României\ncomunicat de:\ndomnul\nMihai Busuioc\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r395A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77985",
+      "title": "Întrebarea nr.396A/05-03-2025",
+      "description": "Solicitare de informații referitoare la situația sumelor datorate pentru decontarea concediilor medicale",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Casa Naţională a Asigurărilor de Sănătate",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i396A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77985&idl=1",
+      "registrationId": "396A510",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "510",
+          "date": "2025-03-03T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Casa Naţională a Asigurărilor de Sănătate",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r396A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77986",
+      "title": "Întrebarea nr.397A/05-03-2025",
+      "description": "Structura analitică din punct de vedere valoric și pe surse a deficitului bugetar la 31.12.2024 și la data prezentei solicitări",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nBarna Tánczos\n- Ministru",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i397A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77986&idl=1",
+      "registrationId": "397A160434",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "160434",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r397A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77987",
+      "title": "Întrebarea nr.398A/05-03-2025",
+      "description": "Solicitare informațiilor privind deplasările externe aferente Curții de Conturi a României",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i398A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77987&idl=1",
+      "registrationId": "398A20506",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "20506",
+          "date": "2025-10-03T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României\ncomunicat de:\ndomnul\nMihai Busuioc\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r398A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77988",
+      "title": "Întrebarea nr.399A/05-03-2025",
+      "description": "Solicitare de informații privind valoarea totală a sumei datorate furnizorilor de energie",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nSebastian-Ioan Burduja\n- Ministru",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i399A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77988&idl=1",
+      "registrationId": "399A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "77989",
+      "title": "Întrebarea nr.400A/05-03-2025",
+      "description": "Solicitare de informații privind valoarea totală a sumei datorate furnizorilor de energie, detalierea obligațiilor financiare asociate măsurilor de plafonare a prețurilor",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nBarna Tánczos\n- Ministru",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i400A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77989&idl=1",
+      "registrationId": "400A160434",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "160434",
+          "date": "2025-03-03T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r400A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77990",
+      "title": "Întrebarea nr.401A/05-03-2025",
+      "description": "Solicitare informații aplicare art. 33 și 64 din Legea 94/07.09.1992, privind organizarea și funcționarea Curții de Conturi a României",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i401A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77990&idl=1",
+      "registrationId": "401A20518",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "20518",
+          "date": "2025-10-03T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României\ncomunicat de:\ndomnul\nMihai Busuioc\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r401A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77991",
+      "title": "Întrebarea nr.402A/05-03-2025",
+      "description": "Solicitare de informații privind rambursările de TVA, incluzând suma soldurilor negative aprobate la rambursare și neachitate la data de 31.12.2024, valoarea și structura deconturilor de TVA cu sumă negativă",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nBarna Tánczos\n- Ministru",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i402A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77991&idl=1",
+      "registrationId": "402A160434",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "160434",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r402A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77992",
+      "title": "Întrebarea nr.403A/05-03-2025",
+      "description": "Solicitare înregistrări interviuri angajare",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i403A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77992&idl=1",
+      "registrationId": "403A20537",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "20537",
+          "date": "2025-10-03T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României\ncomunicat de:\ndomnul\nMihai Busuioc\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r403A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77993",
+      "title": "Întrebarea nr.404A/05-03-2025",
+      "description": "Solicitare Rapoarte de audit ANAF și CNP",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i404A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77993&idl=1",
+      "registrationId": "404A20540",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "20540",
+          "date": "2025-10-03T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României\ncomunicat de:\ndomnul\nMihai Busuioc\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r404A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78057",
+      "title": "Întrebarea nr.468A/11-03-2025",
+      "description": "Implicarea politică a Vicepreședintelui ANCOM, Pavel Popescu: Controverse și încălcarea normelor legale",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\nîn atenţia:\ndomnului\nValeriu Ştefan Zgonea\n- Presedinte",
+      "dates": {
+        "registration": "2025-11-02T22:00:00.000Z",
+        "presentation": "2025-11-02T22:00:00.000Z",
+        "communication": "2025-12-02T22:00:00.000Z",
+        "responseDue": "2025-02-03T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i468A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78057&idl=1",
+      "registrationId": "468A5731",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "5731",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\ncomunicat de:\ndomnul\nValeriu Ştefan Zgonea\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r468A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78090",
+      "title": "Întrebarea nr.501A/12-03-2025",
+      "description": "Solicitare evaluare conducere Camera de Conturi Vrancea",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Agenţia Naţională de Integritate",
+      "dates": {
+        "registration": "2025-12-02T22:00:00.000Z",
+        "presentation": "2025-12-02T22:00:00.000Z",
+        "communication": "2025-12-02T22:00:00.000Z",
+        "responseDue": "2025-02-03T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i501A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78090&idl=1",
+      "registrationId": "501A8826",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "8826",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Agenţia Naţională de Integritate",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r501A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78151",
+      "title": "Întrebarea nr.562A/18-03-2025",
+      "description": "Rezultat control mod de implementare și administrare FOREXEBUG",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nBarna Tánczos\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-09-03T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i562A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78151&idl=1",
+      "registrationId": "562A160537",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "160537",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r562A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78163",
+      "title": "Întrebarea nr.574A/18-03-2025",
+      "description": "Solicitare licențe balastiere",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Guvernul României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-09-03T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i574A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78163&idl=1",
+      "registrationId": "574A3878",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3878",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Guvernul României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r574A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78177",
+      "title": "Întrebarea nr.588A/19-03-2025",
+      "description": "Solicitare date și informații Complexul Energetic Oltenia",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nSebastian-Ioan Burduja\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-09-03T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i588A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78177&idl=1",
+      "registrationId": "588A30674",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "30674",
+          "date": "2025-10-03T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Energiei\ncomunicat de:\ndomnul\nPavel-Casian Niţulescu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r588A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78229",
+      "title": "Interpelarea nr.148B/25-03-2025",
+      "description": "Domnul Lucian Romașcanu primește un loc călduț, departe de agitație și numai bun de pensie",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIon-Marcel Ciolacu\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i148B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78229&idl=1",
+      "registrationId": "148B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78313",
+      "title": "Întrebarea nr.642A/25-03-2025",
+      "description": "Solicitare informați valorificare date ANAF medici",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i642A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78313&idl=1",
+      "registrationId": "642A25167",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "25167",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României\ncomunicat de:\ndomnul\nMihai Busuioc\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r642A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78321",
+      "title": "Întrebarea nr.650A/25-03-2025",
+      "description": "Solicitare evaluare Florică Bîrsășteanu",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Agenţia Naţională de Integritate",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i650A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78321&idl=1",
+      "registrationId": "650A8823",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "8823",
+          "date": "2025-12-05T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Agenţia Naţională de Integritate",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r650A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78322",
+      "title": "Întrebarea nr.651A/25-03-2025",
+      "description": "Solicitare detașare personal din instituții militarizate",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\nîn atenţia:\ndomnului\nValeriu Ştefan Zgonea\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i651A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78322&idl=1",
+      "registrationId": "651A101",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "101",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\ncomunicat de:\ndomnul\nValeriu Ştefan Zgonea\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r651A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78360",
+      "title": "Întrebarea nr.689A/27-03-2025",
+      "description": "Solicitare de informații privind dosarele clasate având ca obiect fapte de corupție, evaziune fiscală și fraude în perioada 2019-2024",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul  Justiției\nîn atenţia:\ndomnului\nRadu Marinescu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-02-03T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i689A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78360&idl=1",
+      "registrationId": "689A22968",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "22968",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r689A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78424",
+      "title": "Întrebarea nr.753A/03-04-2025",
+      "description": "Solicitare informați înființare instanțe specializate",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": "2025-03-03T22:00:00.000Z",
+        "presentation": "2025-03-03T22:00:00.000Z",
+        "communication": "2025-09-03T21:00:00.000Z",
+        "responseDue": "2025-05-04T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i753A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78424&idl=1",
+      "registrationId": "753A28868",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "28868",
+          "date": "2025-07-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României\ncomunicat de:\ndomnul\nMihai Busuioc\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r753A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78431",
+      "title": "Întrebarea nr.760A/03-04-2025",
+      "description": "Solicitare informați buget",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Sănătăţii",
+      "dates": {
+        "registration": "2025-03-03T22:00:00.000Z",
+        "presentation": "2025-03-03T22:00:00.000Z",
+        "communication": "2025-09-03T21:00:00.000Z",
+        "responseDue": "2025-05-04T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i760A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78431&idl=1",
+      "registrationId": "760A6518",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "6518",
+          "date": "2025-03-05T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r760A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78760",
+      "title": "Întrebarea nr.967A/25-04-2025",
+      "description": "Solicitare Rapoarte de audit ANAF și CNP",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i967A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78760&idl=1",
+      "registrationId": "967A33865",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "33865",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României\ncomunicat de:\ndomnul\nMihai Busuioc\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r967A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78761",
+      "title": "Întrebarea nr.968A/25-04-2025",
+      "description": "Solicitare înregistrări interviuri angajare",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i968A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78761&idl=1",
+      "registrationId": "968A41180",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "41180",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României\ncomunicat de:\ndomnul\nMihai Busuioc\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r968A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78796",
+      "title": "Întrebarea nr.1002A/30-04-2025",
+      "description": "Solicitare informați contract/acord colectiv de muncă",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1002A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78796&idl=1",
+      "registrationId": "1002A41173",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "41173",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României\ncomunicat de:\ndomnul\nMihai Busuioc\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1002A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78806",
+      "title": "Întrebarea nr.1011A/30-04-2025",
+      "description": "Revenire solicitare evaluare Bîrsășteanu Florică",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Agenţia Naţională de Integritate",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1011A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78806&idl=1",
+      "registrationId": "1011A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78782",
+      "title": "Întrebarea nr.988A/30-04-2025",
+      "description": "Solicitare informațiilor privind deplasările externe aferente Curții de Conturi a Românie",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i988A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78782&idl=1",
+      "registrationId": "988A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78783",
+      "title": "Întrebarea nr.989A/30-04-2025",
+      "description": "Revenire solicitare detașare personal din instituții militarizate",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\nîn atenţia:\ndomnului\nValeriu Ştefan Zgonea\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i989A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78783&idl=1",
+      "registrationId": "989A9323",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "9323",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională de Reglementare în domeniul Energiei\ncomunicat de:\ndomnul\nValeriu Ştefan Zgonea\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r989A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78788",
+      "title": "Întrebarea nr.994A/30-04-2025",
+      "description": "Solicitare nominalizare ECA",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIon-Marcel Ciolacu\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i994A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78788&idl=1",
+      "registrationId": "994A3403",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3403",
+          "date": "2025-12-04T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r994A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78793",
+      "title": "Întrebarea nr.999A/30-04-2025",
+      "description": "Solicitare informațiilor privind deplasările externe aferente Curții de Conturi a României",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i999A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78793&idl=1",
+      "registrationId": "999A41173",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "41173",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României\ncomunicat de:\ndomnul\nMihai Busuioc\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r999A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78855",
+      "title": "Întrebarea nr.1060A/08-05-2025",
+      "description": "Solicitare comunicare soluționare sesizare Sindicat Retim Timișoara",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Guvernul României",
+      "dates": {
+        "registration": "2025-08-04T21:00:00.000Z",
+        "presentation": "2025-08-04T21:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-04-05T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1060A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78855&idl=1",
+      "registrationId": "1060A6239",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "6239",
+          "date": "2025-03-05T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Guvernul României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1060A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78953",
+      "title": "Întrebarea nr.1108A/13-05-2025",
+      "description": "Solicitare punct vedere patrimoniu național",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nAngel Tîlvăr\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-04-05T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1108A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78953&idl=1",
+      "registrationId": "1108A1162",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "1162",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nAngel Tîlvăr\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1108A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78955",
+      "title": "Întrebarea nr.1110A/13-05-2025",
+      "description": "Solicitare date angajare consilier personal Președinte ANCOM",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\nîn atenţia:\ndomnului\nValeriu Ştefan Zgonea\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-04-05T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1110A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78955&idl=1",
+      "registrationId": "1110A10339",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "10339",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\ncomunicat de:\ndomnul\nValeriu Ştefan Zgonea\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1110A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79013",
+      "title": "Întrebarea nr.1167A/22-05-2025",
+      "description": "Solicitare de informații privind verificările efectuate asupra SC RETIM SA cu privire la respectarea legislației în domeniul protecției mediului",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Garda Naţională de Mediu",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1167A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79013&idl=1",
+      "registrationId": "1167A23223",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "23223",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nMircea Fechet\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1167A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79014",
+      "title": "Întrebarea nr.1168A/22-05-2025",
+      "description": "Solicitare de informații privind activitățile de control derulate de ANCOM în baza protocoalelor cu Autoritatea Vamală Română (2020–2025)",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Autoritatea Naţională de Reglementare în domeniul Energiei\nîn atenţia:\ndomnului\nValeriu Ştefan Zgonea\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1168A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79014&idl=1",
+      "registrationId": "1168A11589",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "11589",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\ncomunicat de:\ndomnul\nValeriu Ştefan Zgonea\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1168A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79053",
+      "title": "Întrebarea nr.1207A/27-05-2025",
+      "description": "Solicitare evaluare conducere Camera de Conturi Constanța",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Agenţia Naţională de Integritate\nîn atenţia:\ndomnului\nFlorin Ionel Moise\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1207A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79053&idl=1",
+      "registrationId": "1207A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79458",
+      "title": "Întrebarea nr.1500A/19-06-2025",
+      "description": "Solicitare date angajare Nicolae Cristian Popovici",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\nîn atenţia:\ndomnului\nValeriu Ştefan Zgonea\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1500A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79458&idl=1",
+      "registrationId": "1500A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79466",
+      "title": "Întrebarea nr.1508A/19-06-2025",
+      "description": "Solicitare măsuri înlăturare disfuncționalități grave, conflict de interese și posibile abuzuri administrative la Spitalul Clinic Militar de Urgență „Dr. Victor Popescu” Timișoara",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Apărării Naţionale",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1508A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79466&idl=1",
+      "registrationId": "1508A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79471",
+      "title": "Întrebarea nr.1513A/19-06-2025",
+      "description": "Solicitare pentru informații privind sumele încasate de la notari",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1513A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79471&idl=1",
+      "registrationId": "1513A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79479",
+      "title": "Întrebarea nr.1521A/20-06-2025",
+      "description": "Solicitare privind bunurile SNTF CFR Marfă SA și CN CFR Călători SA",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1521A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79479&idl=1",
+      "registrationId": "1521A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79480",
+      "title": "Întrebarea nr.1522A/20-06-2025",
+      "description": "Solicitare de informații privind valoarea compensărilor aflate în sold din sprijinul acordat de la bugetul de stat pentru transportul feroviar",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1522A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79480&idl=1",
+      "registrationId": "1522A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79503",
+      "title": "Întrebarea nr.1545A/25-06-2025",
+      "description": "Solicitare date program de activitate",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1545A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79503&idl=1",
+      "registrationId": "1545A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79504",
+      "title": "Întrebarea nr.1546A/25-06-2025",
+      "description": "Solicitare de informații privind contractul/acordul colectiv de muncă la nivelul Curții de Conturi a României",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndomnului\nPetre-Florin Manole\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1546A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79504&idl=1",
+      "registrationId": "1546A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79505",
+      "title": "Întrebarea nr.1547A/25-06-2025",
+      "description": "Solicitare de informații privind îndemnizația de ședință membri Curtea de Conturi a României",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndomnului\nPetre-Florin Manole\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1547A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79505&idl=1",
+      "registrationId": "1547A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79513",
+      "title": "Întrebarea nr.1555A/25-06-2025",
+      "description": "Solicitare privind comunicarea dobânzilor plătite de stat pentru descoperirea de cont curent a Trezoreriei Statului și date balanța comercială",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1555A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79513&idl=1",
+      "registrationId": "1555A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79536",
+      "title": "Întrebarea nr.1578A/25-06-2025",
+      "description": "Revenire întrebare - solicitare informații privind deplasările externe aferente Curții de Conturi a României",
+      "addressee": {
+        "idm": "256"
+      },
+      "recipient": "Curtea de Conturi a României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1578A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79536&idl=1",
+      "registrationId": "1578A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
+}

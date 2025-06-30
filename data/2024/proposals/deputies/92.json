@@ -1,0 +1,436 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-30T10:13:14.147Z",
+  "data": [
+    {
+      "idp": "22345",
+      "title": "Proiect de Lege pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţiiDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "145/08-05-2025",
+        "deputyChamber": "140/12.05.2025",
+        "senateChamber": "L68/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n95/2006",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "lege 100/2025",
+        "long": "Lege 100/2025LEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
+      },
+      "initiators": [
+        "34",
+        "51",
+        "64",
+        "76",
+        "95",
+        "116",
+        "168",
+        "191",
+        "202",
+        "242",
+        "270",
+        "284",
+        "7",
+        "9",
+        "17",
+        "30",
+        "31",
+        "49",
+        "56",
+        "57",
+        "66",
+        "79",
+        "81",
+        "84",
+        "88",
+        "92",
+        "110",
+        "118",
+        "129",
+        "143",
+        "182",
+        "199",
+        "208",
+        "232",
+        "234",
+        "244",
+        "271",
+        "273",
+        "276",
+        "278",
+        "283",
+        "289",
+        "297",
+        "308",
+        "311",
+        "320",
+        "48",
+        "285",
+        "287",
+        "314",
+        "85",
+        "87",
+        "159",
+        "195",
+        "206",
+        "291",
+        "316",
+        "329",
+        "6",
+        "37",
+        "105",
+        "171",
+        "187",
+        "241",
+        "331"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/0/em145.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/0/cl145.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/0/fisc145.pdf",
+          "title": "Opinia Consiliului Fiscal"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22345"
+    },
+    {
+      "idp": "22343",
+      "title": "Proiect de Lege pentru completarea articolului 363 din Ordonanţa de urgenţă a Guvernului nr.57/2019 privind Codul administrativ, precum şi pentru modificarea Legii serviciului de salubrizare a localităţilor nr.101/2006Derularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "143/08-05-2025",
+        "deputyChamber": "142/12.05.2025",
+        "senateChamber": "L64/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n57/2019",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "9",
+        "31",
+        "49",
+        "56",
+        "66",
+        "92",
+        "110",
+        "153",
+        "182",
+        "203",
+        "205",
+        "332",
+        "232",
+        "244",
+        "271",
+        "273",
+        "276",
+        "283"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/2/em143.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/2/ces143.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/2/cl143.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/2/cconc143.pdf",
+          "title": "Avizul Consiliului Concurenței"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22343"
+    },
+    {
+      "idp": "22359",
+      "title": "Propunere legislativă pentru completarea Legii energiei electrice şi a gazelor naturale nr.123/2012Derularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "162/20-05-2025",
+        "deputyChamber": "156/21.05.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Senatul",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n123/2012",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "7",
+        "9",
+        "14",
+        "17",
+        "46",
+        "56",
+        "57",
+        "66",
+        "79",
+        "81",
+        "84",
+        "92",
+        "110",
+        "129",
+        "182",
+        "214",
+        "332",
+        "232",
+        "234",
+        "276",
+        "278",
+        "308",
+        "311"
+      ],
+      "publicConsultation": {
+        "dueDate": "2025-06-23T00:00:00.000Z",
+        "count": 0
+      },
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/6/em162.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/6/pl162.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22359"
+    },
+    {
+      "idp": "22240",
+      "title": "Proiect de Lege pentru instituirea zilei de 15 mai ca Ziua naţională a FamilieiDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "41/04-03-2025190/28-05-2025",
+        "deputyChamber": "173/02.06.2025",
+        "senateChamber": "L100/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "49",
+        "57",
+        "81",
+        "84",
+        "92",
+        "110",
+        "118",
+        "199",
+        "214",
+        "332",
+        "232",
+        "244",
+        "273",
+        "278",
+        "311",
+        "320"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/3/em190.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/3/ces190.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/3/cl190.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22240"
+    },
+    {
+      "idp": "22415",
+      "title": "Propunere legislativă pentru completarea art.111 alin.(2) din Legea nr.227/2015 privind Codul fiscalDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "228/11-06-2025",
+        "deputyChamber": "199/16.06.2025",
+        "senateChamber": "L134/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n227/2015",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "9",
+        "17",
+        "30",
+        "46",
+        "49",
+        "56",
+        "57",
+        "79",
+        "92",
+        "110",
+        "129",
+        "143",
+        "205",
+        "208",
+        "232",
+        "244",
+        "271",
+        "289",
+        "308",
+        "311",
+        "320"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/9/em228.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/9/pl228.pdf",
+          "title": "Forma iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/9/ces228.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/9/cl228.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22415"
+    },
+    {
+      "idp": "22279",
+      "title": "Propunere legislativă pentru modificarea şi completarea art.63, alin.(4) şi a art.65 din Ordonanţa de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publiceDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "78/26-03-2025240/17-06-2025",
+        "deputyChamber": "205/18.06.2025",
+        "senateChamber": "L141/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n195/2002",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": [
+        "9",
+        "14",
+        "30",
+        "49",
+        "56",
+        "57",
+        "79",
+        "92",
+        "110",
+        "153",
+        "205",
+        "208",
+        "234",
+        "244",
+        "271",
+        "276",
+        "289",
+        "311",
+        "320"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/5/em240.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/5/pl240.pdf",
+          "title": "Forma iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/5/ces240.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/5/cl240.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22279"
+    },
+    {
+      "idp": "22361",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr.407/2006Derularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "163/20-05-2025",
+        "deputyChamber": "BP163/20.05.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n407/2006",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "56",
+        "57",
+        "66",
+        "84",
+        "92",
+        "182",
+        "208",
+        "232",
+        "234",
+        "249",
+        "271",
+        "273",
+        "295",
+        "311"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/3/in163.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/3/em163.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/3/pl163.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22361"
+    }
+  ]
+}

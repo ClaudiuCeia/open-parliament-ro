@@ -1,0 +1,44 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:10:33.040Z",
+  "data": {
+    "idm": "192",
+    "name": "Silvia-Claudia MIHALCEAsecretar al Camerei Deputaţilor",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=192&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/MihalceaSilviaClaudia.JPG",
+    "party": {
+      "idp": "40",
+      "abbrev": "PSD",
+      "name": "Partidul Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=40"
+    },
+    "group": {
+      "idg": "1",
+      "name": "Grupul parlamentar al Partidului Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+    },
+    "district": {
+      "cir": "11",
+      "name": "CARAŞ-SEVERIN",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=11"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 12,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=5636&leg=2024&idl=1"
+      },
+      "Luări de cuvânt în BP": {
+        "count": 5,
+        "url": "https://www.cdep.ro/bp/sedinte2015.cautare?idv=5636&leg=2024&ope=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 21,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=192&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Proiecte de hotarâre iniţiate": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=192&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
+      }
+    }
+  }
+}

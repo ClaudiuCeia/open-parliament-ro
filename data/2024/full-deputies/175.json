@@ -1,0 +1,52 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:10:23.582Z",
+  "data": {
+    "idm": "175",
+    "name": "Simona-Elena MACOVEI ILIE",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=175&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/MacoveiIlieSimonaElena.JPG",
+    "party": {
+      "idp": "80",
+      "abbrev": "SOS",
+      "name": "Partidul S.O.S. România",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=80"
+    },
+    "group": {
+      "idg": "5",
+      "name": "Grupul parlamentar SOS România",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+    },
+    "district": {
+      "cir": "24",
+      "name": "IAŞI",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 4,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7727&leg=2024&idl=1"
+      },
+      "Declaraţii politice depuse în scris": {
+        "count": 3,
+        "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7727&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 24,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=175&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Proiecte de hotarâre iniţiate": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=175&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 6,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=175&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      },
+      "Moţiuni": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=175&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
+      }
+    }
+  }
+}

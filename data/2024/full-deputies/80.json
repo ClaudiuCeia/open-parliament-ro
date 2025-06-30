@@ -1,0 +1,48 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:09:25.622Z",
+  "data": {
+    "idm": "80",
+    "name": "Paul-Claudiu COTÎRLEŢ",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=80&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/CotirletPaulClaudiu.JPG",
+    "party": {
+      "idp": "40",
+      "abbrev": "PSD",
+      "name": "Partidul Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=40"
+    },
+    "group": {
+      "idg": "1",
+      "name": "Grupul parlamentar al Partidului Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+    },
+    "district": {
+      "cir": "28",
+      "name": "NEAMŢ",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 4,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7740&leg=2024&idl=1"
+      },
+      "- din care declaraţii politice": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7740&leg=2024&topic1=1"
+      },
+      "Declaraţii politice depuse în scris": {
+        "count": 4,
+        "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7740&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 11,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=80&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 9,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=80&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      }
+    }
+  }
+}

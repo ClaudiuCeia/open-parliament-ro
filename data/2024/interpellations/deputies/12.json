@@ -1,0 +1,93 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:26:33.029Z",
+  "data": [
+    {
+      "idi": "78682",
+      "title": "Interpelarea nr.304B/23-04-2025",
+      "description": "Solicitare informații privind beneficiarii și cuantumul anual al indemnizațiilor de merit",
+      "addressee": {
+        "idm": "12"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i304B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78682&idl=1",
+      "registrationId": "304B9827",
+      "requestedResponseType": "în scris şi oral",
+      "answers": [
+        {
+          "registrationId": "9827",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r304B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78683",
+      "title": "Interpelarea nr.305B/23-04-2025",
+      "description": "Solicitare de informații privind măsurile de pregătire a populației din județul Vrancea în situația unei ciocniri ipotetice între NATO și Rusia",
+      "addressee": {
+        "idm": "12"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nAngel Tîlvăr\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i305B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78683&idl=1",
+      "registrationId": "305B1067",
+      "requestedResponseType": "în scris şi oral",
+      "answers": [
+        {
+          "registrationId": "1067",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nAngel Tîlvăr\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r305B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78684",
+      "title": "Interpelarea nr.306B/23-04-2025",
+      "description": "Situația spațiilor căminelor de elevi",
+      "addressee": {
+        "idm": "12"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i306B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78684&idl=1",
+      "registrationId": "306B9827",
+      "requestedResponseType": "în scris şi oral",
+      "answers": [
+        {
+          "registrationId": "9827",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r306B.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:10:56.490Z",
+  "data": {
+    "idm": "234",
+    "name": "Ciprian PANDEA",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=234&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/PandeaCiprian.JPG",
+    "party": {
+      "idp": "27",
+      "abbrev": "PNL",
+      "name": "Partidul Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=27"
+    },
+    "group": {
+      "idg": "3",
+      "name": "Grupul parlamentar al Partidului Naţional Liberal",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+    },
+    "district": {
+      "cir": "12",
+      "name": "CĂLĂRAŞI",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=12"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7369&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 17,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=234&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 2,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=234&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      }
+    }
+  }
+}

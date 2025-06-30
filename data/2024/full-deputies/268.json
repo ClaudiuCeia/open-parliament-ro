@@ -1,0 +1,44 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:11:14.519Z",
+  "data": {
+    "idm": "268",
+    "name": "Ana-Smaranda RINDER",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=268&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/RinderAnaSmaranda.JPG",
+    "party": {
+      "idp": "40",
+      "abbrev": "PSD",
+      "name": "Partidul Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=40"
+    },
+    "group": {
+      "idg": "1",
+      "name": "Grupul parlamentar al Partidului Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+    },
+    "district": {
+      "cir": "38",
+      "name": "VASLUI",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=38"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 10,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7795&leg=2024&idl=1"
+      },
+      "- din care declaraţii politice": {
+        "count": 2,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7795&leg=2024&topic1=1"
+      },
+      "Declaraţii politice depuse în scris": {
+        "count": 2,
+        "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7795&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 17,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=268&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      }
+    }
+  }
+}

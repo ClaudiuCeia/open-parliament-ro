@@ -1,0 +1,580 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:32:11.213Z",
+  "data": [
+    {
+      "idi": "77550",
+      "title": "Întrebarea nr.88A/03-02-2025",
+      "description": "Blocajul birocratic al sectorului A8 - varianta de ocolire a municipiului Iași pe la nord",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-01T22:00:00.000Z",
+        "presentation": "2025-03-01T22:00:00.000Z",
+        "communication": "2025-05-01T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i88A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77550&idl=1",
+      "registrationId": "88A4009",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "4009",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nSorin-Mihai Grindeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r88A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77590",
+      "title": "Interpelarea nr.1B/11-02-2025",
+      "description": "Stadiul și calendarul implementării proiectului de construcție a noului sediu al Operei Naționale Române din Iași",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndoamnei\nNatalia-Elena Intotero\n- Ministru",
+      "dates": {
+        "registration": "2025-11-01T22:00:00.000Z",
+        "presentation": "2025-11-01T22:00:00.000Z",
+        "communication": "2025-11-01T22:00:00.000Z",
+        "responseDue": "2025-04-02T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77590&idl=1",
+      "registrationId": "1B1316",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "1316",
+          "date": "2025-03-02T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Culturii\ncomunicat de:\ndoamna\nNatalia-Elena Intotero\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77694",
+      "title": "Interpelarea nr.26B/18-02-2025",
+      "description": "Stadiul proiectului Spitalul Regional de Urgență Iași și perspectivele extinderii rețelei de spitale regionale",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-11-02T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i26B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77694&idl=1",
+      "registrationId": "26B3122",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3122",
+          "date": "2025-03-03T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nMarius Tiberius Brădăţan\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r26B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77772",
+      "title": "Întrebarea nr.256A/24-02-2025",
+      "description": "Strategia României în sprijinul Ucrainei și consolidarea Flancului Estic, la trei ani de la invazia Rusiei",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i256A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77772&idl=1",
+      "registrationId": "256AC2-1/336",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "C2-1/336",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r256A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77790",
+      "title": "Întrebarea nr.274A/24-02-2025",
+      "description": "Necesitatea prelungirii termenelor pentru accesarea fondurilor europene destinate proiectelor de tren metropolitan",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i274A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77790&idl=1",
+      "registrationId": "274A6593",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "6593",
+          "date": "2025-03-03T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nSorin-Mihai Grindeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r274A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77902",
+      "title": "Interpelarea nr.107B/04-03-2025",
+      "description": "Modificările aduse art. 244 din Legea 95/2006 și impactul asupra Medicinei Fizice și de Reabilitare",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": "2025-04-02T21:00:00.000Z",
+        "presentation": "2025-04-02T21:00:00.000Z",
+        "communication": "2025-04-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i107B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77902&idl=1",
+      "registrationId": "107B4180",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "4180",
+          "date": "2025-09-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nHoratiu - Remus Moldovan\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r107B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78076",
+      "title": "Întrebarea nr.487A/11-03-2025",
+      "description": "Aplicabilitatea prevederilor art. 67 din Legea nr. 199/2023 privind învățământul superior",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-11-02T22:00:00.000Z",
+        "presentation": "2025-11-02T22:00:00.000Z",
+        "communication": "2025-12-02T22:00:00.000Z",
+        "responseDue": "2025-02-03T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i487A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78076&idl=1",
+      "registrationId": "487A9052",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "9052",
+          "date": "2025-10-03T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r487A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78224",
+      "title": "Interpelarea nr.143B/25-03-2025",
+      "description": "Finanțarea urgentă a Sălii Polivalente din municipiul Iași",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i143B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78224&idl=1",
+      "registrationId": "143B82347",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "82347",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nIoan Cristian Haiduc\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r143B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78476",
+      "title": "Interpelarea nr.236B/08-04-2025",
+      "description": "Suplimentarea fondurilor și completarea lucrărilor necesare reabilitării energetice a Palatului Administrativ din Iași",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": "2025-08-03T21:00:00.000Z",
+        "presentation": "2025-08-03T21:00:00.000Z",
+        "communication": "2025-08-03T21:00:00.000Z",
+        "responseDue": "2025-02-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i236B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78476&idl=1",
+      "registrationId": "236B102989",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "102989",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r236B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78643",
+      "title": "Întrebarea nr.905A/22-04-2025",
+      "description": "Derapaje instituționale și manipularea opiniei publice de către un membru al Colegiului CNSAS",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Consiliul Naţional pentru Studierea Arhivelor Securităţii",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i905A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78643&idl=1",
+      "registrationId": "905A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78674",
+      "title": "Interpelarea nr.296B/23-04-2025",
+      "description": "Stadiul finanțării și sprijinului pentru două proiecte strategice de infrastructură medicală în județul Iași",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nMarcel-Ioan Boloş\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i296B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78674&idl=1",
+      "registrationId": "296B3448",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3448",
+          "date": "2025-06-05T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nMarcel-Ioan Boloş\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r296B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78710",
+      "title": "Întrebarea nr.918A/23-04-2025",
+      "description": "Aplicarea prevederilor PNIIUS pentru proiectul „Construirea și Dotarea Spitalului Clinic Integrat de Boli Respiratorii Iași”",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nMarcel-Ioan Boloş\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i918A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78710&idl=1",
+      "registrationId": "918A3203",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3203",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nMarcel-Ioan Boloş\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r918A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78880",
+      "title": "Întrebarea nr.1085A/12-05-2025",
+      "description": "Sprijinul Ministerului Sănătății pentru înființarea Centrului de Îngrijiri Paliative Pediatrice la Spitalul „Sf. Maria” din Iași",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": "2025-12-04T22:00:00.000Z",
+        "presentation": "2025-12-04T22:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-04-05T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1085A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78880&idl=1",
+      "registrationId": "1085A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78898",
+      "title": "Interpelarea nr.339B/13-05-2025",
+      "description": "Necesitatea urgentării procedurilor pentru realizarea variantelor de ocolire gestionate de DRDP Iași",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-03-05T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i339B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78898&idl=1",
+      "registrationId": "339B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79063",
+      "title": "Întrebarea nr.1217A/27-05-2025",
+      "description": "Integrarea inteligenței artificiale în sistemul educațional românesc",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1217A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79063&idl=1",
+      "registrationId": "1217A10250",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "10250",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1217A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79199",
+      "title": "Întrebarea nr.1289A/03-06-2025",
+      "description": "Impactul contestațiilor abuzive asupra procedurilor de licitație pentru Autostrada A8 - sector Moțca - Târgu Frumos",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-04-05T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1289A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79199&idl=1",
+      "registrationId": "1289A18053",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "18053",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nSorin-Mihai Grindeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1289A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79201",
+      "title": "Întrebarea nr.1291A/03-06-2025",
+      "description": "Clarificări privind stadiul contractual și administrativ al proiectelor aferente Autostrăzii A8 – sectorul montan",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-04-05T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1291A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79201&idl=1",
+      "registrationId": "1291A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79202",
+      "title": "Întrebarea nr.1292A/03-06-2025",
+      "description": "Situația decontărilor PNRR pentru proiectele contractate de Municipiul Iași și soluții pentru accelerarea absorbției fondurilor",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nMarcel-Ioan Boloş\n- Ministru",
+      "dates": {
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-04-05T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1292A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79202&idl=1",
+      "registrationId": "1292A3824",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3824",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nMarcel-Ioan Boloş\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1292A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79152",
+      "title": "Interpelarea nr.407B/03-06-2025",
+      "description": "Lipsa unui calendar oficial și a alocărilor bugetare pentru funcționarea Școlii de Agenți de Poliție din Iași",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-03-05T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i407B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79152&idl=1",
+      "registrationId": "407B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79334",
+      "title": "Întrebarea nr.1424A/12-06-2025",
+      "description": "Contestarea noilor licitații pentru Autostrada A8, sector Lețcani – Podul Prut",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": "2025-12-05T22:00:00.000Z",
+        "presentation": "2025-12-05T22:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-09-06T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1424A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79334&idl=1",
+      "registrationId": "1424A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79335",
+      "title": "Întrebarea nr.1425A/12-06-2025",
+      "description": "Blocarea proiectului Sălii Polivalente din Iași și pericolul pierderii finanțării guvernamentale",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nMarcel-Ioan Boloş\n- Ministru",
+      "dates": {
+        "registration": "2025-12-05T22:00:00.000Z",
+        "presentation": "2025-12-05T22:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-09-06T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1425A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79335&idl=1",
+      "registrationId": "1425A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79488",
+      "title": "Întrebarea nr.1530A/24-06-2025",
+      "description": "Stadiul alarmant al lucrărilor la Autostrada Unirii (A8) și riscul pierderii finanțării prin PNRR",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1530A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79488&idl=1",
+      "registrationId": "1530A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
+}

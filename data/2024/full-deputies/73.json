@@ -1,0 +1,40 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:09:22.072Z",
+  "data": {
+    "idm": "73",
+    "name": "Allen COLIBAN",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=73&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/ColibanAllen.JPG",
+    "party": {
+      "idp": "74",
+      "abbrev": "USR",
+      "name": "Uniunea Salvaţi România",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=74"
+    },
+    "group": {
+      "idg": "4",
+      "name": "Grupul parlamentar al Uniunii Salvaţi România",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+    },
+    "district": {
+      "cir": "8",
+      "name": "BRAŞOV",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 15,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=6780&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 21,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=73&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 2,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=73&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      }
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:29:54.992Z",
+  "data": [
+    {
+      "idi": "77739",
+      "title": "Întrebarea nr.223A/18-02-2025",
+      "description": "Finanțarea precampaniei la Președinția României a candidatului Nicușor Dan la alegerile din mai 2025",
+      "addressee": {
+        "idm": "130"
+      },
+      "recipient": "Autoritatea Electorală Permanentă\nîn atenţia:\ndomnului\nToni Greblă\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-12-02T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i223A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77739&idl=1",
+      "registrationId": "223A3747",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3747",
+          "date": "2025-11-02T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Autoritatea Electorală Permanentă",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r223A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77796",
+      "title": "Întrebarea nr.280A/25-02-2025",
+      "description": "Situația grupurilor de acțiune anti-bullying în școlile din România",
+      "addressee": {
+        "idm": "130"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i280A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77796&idl=1",
+      "registrationId": "280A8829",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "8829",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r280A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77931",
+      "title": "Întrebarea nr.342A/04-03-2025",
+      "description": "Programul Casa Verde 2025",
+      "addressee": {
+        "idm": "130"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndomnului\nMircea Fechet\n- Ministru",
+      "dates": {
+        "registration": "2025-04-02T21:00:00.000Z",
+        "presentation": "2025-04-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i342A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77931&idl=1",
+      "registrationId": "342A10228",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "10228",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nMircea Fechet\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r342A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78583",
+      "title": "Întrebarea nr.845A/14-04-2025",
+      "description": "Rambursarea cheltuielilor de campanie în lipsa susținerii politice – o dilemă bugetară",
+      "addressee": {
+        "idm": "130"
+      },
+      "recipient": "Autoritatea Electorală Permanentă",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-12-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i845A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78583&idl=1",
+      "registrationId": "845A8894",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "8894",
+          "date": "2025-07-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Autoritatea Electorală Permanentă",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r845A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79282",
+      "title": "Întrebarea nr.1372A/10-06-2025",
+      "description": "Colectarea deficitară a TVA",
+      "addressee": {
+        "idm": "130"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nBarna Tánczos\n- Ministru",
+      "dates": {
+        "registration": "2025-10-05T21:00:00.000Z",
+        "presentation": "2025-10-05T21:00:00.000Z",
+        "communication": "2025-11-05T22:00:00.000Z",
+        "responseDue": "2025-02-06T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1372A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79282&idl=1",
+      "registrationId": "1372A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
+}

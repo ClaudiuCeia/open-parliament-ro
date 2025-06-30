@@ -1,0 +1,44 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:09:15.569Z",
+  "data": {
+    "idm": "62",
+    "name": "Ciprian CIUBUC",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=62&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/CiubucCiprian.JPG",
+    "party": {
+      "idp": "80",
+      "abbrev": "SOS",
+      "name": "Partidul S.O.S. România",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=80"
+    },
+    "group": {
+      "idg": "5",
+      "name": "Grupul parlamentar SOS România",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+    },
+    "district": {
+      "cir": "28",
+      "name": "NEAMŢ",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 29,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7204&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 16,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=62&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 3,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=62&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
+      },
+      "Moţiuni": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=62&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
+      }
+    }
+  }
+}

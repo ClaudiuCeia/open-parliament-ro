@@ -1,0 +1,71 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:35:58.239Z",
+  "data": [
+    {
+      "idi": "78517",
+      "title": "Întrebarea nr.779A/07-04-2025",
+      "description": "Cererea domnului Brunshtein",
+      "addressee": {
+        "idm": "322"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-07-03T21:00:00.000Z",
+        "presentation": "2025-07-03T21:00:00.000Z",
+        "communication": "2025-09-03T21:00:00.000Z",
+        "responseDue": "2025-05-04T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i779A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78517&idl=1",
+      "registrationId": "779A2493525061",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "24935",
+          "date": "2025-07-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională pentru Cetăţenie",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r779A.pdf"
+        },
+        {
+          "registrationId": "25061",
+          "date": "2025-07-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r779A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78656",
+      "title": "Interpelarea nr.278B/23-04-2025",
+      "description": "Desemnarea raportorului special al ONU pentru teritoriile palestiniene",
+      "addressee": {
+        "idm": "322"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i278B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78656&idl=1",
+      "registrationId": "278B2226",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "2226",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r278B.pdf"
+        }
+      ]
+    }
+  ]
+}

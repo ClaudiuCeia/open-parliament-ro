@@ -1,0 +1,64 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:34:11.988Z",
+  "data": [
+    {
+      "idi": "78128",
+      "title": "Întrebarea nr.539A/17-03-2025",
+      "description": "Persoanele cu invaliditate din județul Hunedoara, obligate să se deplaseze în județul Alba pentru evaluare",
+      "addressee": {
+        "idm": "283"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndoamnei\nSimona Bucura-Oprescu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-09-03T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i539A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78128&idl=1",
+      "registrationId": "539A1835",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "1835",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r539A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78632",
+      "title": "Întrebarea nr.894A/16-04-2025",
+      "description": "Solicitare privind respectarea termenului de primire a răspunsului la întrebarea nr. 539A",
+      "addressee": {
+        "idm": "283"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndoamnei\nSimona Bucura-Oprescu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-12-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i894A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78632&idl=1",
+      "registrationId": "894A1835",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "1835",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r894A.pdf"
+        }
+      ]
+    }
+  ]
+}

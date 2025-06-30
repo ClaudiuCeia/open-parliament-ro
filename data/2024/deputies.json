@@ -1,0 +1,5223 @@
+{
+  "version": "0.0.2",
+  "lastUpdated": "2025-06-30T10:08:16.526Z",
+  "data": [
+    {
+      "idm": "1",
+      "name": "Adomnicăi Mirela Elena",
+      "url": "/pls/parlam/structura2015.mp?idm=1&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "35",
+        "name": "TELEORMAN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
+      },
+      "lastUpdated": "2025-06-30T10:07:01.341Z"
+    },
+    {
+      "idm": "3",
+      "name": "Albu Dumitriţa",
+      "url": "/pls/parlam/structura2015.mp?idm=3&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "43",
+        "name": "Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=43"
+      },
+      "lastUpdated": "2025-06-30T10:07:01.973Z"
+    },
+    {
+      "idm": "4",
+      "name": "Alecsandru Marius-Nicolae",
+      "url": "/pls/parlam/structura2015.mp?idm=4&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "10",
+        "name": "BUZĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
+      },
+      "lastUpdated": "2025-06-30T10:07:02.535Z"
+    },
+    {
+      "idm": "5",
+      "name": "Alecu Robert",
+      "url": "/pls/parlam/structura2015.mp?idm=5&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "4",
+        "name": "BACĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
+      },
+      "lastUpdated": "2025-06-30T10:07:02.861Z"
+    },
+    {
+      "idm": "6",
+      "name": "Amet Varol",
+      "url": "/pls/parlam/structura2015.mp?idm=6&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:03.213Z"
+    },
+    {
+      "idm": "7",
+      "name": "Andrei Alexandru-Ioan",
+      "url": "/pls/parlam/structura2015.mp?idm=7&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "19",
+        "name": "GIURGIU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=19"
+      },
+      "lastUpdated": "2025-06-30T10:07:04.030Z"
+    },
+    {
+      "idm": "8",
+      "name": "Andrei Cosmin",
+      "url": "/pls/parlam/structura2015.mp?idm=8&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "38",
+        "name": "VASLUI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=38"
+      },
+      "lastUpdated": "2025-06-30T10:07:04.350Z"
+    },
+    {
+      "idm": "9",
+      "name": "Andronache Gabriel",
+      "url": "/pls/parlam/structura2015.mp?idm=9&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "8",
+        "name": "BRAŞOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:04.680Z"
+    },
+    {
+      "idm": "10",
+      "name": "Andruşcă Lucian-Nicolae",
+      "url": "/pls/parlam/structura2015.mp?idm=10&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "16",
+        "name": "DÂMBOVIŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
+      },
+      "lastUpdated": "2025-06-30T10:07:05.016Z"
+    },
+    {
+      "idm": "11",
+      "name": "Artimon Dan-Cătălin",
+      "url": "/pls/parlam/structura2015.mp?idm=11&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "2",
+        "name": "ARAD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
+      },
+      "lastUpdated": "2025-06-30T10:07:05.640Z"
+    },
+    {
+      "idm": "12",
+      "name": "Atanasiu Corina",
+      "url": "/pls/parlam/structura2015.mp?idm=12&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "41",
+        "name": "BUCUREŞTI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=41"
+      },
+      "lastUpdated": "2025-06-30T10:07:05.995Z"
+    },
+    {
+      "idm": "13",
+      "name": "Avrămescu Ştefăniţă-Alin",
+      "url": "/pls/parlam/structura2015.mp?idm=13&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "31",
+        "name": "SATU-MARE",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
+      },
+      "lastUpdated": "2025-06-30T10:07:06.363Z"
+    },
+    {
+      "idm": "14",
+      "name": "Baciu Romică-Andrei",
+      "url": "/pls/parlam/structura2015.mp?idm=14&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:06.703Z"
+    },
+    {
+      "idm": "15",
+      "name": "Badea Nelu-Valentin",
+      "url": "/pls/parlam/structura2015.mp?idm=15&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "36",
+        "name": "TIMIŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
+      },
+      "lastUpdated": "2025-06-30T10:07:07.033Z"
+    },
+    {
+      "idm": "16",
+      "name": "Badiu Georgel",
+      "url": "/pls/parlam/structura2015.mp?idm=16&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "41",
+        "name": "BUCUREŞTI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=41"
+      },
+      "lastUpdated": "2025-06-30T10:07:07.237Z"
+    },
+    {
+      "idm": "17",
+      "name": "Balan Ioan",
+      "url": "/pls/parlam/structura2015.mp?idm=17&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "35",
+        "name": "TELEORMAN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
+      },
+      "lastUpdated": "2025-06-30T10:07:07.439Z"
+    },
+    {
+      "idm": "18",
+      "name": "Bara Nicolae-Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=18&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "1",
+        "name": "ALBA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=1"
+      },
+      "lastUpdated": "2025-06-30T10:07:07.813Z"
+    },
+    {
+      "idm": "19",
+      "name": "Barbu Florin-Ionuţ",
+      "url": "/pls/parlam/structura2015.mp?idm=19&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "30",
+        "name": "PRAHOVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
+      },
+      "lastUpdated": "2025-06-30T10:07:08.153Z"
+    },
+    {
+      "idm": "20",
+      "name": "Barstan Tiberiu-Claudiu",
+      "url": "/pls/parlam/structura2015.mp?idm=20&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "22",
+        "name": "HUNEDOARA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
+      },
+      "lastUpdated": "2025-06-30T10:07:08.496Z"
+    },
+    {
+      "idm": "21",
+      "name": "Baş Ana-Marcela",
+      "url": "/pls/parlam/structura2015.mp?idm=21&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "37",
+        "name": "TULCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
+      },
+      "lastUpdated": "2025-06-30T10:07:09.127Z"
+    },
+    {
+      "idm": "22",
+      "name": "Băişanu Ştefan-Alexandru",
+      "url": "/pls/parlam/structura2015.mp?idm=22&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "35",
+        "name": "TELEORMAN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
+      },
+      "lastUpdated": "2025-06-30T10:07:09.331Z"
+    },
+    {
+      "idm": "23",
+      "name": "Becali George",
+      "url": "/pls/parlam/structura2015.mp?idm=23&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:09.534Z"
+    },
+    {
+      "idm": "24",
+      "name": "Bejinariu Eugen",
+      "url": "/pls/parlam/structura2015.mp?idm=24&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "35",
+        "name": "TELEORMAN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
+      },
+      "lastUpdated": "2025-06-30T10:07:09.736Z"
+    },
+    {
+      "idm": "25",
+      "name": "Bende Sándor",
+      "url": "/pls/parlam/structura2015.mp?idm=25&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "21",
+        "name": "HARGHITA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=21"
+      },
+      "lastUpdated": "2025-06-30T10:07:10.361Z"
+    },
+    {
+      "idm": "26",
+      "name": "Berescu Monica-Elena",
+      "url": "/pls/parlam/structura2015.mp?idm=26&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:07:10.707Z"
+    },
+    {
+      "idm": "27",
+      "name": "Biro Daniel-Răzvan",
+      "url": "/pls/parlam/structura2015.mp?idm=27&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "28",
+        "name": "NEAMŢ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
+      },
+      "lastUpdated": "2025-06-30T10:07:11.066Z"
+    },
+    {
+      "idm": "28",
+      "name": "Biró Rozália-Ibolya",
+      "url": "/pls/parlam/structura2015.mp?idm=28&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "5",
+        "name": "BIHOR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
+      },
+      "lastUpdated": "2025-06-30T10:07:11.389Z"
+    },
+    {
+      "idm": "29",
+      "name": "Blaga Daniel-Codruţ",
+      "url": "/pls/parlam/structura2015.mp?idm=29&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "16",
+        "name": "DÂMBOVIŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
+      },
+      "lastUpdated": "2025-06-30T10:07:11.590Z"
+    },
+    {
+      "idm": "30",
+      "name": "Bode Lucian Nicolae",
+      "url": "/pls/parlam/structura2015.mp?idm=30&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "33",
+        "name": "SIBIU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=33"
+      },
+      "lastUpdated": "2025-06-30T10:07:11.924Z"
+    },
+    {
+      "idm": "31",
+      "name": "Bogdan Ionel-Ovidiu",
+      "url": "/pls/parlam/structura2015.mp?idm=31&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "26",
+        "name": "MEHEDINŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
+      },
+      "lastUpdated": "2025-06-30T10:07:12.245Z"
+    },
+    {
+      "idm": "32",
+      "name": "Bogdănel Lucian-Gabriel",
+      "url": "/pls/parlam/structura2015.mp?idm=32&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "4",
+        "name": "BACĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
+      },
+      "lastUpdated": "2025-06-30T10:07:12.451Z"
+    },
+    {
+      "idm": "33",
+      "name": "Bordian Alexandru",
+      "url": "/pls/parlam/structura2015.mp?idm=33&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "18",
+        "name": "GALAŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
+      },
+      "lastUpdated": "2025-06-30T10:07:12.819Z"
+    },
+    {
+      "idm": "34",
+      "name": "Borş George-Mădălin",
+      "url": "/pls/parlam/structura2015.mp?idm=34&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "36",
+        "name": "TIMIŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
+      },
+      "lastUpdated": "2025-06-30T10:07:13.022Z"
+    },
+    {
+      "idm": "35",
+      "name": "Boşutar Tiberiu-Nicolae",
+      "url": "/pls/parlam/structura2015.mp?idm=35&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "6",
+        "name": "BISTRIŢA-NĂSĂUD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=6"
+      },
+      "lastUpdated": "2025-06-30T10:07:13.389Z"
+    },
+    {
+      "idm": "36",
+      "name": "Botez Mihai-Cătălin",
+      "url": "/pls/parlam/structura2015.mp?idm=36&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "39",
+        "name": "VÂLCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
+      },
+      "lastUpdated": "2025-06-30T10:07:13.722Z"
+    },
+    {
+      "idm": "37",
+      "name": "Bouda Ştefan",
+      "url": "/pls/parlam/structura2015.mp?idm=37&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:13.925Z"
+    },
+    {
+      "idm": "38",
+      "name": "Bruynseels Ramona-Ioana",
+      "url": "/pls/parlam/structura2015.mp?idm=38&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "13",
+        "name": "CLUJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
+      },
+      "lastUpdated": "2025-06-30T10:07:14.267Z"
+    },
+    {
+      "idm": "39",
+      "name": "Bucur Ariana-Oana",
+      "url": "/pls/parlam/structura2015.mp?idm=39&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "8",
+        "name": "BRAŞOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:14.470Z"
+    },
+    {
+      "idm": "40",
+      "name": "Bucura-Oprescu Simona",
+      "url": "/pls/parlam/structura2015.mp?idm=40&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "3",
+        "name": "ARGEŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
+      },
+      "lastUpdated": "2025-06-30T10:07:14.809Z"
+    },
+    {
+      "idm": "41",
+      "name": "Budacă Vasile",
+      "url": "/pls/parlam/structura2015.mp?idm=41&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "4",
+        "name": "BACĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
+      },
+      "lastUpdated": "2025-06-30T10:07:15.012Z"
+    },
+    {
+      "idm": "42",
+      "name": "Budăi Marius-Constantin",
+      "url": "/pls/parlam/structura2015.mp?idm=42&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "7",
+        "name": "BOTOŞANI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
+      },
+      "lastUpdated": "2025-06-30T10:07:15.318Z"
+    },
+    {
+      "idm": "43",
+      "name": "Buican Cristian",
+      "url": "/pls/parlam/structura2015.mp?idm=43&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "40",
+        "name": "VRANCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
+      },
+      "lastUpdated": "2025-06-30T10:07:15.663Z"
+    },
+    {
+      "idm": "44",
+      "name": "Bulai Iulian",
+      "url": "/pls/parlam/structura2015.mp?idm=44&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "29",
+        "name": "OLT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
+      },
+      "lastUpdated": "2025-06-30T10:07:15.986Z"
+    },
+    {
+      "idm": "45",
+      "name": "Bulearcă Marius-Felix",
+      "url": "/pls/parlam/structura2015.mp?idm=45&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "31",
+        "name": "SATU-MARE",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
+      },
+      "lastUpdated": "2025-06-30T10:07:16.188Z"
+    },
+    {
+      "idm": "46",
+      "name": "Burduja Sebastian-Ioan",
+      "url": "/pls/parlam/structura2015.mp?idm=46&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:16.390Z"
+    },
+    {
+      "idm": "47",
+      "name": "Butură Cristina-Irina",
+      "url": "/pls/parlam/structura2015.mp?idm=47&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "3",
+        "name": "ARGEŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
+      },
+      "lastUpdated": "2025-06-30T10:07:16.592Z"
+    },
+    {
+      "idm": "48",
+      "name": "Buzoianu Diana-Anda",
+      "url": "/pls/parlam/structura2015.mp?idm=48&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:16.795Z"
+    },
+    {
+      "idm": "49",
+      "name": "Cadar Răzvan-Olimpiu",
+      "url": "/pls/parlam/structura2015.mp?idm=49&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "2",
+        "name": "ARAD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
+      },
+      "lastUpdated": "2025-06-30T10:07:16.998Z"
+    },
+    {
+      "idm": "50",
+      "name": "Caragaţă Florin",
+      "url": "/pls/parlam/structura2015.mp?idm=50&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "23",
+        "name": "IALOMIŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=23"
+      },
+      "lastUpdated": "2025-06-30T10:07:17.396Z"
+    },
+    {
+      "idm": "51",
+      "name": "Câciu Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=51&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "17",
+        "name": "DOLJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
+      },
+      "lastUpdated": "2025-06-30T10:07:17.703Z"
+    },
+    {
+      "idm": "52",
+      "name": "Cernit Maria",
+      "url": "/pls/parlam/structura2015.mp?idm=52&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "14",
+        "name": "CONSTANŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
+      },
+      "lastUpdated": "2025-06-30T10:07:18.275Z"
+    },
+    {
+      "idm": "53",
+      "name": "Chilat Crina-Fiorela",
+      "url": "/pls/parlam/structura2015.mp?idm=53&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "26",
+        "name": "MEHEDINŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
+      },
+      "lastUpdated": "2025-06-30T10:07:18.477Z"
+    },
+    {
+      "idm": "54",
+      "name": "Chirilă Virgil Alin",
+      "url": "/pls/parlam/structura2015.mp?idm=54&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "27",
+        "name": "MUREŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=27"
+      },
+      "lastUpdated": "2025-06-30T10:07:18.806Z"
+    },
+    {
+      "idm": "55",
+      "name": "Chiriţă Răzvan-Mirel",
+      "url": "/pls/parlam/structura2015.mp?idm=55&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:19.008Z"
+    },
+    {
+      "idm": "56",
+      "name": "Ciobanu Adrian-Virgil",
+      "url": "/pls/parlam/structura2015.mp?idm=56&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "29",
+        "name": "OLT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
+      },
+      "lastUpdated": "2025-06-30T10:07:19.210Z"
+    },
+    {
+      "idm": "57",
+      "name": "Ciobotaru Dragoş-Fănică",
+      "url": "/pls/parlam/structura2015.mp?idm=57&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "41",
+        "name": "BUCUREŞTI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=41"
+      },
+      "lastUpdated": "2025-06-30T10:07:19.412Z"
+    },
+    {
+      "idm": "58",
+      "name": "Ciocan Doiniţa",
+      "url": "/pls/parlam/structura2015.mp?idm=58&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "9",
+        "name": "BRĂILA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=9"
+      },
+      "lastUpdated": "2025-06-30T10:07:19.757Z"
+    },
+    {
+      "idm": "59",
+      "name": "Ciolacu Ion-Marcel",
+      "url": "/pls/parlam/structura2015.mp?idm=59&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "10",
+        "name": "BUZĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
+      },
+      "lastUpdated": "2025-06-30T10:07:19.960Z"
+    },
+    {
+      "idm": "60",
+      "name": "Ciornei Daniel-Cătălin",
+      "url": "/pls/parlam/structura2015.mp?idm=60&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "26",
+        "name": "MEHEDINŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
+      },
+      "lastUpdated": "2025-06-30T10:07:20.163Z"
+    },
+    {
+      "idm": "61",
+      "name": "Ciortea Răzvan-Iulian",
+      "url": "/pls/parlam/structura2015.mp?idm=61&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "13",
+        "name": "CLUJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
+      },
+      "lastUpdated": "2025-06-30T10:07:20.366Z"
+    },
+    {
+      "idm": "62",
+      "name": "Ciubuc Ciprian",
+      "url": "/pls/parlam/structura2015.mp?idm=62&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "29",
+        "name": "OLT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
+      },
+      "lastUpdated": "2025-06-30T10:07:20.569Z"
+    },
+    {
+      "idm": "63",
+      "name": "Ciucă Liviu-Bogdan",
+      "url": "/pls/parlam/structura2015.mp?idm=63&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "18",
+        "name": "GALAŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
+      },
+      "lastUpdated": "2025-06-30T10:07:20.771Z"
+    },
+    {
+      "idm": "64",
+      "name": "Ciunt Ionel",
+      "url": "/pls/parlam/structura2015.mp?idm=64&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "33",
+        "name": "SIBIU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=33"
+      },
+      "lastUpdated": "2025-06-30T10:07:20.974Z"
+    },
+    {
+      "idm": "65",
+      "name": "Cîmpan Cristian-Emanuel",
+      "url": "/pls/parlam/structura2015.mp?idm=65&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "5",
+        "name": "BIHOR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
+      },
+      "lastUpdated": "2025-06-30T10:07:21.177Z"
+    },
+    {
+      "idm": "66",
+      "name": "Cîmpean Ovidiu-Vasile",
+      "url": "/pls/parlam/structura2015.mp?idm=66&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "13",
+        "name": "CLUJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
+      },
+      "lastUpdated": "2025-06-30T10:07:21.379Z"
+    },
+    {
+      "idm": "67",
+      "name": "Cîmpianu Andreea-Petronela",
+      "url": "/pls/parlam/structura2015.mp?idm=67&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "43",
+        "name": "Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=43"
+      },
+      "lastUpdated": "2025-06-30T10:07:21.581Z"
+    },
+    {
+      "idm": "68",
+      "name": "Cîrligea Florin-Eugen",
+      "url": "/pls/parlam/structura2015.mp?idm=68&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "9",
+        "name": "BRĂILA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=9"
+      },
+      "lastUpdated": "2025-06-30T10:07:21.783Z"
+    },
+    {
+      "idm": "69",
+      "name": "Cîrligeanu Ariadna-Elena",
+      "url": "/pls/parlam/structura2015.mp?idm=69&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "7",
+        "name": "BOTOŞANI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
+      },
+      "lastUpdated": "2025-06-30T10:07:21.987Z"
+    },
+    {
+      "idm": "70",
+      "name": "Coarnă Dumitru",
+      "url": "/pls/parlam/structura2015.mp?idm=70&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:22.189Z"
+    },
+    {
+      "idm": "71",
+      "name": "Cojocaru Petru-Bogdan",
+      "url": "/pls/parlam/structura2015.mp?idm=71&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:07:22.392Z"
+    },
+    {
+      "idm": "72",
+      "name": "Coleşa Ilie-Alin",
+      "url": "/pls/parlam/structura2015.mp?idm=72&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "13",
+        "name": "CLUJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
+      },
+      "lastUpdated": "2025-06-30T10:07:22.595Z"
+    },
+    {
+      "idm": "73",
+      "name": "Coliban Allen",
+      "url": "/pls/parlam/structura2015.mp?idm=73&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "8",
+        "name": "BRAŞOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:22.797Z"
+    },
+    {
+      "idm": "74",
+      "name": "Coman Dragoş-Florin",
+      "url": "/pls/parlam/structura2015.mp?idm=74&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "12",
+        "name": "CĂLĂRAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=12"
+      },
+      "lastUpdated": "2025-06-30T10:07:23.091Z"
+    },
+    {
+      "idm": "75",
+      "name": "Constantinescu Andra-Claudia",
+      "url": "/pls/parlam/structura2015.mp?idm=75&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "9",
+        "name": "BRĂILA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=9"
+      },
+      "lastUpdated": "2025-06-30T10:07:23.293Z"
+    },
+    {
+      "idm": "76",
+      "name": "Constantinescu Sergiu-Mircea",
+      "url": "/pls/parlam/structura2015.mp?idm=76&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "38",
+        "name": "VASLUI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=38"
+      },
+      "lastUpdated": "2025-06-30T10:07:23.496Z"
+    },
+    {
+      "idm": "77",
+      "name": "Corcheş Codruţa-Maria",
+      "url": "/pls/parlam/structura2015.mp?idm=77&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "37",
+        "name": "TULCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
+      },
+      "lastUpdated": "2025-06-30T10:07:23.701Z"
+    },
+    {
+      "idm": "78",
+      "name": "Corendea Cosmin-Ioan",
+      "url": "/pls/parlam/structura2015.mp?idm=78&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "19",
+        "name": "GIURGIU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=19"
+      },
+      "lastUpdated": "2025-06-30T10:07:23.903Z"
+    },
+    {
+      "idm": "79",
+      "name": "Cotinescu Ilie-Aurelian",
+      "url": "/pls/parlam/structura2015.mp?idm=79&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "16",
+        "name": "DÂMBOVIŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
+      },
+      "lastUpdated": "2025-06-30T10:07:24.106Z"
+    },
+    {
+      "idm": "80",
+      "name": "Cotîrleţ Paul-Claudiu",
+      "url": "/pls/parlam/structura2015.mp?idm=80&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "29",
+        "name": "OLT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
+      },
+      "lastUpdated": "2025-06-30T10:07:24.310Z"
+    },
+    {
+      "idm": "81",
+      "name": "Cozma Adrian-Felician",
+      "url": "/pls/parlam/structura2015.mp?idm=81&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "32",
+        "name": "SĂLAJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=32"
+      },
+      "lastUpdated": "2025-06-30T10:07:24.634Z"
+    },
+    {
+      "idm": "82",
+      "name": "Cristian Brian",
+      "url": "/pls/parlam/structura2015.mp?idm=82&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "26",
+        "name": "MEHEDINŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
+      },
+      "lastUpdated": "2025-06-30T10:07:24.837Z"
+    },
+    {
+      "idm": "83",
+      "name": "Crîstici Ognean",
+      "url": "/pls/parlam/structura2015.mp?idm=83&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:25.038Z"
+    },
+    {
+      "idm": "84",
+      "name": "Cruşoveanu Marian",
+      "url": "/pls/parlam/structura2015.mp?idm=84&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "14",
+        "name": "CONSTANŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
+      },
+      "lastUpdated": "2025-06-30T10:07:25.240Z"
+    },
+    {
+      "idm": "85",
+      "name": "Csép Éva-Andrea",
+      "url": "/pls/parlam/structura2015.mp?idm=85&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "28",
+        "name": "NEAMŢ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
+      },
+      "lastUpdated": "2025-06-30T10:07:25.442Z"
+    },
+    {
+      "idm": "86",
+      "name": "Csillag Andrei",
+      "url": "/pls/parlam/structura2015.mp?idm=86&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "6",
+        "name": "BISTRIŢA-NĂSĂUD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=6"
+      },
+      "lastUpdated": "2025-06-30T10:07:25.645Z"
+    },
+    {
+      "idm": "87",
+      "name": "Csoma Botond",
+      "url": "/pls/parlam/structura2015.mp?idm=87&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "13",
+        "name": "CLUJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
+      },
+      "lastUpdated": "2025-06-30T10:07:25.847Z"
+    },
+    {
+      "idm": "88",
+      "name": "Culeafă Mihai",
+      "url": "/pls/parlam/structura2015.mp?idm=88&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "27",
+        "name": "MUREŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=27"
+      },
+      "lastUpdated": "2025-06-30T10:07:26.053Z"
+    },
+    {
+      "idm": "89",
+      "name": "Dascălu Cristina-Emanuela",
+      "url": "/pls/parlam/structura2015.mp?idm=89&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:07:26.256Z"
+    },
+    {
+      "idm": "90",
+      "name": "Dimitriu Alexandru-Paul",
+      "url": "/pls/parlam/structura2015.mp?idm=90&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:26.465Z"
+    },
+    {
+      "idm": "91",
+      "name": "Doboş Elena",
+      "url": "/pls/parlam/structura2015.mp?idm=91&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "38",
+        "name": "VASLUI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=38"
+      },
+      "lastUpdated": "2025-06-30T10:07:26.667Z"
+    },
+    {
+      "idm": "92",
+      "name": "Dobre Ciprian-Minodor",
+      "url": "/pls/parlam/structura2015.mp?idm=92&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "28",
+        "name": "NEAMŢ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
+      },
+      "lastUpdated": "2025-06-30T10:07:26.870Z"
+    },
+    {
+      "idm": "93",
+      "name": "Dolineaschi Andrei",
+      "url": "/pls/parlam/structura2015.mp?idm=93&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:27.072Z"
+    },
+    {
+      "idm": "94",
+      "name": "Drăgoescu Cezar-Mihail",
+      "url": "/pls/parlam/structura2015.mp?idm=94&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "17",
+        "name": "DOLJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
+      },
+      "lastUpdated": "2025-06-30T10:07:27.273Z"
+    },
+    {
+      "idm": "95",
+      "name": "Drinceanu Vlad-Florentin",
+      "url": "/pls/parlam/structura2015.mp?idm=95&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "36",
+        "name": "TIMIŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
+      },
+      "lastUpdated": "2025-06-30T10:07:27.476Z"
+    },
+    {
+      "idm": "96",
+      "name": "Drulă Cătălin",
+      "url": "/pls/parlam/structura2015.mp?idm=96&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "37",
+        "name": "TULCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
+      },
+      "lastUpdated": "2025-06-30T10:07:27.678Z"
+    },
+    {
+      "idm": "97",
+      "name": "Dunava Costel Neculai",
+      "url": "/pls/parlam/structura2015.mp?idm=97&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "4",
+        "name": "BACĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
+      },
+      "lastUpdated": "2025-06-30T10:07:27.881Z"
+    },
+    {
+      "idm": "98",
+      "name": "Echert Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=98&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "34",
+        "name": "SUCEAVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
+      },
+      "lastUpdated": "2025-06-30T10:07:28.222Z"
+    },
+    {
+      "idm": "99",
+      "name": "Enache Diana",
+      "url": "/pls/parlam/structura2015.mp?idm=99&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "4",
+        "name": "BACĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
+      },
+      "lastUpdated": "2025-06-30T10:07:28.425Z"
+    },
+    {
+      "idm": "100",
+      "name": "Enache Mihai-Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=100&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:28.627Z"
+    },
+    {
+      "idm": "101",
+      "name": "Enachi Raisa",
+      "url": "/pls/parlam/structura2015.mp?idm=101&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "39",
+        "name": "VÂLCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
+      },
+      "lastUpdated": "2025-06-30T10:07:28.829Z"
+    },
+    {
+      "idm": "102",
+      "name": "Ene Gabriela-Corina",
+      "url": "/pls/parlam/structura2015.mp?idm=102&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "5",
+        "name": "BIHOR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
+      },
+      "lastUpdated": "2025-06-30T10:07:29.032Z"
+    },
+    {
+      "idm": "103",
+      "name": "Făget Mădălin-Laurenţiu",
+      "url": "/pls/parlam/structura2015.mp?idm=103&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "14",
+        "name": "CONSTANŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
+      },
+      "lastUpdated": "2025-06-30T10:07:29.234Z"
+    },
+    {
+      "idm": "104",
+      "name": "Fechet Mircea",
+      "url": "/pls/parlam/structura2015.mp?idm=104&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "4",
+        "name": "BACĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
+      },
+      "lastUpdated": "2025-06-30T10:07:29.437Z"
+    },
+    {
+      "idm": "105",
+      "name": "Feodor Silviu",
+      "url": "/pls/parlam/structura2015.mp?idm=105&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:29.638Z"
+    },
+    {
+      "idm": "106",
+      "name": "Fifor Mihai-Viorel",
+      "url": "/pls/parlam/structura2015.mp?idm=106&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "2",
+        "name": "ARAD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
+      },
+      "lastUpdated": "2025-06-30T10:07:29.840Z"
+    },
+    {
+      "idm": "107",
+      "name": "Firczak Iulius Marian",
+      "url": "/pls/parlam/structura2015.mp?idm=107&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:30.042Z"
+    },
+    {
+      "idm": "108",
+      "name": "Florea Gabriel-Florinel",
+      "url": "/pls/parlam/structura2015.mp?idm=108&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "36",
+        "name": "TIMIŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
+      },
+      "lastUpdated": "2025-06-30T10:07:30.244Z"
+    },
+    {
+      "idm": "109",
+      "name": "Furtună Mirela",
+      "url": "/pls/parlam/structura2015.mp?idm=109&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:30.447Z"
+    },
+    {
+      "idm": "110",
+      "name": "Gal Călin-Graţian",
+      "url": "/pls/parlam/structura2015.mp?idm=110&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "5",
+        "name": "BIHOR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
+      },
+      "lastUpdated": "2025-06-30T10:07:30.649Z"
+    },
+    {
+      "idm": "111",
+      "name": "Gál Károly",
+      "url": "/pls/parlam/structura2015.mp?idm=111&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "15",
+        "name": "COVASNA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=15"
+      },
+      "lastUpdated": "2025-06-30T10:07:30.979Z"
+    },
+    {
+      "idm": "112",
+      "name": "Ganţ Ovidiu Victor",
+      "url": "/pls/parlam/structura2015.mp?idm=112&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:31.180Z"
+    },
+    {
+      "idm": "113",
+      "name": "Gavrilă Anamaria",
+      "url": "/pls/parlam/structura2015.mp?idm=113&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "22",
+        "name": "HUNEDOARA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
+      },
+      "lastUpdated": "2025-06-30T10:07:31.383Z"
+    },
+    {
+      "idm": "114",
+      "name": "Gavrilă Bianca-Eugenia",
+      "url": "/pls/parlam/structura2015.mp?idm=114&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "1",
+        "name": "ALBA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=1"
+      },
+      "lastUpdated": "2025-06-30T10:07:31.585Z"
+    },
+    {
+      "idm": "115",
+      "name": "Gavrilescu Graţiela Leocadia",
+      "url": "/pls/parlam/structura2015.mp?idm=115&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "31",
+        "name": "SATU-MARE",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
+      },
+      "lastUpdated": "2025-06-30T10:07:31.787Z"
+    },
+    {
+      "idm": "116",
+      "name": "Geamănu Aurora-Adela",
+      "url": "/pls/parlam/structura2015.mp?idm=116&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "17",
+        "name": "DOLJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
+      },
+      "lastUpdated": "2025-06-30T10:07:31.990Z"
+    },
+    {
+      "idm": "117",
+      "name": "Georgescu Gheorghe-Daniel",
+      "url": "/pls/parlam/structura2015.mp?idm=117&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "14",
+        "name": "CONSTANŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
+      },
+      "lastUpdated": "2025-06-30T10:07:32.193Z"
+    },
+    {
+      "idm": "118",
+      "name": "Gheorghe Andrei Daniel",
+      "url": "/pls/parlam/structura2015.mp?idm=118&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "25",
+        "name": "MARAMUREŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
+      },
+      "lastUpdated": "2025-06-30T10:07:32.553Z"
+    },
+    {
+      "idm": "119",
+      "name": "Gheorghe Ionel",
+      "url": "/pls/parlam/structura2015.mp?idm=119&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "17",
+        "name": "DOLJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
+      },
+      "lastUpdated": "2025-06-30T10:07:32.755Z"
+    },
+    {
+      "idm": "120",
+      "name": "Gheorghe Mihai-Claudiu",
+      "url": "/pls/parlam/structura2015.mp?idm=120&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "12",
+        "name": "CĂLĂRAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=12"
+      },
+      "lastUpdated": "2025-06-30T10:07:32.956Z"
+    },
+    {
+      "idm": "121",
+      "name": "Gheorghiu Andrei-Florin",
+      "url": "/pls/parlam/structura2015.mp?idm=121&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "40",
+        "name": "VRANCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
+      },
+      "lastUpdated": "2025-06-30T10:07:33.158Z"
+    },
+    {
+      "idm": "122",
+      "name": "Ghera Giureci-Slobodan",
+      "url": "/pls/parlam/structura2015.mp?idm=122&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:33.359Z"
+    },
+    {
+      "idm": "123",
+      "name": "Gherasim Laura",
+      "url": "/pls/parlam/structura2015.mp?idm=123&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "39",
+        "name": "VÂLCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
+      },
+      "lastUpdated": "2025-06-30T10:07:33.561Z"
+    },
+    {
+      "idm": "124",
+      "name": "Ghigiu Alexandru-Mihai",
+      "url": "/pls/parlam/structura2015.mp?idm=124&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:33.764Z"
+    },
+    {
+      "idm": "125",
+      "name": "Gima George",
+      "url": "/pls/parlam/structura2015.mp?idm=125&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "14",
+        "name": "CONSTANŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
+      },
+      "lastUpdated": "2025-06-30T10:07:33.966Z"
+    },
+    {
+      "idm": "126",
+      "name": "Giurgiu Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=126&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "28",
+        "name": "NEAMŢ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
+      },
+      "lastUpdated": "2025-06-30T10:07:34.168Z"
+    },
+    {
+      "idm": "127",
+      "name": "Gliga Dumitriţa",
+      "url": "/pls/parlam/structura2015.mp?idm=127&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "28",
+        "name": "NEAMŢ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
+      },
+      "lastUpdated": "2025-06-30T10:07:34.370Z"
+    },
+    {
+      "idm": "128",
+      "name": "Goidescu Ionel",
+      "url": "/pls/parlam/structura2015.mp?idm=128&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "8",
+        "name": "BRAŞOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:34.573Z"
+    },
+    {
+      "idm": "129",
+      "name": "Gorghiu Alina-Ştefania",
+      "url": "/pls/parlam/structura2015.mp?idm=129&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "3",
+        "name": "ARGEŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
+      },
+      "lastUpdated": "2025-06-30T10:07:34.775Z"
+    },
+    {
+      "idm": "130",
+      "name": "Govor Mircea-Vasile",
+      "url": "/pls/parlam/structura2015.mp?idm=130&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "32",
+        "name": "SĂLAJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=32"
+      },
+      "lastUpdated": "2025-06-30T10:07:34.977Z"
+    },
+    {
+      "idm": "131",
+      "name": "Grindeanu Sorin-Mihai",
+      "url": "/pls/parlam/structura2015.mp?idm=131&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "37",
+        "name": "TULCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
+      },
+      "lastUpdated": "2025-06-30T10:07:35.179Z"
+    },
+    {
+      "idm": "132",
+      "name": "Grofu Daniel",
+      "url": "/pls/parlam/structura2015.mp?idm=132&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:35.379Z"
+    },
+    {
+      "idm": "133",
+      "name": "Grosaru Ioana",
+      "url": "/pls/parlam/structura2015.mp?idm=133&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "lastUpdated": "2025-06-30T10:07:35.581Z"
+    },
+    {
+      "idm": "134",
+      "name": "Grosu Veronica",
+      "url": "/pls/parlam/structura2015.mp?idm=134&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "35",
+        "name": "TELEORMAN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
+      },
+      "lastUpdated": "2025-06-30T10:07:35.783Z"
+    },
+    {
+      "idm": "135",
+      "name": "Groza Călin-Florin",
+      "url": "/pls/parlam/structura2015.mp?idm=135&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "26",
+        "name": "MEHEDINŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
+      },
+      "lastUpdated": "2025-06-30T10:07:35.984Z"
+    },
+    {
+      "idm": "136",
+      "name": "Gurlui Silviu-Octavian",
+      "url": "/pls/parlam/structura2015.mp?idm=136&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:07:36.187Z"
+    },
+    {
+      "idm": "137",
+      "name": "Guşă Andrei-Cosmin",
+      "url": "/pls/parlam/structura2015.mp?idm=137&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "31",
+        "name": "SATU-MARE",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
+      },
+      "lastUpdated": "2025-06-30T10:07:36.389Z"
+    },
+    {
+      "idm": "138",
+      "name": "Hagiu Augustin-Florin",
+      "url": "/pls/parlam/structura2015.mp?idm=138&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "8",
+        "name": "BRAŞOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:36.593Z"
+    },
+    {
+      "idm": "139",
+      "name": "Hajdu Gábor",
+      "url": "/pls/parlam/structura2015.mp?idm=139&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "21",
+        "name": "HARGHITA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=21"
+      },
+      "lastUpdated": "2025-06-30T10:07:36.794Z"
+    },
+    {
+      "idm": "140",
+      "name": "Hangan Pollyanna-Hanellore",
+      "url": "/pls/parlam/structura2015.mp?idm=140&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "22",
+        "name": "HUNEDOARA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
+      },
+      "lastUpdated": "2025-06-30T10:07:36.995Z"
+    },
+    {
+      "idm": "141",
+      "name": "Holban Georgeta-Carmen",
+      "url": "/pls/parlam/structura2015.mp?idm=141&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "16",
+        "name": "DÂMBOVIŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
+      },
+      "lastUpdated": "2025-06-30T10:07:37.198Z"
+    },
+    {
+      "idm": "142",
+      "name": "Hristu Cosmin",
+      "url": "/pls/parlam/structura2015.mp?idm=142&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "14",
+        "name": "CONSTANŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
+      },
+      "lastUpdated": "2025-06-30T10:07:37.399Z"
+    },
+    {
+      "idm": "143",
+      "name": "Huţucă Bogdan-Iulian",
+      "url": "/pls/parlam/structura2015.mp?idm=143&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "14",
+        "name": "CONSTANŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
+      },
+      "lastUpdated": "2025-06-30T10:07:37.602Z"
+    },
+    {
+      "idm": "144",
+      "name": "Iagăr Monica",
+      "url": "/pls/parlam/structura2015.mp?idm=144&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "32",
+        "name": "SĂLAJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=32"
+      },
+      "lastUpdated": "2025-06-30T10:07:37.803Z"
+    },
+    {
+      "idm": "145",
+      "name": "Iancu Marius-Ionel",
+      "url": "/pls/parlam/structura2015.mp?idm=145&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "30",
+        "name": "PRAHOVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
+      },
+      "lastUpdated": "2025-06-30T10:07:38.005Z"
+    },
+    {
+      "idm": "147",
+      "name": "Intotero Natalia-Elena",
+      "url": "/pls/parlam/structura2015.mp?idm=147&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "22",
+        "name": "HUNEDOARA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
+      },
+      "lastUpdated": "2025-06-30T10:07:38.208Z"
+    },
+    {
+      "idm": "148",
+      "name": "Ion Nicolae-Mirel",
+      "url": "/pls/parlam/structura2015.mp?idm=148&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "34",
+        "name": "SUCEAVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
+      },
+      "lastUpdated": "2025-06-30T10:07:38.411Z"
+    },
+    {
+      "idm": "149",
+      "name": "Ion Stelian-Cristian",
+      "url": "/pls/parlam/structura2015.mp?idm=149&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "14",
+        "name": "CONSTANŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
+      },
+      "lastUpdated": "2025-06-30T10:07:38.612Z"
+    },
+    {
+      "idm": "150",
+      "name": "Ionescu Monica",
+      "url": "/pls/parlam/structura2015.mp?idm=150&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "29",
+        "name": "OLT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
+      },
+      "lastUpdated": "2025-06-30T10:07:38.815Z"
+    },
+    {
+      "idm": "151",
+      "name": "Ionescu Radu-Mihail",
+      "url": "/pls/parlam/structura2015.mp?idm=151&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "4",
+        "name": "BACĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
+      },
+      "lastUpdated": "2025-06-30T10:07:39.018Z"
+    },
+    {
+      "idm": "152",
+      "name": "Ionescu Tudor",
+      "url": "/pls/parlam/structura2015.mp?idm=152&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "3",
+        "name": "ARGEŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
+      },
+      "lastUpdated": "2025-06-30T10:07:39.219Z"
+    },
+    {
+      "idm": "153",
+      "name": "Iordache Ion",
+      "url": "/pls/parlam/structura2015.mp?idm=153&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "20",
+        "name": "GORJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=20"
+      },
+      "lastUpdated": "2025-06-30T10:07:39.601Z"
+    },
+    {
+      "idm": "154",
+      "name": "Iosub Cosmin-Teodor",
+      "url": "/pls/parlam/structura2015.mp?idm=154&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "17",
+        "name": "DOLJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
+      },
+      "lastUpdated": "2025-06-30T10:07:39.803Z"
+    },
+    {
+      "idm": "155",
+      "name": "Irimia Ancuţa-Florina",
+      "url": "/pls/parlam/structura2015.mp?idm=155&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:07:40.006Z"
+    },
+    {
+      "idm": "156",
+      "name": "Isac Marius-Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=156&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "11",
+        "name": "CARAŞ-SEVERIN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=11"
+      },
+      "lastUpdated": "2025-06-30T10:07:40.330Z"
+    },
+    {
+      "idm": "157",
+      "name": "Ivan Bogdan-Gruia",
+      "url": "/pls/parlam/structura2015.mp?idm=157&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "6",
+        "name": "BISTRIŢA-NĂSĂUD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=6"
+      },
+      "lastUpdated": "2025-06-30T10:07:40.534Z"
+    },
+    {
+      "idm": "158",
+      "name": "Jianu Iosif-Florin",
+      "url": "/pls/parlam/structura2015.mp?idm=158&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "18",
+        "name": "GALAŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
+      },
+      "lastUpdated": "2025-06-30T10:07:40.736Z"
+    },
+    {
+      "idm": "159",
+      "name": "Kántor Boglárka",
+      "url": "/pls/parlam/structura2015.mp?idm=159&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "39",
+        "name": "VÂLCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
+      },
+      "lastUpdated": "2025-06-30T10:07:40.938Z"
+    },
+    {
+      "idm": "160",
+      "name": "Kelemen Hunor",
+      "url": "/pls/parlam/structura2015.mp?idm=160&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "21",
+        "name": "HARGHITA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=21"
+      },
+      "lastUpdated": "2025-06-30T10:07:41.140Z"
+    },
+    {
+      "idm": "161",
+      "name": "Kolcsár Anquetil-Károly",
+      "url": "/pls/parlam/structura2015.mp?idm=161&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "28",
+        "name": "NEAMŢ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
+      },
+      "lastUpdated": "2025-06-30T10:07:41.342Z"
+    },
+    {
+      "idm": "162",
+      "name": "Koler Eduard-Virgil",
+      "url": "/pls/parlam/structura2015.mp?idm=162&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "27",
+        "name": "MUREŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=27"
+      },
+      "lastUpdated": "2025-06-30T10:07:41.544Z"
+    },
+    {
+      "idm": "163",
+      "name": "Könczei Csaba",
+      "url": "/pls/parlam/structura2015.mp?idm=163&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "15",
+        "name": "COVASNA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=15"
+      },
+      "lastUpdated": "2025-06-30T10:07:41.746Z"
+    },
+    {
+      "idm": "164",
+      "name": "Kroncsiş Sebastian-Andrei",
+      "url": "/pls/parlam/structura2015.mp?idm=164&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "34",
+        "name": "SUCEAVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
+      },
+      "lastUpdated": "2025-06-30T10:07:41.947Z"
+    },
+    {
+      "idm": "165",
+      "name": "Kulcsár-Terza József-György",
+      "url": "/pls/parlam/structura2015.mp?idm=165&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "15",
+        "name": "COVASNA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=15"
+      },
+      "lastUpdated": "2025-06-30T10:07:42.147Z"
+    },
+    {
+      "idm": "166",
+      "name": "Ladányi László-Zsolt",
+      "url": "/pls/parlam/structura2015.mp?idm=166&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "21",
+        "name": "HARGHITA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=21"
+      },
+      "lastUpdated": "2025-06-30T10:07:42.350Z"
+    },
+    {
+      "idm": "167",
+      "name": "Lazăr Teodor",
+      "url": "/pls/parlam/structura2015.mp?idm=167&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "4",
+        "name": "BACĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
+      },
+      "lastUpdated": "2025-06-30T10:07:42.552Z"
+    },
+    {
+      "idm": "168",
+      "name": "Lăpuşan Remus-Gabriel",
+      "url": "/pls/parlam/structura2015.mp?idm=168&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "13",
+        "name": "CLUJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
+      },
+      "lastUpdated": "2025-06-30T10:07:42.755Z"
+    },
+    {
+      "idm": "169",
+      "name": "Lăzăroi Ioan",
+      "url": "/pls/parlam/structura2015.mp?idm=169&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "35",
+        "name": "TELEORMAN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
+      },
+      "lastUpdated": "2025-06-30T10:07:42.958Z"
+    },
+    {
+      "idm": "170",
+      "name": "Lipă Elisabeta",
+      "url": "/pls/parlam/structura2015.mp?idm=170&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "7",
+        "name": "BOTOŞANI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
+      },
+      "lastUpdated": "2025-06-30T10:07:43.163Z"
+    },
+    {
+      "idm": "171",
+      "name": "Longher Ghervazen",
+      "url": "/pls/parlam/structura2015.mp?idm=171&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:43.364Z"
+    },
+    {
+      "idm": "172",
+      "name": "Lőrincz Ştefan-Iulian",
+      "url": "/pls/parlam/structura2015.mp?idm=172&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "43",
+        "name": "Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=43"
+      },
+      "lastUpdated": "2025-06-30T10:07:43.565Z"
+    },
+    {
+      "idm": "173",
+      "name": "Lovin Ramona",
+      "url": "/pls/parlam/structura2015.mp?idm=173&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "43",
+        "name": "Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=43"
+      },
+      "lastUpdated": "2025-06-30T10:07:43.767Z"
+    },
+    {
+      "idm": "174",
+      "name": "Lungu Romeo-Daniel",
+      "url": "/pls/parlam/structura2015.mp?idm=174&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "10",
+        "name": "BUZĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
+      },
+      "lastUpdated": "2025-06-30T10:07:43.968Z"
+    },
+    {
+      "idm": "175",
+      "name": "Macovei Ilie Simona-Elena",
+      "url": "/pls/parlam/structura2015.mp?idm=175&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:07:44.170Z"
+    },
+    {
+      "idm": "176",
+      "name": "Magyar Loránd-Bálint",
+      "url": "/pls/parlam/structura2015.mp?idm=176&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "32",
+        "name": "SĂLAJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=32"
+      },
+      "lastUpdated": "2025-06-30T10:07:44.372Z"
+    },
+    {
+      "idm": "177",
+      "name": "Manole Petre-Florin",
+      "url": "/pls/parlam/structura2015.mp?idm=177&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:44.573Z"
+    },
+    {
+      "idm": "178",
+      "name": "Manta Claudiu",
+      "url": "/pls/parlam/structura2015.mp?idm=178&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "20",
+        "name": "GORJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=20"
+      },
+      "lastUpdated": "2025-06-30T10:07:44.775Z"
+    },
+    {
+      "idm": "179",
+      "name": "Marinescu Radu",
+      "url": "/pls/parlam/structura2015.mp?idm=179&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "17",
+        "name": "DOLJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
+      },
+      "lastUpdated": "2025-06-30T10:07:44.977Z"
+    },
+    {
+      "idm": "180",
+      "name": "Markó Attila-Gábor",
+      "url": "/pls/parlam/structura2015.mp?idm=180&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "28",
+        "name": "NEAMŢ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
+      },
+      "lastUpdated": "2025-06-30T10:07:45.179Z"
+    },
+    {
+      "idm": "181",
+      "name": "Marussi George-Nicolae",
+      "url": "/pls/parlam/structura2015.mp?idm=181&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "31",
+        "name": "SATU-MARE",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
+      },
+      "lastUpdated": "2025-06-30T10:07:45.383Z"
+    },
+    {
+      "idm": "182",
+      "name": "Matei Aneta",
+      "url": "/pls/parlam/structura2015.mp?idm=182&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "19",
+        "name": "GIURGIU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=19"
+      },
+      "lastUpdated": "2025-06-30T10:07:45.585Z"
+    },
+    {
+      "idm": "183",
+      "name": "Matei Sergiu-Lucian",
+      "url": "/pls/parlam/structura2015.mp?idm=183&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "25",
+        "name": "MARAMUREŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
+      },
+      "lastUpdated": "2025-06-30T10:07:45.786Z"
+    },
+    {
+      "idm": "184",
+      "name": "Matichescu Mirela-Florenţa",
+      "url": "/pls/parlam/structura2015.mp?idm=184&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "14",
+        "name": "CONSTANŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
+      },
+      "lastUpdated": "2025-06-30T10:07:45.989Z"
+    },
+    {
+      "idm": "185",
+      "name": "Matieş Călin-Gheorghe",
+      "url": "/pls/parlam/structura2015.mp?idm=185&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "1",
+        "name": "ALBA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=1"
+      },
+      "lastUpdated": "2025-06-30T10:07:46.192Z"
+    },
+    {
+      "idm": "186",
+      "name": "Mărgărit Mitică-Marius",
+      "url": "/pls/parlam/structura2015.mp?idm=186&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "18",
+        "name": "GALAŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
+      },
+      "lastUpdated": "2025-06-30T10:07:46.395Z"
+    },
+    {
+      "idm": "187",
+      "name": "Merka Adrian-Miroslav",
+      "url": "/pls/parlam/structura2015.mp?idm=187&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:46.596Z"
+    },
+    {
+      "idm": "188",
+      "name": "Miclău Samuel-Virgil",
+      "url": "/pls/parlam/structura2015.mp?idm=188&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "11",
+        "name": "CARAŞ-SEVERIN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=11"
+      },
+      "lastUpdated": "2025-06-30T10:07:46.799Z"
+    },
+    {
+      "idm": "189",
+      "name": "Mihaiu Radu-Nicolae",
+      "url": "/pls/parlam/structura2015.mp?idm=189&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:47.000Z"
+    },
+    {
+      "idm": "190",
+      "name": "Mihalcea Ioan",
+      "url": "/pls/parlam/structura2015.mp?idm=190&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:47.203Z"
+    },
+    {
+      "idm": "191",
+      "name": "Mihalcea Remus-Gabriel",
+      "url": "/pls/parlam/structura2015.mp?idm=191&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "3",
+        "name": "ARGEŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
+      },
+      "lastUpdated": "2025-06-30T10:07:47.405Z"
+    },
+    {
+      "idm": "192",
+      "name": "Mihalcea Silvia-Claudia",
+      "url": "/pls/parlam/structura2015.mp?idm=192&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "11",
+        "name": "CARAŞ-SEVERIN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=11"
+      },
+      "lastUpdated": "2025-06-30T10:07:47.607Z"
+    },
+    {
+      "idm": "193",
+      "name": "Mihăescu Mugur",
+      "url": "/pls/parlam/structura2015.mp?idm=193&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "30",
+        "name": "PRAHOVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
+      },
+      "lastUpdated": "2025-06-30T10:07:47.808Z"
+    },
+    {
+      "idm": "194",
+      "name": "Mihuţi Bogdan-Florian",
+      "url": "/pls/parlam/structura2015.mp?idm=194&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "30",
+        "name": "PRAHOVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
+      },
+      "lastUpdated": "2025-06-30T10:07:48.012Z"
+    },
+    {
+      "idm": "195",
+      "name": "Miklós Zoltán",
+      "url": "/pls/parlam/structura2015.mp?idm=195&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "15",
+        "name": "COVASNA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=15"
+      },
+      "lastUpdated": "2025-06-30T10:07:48.214Z"
+    },
+    {
+      "idm": "196",
+      "name": "Mina Marian",
+      "url": "/pls/parlam/structura2015.mp?idm=196&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "19",
+        "name": "GIURGIU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=19"
+      },
+      "lastUpdated": "2025-06-30T10:07:48.416Z"
+    },
+    {
+      "idm": "197",
+      "name": "Mircea Florin",
+      "url": "/pls/parlam/structura2015.mp?idm=197&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "9",
+        "name": "BRĂILA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=9"
+      },
+      "lastUpdated": "2025-06-30T10:07:48.618Z"
+    },
+    {
+      "idm": "198",
+      "name": "Miruţă Radu-Dinel",
+      "url": "/pls/parlam/structura2015.mp?idm=198&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "20",
+        "name": "GORJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=20"
+      },
+      "lastUpdated": "2025-06-30T10:07:48.819Z"
+    },
+    {
+      "idm": "199",
+      "name": "Mititelu Eduard-Tatian",
+      "url": "/pls/parlam/structura2015.mp?idm=199&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "7",
+        "name": "BOTOŞANI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
+      },
+      "lastUpdated": "2025-06-30T10:07:49.022Z"
+    },
+    {
+      "idm": "200",
+      "name": "Mitrea Dumitrina",
+      "url": "/pls/parlam/structura2015.mp?idm=200&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "29",
+        "name": "OLT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
+      },
+      "lastUpdated": "2025-06-30T10:07:49.224Z"
+    },
+    {
+      "idm": "201",
+      "name": "Mîndrescu Nicolae",
+      "url": "/pls/parlam/structura2015.mp?idm=201&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "40",
+        "name": "VRANCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
+      },
+      "lastUpdated": "2025-06-30T10:07:49.427Z"
+    },
+    {
+      "idm": "202",
+      "name": "Mîndroc Cătălin-Viorel",
+      "url": "/pls/parlam/structura2015.mp?idm=202&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "3",
+        "name": "ARGEŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
+      },
+      "lastUpdated": "2025-06-30T10:07:49.628Z"
+    },
+    {
+      "idm": "203",
+      "name": "Mocanu Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=203&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "10",
+        "name": "BUZĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
+      },
+      "lastUpdated": "2025-06-30T10:07:49.830Z"
+    },
+    {
+      "idm": "204",
+      "name": "Moiseev Alexandrin",
+      "url": "/pls/parlam/structura2015.mp?idm=204&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "7",
+        "name": "BOTOŞANI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
+      },
+      "lastUpdated": "2025-06-30T10:07:50.032Z"
+    },
+    {
+      "idm": "205",
+      "name": "Moisin Radu-Marin",
+      "url": "/pls/parlam/structura2015.mp?idm=205&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "13",
+        "name": "CLUJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
+      },
+      "lastUpdated": "2025-06-30T10:07:50.235Z"
+    },
+    {
+      "idm": "206",
+      "name": "Molnar Andrei",
+      "url": "/pls/parlam/structura2015.mp?idm=206&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "37",
+        "name": "TULCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
+      },
+      "lastUpdated": "2025-06-30T10:07:50.437Z"
+    },
+    {
+      "idm": "207",
+      "name": "Morar Lucian-Ioan-Titus",
+      "url": "/pls/parlam/structura2015.mp?idm=207&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "26",
+        "name": "MEHEDINŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
+      },
+      "lastUpdated": "2025-06-30T10:07:50.640Z"
+    },
+    {
+      "idm": "208",
+      "name": "Moş Patricia-Simina-Arina",
+      "url": "/pls/parlam/structura2015.mp?idm=208&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "5",
+        "name": "BIHOR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
+      },
+      "lastUpdated": "2025-06-30T10:07:50.842Z"
+    },
+    {
+      "idm": "209",
+      "name": "Moşteanu Liviu-Ionuţ",
+      "url": "/pls/parlam/structura2015.mp?idm=209&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "3",
+        "name": "ARGEŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
+      },
+      "lastUpdated": "2025-06-30T10:07:51.043Z"
+    },
+    {
+      "idm": "210",
+      "name": "Muncaciu Sorin-Titus",
+      "url": "/pls/parlam/structura2015.mp?idm=210&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "10",
+        "name": "BUZĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
+      },
+      "lastUpdated": "2025-06-30T10:07:51.245Z"
+    },
+    {
+      "idm": "211",
+      "name": "Munteanu Valeriu",
+      "url": "/pls/parlam/structura2015.mp?idm=211&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "16",
+        "name": "DÂMBOVIŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
+      },
+      "lastUpdated": "2025-06-30T10:07:51.448Z"
+    },
+    {
+      "idm": "212",
+      "name": "Murad Mohammad",
+      "url": "/pls/parlam/structura2015.mp?idm=212&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "14",
+        "name": "CONSTANŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
+      },
+      "lastUpdated": "2025-06-30T10:07:51.650Z"
+    },
+    {
+      "idm": "213",
+      "name": "Murariu Oana",
+      "url": "/pls/parlam/structura2015.mp?idm=213&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "13",
+        "name": "CLUJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
+      },
+      "lastUpdated": "2025-06-30T10:07:51.852Z"
+    },
+    {
+      "idm": "214",
+      "name": "Muraru Iulian-Alexandru",
+      "url": "/pls/parlam/structura2015.mp?idm=214&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:07:52.053Z"
+    },
+    {
+      "idm": "215",
+      "name": "Muşat Doru-Lucian",
+      "url": "/pls/parlam/structura2015.mp?idm=215&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "33",
+        "name": "SIBIU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=33"
+      },
+      "lastUpdated": "2025-06-30T10:07:52.256Z"
+    },
+    {
+      "idm": "216",
+      "name": "Nacov Gheorghe",
+      "url": "/pls/parlam/structura2015.mp?idm=216&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:52.457Z"
+    },
+    {
+      "idm": "217",
+      "name": "Nagy Szabolcs",
+      "url": "/pls/parlam/structura2015.mp?idm=217&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "32",
+        "name": "SĂLAJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=32"
+      },
+      "lastUpdated": "2025-06-30T10:07:52.657Z"
+    },
+    {
+      "idm": "218",
+      "name": "Nagy Vasile",
+      "url": "/pls/parlam/structura2015.mp?idm=218&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "2",
+        "name": "ARAD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
+      },
+      "lastUpdated": "2025-06-30T10:07:52.860Z"
+    },
+    {
+      "idm": "219",
+      "name": "Nassar Rodica",
+      "url": "/pls/parlam/structura2015.mp?idm=219&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:53.063Z"
+    },
+    {
+      "idm": "332",
+      "name": "Năcuţă Sorin",
+      "url": "/pls/parlam/structura2015.mp?idm=332&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:07:53.266Z"
+    },
+    {
+      "idm": "220",
+      "name": "Năsui Claudiu-Iulius-Gavril",
+      "url": "/pls/parlam/structura2015.mp?idm=220&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:53.469Z"
+    },
+    {
+      "idm": "221",
+      "name": "Neacşu Andreea-Firuţa",
+      "url": "/pls/parlam/structura2015.mp?idm=221&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "29",
+        "name": "OLT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
+      },
+      "lastUpdated": "2025-06-30T10:07:53.670Z"
+    },
+    {
+      "idm": "222",
+      "name": "Neacşu Marian",
+      "url": "/pls/parlam/structura2015.mp?idm=222&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:53.872Z"
+    },
+    {
+      "idm": "223",
+      "name": "Neagu Petre-Emanoil",
+      "url": "/pls/parlam/structura2015.mp?idm=223&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "10",
+        "name": "BUZĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
+      },
+      "lastUpdated": "2025-06-30T10:07:54.074Z"
+    },
+    {
+      "idm": "224",
+      "name": "Neamţu George-Mihail",
+      "url": "/pls/parlam/structura2015.mp?idm=224&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "5",
+        "name": "BIHOR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
+      },
+      "lastUpdated": "2025-06-30T10:07:54.275Z"
+    },
+    {
+      "idm": "225",
+      "name": "Neaţă Eugen",
+      "url": "/pls/parlam/structura2015.mp?idm=225&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "40",
+        "name": "VRANCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
+      },
+      "lastUpdated": "2025-06-30T10:07:54.477Z"
+    },
+    {
+      "idm": "226",
+      "name": "Neculaescu Laurenţiu Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=226&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "16",
+        "name": "DÂMBOVIŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
+      },
+      "lastUpdated": "2025-06-30T10:07:54.679Z"
+    },
+    {
+      "idm": "227",
+      "name": "Negoescu Mihai-Bogdan",
+      "url": "/pls/parlam/structura2015.mp?idm=227&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "37",
+        "name": "TULCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
+      },
+      "lastUpdated": "2025-06-30T10:07:54.880Z"
+    },
+    {
+      "idm": "228",
+      "name": "Negrea Petru-Gabriel",
+      "url": "/pls/parlam/structura2015.mp?idm=228&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "35",
+        "name": "TELEORMAN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
+      },
+      "lastUpdated": "2025-06-30T10:07:55.082Z"
+    },
+    {
+      "idm": "229",
+      "name": "Nicolae Dan-Mihai",
+      "url": "/pls/parlam/structura2015.mp?idm=229&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "31",
+        "name": "SATU-MARE",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
+      },
+      "lastUpdated": "2025-06-30T10:07:55.284Z"
+    },
+    {
+      "idm": "230",
+      "name": "Oancea Silviu-Florin",
+      "url": "/pls/parlam/structura2015.mp?idm=230&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "23",
+        "name": "IALOMIŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=23"
+      },
+      "lastUpdated": "2025-06-30T10:07:55.487Z"
+    },
+    {
+      "idm": "231",
+      "name": "Oltenaşu Sorin-George",
+      "url": "/pls/parlam/structura2015.mp?idm=231&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "23",
+        "name": "IALOMIŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=23"
+      },
+      "lastUpdated": "2025-06-30T10:07:55.688Z"
+    },
+    {
+      "idm": "232",
+      "name": "Oprea Octavian",
+      "url": "/pls/parlam/structura2015.mp?idm=232&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:07:55.890Z"
+    },
+    {
+      "idm": "233",
+      "name": "Pambuccian Varujan",
+      "url": "/pls/parlam/structura2015.mp?idm=233&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:56.091Z"
+    },
+    {
+      "idm": "234",
+      "name": "Pandea Ciprian",
+      "url": "/pls/parlam/structura2015.mp?idm=234&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "12",
+        "name": "CĂLĂRAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=12"
+      },
+      "lastUpdated": "2025-06-30T10:07:56.292Z"
+    },
+    {
+      "idm": "235",
+      "name": "Paraschiv Ciprian-Constantin",
+      "url": "/pls/parlam/structura2015.mp?idm=235&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:07:56.494Z"
+    },
+    {
+      "idm": "236",
+      "name": "Paraschivescu Ovidiu-Romulus",
+      "url": "/pls/parlam/structura2015.mp?idm=236&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "8",
+        "name": "BRAŞOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:56.694Z"
+    },
+    {
+      "idm": "237",
+      "name": "Pascalini Nini-Alexandru",
+      "url": "/pls/parlam/structura2015.mp?idm=237&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "4",
+        "name": "BACĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
+      },
+      "lastUpdated": "2025-06-30T10:07:56.897Z"
+    },
+    {
+      "idm": "238",
+      "name": "Pascariu Mihai-Cosmin",
+      "url": "/pls/parlam/structura2015.mp?idm=238&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "2",
+        "name": "ARAD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
+      },
+      "lastUpdated": "2025-06-30T10:07:57.099Z"
+    },
+    {
+      "idm": "239",
+      "name": "Păun Nicolae",
+      "url": "/pls/parlam/structura2015.mp?idm=239&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:57.300Z"
+    },
+    {
+      "idm": "240",
+      "name": "Păunescu Silviu-Titus",
+      "url": "/pls/parlam/structura2015.mp?idm=240&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "14",
+        "name": "CONSTANŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
+      },
+      "lastUpdated": "2025-06-30T10:07:57.502Z"
+    },
+    {
+      "idm": "241",
+      "name": "Petreţchi Nicolae-Miroslav",
+      "url": "/pls/parlam/structura2015.mp?idm=241&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:57.703Z"
+    },
+    {
+      "idm": "242",
+      "name": "Peţa-Ştefănescu Eliza-Mădălina",
+      "url": "/pls/parlam/structura2015.mp?idm=242&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "17",
+        "name": "DOLJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
+      },
+      "lastUpdated": "2025-06-30T10:07:57.905Z"
+    },
+    {
+      "idm": "243",
+      "name": "Pirtea Marilen - Gabriel",
+      "url": "/pls/parlam/structura2015.mp?idm=243&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "37",
+        "name": "TULCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
+      },
+      "lastUpdated": "2025-06-30T10:07:58.106Z"
+    },
+    {
+      "idm": "244",
+      "name": "Pistru-Popa Simona-Geanina",
+      "url": "/pls/parlam/structura2015.mp?idm=244&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "2",
+        "name": "ARAD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
+      },
+      "lastUpdated": "2025-06-30T10:07:58.314Z"
+    },
+    {
+      "idm": "245",
+      "name": "Pîclişan Gheorghe-Petru",
+      "url": "/pls/parlam/structura2015.mp?idm=245&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "7",
+        "name": "BOTOŞANI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
+      },
+      "lastUpdated": "2025-06-30T10:07:58.519Z"
+    },
+    {
+      "idm": "246",
+      "name": "Plopeanu Rodica",
+      "url": "/pls/parlam/structura2015.mp?idm=246&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "10",
+        "name": "BUZĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
+      },
+      "lastUpdated": "2025-06-30T10:07:58.721Z"
+    },
+    {
+      "idm": "247",
+      "name": "Plujar Andrei George",
+      "url": "/pls/parlam/structura2015.mp?idm=247&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "11",
+        "name": "CARAŞ-SEVERIN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=11"
+      },
+      "lastUpdated": "2025-06-30T10:07:58.925Z"
+    },
+    {
+      "idm": "248",
+      "name": "Ponta Victor-Viorel",
+      "url": "/pls/parlam/structura2015.mp?idm=248&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "16",
+        "name": "DÂMBOVIŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
+      },
+      "lastUpdated": "2025-06-30T10:07:59.127Z"
+    },
+    {
+      "idm": "249",
+      "name": "Popa Alexandru",
+      "url": "/pls/parlam/structura2015.mp?idm=249&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "9",
+        "name": "BRĂILA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=9"
+      },
+      "lastUpdated": "2025-06-30T10:07:59.343Z"
+    },
+    {
+      "idm": "250",
+      "name": "Popa Cristian-Alexandru",
+      "url": "/pls/parlam/structura2015.mp?idm=250&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "8",
+        "name": "BRAŞOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
+      },
+      "lastUpdated": "2025-06-30T10:07:59.545Z"
+    },
+    {
+      "idm": "251",
+      "name": "Popa Dorin",
+      "url": "/pls/parlam/structura2015.mp?idm=251&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "3",
+        "name": "ARGEŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
+      },
+      "lastUpdated": "2025-06-30T10:07:59.752Z"
+    },
+    {
+      "idm": "252",
+      "name": "Popa George-Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=252&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "4",
+        "name": "BACĂU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
+      },
+      "lastUpdated": "2025-06-30T10:07:59.959Z"
+    },
+    {
+      "idm": "253",
+      "name": "Popa Maricel",
+      "url": "/pls/parlam/structura2015.mp?idm=253&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:08:00.167Z"
+    },
+    {
+      "idm": "254",
+      "name": "Popa Ştefan-Ovidiu",
+      "url": "/pls/parlam/structura2015.mp?idm=254&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "40",
+        "name": "VRANCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
+      },
+      "lastUpdated": "2025-06-30T10:08:00.369Z"
+    },
+    {
+      "idm": "255",
+      "name": "Popescu Antonio-Gabi",
+      "url": "/pls/parlam/structura2015.mp?idm=255&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "40",
+        "name": "VRANCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
+      },
+      "lastUpdated": "2025-06-30T10:08:00.572Z"
+    },
+    {
+      "idm": "256",
+      "name": "Popovici Florin-Cornel",
+      "url": "/pls/parlam/structura2015.mp?idm=256&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "37",
+        "name": "TULCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
+      },
+      "lastUpdated": "2025-06-30T10:08:00.775Z"
+    },
+    {
+      "idm": "257",
+      "name": "Porumboiu Gabriela",
+      "url": "/pls/parlam/structura2015.mp?idm=257&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "17",
+        "name": "DOLJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
+      },
+      "lastUpdated": "2025-06-30T10:08:00.976Z"
+    },
+    {
+      "idm": "258",
+      "name": "Priescu Ionelia-Florenţa",
+      "url": "/pls/parlam/structura2015.mp?idm=258&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "20",
+        "name": "GORJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=20"
+      },
+      "lastUpdated": "2025-06-30T10:08:01.178Z"
+    },
+    {
+      "idm": "259",
+      "name": "Prişcă Răzvan Sorin",
+      "url": "/pls/parlam/structura2015.mp?idm=259&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:08:01.379Z"
+    },
+    {
+      "idm": "260",
+      "name": "Prună Cristina-Mădălina",
+      "url": "/pls/parlam/structura2015.mp?idm=260&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:08:01.581Z"
+    },
+    {
+      "idm": "261",
+      "name": "Puşcaşu Lucian-Florin",
+      "url": "/pls/parlam/structura2015.mp?idm=261&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "35",
+        "name": "TELEORMAN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
+      },
+      "lastUpdated": "2025-06-30T10:08:01.782Z"
+    },
+    {
+      "idm": "262",
+      "name": "Puşcaşu Petre",
+      "url": "/pls/parlam/structura2015.mp?idm=262&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "31",
+        "name": "SATU-MARE",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
+      },
+      "lastUpdated": "2025-06-30T10:08:01.984Z"
+    },
+    {
+      "idm": "263",
+      "name": "Radu Fabian-Cristian",
+      "url": "/pls/parlam/structura2015.mp?idm=263&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "34",
+        "name": "SUCEAVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
+      },
+      "lastUpdated": "2025-06-30T10:08:02.195Z"
+    },
+    {
+      "idm": "264",
+      "name": "Rafila Alexandru",
+      "url": "/pls/parlam/structura2015.mp?idm=264&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:08:02.398Z"
+    },
+    {
+      "idm": "265",
+      "name": "Răducanu Sebastian",
+      "url": "/pls/parlam/structura2015.mp?idm=265&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "37",
+        "name": "TULCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
+      },
+      "lastUpdated": "2025-06-30T10:08:02.600Z"
+    },
+    {
+      "idm": "266",
+      "name": "Răducea Gheorghe-Valentin",
+      "url": "/pls/parlam/structura2015.mp?idm=266&cam=2&leg=2024",
+      "group": {
+        "idg": "6",
+        "name": "Grupul parlamentar POT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=6"
+      },
+      "district": {
+        "cir": "35",
+        "name": "TELEORMAN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
+      },
+      "lastUpdated": "2025-06-30T10:08:02.802Z"
+    },
+    {
+      "idm": "267",
+      "name": "Rigman Ciprian-Doru",
+      "url": "/pls/parlam/structura2015.mp?idm=267&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "13",
+        "name": "CLUJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
+      },
+      "lastUpdated": "2025-06-30T10:08:03.004Z"
+    },
+    {
+      "idm": "268",
+      "name": "Rinder Ana-Smaranda",
+      "url": "/pls/parlam/structura2015.mp?idm=268&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "39",
+        "name": "VÂLCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
+      },
+      "lastUpdated": "2025-06-30T10:08:03.206Z"
+    },
+    {
+      "idm": "269",
+      "name": "Rodeanu Bogdan-Ionel",
+      "url": "/pls/parlam/structura2015.mp?idm=269&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "18",
+        "name": "GALAŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
+      },
+      "lastUpdated": "2025-06-30T10:08:03.408Z"
+    },
+    {
+      "idm": "270",
+      "name": "Rogobete Alexandru-Florin",
+      "url": "/pls/parlam/structura2015.mp?idm=270&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "31",
+        "name": "SATU-MARE",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
+      },
+      "lastUpdated": "2025-06-30T10:08:03.610Z"
+    },
+    {
+      "idm": "271",
+      "name": "Roman Florin-Claudiu",
+      "url": "/pls/parlam/structura2015.mp?idm=271&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "1",
+        "name": "ALBA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=1"
+      },
+      "lastUpdated": "2025-06-30T10:08:03.810Z"
+    },
+    {
+      "idm": "272",
+      "name": "Roşca Mircea",
+      "url": "/pls/parlam/structura2015.mp?idm=272&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "31",
+        "name": "SATU-MARE",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
+      },
+      "lastUpdated": "2025-06-30T10:08:04.013Z"
+    },
+    {
+      "idm": "273",
+      "name": "Rusu Sebastian-Mihai",
+      "url": "/pls/parlam/structura2015.mp?idm=273&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "8",
+        "name": "BRAŞOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
+      },
+      "lastUpdated": "2025-06-30T10:08:04.215Z"
+    },
+    {
+      "idm": "274",
+      "name": "Samoilă Ion",
+      "url": "/pls/parlam/structura2015.mp?idm=274&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "12",
+        "name": "CĂLĂRAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=12"
+      },
+      "lastUpdated": "2025-06-30T10:08:04.417Z"
+    },
+    {
+      "idm": "275",
+      "name": "Sandu Viorica",
+      "url": "/pls/parlam/structura2015.mp?idm=275&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "18",
+        "name": "GALAŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
+      },
+      "lastUpdated": "2025-06-30T10:08:04.620Z"
+    },
+    {
+      "idm": "276",
+      "name": "Scarlat George",
+      "url": "/pls/parlam/structura2015.mp?idm=276&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "18",
+        "name": "GALAŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
+      },
+      "lastUpdated": "2025-06-30T10:08:04.821Z"
+    },
+    {
+      "idm": "277",
+      "name": "Seres Dénes",
+      "url": "/pls/parlam/structura2015.mp?idm=277&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "33",
+        "name": "SIBIU",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=33"
+      },
+      "lastUpdated": "2025-06-30T10:08:05.023Z"
+    },
+    {
+      "idm": "278",
+      "name": "Sighiartău Robert-Ionatan",
+      "url": "/pls/parlam/structura2015.mp?idm=278&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "6",
+        "name": "BISTRIŢA-NĂSĂUD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=6"
+      },
+      "lastUpdated": "2025-06-30T10:08:05.225Z"
+    },
+    {
+      "idm": "279",
+      "name": "Simion George-Nicolae",
+      "url": "/pls/parlam/structura2015.mp?idm=279&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:08:05.428Z"
+    },
+    {
+      "idm": "280",
+      "name": "Simu Aurora-Tasica",
+      "url": "/pls/parlam/structura2015.mp?idm=280&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "13",
+        "name": "CLUJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
+      },
+      "lastUpdated": "2025-06-30T10:08:05.630Z"
+    },
+    {
+      "idm": "281",
+      "name": "Solomon Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=281&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "39",
+        "name": "VÂLCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
+      },
+      "lastUpdated": "2025-06-30T10:08:05.832Z"
+    },
+    {
+      "idm": "282",
+      "name": "Stancu Ionel",
+      "url": "/pls/parlam/structura2015.mp?idm=282&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:08:06.033Z"
+    },
+    {
+      "idm": "283",
+      "name": "Stănescu Vetuţa",
+      "url": "/pls/parlam/structura2015.mp?idm=283&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "22",
+        "name": "HUNEDOARA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
+      },
+      "lastUpdated": "2025-06-30T10:08:06.234Z"
+    },
+    {
+      "idm": "284",
+      "name": "Stoenică Irina-Florentina",
+      "url": "/pls/parlam/structura2015.mp?idm=284&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "17",
+        "name": "DOLJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
+      },
+      "lastUpdated": "2025-06-30T10:08:06.436Z"
+    },
+    {
+      "idm": "285",
+      "name": "Stoica Alin-Bogdan",
+      "url": "/pls/parlam/structura2015.mp?idm=285&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:08:06.637Z"
+    },
+    {
+      "idm": "286",
+      "name": "Stoica Bogdan-Alin",
+      "url": "/pls/parlam/structura2015.mp?idm=286&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:08:06.838Z"
+    },
+    {
+      "idm": "287",
+      "name": "Stoica Diana",
+      "url": "/pls/parlam/structura2015.mp?idm=287&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:08:07.040Z"
+    },
+    {
+      "idm": "288",
+      "name": "Stoica Ştefan-Bucur",
+      "url": "/pls/parlam/structura2015.mp?idm=288&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "17",
+        "name": "DOLJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
+      },
+      "lastUpdated": "2025-06-30T10:08:07.242Z"
+    },
+    {
+      "idm": "289",
+      "name": "Stroe Ionuţ-Marian",
+      "url": "/pls/parlam/structura2015.mp?idm=289&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:08:07.443Z"
+    },
+    {
+      "idm": "290",
+      "name": "Suciu Vasile-Daniel",
+      "url": "/pls/parlam/structura2015.mp?idm=290&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "6",
+        "name": "BISTRIŢA-NĂSĂUD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=6"
+      },
+      "lastUpdated": "2025-06-30T10:08:07.645Z"
+    },
+    {
+      "idm": "291",
+      "name": "Szabó Ödön",
+      "url": "/pls/parlam/structura2015.mp?idm=291&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "5",
+        "name": "BIHOR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
+      },
+      "lastUpdated": "2025-06-30T10:08:07.846Z"
+    },
+    {
+      "idm": "292",
+      "name": "Szőke Ecaterina-Mariana",
+      "url": "/pls/parlam/structura2015.mp?idm=292&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "18",
+        "name": "GALAŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
+      },
+      "lastUpdated": "2025-06-30T10:08:08.048Z"
+    },
+    {
+      "idm": "293",
+      "name": "Şendroiu Vlad-Ioan",
+      "url": "/pls/parlam/structura2015.mp?idm=293&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "37",
+        "name": "TULCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
+      },
+      "lastUpdated": "2025-06-30T10:08:08.250Z"
+    },
+    {
+      "idm": "294",
+      "name": "Şerban Ciprian-Constantin",
+      "url": "/pls/parlam/structura2015.mp?idm=294&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "29",
+        "name": "OLT",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
+      },
+      "lastUpdated": "2025-06-30T10:08:08.452Z"
+    },
+    {
+      "idm": "295",
+      "name": "Şerban George Cătălin",
+      "url": "/pls/parlam/structura2015.mp?idm=295&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "31",
+        "name": "SATU-MARE",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
+      },
+      "lastUpdated": "2025-06-30T10:08:08.653Z"
+    },
+    {
+      "idm": "296",
+      "name": "Şerban Gianina",
+      "url": "/pls/parlam/structura2015.mp?idm=296&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "25",
+        "name": "MARAMUREŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
+      },
+      "lastUpdated": "2025-06-30T10:08:08.854Z"
+    },
+    {
+      "idm": "297",
+      "name": "Ştirbu Gigel-Sorinel",
+      "url": "/pls/parlam/structura2015.mp?idm=297&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "30",
+        "name": "PRAHOVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
+      },
+      "lastUpdated": "2025-06-30T10:08:09.056Z"
+    },
+    {
+      "idm": "298",
+      "name": "Tanasă Dan",
+      "url": "/pls/parlam/structura2015.mp?idm=298&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "8",
+        "name": "BRAŞOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
+      },
+      "lastUpdated": "2025-06-30T10:08:09.258Z"
+    },
+    {
+      "idm": "299",
+      "name": "Tanasă Ştefan",
+      "url": "/pls/parlam/structura2015.mp?idm=299&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:08:09.460Z"
+    },
+    {
+      "idm": "300",
+      "name": "Teslariu Andrei-Ionuţ",
+      "url": "/pls/parlam/structura2015.mp?idm=300&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "39",
+        "name": "VÂLCEA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
+      },
+      "lastUpdated": "2025-06-30T10:08:09.662Z"
+    },
+    {
+      "idm": "301",
+      "name": "Tilea Dumitru",
+      "url": "/pls/parlam/structura2015.mp?idm=301&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "36",
+        "name": "TIMIŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
+      },
+      "lastUpdated": "2025-06-30T10:08:09.863Z"
+    },
+    {
+      "idm": "302",
+      "name": "Tîlvăr Angel",
+      "url": "/pls/parlam/structura2015.mp?idm=302&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "41",
+        "name": "BUCUREŞTI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=41"
+      },
+      "lastUpdated": "2025-06-30T10:08:10.066Z"
+    },
+    {
+      "idm": "303",
+      "name": "Toader Bogdan-Andrei",
+      "url": "/pls/parlam/structura2015.mp?idm=303&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "31",
+        "name": "SATU-MARE",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
+      },
+      "lastUpdated": "2025-06-30T10:08:10.270Z"
+    },
+    {
+      "idm": "304",
+      "name": "Toader Elena-Laura",
+      "url": "/pls/parlam/structura2015.mp?idm=304&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "38",
+        "name": "VASLUI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=38"
+      },
+      "lastUpdated": "2025-06-30T10:08:10.472Z"
+    },
+    {
+      "idm": "305",
+      "name": "Toma Ilie",
+      "url": "/pls/parlam/structura2015.mp?idm=305&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "22",
+        "name": "HUNEDOARA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
+      },
+      "lastUpdated": "2025-06-30T10:08:10.673Z"
+    },
+    {
+      "idm": "306",
+      "name": "Tomoescu Ion-Alin",
+      "url": "/pls/parlam/structura2015.mp?idm=306&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "27",
+        "name": "MUREŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=27"
+      },
+      "lastUpdated": "2025-06-30T10:08:10.882Z"
+    },
+    {
+      "idm": "307",
+      "name": "Trif Bogdan Gheorghe",
+      "url": "/pls/parlam/structura2015.mp?idm=307&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "34",
+        "name": "SUCEAVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
+      },
+      "lastUpdated": "2025-06-30T10:08:11.084Z"
+    },
+    {
+      "idm": "308",
+      "name": "Turcan Raluca",
+      "url": "/pls/parlam/structura2015.mp?idm=308&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "34",
+        "name": "SUCEAVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
+      },
+      "lastUpdated": "2025-06-30T10:08:11.287Z"
+    },
+    {
+      "idm": "309",
+      "name": "Tuşa Adriana Diana",
+      "url": "/pls/parlam/structura2015.mp?idm=309&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:08:11.490Z"
+    },
+    {
+      "idm": "310",
+      "name": "Ţintă Ştefan",
+      "url": "/pls/parlam/structura2015.mp?idm=310&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "23",
+        "name": "IALOMIŢA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=23"
+      },
+      "lastUpdated": "2025-06-30T10:08:11.691Z"
+    },
+    {
+      "idm": "311",
+      "name": "Ţiplea Dumitru",
+      "url": "/pls/parlam/structura2015.mp?idm=311&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "5",
+        "name": "BIHOR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
+      },
+      "lastUpdated": "2025-06-30T10:08:11.892Z"
+    },
+    {
+      "idm": "312",
+      "name": "Ţiu Mihai-Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=312&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "30",
+        "name": "PRAHOVA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
+      },
+      "lastUpdated": "2025-06-30T10:08:12.093Z"
+    },
+    {
+      "idm": "313",
+      "name": "Ţoiu Oana-Silvia",
+      "url": "/pls/parlam/structura2015.mp?idm=313&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:08:12.295Z"
+    },
+    {
+      "idm": "314",
+      "name": "Ungureanu Emanuel-Dumitru",
+      "url": "/pls/parlam/structura2015.mp?idm=314&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "35",
+        "name": "TELEORMAN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
+      },
+      "lastUpdated": "2025-06-30T10:08:12.496Z"
+    },
+    {
+      "idm": "315",
+      "name": "Vadim-Tudor Lidia",
+      "url": "/pls/parlam/structura2015.mp?idm=315&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:08:12.697Z"
+    },
+    {
+      "idm": "316",
+      "name": "Vass Levente",
+      "url": "/pls/parlam/structura2015.mp?idm=316&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "28",
+        "name": "NEAMŢ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
+      },
+      "lastUpdated": "2025-06-30T10:08:12.897Z"
+    },
+    {
+      "idm": "317",
+      "name": "Văduva Dumitru",
+      "url": "/pls/parlam/structura2015.mp?idm=317&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "25",
+        "name": "MARAMUREŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
+      },
+      "lastUpdated": "2025-06-30T10:08:13.100Z"
+    },
+    {
+      "idm": "318",
+      "name": "Vârgă Mariana",
+      "url": "/pls/parlam/structura2015.mp?idm=318&cam=2&leg=2024",
+      "group": {
+        "idg": "0",
+        "name": "Deputaţi neafiliaţi",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
+      },
+      "district": {
+        "cir": "42",
+        "name": "ILFOV",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
+      },
+      "lastUpdated": "2025-06-30T10:08:13.300Z"
+    },
+    {
+      "idm": "319",
+      "name": "Vedinaş Verginia",
+      "url": "/pls/parlam/structura2015.mp?idm=319&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "41",
+        "name": "BUCUREŞTI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=41"
+      },
+      "lastUpdated": "2025-06-30T10:08:13.502Z"
+    },
+    {
+      "idm": "320",
+      "name": "Vela Ion-Marcel",
+      "url": "/pls/parlam/structura2015.mp?idm=320&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "11",
+        "name": "CARAŞ-SEVERIN",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=11"
+      },
+      "lastUpdated": "2025-06-30T10:08:13.704Z"
+    },
+    {
+      "idm": "321",
+      "name": "Velcescu Florin-Bogdan",
+      "url": "/pls/parlam/structura2015.mp?idm=321&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "3",
+        "name": "ARGEŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
+      },
+      "lastUpdated": "2025-06-30T10:08:13.904Z"
+    },
+    {
+      "idm": "322",
+      "name": "Vexler Silviu",
+      "url": "/pls/parlam/structura2015.mp?idm=322&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:08:14.106Z"
+    },
+    {
+      "idm": "323",
+      "name": "Vidra Vlad-Andrei",
+      "url": "/pls/parlam/structura2015.mp?idm=323&cam=2&leg=2024",
+      "group": {
+        "idg": "5",
+        "name": "Grupul parlamentar SOS România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=5"
+      },
+      "district": {
+        "cir": "5",
+        "name": "BIHOR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
+      },
+      "lastUpdated": "2025-06-30T10:08:14.308Z"
+    },
+    {
+      "idm": "324",
+      "name": "Vulpescu Ioan",
+      "url": "/pls/parlam/structura2015.mp?idm=324&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "25",
+        "name": "MARAMUREŞ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
+      },
+      "lastUpdated": "2025-06-30T10:08:14.510Z"
+    },
+    {
+      "idm": "325",
+      "name": "Vulpoiu Dorel",
+      "url": "/pls/parlam/structura2015.mp?idm=325&cam=2&leg=2024",
+      "group": {
+        "idg": "2",
+        "name": "Grupul parlamentar AUR",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=2"
+      },
+      "district": {
+        "cir": "18",
+        "name": "GALAŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
+      },
+      "lastUpdated": "2025-06-30T10:08:14.712Z"
+    },
+    {
+      "idm": "326",
+      "name": "Vuşcan Voicu",
+      "url": "/pls/parlam/structura2015.mp?idm=326&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "1",
+        "name": "ALBA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=1"
+      },
+      "lastUpdated": "2025-06-30T10:08:14.914Z"
+    },
+    {
+      "idm": "327",
+      "name": "Weber Mihai",
+      "url": "/pls/parlam/structura2015.mp?idm=327&cam=2&leg=2024",
+      "group": {
+        "idg": "1",
+        "name": "Grupul parlamentar al Partidului Social Democrat",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+      },
+      "district": {
+        "cir": "20",
+        "name": "GORJ",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=20"
+      },
+      "lastUpdated": "2025-06-30T10:08:15.116Z"
+    },
+    {
+      "idm": "328",
+      "name": "Wiener Adrian",
+      "url": "/pls/parlam/structura2015.mp?idm=328&cam=2&leg=2024",
+      "group": {
+        "idg": "4",
+        "name": "Grupul parlamentar al Uniunii Salvaţi România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=4"
+      },
+      "district": {
+        "cir": "2",
+        "name": "ARAD",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
+      },
+      "lastUpdated": "2025-06-30T10:08:15.319Z"
+    },
+    {
+      "idm": "329",
+      "name": "Zahoranszki Brigitta-Eva",
+      "url": "/pls/parlam/structura2015.mp?idm=329&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "26",
+        "name": "MEHEDINŢI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
+      },
+      "lastUpdated": "2025-06-30T10:08:15.520Z"
+    },
+    {
+      "idm": "330",
+      "name": "Zakarias Zoltán",
+      "url": "/pls/parlam/structura2015.mp?idm=330&cam=2&leg=2024",
+      "group": {
+        "idg": "7",
+        "name": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=7"
+      },
+      "district": {
+        "cir": "21",
+        "name": "HARGHITA",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=21"
+      },
+      "lastUpdated": "2025-06-30T10:08:15.722Z"
+    },
+    {
+      "idm": "331",
+      "name": "Zisopol Dragoş Gabriel",
+      "url": "/pls/parlam/structura2015.mp?idm=331&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:08:15.923Z"
+    },
+    {
+      "idm": "2",
+      "name": "Afloarei Sorin-Alexandru",
+      "url": "/pls/parlam/structura2015.mp?idm=2&cam=2&leg=2024",
+      "group": {
+        "idg": "3",
+        "name": "Grupul parlamentar al Partidului Naţional Liberal",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=3"
+      },
+      "district": {
+        "cir": "24",
+        "name": "IAŞI",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
+      },
+      "lastUpdated": "2025-06-30T10:08:16.124Z"
+    },
+    {
+      "idm": "146",
+      "name": "Ibram Iusein",
+      "url": "/pls/parlam/structura2015.mp?idm=146&cam=2&leg=2024",
+      "group": {
+        "idg": "8",
+        "name": "Grupul parlamentar al minorităţilor naţionale",
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
+      },
+      "lastUpdated": "2025-06-30T10:08:16.326Z"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:32:35.381Z",
+  "data": [
+    {
+      "idi": "77581",
+      "title": "Întrebarea nr.119A/05-02-2025",
+      "description": "Identificarea tuturor cheltuielilor de personal în vederea ajustării deficitului bugetar",
+      "addressee": {
+        "idm": "232"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndoamnei\nSimona Bucura-Oprescu\n- Ministru",
+      "dates": {
+        "registration": "2025-05-01T21:00:00.000Z",
+        "presentation": "2025-05-01T21:00:00.000Z",
+        "communication": "2025-12-01T22:00:00.000Z",
+        "responseDue": "2025-05-02T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i119A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77581&idl=1",
+      "registrationId": "119A1028",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "1028",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r119A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77677",
+      "title": "Întrebarea nr.194A/13-02-2025",
+      "description": "Cauzele care au determinat indisponibilizarea sistemelor informatice gestionate de Autoritatea pentru Digitalizarea României, respectiv Ghișeul.ro, SEAP, PCUe și SIAE",
+      "addressee": {
+        "idm": "232"
+      },
+      "recipient": "Autoritatea pentru Digitalizarea României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-12-02T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i194A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77677&idl=1",
+      "registrationId": "194A543",
+      "requestedResponseType": "în scris şi oral",
+      "answers": [
+        {
+          "registrationId": "543",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea pentru Digitalizarea României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r194A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78529",
+      "title": "Întrebarea nr.791A/08-04-2025",
+      "description": "Fonduri nerambursabile pentru IMM-uri",
+      "addressee": {
+        "idm": "232"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": "2025-08-03T21:00:00.000Z",
+        "presentation": "2025-08-03T21:00:00.000Z",
+        "communication": "2025-09-03T21:00:00.000Z",
+        "responseDue": "2025-05-04T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i791A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78529&idl=1",
+      "registrationId": "791A4445",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "4445",
+          "date": "2025-09-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nBogdan-Gruia Ivan\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r791A.pdf"
+        }
+      ]
+    }
+  ]
+}

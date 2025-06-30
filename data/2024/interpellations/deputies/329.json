@@ -1,0 +1,93 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:36:08.353Z",
+  "data": [
+    {
+      "idi": "77965",
+      "title": "Întrebarea nr.376A/05-03-2025",
+      "description": "Plata impozitului pe venit pentru persoanele cu handicap",
+      "addressee": {
+        "idm": "329"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndoamnei\nSimona Bucura-Oprescu\n- Ministru",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i376A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77965&idl=1",
+      "registrationId": "376A2384",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "2384",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r376A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78402",
+      "title": "Întrebarea nr.731A/02-04-2025",
+      "description": "Situația plăților salariale și modul de salarizare a funcționarilor ANOFM și AJOFM numiți în echipele de implementare a proiectelor finanțate din fonduri europene nerambursabile",
+      "addressee": {
+        "idm": "329"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+      "dates": {
+        "registration": "2025-02-03T22:00:00.000Z",
+        "presentation": "2025-02-03T22:00:00.000Z",
+        "communication": "2025-02-03T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i731A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78402&idl=1",
+      "registrationId": "731A13",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "13",
+          "date": "2025-12-04T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r731A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78818",
+      "title": "Întrebarea nr.1023A/30-04-2025",
+      "description": "Revenire la întrebarea 376A/05.03.2025 - Plata impozitului pe venit pentru persoanele cu handicap",
+      "addressee": {
+        "idm": "329"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1023A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78818&idl=1",
+      "registrationId": "1023A2384",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "2384",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1023A.pdf"
+        }
+      ]
+    }
+  ]
+}

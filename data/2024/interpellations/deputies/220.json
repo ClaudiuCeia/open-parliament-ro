@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:32:16.874Z",
+  "data": [
+    {
+      "idi": "78481",
+      "title": "Interpelarea nr.241B/08-04-2025",
+      "description": "Achiziția de corvete militare pentru Forțele Navale",
+      "addressee": {
+        "idm": "220"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nAngel Tîlvăr\n- Ministru",
+      "dates": {
+        "registration": "2025-08-03T21:00:00.000Z",
+        "presentation": "2025-08-03T21:00:00.000Z",
+        "communication": "2025-08-03T21:00:00.000Z",
+        "responseDue": "2025-02-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i241B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78481&idl=1",
+      "registrationId": "241B925",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "925",
+          "date": "2025-09-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nAngel Tîlvăr\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r241B.pdf"
+        }
+      ]
+    }
+  ]
+}

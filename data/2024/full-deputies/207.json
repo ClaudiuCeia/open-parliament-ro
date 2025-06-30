@@ -1,0 +1,36 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:10:41.645Z",
+  "data": {
+    "idm": "207",
+    "name": "Lucian-Ioan-Titus MORAR",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=207&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/MorarLucianIoanTitus.JPG",
+    "party": {
+      "idp": "40",
+      "abbrev": "PSD",
+      "name": "Partidul Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=40"
+    },
+    "group": {
+      "idg": "1",
+      "name": "Grupul parlamentar al Partidului Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+    },
+    "district": {
+      "cir": "25",
+      "name": "MARAMUREŞ",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7733&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 13,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=207&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      }
+    }
+  }
+}

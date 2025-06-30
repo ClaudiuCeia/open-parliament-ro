@@ -1,0 +1,114 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:27:57.625Z",
+  "data": [
+    {
+      "idi": "78271",
+      "title": "Interpelarea nr.190B/25-03-2025",
+      "description": "„Mai aveți controlul ambasadelor Românești din Diaspora?”",
+      "addressee": {
+        "idm": "67"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i190B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78271&idl=1",
+      "registrationId": "190B18532-",
+      "requestedResponseType": "în scris şi oral",
+      "answers": [
+        {
+          "registrationId": "18532",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r190B.pdf"
+        },
+        {
+          "registrationId": "-",
+          "date": null,
+          "responseType": "oral\n\nconsultaţi stenograma sedinţei camerei deputaţilor din 26.05.2025",
+          "author": "Ministerul Afacerilor Externe",
+          "textUrl": ""
+        }
+      ]
+    },
+    {
+      "idi": "78655",
+      "title": "Interpelarea nr.277B/23-04-2025",
+      "description": "„Copii români au nevoie de ajutor”",
+      "addressee": {
+        "idm": "67"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i277B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78655&idl=1",
+      "registrationId": "277B283723890",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "2837",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r277B.pdf"
+        },
+        {
+          "registrationId": "23890",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r277B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79185",
+      "title": "Interpelarea nr.440B/03-06-2025",
+      "description": "”Deblocarea fondurilor pentru inundațiile produse în România”",
+      "addressee": {
+        "idm": "67"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-03-05T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i440B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79185&idl=1",
+      "registrationId": "440B47773046",
+      "requestedResponseType": "în scris şi oral",
+      "answers": [
+        {
+          "registrationId": "4777",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r440B.pdf"
+        },
+        {
+          "registrationId": "3046",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r440B.pdf"
+        }
+      ]
+    }
+  ]
+}

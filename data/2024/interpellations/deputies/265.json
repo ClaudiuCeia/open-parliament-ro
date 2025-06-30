@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:33:51.157Z",
+  "data": [
+    {
+      "idi": "77766",
+      "title": "Întrebarea nr.250A/20-02-2025",
+      "description": "Programul Național de Cadastru și Carte Funciară",
+      "addressee": {
+        "idm": "265"
+      },
+      "recipient": "Agenţia Naţională de Cadastru şi Publicitate Imobiliară",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i250A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77766&idl=1",
+      "registrationId": "250A60446",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "60446",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nIoan Cristian Haiduc\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r250A.pdf"
+        }
+      ]
+    }
+  ]
+}

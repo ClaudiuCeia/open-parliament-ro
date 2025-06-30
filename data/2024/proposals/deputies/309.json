@@ -1,0 +1,102 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-30T10:23:03.247Z",
+  "data": [
+    {
+      "idp": "22316",
+      "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.286/2009 privind Codul penalDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "115/15-04-2025",
+        "deputyChamber": "115/22.04.2025",
+        "senateChamber": "L30/2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n286/2009",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      },
+      "initiators": ["63", "131", "309", "9", "129", "208", "308"],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/5/em115.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/5/ces115.pdf",
+          "title": "Avizul Consiliului Economic şi Social"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/5/cl105.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/5/cl115.pdf",
+          "title": "Avizul Consiliului Legislativ"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/5/csm115.pdf",
+          "title": "Avizul Consiliului Superior al Magistraturii"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22316"
+    },
+    {
+      "idp": "22403",
+      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parteDerularea procedurii legislative",
+      "registrationNumber": {
+        "bpi": "212/11-06-2025",
+        "deputyChamber": "BP212/11.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "-",
+      "type": "Propunere legislativa",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "42",
+        "53",
+        "58",
+        "63",
+        "64",
+        "109",
+        "124",
+        "130",
+        "192",
+        "197",
+        "223",
+        "225",
+        "268",
+        "305",
+        "306",
+        "309",
+        "310",
+        "199",
+        "83",
+        "331"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/2/in212.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/2/em212.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/2/pl212.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22403"
+    }
+  ]
+}

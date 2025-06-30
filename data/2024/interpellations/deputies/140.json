@@ -1,0 +1,106 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:30:19.896Z",
+  "data": [
+    {
+      "idi": "77765",
+      "title": "Întrebarea nr.249A/19-02-2025",
+      "description": "Sporurile si alte categorii de avantaje materiale acordate angajaților altor categorii de colaboratori ai Curții de Conturi",
+      "addressee": {
+        "idm": "140"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i249A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77765&idl=1",
+      "registrationId": "249A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78114",
+      "title": "Întrebarea nr.525A/14-03-2025",
+      "description": "Combaterea manifestărilor neolegionare în spațiul public",
+      "addressee": {
+        "idm": "140"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-09-03T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i525A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78114&idl=1",
+      "registrationId": "525A11032",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "11032",
+          "date": "2025-10-03T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r525A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78115",
+      "title": "Întrebarea nr.526A/14-03-2025",
+      "description": "Monitorizare cazuri de cancer și operaționalizarea Registrului Național de cancer",
+      "addressee": {
+        "idm": "140"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-09-03T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i526A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78115&idl=1",
+      "registrationId": "526A5239",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "5239",
+          "date": "2025-03-05T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r526A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79098",
+      "title": "Întrebarea nr.1251A/28-05-2025",
+      "description": "Sustenabilitatea Pilonului II de pensii",
+      "addressee": {
+        "idm": "140"
+      },
+      "recipient": "Autoritatea de Supraveghere Financiară",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-04-05T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1251A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79098&idl=1",
+      "registrationId": "1251A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
+}

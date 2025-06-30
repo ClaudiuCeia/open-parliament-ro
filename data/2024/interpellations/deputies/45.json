@@ -1,0 +1,78 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:27:32.630Z",
+  "data": [
+    {
+      "idi": "77605",
+      "title": "Interpelarea nr.16B/11-02-2025",
+      "description": "Clarificări cu privire la relațiilor mercenarilor români cu ministerele de forță",
+      "addressee": {
+        "idm": "45"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-11-01T22:00:00.000Z",
+        "presentation": "2025-11-01T22:00:00.000Z",
+        "communication": "2025-11-01T22:00:00.000Z",
+        "responseDue": "2025-04-02T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i16B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77605&idl=1",
+      "registrationId": "16B9425766",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "9425",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r16B.pdf"
+        },
+        {
+          "registrationId": "766",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nAngel Tîlvăr\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r16B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78501",
+      "title": "Interpelarea nr.261B/08-04-2025",
+      "description": "Clarificări privind militarii din Ministerul Apărării Naționale și Ministerul Afacerilor Interne care au trecut în rezervă și au semnat contracte cu companii de securitate în străinătate",
+      "addressee": {
+        "idm": "45"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-08-03T21:00:00.000Z",
+        "presentation": "2025-08-03T21:00:00.000Z",
+        "communication": "2025-08-03T21:00:00.000Z",
+        "responseDue": "2025-02-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i261B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78501&idl=1",
+      "registrationId": "261B102012095",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "1020",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nAngel Tîlvăr\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r261B.pdf"
+        },
+        {
+          "registrationId": "12095",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r261B.pdf"
+        }
+      ]
+    }
+  ]
+}

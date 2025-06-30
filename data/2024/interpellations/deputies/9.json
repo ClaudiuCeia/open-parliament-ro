@@ -1,0 +1,56 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:26:31.378Z",
+  "data": [
+    {
+      "idi": "78364",
+      "title": "Întrebarea nr.693A/31-03-2025",
+      "description": "Măsuri avute în vedere pentru a fi reparată inechitatea care vizează persoanele ce au beneficiat de concediu pentru creșterea copilului în perioada 01.04.2001 - 01.01.2006",
+      "addressee": {
+        "idm": "9"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndoamnei\nSimona Bucura-Oprescu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-02-03T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i693A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78364&idl=1",
+      "registrationId": "693A2409",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "2409",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r693A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79416",
+      "title": "Întrebarea nr.1458A/17-06-2025",
+      "description": "Scuarurile rutiere construite pe tronsonul rutier DN1 Brașov-Sibiu",
+      "addressee": {
+        "idm": "9"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-09-06T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1458A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79416&idl=1",
+      "registrationId": "1458A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
+}

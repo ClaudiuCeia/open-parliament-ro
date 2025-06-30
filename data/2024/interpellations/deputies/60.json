@@ -1,0 +1,64 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:27:47.998Z",
+  "data": [
+    {
+      "idi": "78216",
+      "title": "Interpelarea nr.135B/25-03-2025",
+      "description": "Investigarea publicării ilegale a unui exit-poll în timpul alegerilor parlamentare din data de 1 decembrie 2024",
+      "addressee": {
+        "idm": "60"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i135B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78216&idl=1",
+      "registrationId": "135B11380",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "11380",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r135B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78450",
+      "title": "Interpelarea nr.210B/08-04-2025",
+      "description": "Investigarea faptelor ilegale din activitatea DGPCI, SRPCIV București si SRPCIV Ilfov în perioada 2023-17.03.2025",
+      "addressee": {
+        "idm": "60"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-08-03T21:00:00.000Z",
+        "presentation": "2025-08-03T21:00:00.000Z",
+        "communication": "2025-08-03T21:00:00.000Z",
+        "responseDue": "2025-02-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i210B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78450&idl=1",
+      "registrationId": "210B12088",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "12088",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r210B.pdf"
+        }
+      ]
+    }
+  ]
+}

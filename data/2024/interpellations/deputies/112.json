@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:29:32.478Z",
+  "data": [
+    {
+      "idi": "79198",
+      "title": "Întrebarea nr.1288A/03-06-2025",
+      "description": "Proiectul de renovare a bisericii fortificate din Altana/ Alzen, jud- Sibiu",
+      "addressee": {
+        "idm": "112"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-04-05T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1288A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79198&idl=1",
+      "registrationId": "1288A4857",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "4857",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1288A.pdf"
+        }
+      ]
+    }
+  ]
+}

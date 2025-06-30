@@ -1,0 +1,93 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:30:17.744Z",
+  "data": [
+    {
+      "idi": "77655",
+      "title": "Întrebarea nr.172A/12-02-2025",
+      "description": "Integrarea prin API între ARR și DRPCIV respectiv ARR și Direcția Rutieră",
+      "addressee": {
+        "idm": "138"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-12-01T22:00:00.000Z",
+        "presentation": "2025-12-01T22:00:00.000Z",
+        "communication": "2025-12-01T22:00:00.000Z",
+        "responseDue": "2025-05-02T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i172A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77655&idl=1",
+      "registrationId": "172A9423",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "9423",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r172A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77732",
+      "title": "Întrebarea nr.216A/18-02-2025",
+      "description": "Decontarea transportului studenților",
+      "addressee": {
+        "idm": "138"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-12-02T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i216A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77732&idl=1",
+      "registrationId": "216A8746",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "8746",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r216A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78116",
+      "title": "Întrebarea nr.527A/17-03-2025",
+      "description": "Stadiul proiectului de modificare RNTR-8 aprobat prin Ordinul Ministrului Transporturilor și Infrastructurii nr. 3850/2024 în conformitate cu art. II din HG 1534/2024 și procedura privind blocajul activității de inspecție tehnică prin raportare la setarea timpului minim de efectuare a inspecțiilor de 45 minute",
+      "addressee": {
+        "idm": "138"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-09-03T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i527A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78116&idl=1",
+      "registrationId": "527A9009",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "9009",
+          "date": "2025-09-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nSorin-Mihai Grindeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r527A.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:27:42.953Z",
+  "data": [
+    {
+      "idi": "78496",
+      "title": "Interpelarea nr.256B/08-04-2025",
+      "description": "Criza de personal medical și lipsa medicației în Spitalul Municipal Mangalia",
+      "addressee": {
+        "idm": "52"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": "2025-08-03T21:00:00.000Z",
+        "presentation": "2025-08-03T21:00:00.000Z",
+        "communication": "2025-08-03T21:00:00.000Z",
+        "responseDue": "2025-02-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i256B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78496&idl=1",
+      "registrationId": "256B",
+      "requestedResponseType": "în scris şi oral",
+      "answers": []
+    },
+    {
+      "idi": "78556",
+      "title": "Întrebarea nr.818A/10-04-2025",
+      "description": "Evaluarea eficienței medicamentelor generice pentru tratamentul insuficienței adrenale la copii și compararea acestora cu Hydrocortisone Roussel",
+      "addressee": {
+        "idm": "52"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": "2025-10-03T21:00:00.000Z",
+        "presentation": "2025-10-03T21:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-12-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i818A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78556&idl=1",
+      "registrationId": "818A7302",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "7302",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r818A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78557",
+      "title": "Întrebarea nr.819A/10-04-2025",
+      "description": "Solicitare privind reglementările în vigoare pentru tratamentele pacienților cu hiperplazie congenitală a glandelor suprarenale cu pierdere de sare",
+      "addressee": {
+        "idm": "52"
+      },
+      "recipient": "Ministerul Sănătăţii",
+      "dates": {
+        "registration": "2025-10-03T21:00:00.000Z",
+        "presentation": "2025-10-03T21:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-12-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i819A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78557&idl=1",
+      "registrationId": "819A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78918",
+      "title": "Interpelarea nr.359B/13-05-2025",
+      "description": "De ce România, o țară cu industrie, resurse și potențial strategic, a ajuns să-și plătească salariile și pensiile pe datorie",
+      "addressee": {
+        "idm": "52"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nBarna Tánczos\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-03-05T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i359B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78918&idl=1",
+      "registrationId": "359B160955",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "160955",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r359B.pdf"
+        }
+      ]
+    }
+  ]
+}

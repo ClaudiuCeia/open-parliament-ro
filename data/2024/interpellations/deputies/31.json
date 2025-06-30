@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:27:18.823Z",
+  "data": [
+    {
+      "idi": "78331",
+      "title": "Întrebarea nr.660A/26-03-2025",
+      "description": "Clarificări privind aplicarea impozitului suplimentar de 0,5% stabilit prin Legea 290/2024",
+      "addressee": {
+        "idm": "31"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nBarna Tánczos\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i660A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78331&idl=1",
+      "registrationId": "660A160610",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "160610",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r660A.pdf"
+        }
+      ]
+    }
+  ]
+}

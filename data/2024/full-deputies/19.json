@@ -1,0 +1,36 @@
+{
+  "version": "0.0.3",
+  "lastUpdated": "2025-06-30T10:08:45.877Z",
+  "data": {
+    "idm": "19",
+    "name": "Florin-Ionuţ BARBU",
+    "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=19&cam=2",
+    "photoUrl": "https://www.cdep.ro/parlamentari/l2024/BarbuFlorinIonut.JPG",
+    "party": {
+      "idp": "40",
+      "abbrev": "PSD",
+      "name": "Partidul Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.fp?idp=40"
+    },
+    "group": {
+      "idg": "1",
+      "name": "Grupul parlamentar al Partidului Social Democrat",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=1"
+    },
+    "district": {
+      "cir": "29",
+      "name": "OLT",
+      "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
+    },
+    "activity": {
+      "Luări de cuvânt": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7180&leg=2024&idl=1"
+      },
+      "Propuneri legislative iniţiate": {
+        "count": 5,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=19&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      }
+    }
+  }
+}

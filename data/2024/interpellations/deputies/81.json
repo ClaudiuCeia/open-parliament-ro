@@ -1,0 +1,1037 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:28:29.980Z",
+  "data": [
+    {
+      "idi": "77463",
+      "title": "Întrebarea nr.2A/13-01-2025",
+      "description": "Solicitare de informații privind dinamica unor cheltuieli publice - decontarea sumelor reprezentând indemnizații de concedii medicale către angajatori",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Casa Naţională a Asigurărilor de Sănătate",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-01T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77463&idl=1",
+      "registrationId": "2A363",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "363",
+          "date": "2025-03-03T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Casa Naţională a Asigurărilor de Sănătate",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r2A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77465",
+      "title": "Întrebarea nr.4A/13-01-2025",
+      "description": "Solicitare de informații privind pensionarea în sistemul de justiție și performanțele unor parchete",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul  Justiției\nîn atenţia:\ndomnului\nRadu Marinescu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-01T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i4A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77465&idl=1",
+      "registrationId": "4A3059",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3059",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul  Justiției",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r4A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77482",
+      "title": "Întrebarea nr.21A/20-01-2025",
+      "description": "Clarificări privind unele prevederi din Regulamentul-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației nr.5.726/2024",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i21A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77482&idl=1",
+      "registrationId": "21A8344",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "8344",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r21A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77516",
+      "title": "Întrebarea nr.54A/28-01-2025",
+      "description": "Clarificări privind finanțarea, în anul 2025, a proiectelor de investiții derulate în cadrul Programului naţional de investiţii \"Anghel Saligny\"",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i54A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77516&idl=1",
+      "registrationId": "54A33162",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "33162",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nIoan Cristian Haiduc\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r54A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77551",
+      "title": "Întrebarea nr.89A/03-02-2025",
+      "description": "Clarificări privind creșterea nejustificată a tarifelor RCA în ultimii 10 ani. Ineficacitatea plafonării tarifelor",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Autoritatea de Supraveghere Financiară\nîn atenţia:\ndomnului\nAlexandru Petrescu\n- Presedinte",
+      "dates": {
+        "registration": "2025-03-01T22:00:00.000Z",
+        "presentation": "2025-03-01T22:00:00.000Z",
+        "communication": "2025-05-01T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i89A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77551&idl=1",
+      "registrationId": "89A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "77571",
+      "title": "Întrebarea nr.109A/04-02-2025",
+      "description": "Soluții privind reabilitarea/modernizarea trecere la nivel cu calea ferată – DJ193B – la Km 0+680",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": "2025-04-01T21:00:00.000Z",
+        "presentation": "2025-04-01T21:00:00.000Z",
+        "communication": "2025-05-01T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i109A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77571&idl=1",
+      "registrationId": "109A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "77631",
+      "title": "Întrebarea nr.148A/11-02-2025",
+      "description": "Instituirea unor mecanisme pentru susținerea procesatorilor care-și desfășoară activitatea în România",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": "2025-11-01T22:00:00.000Z",
+        "presentation": "2025-11-01T22:00:00.000Z",
+        "communication": "2025-12-01T22:00:00.000Z",
+        "responseDue": "2025-05-02T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i148A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77631&idl=1",
+      "registrationId": "148A266039",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "266039",
+          "date": "2025-04-02T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r148A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77641",
+      "title": "Întrebarea nr.158A/12-02-2025",
+      "description": "Necesitatea promovării, în regim de urgență, a unor modificări legislative pentru eliminarea discriminărilor salariale la nivelul unor instanțe – personalul auxiliar de specialitate din cadrul Judecătoriei Satu Mare",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul  Justiției\nîn atenţia:\ndomnului\nRadu Marinescu\n- Ministru",
+      "dates": {
+        "registration": "2025-12-01T22:00:00.000Z",
+        "presentation": "2025-12-01T22:00:00.000Z",
+        "communication": "2025-12-01T22:00:00.000Z",
+        "responseDue": "2025-05-02T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i158A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77641&idl=1",
+      "registrationId": "158A4",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "4",
+          "date": "2025-10-02T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r158A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77687",
+      "title": "Întrebarea nr.204A/17-02-2025",
+      "description": "Numărul avizelor și autorizațiilor de mediu eliberate în ultimii 5 ani de către Agenția Națională pentru Protecția Mediului și agențiile județene pentru construirea sau reabilitarea unor capacități energetice",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndomnului\nMircea Fechet\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-12-02T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i204A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77687&idl=1",
+      "registrationId": "204A7911",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "7911",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nMircea Fechet\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r204A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77775",
+      "title": "Întrebarea nr.259A/24-02-2025",
+      "description": "Investigarea modului în care un furnizor de energie electrică din județul Satu Mare emite facturi supraestimate, neconforme cu realitatea",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i259A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77775&idl=1",
+      "registrationId": "259A333931930",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "33393",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională de Reglementare în domeniul Energiei",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r259A.pdf"
+        },
+        {
+          "registrationId": "1930",
+          "date": "2025-03-03T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională pentru Protecţia Consumatorului",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r259A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77841",
+      "title": "Întrebarea nr.325A/03-03-2025",
+      "description": "Solicitare de informații privind capacităţile naționale de producţie şi fabricare a pulberilor şi explozivilor",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nAngel Tîlvăr\n- Ministru",
+      "dates": {
+        "registration": "2025-03-02T22:00:00.000Z",
+        "presentation": "2025-03-02T22:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i325A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77841&idl=1",
+      "registrationId": "325A557",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "557",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nAngel Tîlvăr\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r325A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77842",
+      "title": "Întrebarea nr.326A/03-03-2025",
+      "description": "Solicitare de informații privind capacităţile naționale de producţie şi fabricare a pulberilor şi explozivilor",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": "2025-03-02T22:00:00.000Z",
+        "presentation": "2025-03-02T22:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i326A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77842&idl=1",
+      "registrationId": "326A3379",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3379",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nBogdan-Gruia Ivan\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r326A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "77952",
+      "title": "Întrebarea nr.363A/05-03-2025",
+      "description": "Solicitare de informații privind numărul de accidente rutiere în care au fost implicate autospeciale ale serviciilor de ambulanță (2022-2024)",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i363A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=77952&idl=1",
+      "registrationId": "363A10654",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "10654",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r363A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78039",
+      "title": "Întrebarea nr.450A/10-03-2025",
+      "description": "Instituirea, de urgență, a interdicției de import pentru animale și produsele de origine animală din Ungaria – febra aftoasă",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-10-02T21:00:00.000Z",
+        "presentation": "2025-10-02T21:00:00.000Z",
+        "communication": "2025-12-02T22:00:00.000Z",
+        "responseDue": "2025-02-03T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i450A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78039&idl=1",
+      "registrationId": "450A2660986644",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "266098",
+          "date": "2025-07-03T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r450A.pdf"
+        },
+        {
+          "registrationId": "6644",
+          "date": "2025-09-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională Sanitar Veterinară şi Pentru Siguranţa Alimentelor",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r450A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78332",
+      "title": "Întrebarea nr.661A/26-03-2025",
+      "description": "Precizări privind înzestrarea Armatei Române cu ”Autovehicule tactice blindate de tip ușor” – ATBTU.",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nAngel Tîlvăr\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i661A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78332&idl=1",
+      "registrationId": "661A894",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "894",
+          "date": "2025-07-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nAngel Tîlvăr\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r661A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78389",
+      "title": "Întrebarea nr.718A/01-04-2025",
+      "description": "Soluții legislative pentru eliminarea inechităților din sistemul pensiilor militare de stat",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-01-03T22:00:00.000Z",
+        "presentation": "2025-01-03T22:00:00.000Z",
+        "communication": "2025-02-03T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i718A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78389&idl=1",
+      "registrationId": "718A8792454",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "879",
+          "date": "2025-07-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nAngel Tîlvăr\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r718A.pdf"
+        },
+        {
+          "registrationId": "2454",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r718A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78411",
+      "title": "Întrebarea nr.740A/02-04-2025",
+      "description": "Instituirea, de urgență, a interdicției de import pentru lapte și produse lactate din Ungaria – extinderea focarelor de febra aftoasă.",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-02-03T22:00:00.000Z",
+        "presentation": "2025-02-03T22:00:00.000Z",
+        "communication": "2025-09-03T21:00:00.000Z",
+        "responseDue": "2025-05-04T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i740A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78411&idl=1",
+      "registrationId": "740A2661977799",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "266197",
+          "date": "2025-09-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r740A.pdf"
+        },
+        {
+          "registrationId": "7799",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională Sanitar Veterinară şi Pentru Siguranţa Alimentelor",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r740A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78444",
+      "title": "Întrebarea nr.773A/07-04-2025",
+      "description": "Solicitare de informații cu privire la efectele OUG nr.9/2025 asupra personalului medical și auxiliar din unitățile sanitare din județul Satu Mare",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": "2025-07-03T21:00:00.000Z",
+        "presentation": "2025-07-03T21:00:00.000Z",
+        "communication": "2025-09-03T21:00:00.000Z",
+        "responseDue": "2025-05-04T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i773A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78444&idl=1",
+      "registrationId": "773A6520",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "6520",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r773A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78445",
+      "title": "Întrebarea nr.774A/07-04-2025",
+      "description": "Solicitare de informații privind datoria publică locală a unității administrativ-teritoriale Consiliul Județean Satu Mare",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nBarna Tánczos\n- Ministru",
+      "dates": {
+        "registration": "2025-07-03T21:00:00.000Z",
+        "presentation": "2025-07-03T21:00:00.000Z",
+        "communication": "2025-09-03T21:00:00.000Z",
+        "responseDue": "2025-05-04T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i774A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78445&idl=1",
+      "registrationId": "774A160730",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "160730",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r774A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78589",
+      "title": "Întrebarea nr.851A/14-04-2025",
+      "description": "Măsuri de sprijin pentru fermierii români afectați de temperaturile scăzute și înghețul târziu din primăvara anului 2025 – pomicultura",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-12-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i851A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78589&idl=1",
+      "registrationId": "851A266209",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "266209",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r851A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78590",
+      "title": "Întrebarea nr.852A/14-04-2025",
+      "description": "Solicitare de informații privind zonele defavorizate din România și din județul Satu Mare",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-12-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i852A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78590&idl=1",
+      "registrationId": "852A102959",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "102959",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r852A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78645",
+      "title": "Întrebarea nr.907A/22-04-2025",
+      "description": "Solicitare de informații privind operatorii economici cu capital majoritar sau integral de stat din industria națională de apărare",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i907A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78645&idl=1",
+      "registrationId": "907A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78772",
+      "title": "Întrebarea nr.979A/28-04-2025",
+      "description": "Termenul privind legalitatea utilizării medicamentelor de uz uman",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i979A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78772&idl=1",
+      "registrationId": "979A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78825",
+      "title": "Întrebarea nr.1030A/06-05-2025",
+      "description": "Solicitare de informații cu privire la gradul de acoperire cu polițe RCA a parcului auto național și originile asigurătorilor",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Autoritatea de Supraveghere Financiară",
+      "dates": {
+        "registration": "2025-06-04T21:00:00.000Z",
+        "presentation": "2025-06-04T21:00:00.000Z",
+        "communication": "2025-07-04T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1030A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78825&idl=1",
+      "registrationId": "1030A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78826",
+      "title": "Întrebarea nr.1031A/06-05-2025",
+      "description": "Clarificări privind suspendarea activității Sistemului Național Antigrindină și de Creștere a Precipitațiilor în anul 2025.",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": "2025-06-04T21:00:00.000Z",
+        "presentation": "2025-06-04T21:00:00.000Z",
+        "communication": "2025-07-04T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1031A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78826&idl=1",
+      "registrationId": "1031A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78827",
+      "title": "Întrebarea nr.1032A/06-05-2025",
+      "description": "Solicitare de informații privind numărul de testele efectuate preliminar cu aparatul DrugTest confirmate prin analiza mostrelor biologice de către INML",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-06-04T21:00:00.000Z",
+        "presentation": "2025-06-04T21:00:00.000Z",
+        "communication": "2025-07-04T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1032A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78827&idl=1",
+      "registrationId": "1032A13226",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "13226",
+          "date": "2025-03-05T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1032A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78883",
+      "title": "Întrebarea nr.1088A/12-05-2025",
+      "description": "Solicitare de informații privind clădirile istorice din județul Satu Mare",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndoamnei\nNatalia-Elena Intotero\n- Ministru",
+      "dates": {
+        "registration": "2025-12-04T22:00:00.000Z",
+        "presentation": "2025-12-04T22:00:00.000Z",
+        "communication": "2025-12-04T22:00:00.000Z",
+        "responseDue": "2025-02-05T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1088A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78883&idl=1",
+      "registrationId": "1088A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78958",
+      "title": "Întrebarea nr.1113A/13-05-2025",
+      "description": "Solicitare de informații cu privire la activitatea Institutului de Medicină Legală Cluj-Napoca",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-04-05T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1113A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78958&idl=1",
+      "registrationId": "1113A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "78959",
+      "title": "Întrebarea nr.1114A/13-05-2025",
+      "description": "Clarificări privind compatibilitatea unor membri ai comisiilor de concurs pentru ocuparea posturilor vacante de medic specialist",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-04-05T21:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1114A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78959&idl=1",
+      "registrationId": "1114A8016",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "8016",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Agenţia Naţională de Integritate",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1114A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78997",
+      "title": "Întrebarea nr.1152A/20-05-2025",
+      "description": "Precizări privind organizarea concursurilor pentru funcții de conducere la nivelul Institutului Național de Medicină Legală",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-12-05T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1152A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78997&idl=1",
+      "registrationId": "1152A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79034",
+      "title": "Întrebarea nr.1188A/26-05-2025",
+      "description": "Precizări privind legalitatea organizării unor proceduri de transfer la cerere/detașare în cadrul Direcției pentru Agricultură Satu Mare",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1188A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79034&idl=1",
+      "registrationId": "1188A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79035",
+      "title": "Întrebarea nr.1189A/26-05-2025",
+      "description": "Solicitare de informații privind prezența la cursuri de zi a unor studenți",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1189A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79035&idl=1",
+      "registrationId": "1189A10250",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "10250",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1189A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79117",
+      "title": "Întrebarea nr.1269A/02-06-2025",
+      "description": "Necesitatea actualizării permanente a paginilor electronice – Agenția de Dezvoltarea Regională N-V",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nMarcel-Ioan Boloş\n- Ministru",
+      "dates": {
+        "registration": "2025-02-05T22:00:00.000Z",
+        "presentation": "2025-02-05T22:00:00.000Z",
+        "communication": "2025-04-05T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1269A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79117&idl=1",
+      "registrationId": "1269A3812",
+      "requestedResponseType": "în scris",
+      "answers": [
+        {
+          "registrationId": "3812",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nMarcel-Ioan Boloş\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1269A.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "79253",
+      "title": "Întrebarea nr.1343A/04-06-2025",
+      "description": "Măsuri pentru accelerarea unor cauze de interes public major",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul  Justiției\nîn atenţia:\ndomnului\nRadu Marinescu\n- Ministru",
+      "dates": {
+        "registration": "2025-04-05T21:00:00.000Z",
+        "presentation": "2025-04-05T21:00:00.000Z",
+        "communication": "2025-04-05T21:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1343A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79253&idl=1",
+      "registrationId": "1343A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79313",
+      "title": "Întrebarea nr.1403A/11-06-2025",
+      "description": "Solicitare de informații privind unele cheltuieli efectuate de Ministerul Afacerilor Externe pentru personalul care deservește secțiile consulare și misiunile diplomatice ale României în străinătate",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
+      "dates": {
+        "registration": "2025-11-05T22:00:00.000Z",
+        "presentation": "2025-11-05T22:00:00.000Z",
+        "communication": "2025-11-05T22:00:00.000Z",
+        "responseDue": "2025-02-06T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1403A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79313&idl=1",
+      "registrationId": "1403A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79314",
+      "title": "Întrebarea nr.1404A/11-06-2025",
+      "description": "Aviz de demolare pentru monumentul istoric Sinagoga din Satu Mare, înscris în lista monumentelor SM-II-B-0-5250",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndoamnei\nNatalia-Elena Intotero\n- Ministru",
+      "dates": {
+        "registration": "2025-11-05T22:00:00.000Z",
+        "presentation": "2025-11-05T22:00:00.000Z",
+        "communication": "2025-11-05T22:00:00.000Z",
+        "responseDue": "2025-02-06T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1404A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79314&idl=1",
+      "registrationId": "1404A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79476",
+      "title": "Întrebarea nr.1518A/19-06-2025",
+      "description": "Solicitare de informații privind programele cu finanțare nerambursabilă derulate de AFIR",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1518A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79476&idl=1",
+      "registrationId": "1518A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79477",
+      "title": "Întrebarea nr.1519A/19-06-2025",
+      "description": "Măsuri pentru creștea siguranței rutiere în interiorul localităților",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Afacerilor Interne",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1519A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79477&idl=1",
+      "registrationId": "1519A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79478",
+      "title": "Întrebarea nr.1520A/19-06-2025",
+      "description": "Clarificări privind emiterea extraselor de carte funciară – funcționarea aplicației My Eterra",
+      "addressee": {
+        "idm": "81"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1520A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79478&idl=1",
+      "registrationId": "1520A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
+}

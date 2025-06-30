@@ -1,0 +1,100 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:27:52.943Z",
+  "data": [
+    {
+      "idi": "78253",
+      "title": "Interpelarea nr.172B/25-03-2025",
+      "description": "Fenomenul adicțiilor",
+      "addressee": {
+        "idm": "62"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i172B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78253&idl=1",
+      "registrationId": "172B5741-",
+      "requestedResponseType": "în scris şi oral",
+      "answers": [
+        {
+          "registrationId": "5741",
+          "date": "2025-09-04T21:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nHoratiu - Remus Moldovan\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r172B.pdf"
+        },
+        {
+          "registrationId": "-",
+          "date": null,
+          "responseType": "oral\n\nconsultaţi stenograma sedinţei camerei deputaţilor din 26.05.2025",
+          "author": "Ministerul Sănătăţii",
+          "textUrl": ""
+        }
+      ]
+    },
+    {
+      "idi": "78254",
+      "title": "Interpelarea nr.173B/25-03-2025",
+      "description": "O.U.G. 157/2022",
+      "addressee": {
+        "idm": "62"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i173B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78254&idl=1",
+      "registrationId": "173B266148",
+      "requestedResponseType": "în scris şi oral",
+      "answers": [
+        {
+          "registrationId": "266148",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r173B.pdf"
+        }
+      ]
+    },
+    {
+      "idi": "78255",
+      "title": "Interpelarea nr.174B/25-03-2025",
+      "description": "Programul de susținere a crescătorilor de suine pentru activitatea de reproducție",
+      "addressee": {
+        "idm": "62"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i174B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78255&idl=1",
+      "registrationId": "174B266149",
+      "requestedResponseType": "în scris şi oral",
+      "answers": [
+        {
+          "registrationId": "266149",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r174B.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T18:26:31.877Z",
+  "data": [
+    {
+      "idi": "78497",
+      "title": "Interpelarea nr.257B/08-04-2025",
+      "description": "Pierderea investiției Bosch și riscul colapsului investițional în România",
+      "addressee": {
+        "idm": "10"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "dates": {
+        "registration": "2025-08-03T21:00:00.000Z",
+        "presentation": "2025-08-03T21:00:00.000Z",
+        "communication": "2025-08-03T21:00:00.000Z",
+        "responseDue": "2025-02-04T22:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i257B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=78497&idl=1",
+      "registrationId": "257B5401",
+      "requestedResponseType": "în scris şi oral",
+      "answers": [
+        {
+          "registrationId": "5401",
+          "date": "2025-03-05T22:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nBogdan-Gruia Ivan\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r257B.pdf"
+        }
+      ]
+    }
+  ]
+}

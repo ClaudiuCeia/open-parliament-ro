@@ -1,0 +1,110 @@
+{
+  "version": "0.0.1",
+  "lastUpdated": "2025-06-28T14:17:42.578Z",
+  "data": {
+    "idm": "232",
+    "idv": "7492",
+    "speeches": [
+      {
+        "ids": "8900",
+        "idv": "7492",
+        "idm": "232",
+        "date": "2025-06-03T21:00:00.000Z",
+        "title": "Sedinta Camerei Deputatilor din 4 iunie      2025",
+        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8900&idl=1",
+        "transcripts": [
+          {
+            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=6&idl=1",
+            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=6&sir=&sep=and&idv=7492&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+            "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 27/2025 pentru aprobarea Cadrului de competenţe digitale pentru cetăţenii României (PL-x 147/2025) (rămas pentru votul final)."
+          }
+        ]
+      },
+      {
+        "ids": "8887",
+        "idv": "7492",
+        "idm": "232",
+        "date": "2025-04-21T21:00:00.000Z",
+        "title": "Sedinta Camerei Deputatilor din 22 aprilie    2025",
+        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8887&idl=1",
+        "transcripts": [
+          {
+            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8887&idm=6&idl=1",
+            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8887&idm=6&sir=&sep=and&idv=7492&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+            "description": "Dezbateri asupra Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 9/2025 pentru modificarea Ordonanţei Guvernului nr. 124/1998 privind organizarea şi funcţionarea cabinetelor medicale (PL-x 76/2025)."
+          }
+        ]
+      },
+      {
+        "ids": "8885",
+        "idv": "7492",
+        "idm": "232",
+        "date": "2025-04-13T21:00:00.000Z",
+        "title": "Sedinta Camerei Deputatilor din 14 aprilie    2025",
+        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8885&idl=1",
+        "transcripts": [
+          {
+            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8885&idm=7&idl=1",
+            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8885&idm=7&sir=&sep=and&idv=7492&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+            "description": "Dezbaterea Propunerii legislative pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii (Pl-x 258/2019) (rămasă pentru votul final)."
+          }
+        ]
+      },
+      {
+        "ids": "8877",
+        "idv": "7492",
+        "idm": "232",
+        "date": "2025-03-25T22:00:00.000Z",
+        "title": "Sedinta Camerei Deputatilor din 26 martie     2025",
+        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8877&idl=1",
+        "transcripts": [
+          {
+            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1&idl=1",
+            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1&sir=&sep=and&idv=7492&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+          },
+          {
+            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1,021&idl=1",
+            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1,021&sir=&sep=and&idv=7492&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+            "description": "Octavian Oprea - declaraţie politică intitulată \"IMM-urile româneşti - fundamentul unei economii puternice şi moderne\";"
+          }
+        ]
+      },
+      {
+        "ids": "8868",
+        "idv": "7492",
+        "idm": "232",
+        "date": "2025-03-11T22:00:00.000Z",
+        "title": "Sedinta Camerei Deputatilor din 12 martie     2025",
+        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8868&idl=1",
+        "transcripts": [
+          {
+            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&idl=1",
+            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&sir=&sep=and&idv=7492&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+            "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+          },
+          {
+            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,012&idl=1",
+            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,012&sir=&sep=and&idv=7492&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+            "description": "Octavian Oprea - declaraţie politică intitulată \"Viitorul României va fi digital sau nu va exista\";"
+          }
+        ]
+      },
+      {
+        "ids": "8840",
+        "idv": "7492",
+        "idm": "232",
+        "date": "2024-12-20T22:00:00.000Z",
+        "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
+        "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
+        "transcripts": [
+          {
+            "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
+            "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7492&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7492%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=23-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+            "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
+          }
+        ]
+      }
+    ]
+  }
+}
