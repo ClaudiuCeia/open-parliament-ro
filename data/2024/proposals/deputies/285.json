@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:29:09.750Z",
+  "lastUpdated": "2025-06-30T16:40:19.168Z",
   "data": [
     {
       "idp": "22301",
@@ -266,7 +266,7 @@
       "emergencyProcedure": false,
       "status": {
         "short": "lege 100/2025",
-        "long": "Lege 100/2025LEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
+        "long": "Lege 100/2025\nLEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
       },
       "initiators": [
         "34",
@@ -828,15 +828,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "192",
-        "9",
-        "213",
-        "285",
-        "139",
-        "166",
-        "206"
-      ],
+      "initiators": ["192", "9", "213", "285", "139", "166", "206"],
       "publicConsultation": "",
       "documents": [
         {
@@ -1108,65 +1100,65 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22448"
     },
     {
-      "idp": "22434",
-      "title": "Propunere legislativă privind instituirea Zilei Naţionale a Sportului Paralimpic",
+      "idp": "22367",
+      "title": "Propunere legislativă pentru modificarea art.6 alin.1 lit.s) din Legea vânătorii şi a protecţiei fondului cinegetic nr.407/2006",
       "registrationNumber": {
-        "bpi": "251/23-06-2025",
-        "deputyChamber": "BP251/23.06.2025"
+        "bpi": "169/22-05-2025",
+        "deputyChamber": "BP169/22.05.2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
       "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n407/2006",
       "emergencyProcedure": false,
       "status": {
         "short": "la senat",
         "long": "la Senat"
       },
       "initiators": [
-        "1",
-        "42",
-        "53",
-        "58",
-        "170",
-        "225",
-        "268",
-        "281",
-        "129",
-        "208",
+        "4",
         "12",
-        "48",
+        "26",
+        "45",
+        "73",
         "82",
+        "90",
+        "94",
+        "98",
+        "121",
+        "125",
+        "126",
+        "167",
+        "181",
+        "189",
+        "198",
+        "213",
+        "236",
+        "267",
+        "269",
         "285",
-        "313",
-        "28",
-        "85",
-        "87",
-        "111",
-        "159",
-        "160",
-        "161",
-        "166",
-        "176",
-        "180",
-        "195",
-        "206",
-        "217",
-        "291",
-        "316",
-        "329"
+        "287",
+        "293",
+        "299",
+        "314",
+        "317",
+        "328"
       ],
       "publicConsultation": "",
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/1/em251.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/in169.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/em169.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/1/pl251.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/pl169.pdf",
           "title": "Forma iniţiatorului"
         }
       ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22434"
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22367"
     },
     {
       "idp": "22366",
@@ -1238,65 +1230,65 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22366"
     },
     {
-      "idp": "22367",
-      "title": "Propunere legislativă pentru modificarea art.6 alin.1 lit.s) din Legea vânătorii şi a protecţiei fondului cinegetic nr.407/2006",
+      "idp": "22434",
+      "title": "Propunere legislativă privind instituirea Zilei Naţionale a Sportului Paralimpic",
       "registrationNumber": {
-        "bpi": "169/22-05-2025",
-        "deputyChamber": "BP169/22.05.2025"
+        "bpi": "251/23-06-2025",
+        "deputyChamber": "BP251/23.06.2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
       "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n407/2006",
+      "type": "Propunere legislativa",
       "emergencyProcedure": false,
       "status": {
         "short": "la senat",
         "long": "la Senat"
       },
       "initiators": [
-        "4",
+        "1",
+        "42",
+        "53",
+        "58",
+        "170",
+        "225",
+        "268",
+        "281",
+        "129",
+        "208",
         "12",
-        "26",
-        "45",
-        "73",
+        "48",
         "82",
-        "90",
-        "94",
-        "98",
-        "121",
-        "125",
-        "126",
-        "167",
-        "181",
-        "189",
-        "198",
-        "213",
-        "236",
-        "267",
-        "269",
         "285",
-        "287",
-        "293",
-        "299",
-        "314",
-        "317",
-        "328"
+        "313",
+        "28",
+        "85",
+        "87",
+        "111",
+        "159",
+        "160",
+        "161",
+        "166",
+        "176",
+        "180",
+        "195",
+        "206",
+        "217",
+        "291",
+        "316",
+        "329"
       ],
       "publicConsultation": "",
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/in169.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/em169.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/1/em251.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/pl169.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/1/pl251.pdf",
           "title": "Forma iniţiatorului"
         }
       ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22367"
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22434"
     }
   ]
 }

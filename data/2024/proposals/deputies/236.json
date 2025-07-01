@@ -819,16 +819,7 @@
         "short": "aviz/punct de vederesolicitat",
         "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
       },
-      "initiators": [
-        "29",
-        "45",
-        "125",
-        "181",
-        "213",
-        "236",
-        "267",
-        "328"
-      ],
+      "initiators": ["29", "45", "125", "181", "213", "236", "267", "328"],
       "publicConsultation": {
         "dueDate": "2025-07-29T00:00:00.000Z",
         "count": 0
@@ -1045,16 +1036,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "4",
-        "29",
-        "73",
-        "90",
-        "121",
-        "236",
-        "317",
-        "328"
-      ],
+      "initiators": ["4", "29", "73", "90", "121", "236", "317", "328"],
       "publicConsultation": "",
       "documents": [
         {

@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:30:24.582Z",
+  "lastUpdated": "2025-06-30T16:41:24.747Z",
   "data": [
     {
       "idp": "22265",
@@ -16,7 +16,7 @@
       "emergencyProcedure": false,
       "status": {
         "short": "lege 60/2025",
-        "long": "Lege 60/2025LEGE privind instituirea zilei de 15 iunie ca Ziua Banatului Montan"
+        "long": "Lege 60/2025\nLEGE privind instituirea zilei de 15 iunie ca Ziua Banatului Montan"
       },
       "initiators": [
         "102",
@@ -79,9 +79,7 @@
         "short": "la promulgare",
         "long": "lege trimisa la promulgare"
       },
-      "initiators": [
-        "322"
-      ],
+      "initiators": ["322"],
       "publicConsultation": "",
       "documents": [
         {
@@ -113,11 +111,9 @@
       "emergencyProcedure": false,
       "status": {
         "short": "la promulgare",
-        "long": "lege trimisa la promulgare\ntitlu votat:\nLegea pentru modificarea şi completarea Ordonanţei de urgenţă nr.31/2002 privind interzicerea organizaţiilor, simbolurilor şi faptelor cu caracter fascist, legionar, rasist sau xenofob şi a promovării cultului persoanelor vinovate de săvârşirea unor infracţiuni de genocid contra umanităţii şi de crime de război, precum şi pentru modificarea Legii nr.157/2018 privind unele măsuri pentru prevenirea şi combaterea antisemitismului"
+        "long": "lege trimisa la promulgare\n\ntitlu votat:\n\nLegea pentru modificarea şi completarea Ordonanţei de urgenţă nr.31/2002 privind interzicerea organizaţiilor, simbolurilor şi faptelor cu caracter fascist, legionar, rasist sau xenofob şi a promovării cultului persoanelor vinovate de săvârşirea unor infracţiuni de genocid contra umanităţii şi de crime de război, precum şi pentru modificarea Legii nr.157/2018 privind unele măsuri pentru prevenirea şi combaterea antisemitismului"
       },
-      "initiators": [
-        "322"
-      ],
+      "initiators": ["322"],
       "publicConsultation": "",
       "documents": [
         {
@@ -228,9 +224,7 @@
         "short": "la secretarulgeneral",
         "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
       },
-      "initiators": [
-        "322"
-      ],
+      "initiators": ["322"],
       "publicConsultation": "",
       "documents": [
         {

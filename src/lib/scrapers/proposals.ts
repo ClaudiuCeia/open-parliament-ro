@@ -171,11 +171,12 @@ export const getDeputyLegislativeProposals = async (
       .trim()
       .toLowerCase()
       .includes("da");
-    const statusLong = $$("td:contains('Stadiu:') + td")
-      .html()
-      ?.replace(/<br\s*\/?>/gi, '\n')
-      ?.replace(/<[^>]*>/g, '')
-      ?.trim() || "";
+    const statusLong =
+      $$("td:contains('Stadiu:') + td")
+        .html()
+        ?.replace(/<br\s*\/?>/gi, "\n")
+        ?.replace(/<[^>]*>/g, "")
+        ?.trim() || "";
 
     const initiatorsContainer = $$(
       "td:contains('Initiator: ') + td table a",

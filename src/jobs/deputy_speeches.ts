@@ -1,5 +1,6 @@
 import { readCache } from "../lib/cache";
 import { isStale } from "../lib/isStale";
+import { logger } from "../lib/log";
 import type { ScraperJob } from "../lib/ScraperJob";
 import { type FullDeputy, getDeputyIds } from "../lib/scrapers/deputies";
 import { getSpeeches, type SpeechEntry } from "../lib/scrapers/speeches";
@@ -14,9 +15,9 @@ const DEPUTIES_DETAIL_CACHE_PATH = "./data/2024/full-deputies";
 
 const job: ScraperJob<SpeechEntry[], { idm: string; idv: string }> = {
   isAtomic: false,
-  name: "Deputy Speeches",
   version: SPEECH_VERSION,
   listItems: async () => {
+    const log = logger.child({ module: "deputy_speeches" });
     const deputyIds = await getDeputyIds();
     const result: {
       idm: string;
@@ -29,22 +30,24 @@ const job: ScraperJob<SpeechEntry[], { idm: string; idv: string }> = {
       );
 
       if (!cached || !cached.data.activity) {
-        console.warn(`No cached activity found for deputy ${idm}. Skipping.`);
+        log.debug(`No cached activity found for deputy ${idm}. Skipping.`);
         continue;
       }
 
       // In practice, there should be a 1:1 relation between idv and idm
-      const idvs = Object.values(cached.data.activity)
-        .map(
-          (activity) =>
-            activity.url && new URL(activity.url).searchParams.get("idv"),
-        )
-        .filter((idv) => idv !== null && idv !== undefined);
+      const idvs = Array.from(
+        new Set(
+          Object.values(cached.data.activity)
+            .map(
+              (activity) =>
+                activity.url && new URL(activity.url).searchParams.get("idv"),
+            )
+            .filter((idv) => idv !== null && idv !== undefined),
+        ),
+      );
 
       if (idvs.length === 0) {
-        console.warn(
-          `No steno2015 activity found for deputy ${idm}. Skipping.`,
-        );
+        log.debug(`No steno2015 activity found for deputy ${idm}. Skipping.`);
         continue;
       }
 
@@ -61,6 +64,12 @@ const job: ScraperJob<SpeechEntry[], { idm: string; idv: string }> = {
   fetchItem: async ({ idv }) => getSpeeches(idv),
   getPath: (item) => `${SPEECH_CACHE_PATH}/${item.idm}.json`,
   isItemStale: isStale,
+  datapackage: {
+    name: "deputy-speeches",
+    title: "Deputy Speeches",
+    description:
+      "Parliamentary speeches and interventions made by each deputy during plenary sessions",
+  },
 };
 
 export default job;

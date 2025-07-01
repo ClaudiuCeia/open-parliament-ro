@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:28:52.526Z",
+  "lastUpdated": "2025-06-30T16:40:02.442Z",
   "data": [
     {
       "idp": "22264",
@@ -523,7 +523,7 @@
       "emergencyProcedure": false,
       "status": {
         "short": "la promulgare",
-        "long": "lege trimisa la promulgare\ntitlu votat:\nLegea privind instituirea anului 2026 ca „Anul Nadia Comăneci”"
+        "long": "lege trimisa la promulgare\n\ntitlu votat:\n\nLegea privind instituirea anului 2026 ca „Anul Nadia Comăneci”"
       },
       "initiators": [
         "1",
@@ -965,13 +965,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "19",
-        "64",
-        "130",
-        "168",
-        "275"
-      ],
+      "initiators": ["19", "64", "130", "168", "275"],
       "publicConsultation": "",
       "documents": [
         {

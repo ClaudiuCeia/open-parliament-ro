@@ -11,7 +11,6 @@ export const DEPUTIES_PROPOSALS_VERSION = "0.0.2";
 
 const job: ScraperJob<LegislativeProposal[], string> = {
   isAtomic: false,
-  name: "Deputy legislative proposals",
   version: DEPUTIES_PROPOSALS_VERSION,
   listItems: async () => {
     const ids = await getDeputyIds();
@@ -20,6 +19,12 @@ const job: ScraperJob<LegislativeProposal[], string> = {
   fetchItem: getDeputyLegislativeProposals,
   getPath: (idm) => `${DEPUTIES_PROPOSALS_CACHE_PATH}/${idm}.json`,
   isItemStale: isStale,
+  datapackage: {
+    name: "deputy-proposals",
+    title: "Deputy Legislative Proposals",
+    description:
+      "Legislative proposals initiated or co-initiated by each deputy, including proposal details, status, documents, and public consultation information",
+  },
 };
 
 export default job;

@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:29:31.763Z",
+  "lastUpdated": "2025-06-30T16:40:37.529Z",
   "data": [
     {
       "idp": "22233",
@@ -17,9 +17,7 @@
         "short": "retrasade catre initiator",
         "long": "procedura legislativa încetata prin retragere de catre initiator"
       },
-      "initiators": [
-        "297"
-      ],
+      "initiators": ["297"],
       "publicConsultation": {
         "dueDate": "2025-03-31T00:00:00.000Z",
         "count": 0
@@ -117,11 +115,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "118",
-        "272",
-        "297"
-      ],
+      "initiators": ["118", "272", "297"],
       "publicConsultation": {
         "dueDate": "2025-04-30T00:00:00.000Z",
         "count": 0
@@ -154,9 +148,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "297"
-      ],
+      "initiators": ["297"],
       "publicConsultation": "",
       "documents": [
         {
@@ -198,9 +190,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "297"
-      ],
+      "initiators": ["297"],
       "publicConsultation": "",
       "documents": [
         {
@@ -236,7 +226,7 @@
       "emergencyProcedure": false,
       "status": {
         "short": "lege 100/2025",
-        "long": "Lege 100/2025LEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
+        "long": "Lege 100/2025\nLEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
       },
       "initiators": [
         "34",
@@ -338,9 +328,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "297"
-      ],
+      "initiators": ["297"],
       "publicConsultation": "",
       "documents": [
         {
@@ -378,9 +366,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "297"
-      ],
+      "initiators": ["297"],
       "publicConsultation": "",
       "documents": [
         {
@@ -421,9 +407,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "297"
-      ],
+      "initiators": ["297"],
       "publicConsultation": "",
       "documents": [
         {

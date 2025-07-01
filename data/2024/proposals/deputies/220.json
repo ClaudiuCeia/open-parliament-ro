@@ -18,11 +18,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "213",
-        "220",
-        "313"
-      ],
+      "initiators": ["213", "220", "313"],
       "publicConsultation": "",
       "documents": [
         {

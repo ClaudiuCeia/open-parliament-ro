@@ -130,16 +130,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "12",
-        "90",
-        "121",
-        "125",
-        "172",
-        "189",
-        "317",
-        "328"
-      ],
+      "initiators": ["12", "90", "121", "125", "172", "189", "317", "328"],
       "publicConsultation": "",
       "documents": [
         {
@@ -1451,16 +1442,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "4",
-        "29",
-        "73",
-        "90",
-        "121",
-        "236",
-        "317",
-        "328"
-      ],
+      "initiators": ["4", "29", "73", "90", "121", "236", "317", "328"],
       "publicConsultation": "",
       "documents": [
         {

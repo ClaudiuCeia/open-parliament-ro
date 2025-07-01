@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:30:38.782Z",
+  "lastUpdated": "2025-06-30T16:41:36.521Z",
   "data": [
     {
       "idp": "22264",
@@ -407,7 +407,7 @@
       "emergencyProcedure": false,
       "status": {
         "short": "lege 100/2025",
-        "long": "Lege 100/2025LEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
+        "long": "Lege 100/2025\nLEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
       },
       "initiators": [
         "34",
@@ -1341,15 +1341,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "32",
-        "31",
-        "159",
-        "329",
-        "122",
-        "241",
-        "282"
-      ],
+      "initiators": ["32", "31", "159", "329", "122", "241", "282"],
       "publicConsultation": "",
       "documents": [
         {

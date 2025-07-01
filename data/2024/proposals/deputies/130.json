@@ -613,14 +613,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "18",
-        "64",
-        "130",
-        "168",
-        "274",
-        "326"
-      ],
+      "initiators": ["18", "64", "130", "168", "274", "326"],
       "publicConsultation": "",
       "documents": [
         {
@@ -653,11 +646,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "64",
-        "130",
-        "168"
-      ],
+      "initiators": ["64", "130", "168"],
       "publicConsultation": "",
       "documents": [
         {
@@ -752,13 +741,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "64",
-        "130",
-        "168",
-        "274",
-        "326"
-      ],
+      "initiators": ["64", "130", "168", "274", "326"],
       "publicConsultation": "",
       "documents": [
         {
@@ -791,13 +774,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "64",
-        "130",
-        "168",
-        "274",
-        "326"
-      ],
+      "initiators": ["64", "130", "168", "274", "326"],
       "publicConsultation": "",
       "documents": [
         {
@@ -884,11 +861,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "64",
-        "130",
-        "168"
-      ],
+      "initiators": ["64", "130", "168"],
       "publicConsultation": "",
       "documents": [
         {
@@ -921,13 +894,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "19",
-        "64",
-        "130",
-        "168",
-        "275"
-      ],
+      "initiators": ["19", "64", "130", "168", "275"],
       "publicConsultation": "",
       "documents": [
         {
@@ -1021,11 +988,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "64",
-        "130",
-        "168"
-      ],
+      "initiators": ["64", "130", "168"],
       "publicConsultation": "",
       "documents": [
         {

@@ -1003,13 +1003,7 @@
         "short": "raportdepus",
         "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
       },
-      "initiators": [
-        "254",
-        "9",
-        "295",
-        "87",
-        "233"
-      ],
+      "initiators": ["254", "9", "295", "87", "233"],
       "publicConsultation": "",
       "documents": [
         {
@@ -1086,13 +1080,7 @@
         "short": "raportdepus",
         "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
       },
-      "initiators": [
-        "186",
-        "254",
-        "9",
-        "166",
-        "112"
-      ],
+      "initiators": ["186", "254", "9", "166", "112"],
       "publicConsultation": "",
       "documents": [
         {

@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:28:36.694Z",
+  "lastUpdated": "2025-06-30T16:39:48.809Z",
   "data": [
     {
       "idp": "22264",
@@ -699,16 +699,7 @@
         "short": "aviz/punct de vederesolicitat",
         "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
       },
-      "initiators": [
-        "29",
-        "45",
-        "125",
-        "181",
-        "213",
-        "236",
-        "267",
-        "328"
-      ],
+      "initiators": ["29", "45", "125", "181", "213", "236", "267", "328"],
       "publicConsultation": {
         "dueDate": "2025-07-29T00:00:00.000Z",
         "count": 0

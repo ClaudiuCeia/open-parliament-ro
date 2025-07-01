@@ -9,6 +9,7 @@ Automated scraper for collecting data from the Romanian Parliament. Currently fo
 - Flexible CLI for running specific scrapers or all at once
 - Progress tracking for long-running jobs
 - Automated updates via GitHub Actions, no need for a dedicated server
+- Data packaging following [datapackage.org](https://datapackage.org) standards for better interoperability
 
 ## Installation
 
@@ -32,7 +33,7 @@ bun scrape --verbose --all
 bun scrape
 ```
 
-## Data Structure
+## Data structure
 
 All scraped data is stored in the `data/` directory organized by year:
 
@@ -47,13 +48,13 @@ data/
 │   └── proposals/                 # Deputy proposals
 ```
 
-## Automated Updates
+## Automated updates
 
 The scraper runs every 3 hours via GitHub Actions. Safe changes (additions and modifications) are committed directly to main, while potentially destructive changes (deletions) create pull requests for review. Since all data is stored in git, you can easily revert to any previous state if scrapers break due to website changes.
 
 ## Development
 
-### Project Structure
+### Project structure
 
 ```
 src/
@@ -73,7 +74,7 @@ src/
 4. Test thoroughly
 5. Submit a pull request
 
-### Adding New Scrapers
+### Adding new scrapers
 
 1. Create a new job file in `src/jobs/`
 2. Implement the `ScraperJob` interface
@@ -81,7 +82,7 @@ src/
 4. **Important**: If you change data formats, increment the scraper version number
 5. **Important**: If you scrape new data, ensure it is properly documented in the `README.md` and `DATA_LICENSE.md`
 
-## Usage Notes
+## Usage notes
 
 - The scraper includes delays and caching to be respectful to target websites
 - Always verify critical information from official sources
@@ -89,7 +90,7 @@ src/
 
 ## Roadmap
 
-### Essential Features for First Release Candidate
+### Essential features for first release candidate
 
 1. **Data completeness** - Include Senate data from [senat.ro](https://senat.ro)
 2. **Include votes** - Parliamentary voting records and outcomes
@@ -98,7 +99,7 @@ src/
 5. **Standardize data format** - Define JSON schemas and eliminate ID recycling issues (deputies currently get IDs 1..N that are recycled each election)
 6. **Parliamentary profile completeness** - Contact information, resumes, and other important biographical data
 
-### Out of Scope for First Release
+### Out of scope for first release
 
 1. **Data enrichment and cleanup** - Using LLMs or other AI tools for data enhancement
 2. **Standardizing complex resources** - Some resources, such as legislative proposals, have complex structures that are out of scope for the first release

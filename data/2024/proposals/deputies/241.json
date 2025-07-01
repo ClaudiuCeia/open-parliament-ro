@@ -460,9 +460,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "241"
-      ],
+      "initiators": ["241"],
       "publicConsultation": "",
       "documents": [
         {
@@ -495,15 +493,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "32",
-        "31",
-        "159",
-        "329",
-        "122",
-        "241",
-        "282"
-      ],
+      "initiators": ["32", "31", "159", "329", "122", "241", "282"],
       "publicConsultation": "",
       "documents": [
         {

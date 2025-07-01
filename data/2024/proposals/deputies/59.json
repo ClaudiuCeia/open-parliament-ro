@@ -18,11 +18,7 @@
         "short": "adoptata",
         "long": "adoptata de catre Camera Deputatilor"
       },
-      "initiators": [
-        "59",
-        "160",
-        "233"
-      ],
+      "initiators": ["59", "160", "233"],
       "publicConsultation": {
         "dueDate": "2025-04-15T00:00:00.000Z",
         "count": 126

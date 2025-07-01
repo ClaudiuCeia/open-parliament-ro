@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:28:46.386Z",
+  "lastUpdated": "2025-06-30T16:39:57.300Z",
   "data": [
     {
       "idp": "22274",
@@ -16,13 +16,9 @@
       "emergencyProcedure": true,
       "status": {
         "short": "la senat",
-        "long": "la Senat\ntitlu votat:\nLegea pentru modificarea Ordonanței de urgență a Guvernului nr.57/2019 privind Codul administrativ, precum şi pentru modificarea Legii nr.119/1996 cu privire Ia actele de stare civilă"
+        "long": "la Senat\n\ntitlu votat:\n\nLegea pentru modificarea Ordonanței de urgență a Guvernului nr.57/2019 privind Codul administrativ, precum şi pentru modificarea Legii nr.119/1996 cu privire Ia actele de stare civilă"
       },
-      "initiators": [
-        "9",
-        "271",
-        "273"
-      ],
+      "initiators": ["9", "271", "273"],
       "publicConsultation": {
         "dueDate": "2025-04-03T00:00:00.000Z",
         "count": 0
@@ -306,7 +302,7 @@
       "emergencyProcedure": false,
       "status": {
         "short": "lege 100/2025",
-        "long": "Lege 100/2025LEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
+        "long": "Lege 100/2025\nLEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
       },
       "initiators": [
         "34",
@@ -935,6 +931,106 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22296"
     },
     {
+      "idp": "22361",
+      "title": "Propunere legislativă pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr.407/2006",
+      "registrationNumber": {
+        "bpi": "163/20-05-2025",
+        "deputyChamber": "BP163/20.05.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n407/2006",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "56",
+        "57",
+        "66",
+        "84",
+        "92",
+        "182",
+        "208",
+        "232",
+        "234",
+        "249",
+        "271",
+        "273",
+        "295",
+        "311"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/3/in163.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/3/em163.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/3/pl163.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22361"
+    },
+    {
+      "idp": "22368",
+      "title": "Propunere legislativă privind protecţia minorilor sub 18 ani în faţa conţinutului nociv distribuit pe platformele online de tip very large online platforms (vlop)",
+      "registrationNumber": {
+        "bpi": "170/27-05-2025",
+        "deputyChamber": "BP170/27.05.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "9",
+        "30",
+        "49",
+        "57",
+        "81",
+        "84",
+        "110",
+        "143",
+        "182",
+        "205",
+        "208",
+        "214",
+        "232",
+        "244",
+        "271",
+        "283",
+        "311",
+        "320"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/70/0/in170.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/70/0/em170.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/70/0/pl170.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22368"
+    },
+    {
       "idp": "22362",
       "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.272/2004 privind protecţia şi promovarea drepturilor copilului",
       "registrationNumber": {
@@ -1025,58 +1121,6 @@
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22272"
-    },
-    {
-      "idp": "22368",
-      "title": "Propunere legislativă privind protecţia minorilor sub 18 ani în faţa conţinutului nociv distribuit pe platformele online de tip very large online platforms (vlop)",
-      "registrationNumber": {
-        "bpi": "170/27-05-2025",
-        "deputyChamber": "BP170/27.05.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "9",
-        "30",
-        "49",
-        "57",
-        "81",
-        "84",
-        "110",
-        "143",
-        "182",
-        "205",
-        "208",
-        "214",
-        "232",
-        "244",
-        "271",
-        "283",
-        "311",
-        "320"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/70/0/in170.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/70/0/em170.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/70/0/pl170.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22368"
     },
     {
       "idp": "22295",
@@ -1171,54 +1215,6 @@
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22426"
-    },
-    {
-      "idp": "22361",
-      "title": "Propunere legislativă pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr.407/2006",
-      "registrationNumber": {
-        "bpi": "163/20-05-2025",
-        "deputyChamber": "BP163/20.05.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n407/2006",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "56",
-        "57",
-        "66",
-        "84",
-        "92",
-        "182",
-        "208",
-        "232",
-        "234",
-        "249",
-        "271",
-        "273",
-        "295",
-        "311"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/3/in163.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/3/em163.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/3/pl163.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22361"
     }
   ]
 }

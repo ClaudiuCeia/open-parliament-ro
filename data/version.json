@@ -1,0 +1,13 @@
+{
+  "version": "0.1.1",
+  "lastUpdated": "2025-07-01T01:02:47.922Z",
+  "jobVersions": {
+    "deputies": "0.0.2",
+    "deputies_detail": "0.0.3",
+    "deputy_proposals": "0.0.2",
+    "deputy_interpellations": "0.0.1",
+    "deputy_motions": "0.0.1",
+    "deputy_speeches": "0.0.1"
+  },
+  "isInitialRelease": false
+}

@@ -2,20 +2,33 @@ import { isCacheValid, readCache, writeCache } from "./cache";
 import { logger } from "./log";
 import type { ScraperJob } from "./ScraperJob";
 
+export interface ScraperRunResult {
+  jobName: string;
+  processed: number;
+  skipped: number;
+  total: number;
+  wasModified: boolean;
+}
+
 export async function runScraper<T, ID>(
   job: ScraperJob<T, ID>,
   maxAgeMs: number = 24 * 60 * 60 * 1000,
-) {
-  const log = logger.child({ module: "runner", job: job.name });
-  log.info(`Starting scraper: ${job.name}`);
+): Promise<ScraperRunResult> {
+  const log = logger.child({ module: "runner", job: job.datapackage.name });
+  log.info(`Starting scraper: ${job.datapackage.name}`);
 
   if (job.isAtomic) {
-    // Single atomic
     const existing = await readCache(job.outputPath);
     if (isCacheValid(existing, job.version, maxAgeMs)) {
       log.debug(`Cache valid. Skipping.`);
-      log.info(`Completed scraper: ${job.name} (cached)`);
-      return;
+      log.info(`Completed scraper: ${job.datapackage.name} (cached)`);
+      return {
+        jobName: job.datapackage.name,
+        processed: 0,
+        skipped: 1,
+        total: 1,
+        wasModified: false,
+      };
     }
 
     const data = await job.fetchAll();
@@ -25,7 +38,15 @@ export async function runScraper<T, ID>(
       data,
     });
     log.info(`Wrote atomic data to ${job.outputPath}`);
-    log.info(`Completed scraper: ${job.name}`);
+    log.info(`Completed scraper: ${job.datapackage.name}`);
+
+    return {
+      jobName: job.datapackage.name,
+      processed: 1,
+      skipped: 0,
+      total: 1,
+      wasModified: true,
+    };
   } else {
     const ids = await job.listItems();
     let processed = 0;
@@ -70,7 +91,15 @@ export async function runScraper<T, ID>(
     }
 
     log.info(
-      `Completed scraper: ${job.name} (processed: ${processed}, cached: ${skipped})`,
+      `Completed scraper: ${job.datapackage.name} (processed: ${processed}, cached: ${skipped})`,
     );
+
+    return {
+      jobName: job.datapackage.name,
+      processed,
+      skipped,
+      total,
+      wasModified: processed > 0,
+    };
   }
 }

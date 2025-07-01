@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:28:32.264Z",
+  "lastUpdated": "2025-06-30T16:39:44.728Z",
   "data": [
     {
       "idp": "22262",
@@ -292,14 +292,7 @@
         "short": "aviz/punct de vederesolicitat",
         "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
       },
-      "initiators": [
-        "24",
-        "71",
-        "263",
-        "259",
-        "218",
-        "87"
-      ],
+      "initiators": ["24", "71", "263", "259", "218", "87"],
       "publicConsultation": {
         "dueDate": "2025-07-28T00:00:00.000Z",
         "count": 0
@@ -498,79 +491,54 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22450"
     },
     {
-      "idp": "22404",
-      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.192/2006 privind medierea şi organizarea profesiei de mediator şi pentru completarea Legii nr.51/1995 pentru organizarea şi exercitarea profesiei de avocat",
+      "idp": "22299",
+      "title": "Proiect de Hotărâre pentru modificarea Regulamentului Camerei Deputaţilor",
       "registrationNumber": {
-        "bpi": "213/11-06-2025",
-        "deputyChamber": "BP213/11.06.2025"
+        "bpi": "99/07-04-2025",
+        "deputyChamber": "BP99/07.04.2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa",
+      "decidingChamber": "Senatul",
+      "type": "Proiect de Lege",
       "emergencyProcedure": false,
       "status": {
-        "short": "la senat",
-        "long": "la Senat"
+        "short": "la comisii",
+        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
       "initiators": [
-        "103",
-        "246",
-        "280",
+        "3",
+        "5",
+        "20",
+        "27",
         "33",
+        "38",
+        "47",
         "60",
+        "78",
         "89",
-        "99",
-        "108",
-        "144",
-        "154",
-        "201",
+        "134",
+        "173",
+        "211",
         "215",
-        "235",
-        "262",
+        "258",
         "263",
-        "315",
         "321",
-        "325",
-        "50",
-        "67",
-        "75",
-        "101",
-        "128",
-        "152",
-        "148",
-        "175",
-        "218",
-        "231",
-        "237",
-        "304",
-        "312",
-        "319",
-        "323",
-        "55",
-        "65",
-        "77",
-        "132",
-        "183",
-        "229",
-        "250",
-        "257"
+        "278",
+        "297",
+        "67"
       ],
       "publicConsultation": "",
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/3/in213.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/3/em213.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/9/em99.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/3/pl213.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/9/phcf99.pdf",
           "title": "Forma iniţiatorului"
         }
       ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22404"
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22299"
     },
     {
       "idp": "22278",
@@ -663,54 +631,79 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22278"
     },
     {
-      "idp": "22299",
-      "title": "Proiect de Hotărâre pentru modificarea Regulamentului Camerei Deputaţilor",
+      "idp": "22404",
+      "title": "Propunere legislativă privind modificarea şi completarea Legii nr.192/2006 privind medierea şi organizarea profesiei de mediator şi pentru completarea Legii nr.51/1995 pentru organizarea şi exercitarea profesiei de avocat",
       "registrationNumber": {
-        "bpi": "99/07-04-2025",
-        "deputyChamber": "BP99/07.04.2025"
+        "bpi": "213/11-06-2025",
+        "deputyChamber": "BP213/11.06.2025"
       },
       "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Senatul",
-      "type": "Proiect de Lege",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa",
       "emergencyProcedure": false,
       "status": {
-        "short": "la comisii",
-        "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+        "short": "la senat",
+        "long": "la Senat"
       },
       "initiators": [
-        "3",
-        "5",
-        "20",
-        "27",
+        "103",
+        "246",
+        "280",
         "33",
-        "38",
-        "47",
         "60",
-        "78",
         "89",
-        "134",
-        "173",
-        "211",
+        "99",
+        "108",
+        "144",
+        "154",
+        "201",
         "215",
-        "258",
+        "235",
+        "262",
         "263",
+        "315",
         "321",
-        "278",
-        "297",
-        "67"
+        "325",
+        "50",
+        "67",
+        "75",
+        "101",
+        "128",
+        "152",
+        "148",
+        "175",
+        "218",
+        "231",
+        "237",
+        "304",
+        "312",
+        "319",
+        "323",
+        "55",
+        "65",
+        "77",
+        "132",
+        "183",
+        "229",
+        "250",
+        "257"
       ],
       "publicConsultation": "",
       "documents": [
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/9/em99.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/3/in213.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/3/em213.pdf",
           "title": "Expunerea de motive"
         },
         {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/9/phcf99.pdf",
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/3/pl213.pdf",
           "title": "Forma iniţiatorului"
         }
       ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22299"
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22404"
     }
   ]
 }

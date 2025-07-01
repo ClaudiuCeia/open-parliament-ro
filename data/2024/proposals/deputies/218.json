@@ -163,9 +163,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "218"
-      ],
+      "initiators": ["218"],
       "publicConsultation": "",
       "documents": [
         {
@@ -330,14 +328,7 @@
         "short": "aviz/punct de vederesolicitat",
         "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
       },
-      "initiators": [
-        "24",
-        "71",
-        "263",
-        "259",
-        "218",
-        "87"
-      ],
+      "initiators": ["24", "71", "263", "259", "218", "87"],
       "publicConsultation": {
         "dueDate": "2025-07-28T00:00:00.000Z",
         "count": 0

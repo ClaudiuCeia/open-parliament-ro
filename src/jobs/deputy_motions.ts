@@ -6,11 +6,16 @@ export const DEPUTY_MOTIONS_CACHE_PATH =
 export const DEPUTY_MOTIONS_VERSION = "0.0.1";
 
 const job: ScraperJob<Motion[], never> = {
-  name: "Deputy List",
   version: DEPUTY_MOTIONS_VERSION,
   isAtomic: true,
   outputPath: DEPUTY_MOTIONS_CACHE_PATH,
   fetchAll: getMotions,
+  datapackage: {
+    name: "deputy-motions",
+    title: "Deputy Motions",
+    description:
+      "Simple motions submitted by deputies during parliamentary sessions",
+  },
 };
 
 export default job;

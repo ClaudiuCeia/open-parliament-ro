@@ -18,9 +18,7 @@
         "short": "la promulgare",
         "long": "lege trimisa la promulgare"
       },
-      "initiators": [
-        "31"
-      ],
+      "initiators": ["31"],
       "publicConsultation": "",
       "documents": [
         {
@@ -282,17 +280,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "31",
-        "57",
-        "81",
-        "84",
-        "182",
-        "232",
-        "278",
-        "283",
-        "311"
-      ],
+      "initiators": ["31", "57", "81", "84", "182", "232", "278", "283", "311"],
       "publicConsultation": "",
       "documents": [
         {
@@ -606,15 +594,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "32",
-        "31",
-        "159",
-        "329",
-        "122",
-        "241",
-        "282"
-      ],
+      "initiators": ["32", "31", "159", "329", "122", "241", "282"],
       "publicConsultation": "",
       "documents": [
         {

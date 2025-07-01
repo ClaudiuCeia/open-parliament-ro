@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:29:26.701Z",
+  "lastUpdated": "2025-06-30T16:40:32.657Z",
   "data": [
     {
       "idp": "22268",
@@ -196,13 +196,7 @@
         "short": "raportdepus",
         "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
       },
-      "initiators": [
-        "254",
-        "9",
-        "295",
-        "87",
-        "233"
-      ],
+      "initiators": ["254", "9", "295", "87", "233"],
       "publicConsultation": "",
       "documents": [
         {

@@ -380,13 +380,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "19",
-        "64",
-        "130",
-        "168",
-        "275"
-      ],
+      "initiators": ["19", "64", "130", "168", "275"],
       "publicConsultation": "",
       "documents": [
         {

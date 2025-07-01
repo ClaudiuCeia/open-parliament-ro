@@ -452,17 +452,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "31",
-        "57",
-        "81",
-        "84",
-        "182",
-        "232",
-        "278",
-        "283",
-        "311"
-      ],
+      "initiators": ["31", "57", "81", "84", "182", "232", "278", "283", "311"],
       "publicConsultation": "",
       "documents": [
         {

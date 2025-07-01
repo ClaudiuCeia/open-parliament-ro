@@ -12,7 +12,6 @@ export const DEPUTIES_INTERPELLATIONS_VERSION = "0.0.1";
 
 const job: ScraperJob<Interpellation[], string> = {
   isAtomic: false,
-  name: "Deputy interpellations",
   version: DEPUTIES_INTERPELLATIONS_VERSION,
   listItems: async () => {
     const ids = await getDeputyIds();
@@ -21,6 +20,12 @@ const job: ScraperJob<Interpellation[], string> = {
   fetchItem: getInterpellations,
   getPath: (idm) => `${DEPUTIES_INTERPELLATIONS_CACHE_PATH}/${idm}.json`,
   isItemStale: isStale,
+  datapackage: {
+    name: "deputy-interpellations",
+    title: "Deputy Interpellations",
+    description:
+      "Interpellations submitted by each deputy to government ministers and officials",
+  },
 };
 
 export default job;

@@ -1,0 +1,63 @@
+{
+  "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
+  "name": "open-parliament-romania",
+  "title": "Open Parliament Romania Data",
+  "description": "Legislative data from the Romanian Chamber of Deputies, including deputy information, proposals, interpellations, motions, and speeches collected from the official parliamentary website.",
+  "version": "0.1.1",
+  "homepage": "https://github.com/ClaudiuCeia/open-parliament-ro",
+  "keywords": [
+    "parliament",
+    "romania",
+    "deputies",
+    "legislation",
+    "government",
+    "politics",
+    "open-data"
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Romanian Chamber of Deputies",
+      "path": "https://www.cdep.ro/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Open Parliament Romania",
+      "roles": ["creator"]
+    }
+  ],
+  "resources": [
+    {
+      "name": "deputies",
+      "path": "data/resources/deputies.json"
+    },
+    {
+      "name": "deputy-details",
+      "path": "data/resources/deputies_detail.json"
+    },
+    {
+      "name": "deputy-proposals",
+      "path": "data/resources/deputy_proposals.json"
+    },
+    {
+      "name": "deputy-interpellations",
+      "path": "data/resources/deputy_interpellations.json"
+    },
+    {
+      "name": "deputy-motions",
+      "path": "data/resources/deputy_motions.json"
+    },
+    {
+      "name": "deputy-speeches",
+      "path": "data/resources/deputy_speeches.json"
+    }
+  ],
+  "created": "2025-07-01T00:52:25.490Z"
+}

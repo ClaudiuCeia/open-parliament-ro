@@ -18,11 +18,7 @@
         "short": "la senat",
         "long": "la Senat\n\ntitlu votat:\n\nLegea pentru modificarea Ordonanței de urgență a Guvernului nr.57/2019 privind Codul administrativ, precum şi pentru modificarea Legii nr.119/1996 cu privire Ia actele de stare civilă"
       },
-      "initiators": [
-        "9",
-        "271",
-        "273"
-      ],
+      "initiators": ["9", "271", "273"],
       "publicConsultation": {
         "dueDate": "2025-04-03T00:00:00.000Z",
         "count": 0
@@ -193,15 +189,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "63",
-        "131",
-        "309",
-        "9",
-        "129",
-        "208",
-        "308"
-      ],
+      "initiators": ["63", "131", "309", "9", "129", "208", "308"],
       "publicConsultation": "",
       "documents": [
         {
@@ -571,15 +559,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "192",
-        "9",
-        "213",
-        "285",
-        "139",
-        "166",
-        "206"
-      ],
+      "initiators": ["192", "9", "213", "285", "139", "166", "206"],
       "publicConsultation": "",
       "documents": [
         {
@@ -848,13 +828,7 @@
         "short": "raportdepus",
         "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
       },
-      "initiators": [
-        "186",
-        "254",
-        "9",
-        "166",
-        "112"
-      ],
+      "initiators": ["186", "254", "9", "166", "112"],
       "publicConsultation": "",
       "documents": [
         {
@@ -1077,13 +1051,7 @@
         "short": "raportdepus",
         "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
       },
-      "initiators": [
-        "254",
-        "9",
-        "295",
-        "87",
-        "233"
-      ],
+      "initiators": ["254", "9", "295", "87", "233"],
       "publicConsultation": "",
       "documents": [
         {

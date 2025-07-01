@@ -11,7 +11,6 @@ export const DEPUTIES_DETAIL_VERSION = "0.0.3";
 
 const job: ScraperJob<FullDeputy, string> = {
   isAtomic: false,
-  name: "Full Deputies",
   version: DEPUTIES_DETAIL_VERSION,
   listItems: async () => {
     const ids = await getDeputyIds();
@@ -20,6 +19,12 @@ const job: ScraperJob<FullDeputy, string> = {
   fetchItem: getDeputy,
   getPath: (idm) => `${DEPUTIES_DETAIL_CACHE_PATH}/${idm}.json`,
   isItemStale: isStale,
+  datapackage: {
+    name: "deputy-details",
+    title: "Full Deputies",
+    description:
+      "Detailed information for each deputy including full biography, committee memberships, contact information, and parliamentary activity",
+  },
 };
 
 export default job;

@@ -17,9 +17,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "213"
-      ],
+      "initiators": ["213"],
       "publicConsultation": {
         "dueDate": "2025-06-02T00:00:00.000Z",
         "count": 0
@@ -171,11 +169,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "213",
-        "220",
-        "313"
-      ],
+      "initiators": ["213", "220", "313"],
       "publicConsultation": "",
       "documents": [
         {
@@ -458,15 +452,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "192",
-        "9",
-        "213",
-        "285",
-        "139",
-        "166",
-        "206"
-      ],
+      "initiators": ["192", "9", "213", "285", "139", "166", "206"],
       "publicConsultation": "",
       "documents": [
         {
@@ -571,16 +557,7 @@
         "short": "aviz/punct de vederesolicitat",
         "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
       },
-      "initiators": [
-        "29",
-        "45",
-        "125",
-        "181",
-        "213",
-        "236",
-        "267",
-        "328"
-      ],
+      "initiators": ["29", "45", "125", "181", "213", "236", "267", "328"],
       "publicConsultation": {
         "dueDate": "2025-07-29T00:00:00.000Z",
         "count": 0

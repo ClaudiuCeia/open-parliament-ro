@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:28:48.608Z",
+  "lastUpdated": "2025-06-30T16:39:59.536Z",
   "data": [
     {
       "idp": "22274",
@@ -16,13 +16,9 @@
       "emergencyProcedure": true,
       "status": {
         "short": "la senat",
-        "long": "la Senat\ntitlu votat:\nLegea pentru modificarea Ordonanței de urgență a Guvernului nr.57/2019 privind Codul administrativ, precum şi pentru modificarea Legii nr.119/1996 cu privire Ia actele de stare civilă"
+        "long": "la Senat\n\ntitlu votat:\n\nLegea pentru modificarea Ordonanței de urgență a Guvernului nr.57/2019 privind Codul administrativ, precum şi pentru modificarea Legii nr.119/1996 cu privire Ia actele de stare civilă"
       },
-      "initiators": [
-        "9",
-        "271",
-        "273"
-      ],
+      "initiators": ["9", "271", "273"],
       "publicConsultation": {
         "dueDate": "2025-04-03T00:00:00.000Z",
         "count": 0
@@ -53,7 +49,7 @@
       "emergencyProcedure": false,
       "status": {
         "short": "lege 100/2025",
-        "long": "Lege 100/2025LEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
+        "long": "Lege 100/2025\nLEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
       },
       "initiators": [
         "34",

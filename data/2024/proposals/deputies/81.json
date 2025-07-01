@@ -18,9 +18,7 @@
         "short": "raportdepus",
         "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
       },
-      "initiators": [
-        "81"
-      ],
+      "initiators": ["81"],
       "publicConsultation": "",
       "documents": [
         {
@@ -336,17 +334,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "31",
-        "57",
-        "81",
-        "84",
-        "182",
-        "232",
-        "278",
-        "283",
-        "311"
-      ],
+      "initiators": ["31", "57", "81", "84", "182", "232", "278", "283", "311"],
       "publicConsultation": "",
       "documents": [
         {

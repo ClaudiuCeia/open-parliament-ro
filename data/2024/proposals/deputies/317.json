@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:30:13.446Z",
+  "lastUpdated": "2025-06-30T16:41:15.109Z",
   "data": [
     {
       "idp": "22273",
@@ -130,16 +130,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "12",
-        "90",
-        "121",
-        "125",
-        "172",
-        "189",
-        "317",
-        "328"
-      ],
+      "initiators": ["12", "90", "121", "125", "172", "189", "317", "328"],
       "publicConsultation": "",
       "documents": [
         {
@@ -1150,16 +1141,7 @@
         "short": "la senat",
         "long": "la Senat"
       },
-      "initiators": [
-        "4",
-        "29",
-        "73",
-        "90",
-        "121",
-        "236",
-        "317",
-        "328"
-      ],
+      "initiators": ["4", "29", "73", "90", "121", "236", "317", "328"],
       "publicConsultation": "",
       "documents": [
         {

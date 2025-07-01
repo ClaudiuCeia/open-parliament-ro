@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:30:04.353Z",
+  "lastUpdated": "2025-06-30T16:41:06.845Z",
   "data": [
     {
       "idp": "22273",
@@ -199,10 +199,7 @@
         "short": "la comisii",
         "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
       },
-      "initiators": [
-        "48",
-        "314"
-      ],
+      "initiators": ["48", "314"],
       "publicConsultation": "",
       "documents": [
         {
@@ -371,7 +368,7 @@
       "emergencyProcedure": false,
       "status": {
         "short": "lege 100/2025",
-        "long": "Lege 100/2025LEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
+        "long": "Lege 100/2025\nLEGE pentru completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
       },
       "initiators": [
         "34",
@@ -1182,6 +1179,75 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22448"
     },
     {
+      "idp": "22366",
+      "title": "Propunere legislativă pentru completarea Legii nr.678/2001 privind prevenirea şi combaterea traficului de persoane şi a art.30 din Ordonanţa Guvernului nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în România",
+      "registrationNumber": {
+        "bpi": "168/21-05-2025",
+        "deputyChamber": "BP168/21.05.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "Camera Deputaţilor",
+      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n678/2001",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "1",
+        "95",
+        "168",
+        "177",
+        "192",
+        "66",
+        "81",
+        "208",
+        "4",
+        "12",
+        "26",
+        "29",
+        "45",
+        "48",
+        "73",
+        "90",
+        "94",
+        "121",
+        "125",
+        "213",
+        "236",
+        "267",
+        "269",
+        "285",
+        "287",
+        "293",
+        "299",
+        "313",
+        "314",
+        "317",
+        "75",
+        "85",
+        "37",
+        "171",
+        "216"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/8/in168.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/8/em168.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/8/pl168.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22366"
+    },
+    {
       "idp": "22432",
       "title": "Propunere legislativă pentru completarea articolului 41 din Legea nr.96/2006 privind Statutul deputaţilor şi al senatorilor, republicată, cu modificările şi completările ulterioare",
       "registrationNumber": {
@@ -1293,75 +1359,6 @@
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22367"
-    },
-    {
-      "idp": "22366",
-      "title": "Propunere legislativă pentru completarea Legii nr.678/2001 privind prevenirea şi combaterea traficului de persoane şi a art.30 din Ordonanţa Guvernului nr.58/1998 privind organizarea şi desfăşurarea activităţii de turism în România",
-      "registrationNumber": {
-        "bpi": "168/21-05-2025",
-        "deputyChamber": "BP168/21.05.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "Camera Deputaţilor",
-      "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n678/2001",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "1",
-        "95",
-        "168",
-        "177",
-        "192",
-        "66",
-        "81",
-        "208",
-        "4",
-        "12",
-        "26",
-        "29",
-        "45",
-        "48",
-        "73",
-        "90",
-        "94",
-        "121",
-        "125",
-        "213",
-        "236",
-        "267",
-        "269",
-        "285",
-        "287",
-        "293",
-        "299",
-        "313",
-        "314",
-        "317",
-        "75",
-        "85",
-        "37",
-        "171",
-        "216"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/8/in168.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/8/em168.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/8/pl168.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22366"
     }
   ]
 }

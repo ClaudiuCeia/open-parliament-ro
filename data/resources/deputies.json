@@ -1,0 +1,10 @@
+{
+  "$schema": "https://datapackage.org/profiles/2.0/dataresource.json",
+  "name": "deputies",
+  "title": "Deputy List",
+  "description": "Complete list of deputies in the Romanian Chamber of Deputies with basic information including names, constituencies, and party affiliations",
+  "format": "json",
+  "mediatype": "application/json",
+  "encoding": "utf-8",
+  "path": "data/2024/deputies.json"
+}

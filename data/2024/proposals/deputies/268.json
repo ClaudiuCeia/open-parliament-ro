@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-06-30T16:28:38.332Z",
+  "lastUpdated": "2025-06-30T16:39:50.372Z",
   "data": [
     {
       "idp": "22264",
@@ -447,7 +447,7 @@
       "emergencyProcedure": false,
       "status": {
         "short": "la promulgare",
-        "long": "lege trimisa la promulgare\ntitlu votat:\nLegea privind instituirea anului 2026 ca „Anul Nadia Comăneci”"
+        "long": "lege trimisa la promulgare\n\ntitlu votat:\n\nLegea privind instituirea anului 2026 ca „Anul Nadia Comăneci”"
       },
       "initiators": [
         "1",
@@ -734,60 +734,6 @@
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22457"
     },
     {
-      "idp": "22403",
-      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parte",
-      "registrationNumber": {
-        "bpi": "212/11-06-2025",
-        "deputyChamber": "BP212/11.06.2025"
-      },
-      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
-      "decidingChamber": "-",
-      "type": "Propunere legislativa",
-      "emergencyProcedure": false,
-      "status": {
-        "short": "la senat",
-        "long": "la Senat"
-      },
-      "initiators": [
-        "42",
-        "53",
-        "58",
-        "63",
-        "64",
-        "109",
-        "124",
-        "130",
-        "192",
-        "197",
-        "223",
-        "225",
-        "268",
-        "305",
-        "306",
-        "309",
-        "310",
-        "199",
-        "83",
-        "331"
-      ],
-      "publicConsultation": "",
-      "documents": [
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/2/in212.pdf",
-          "title": "Adresa iniţiatorului"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/2/em212.pdf",
-          "title": "Expunerea de motive"
-        },
-        {
-          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/2/pl212.pdf",
-          "title": "Forma iniţiatorului"
-        }
-      ],
-      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22403"
-    },
-    {
       "idp": "22434",
       "title": "Propunere legislativă privind instituirea Zilei Naţionale a Sportului Paralimpic",
       "registrationNumber": {
@@ -847,6 +793,60 @@
         }
       ],
       "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22434"
+    },
+    {
+      "idp": "22403",
+      "title": "Propunere legislativă privind plata cotizaţiilor la organizaţiile internaţionale la care România este parte",
+      "registrationNumber": {
+        "bpi": "212/11-06-2025",
+        "deputyChamber": "BP212/11.06.2025"
+      },
+      "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+      "decidingChamber": "-",
+      "type": "Propunere legislativa",
+      "emergencyProcedure": false,
+      "status": {
+        "short": "la senat",
+        "long": "la Senat"
+      },
+      "initiators": [
+        "42",
+        "53",
+        "58",
+        "63",
+        "64",
+        "109",
+        "124",
+        "130",
+        "192",
+        "197",
+        "223",
+        "225",
+        "268",
+        "305",
+        "306",
+        "309",
+        "310",
+        "199",
+        "83",
+        "331"
+      ],
+      "publicConsultation": "",
+      "documents": [
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/2/in212.pdf",
+          "title": "Adresa iniţiatorului"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/2/em212.pdf",
+          "title": "Expunerea de motive"
+        },
+        {
+          "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/10/2/pl212.pdf",
+          "title": "Forma iniţiatorului"
+        }
+      ],
+      "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22403"
     },
     {
       "idp": "22399",

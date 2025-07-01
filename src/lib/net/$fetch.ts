@@ -19,7 +19,7 @@ const cleanupCache = () => {
       delete Cache[key];
     }
   }
-}
+};
 
 const addToCache = (
   url: string,
@@ -34,7 +34,7 @@ const addToCache = (
     cacheKeys.splice(existingIndex, 1);
   }
   cacheKeys.push(url);
-}
+};
 
 export const $fetch = async (
   url: string,
