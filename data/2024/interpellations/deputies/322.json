@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-01T16:16:08.997Z",
+  "lastUpdated": "2025-07-01T17:25:16.223Z",
   "data": [
     {
       "idi": "78517",
@@ -11,10 +11,10 @@
       },
       "recipient": "",
       "dates": {
-        "registration": "2025-07-03T21:00:00.000Z",
-        "presentation": "2025-07-03T21:00:00.000Z",
-        "communication": "2025-09-03T21:00:00.000Z",
-        "responseDue": "2025-05-04T21:00:00.000Z"
+        "registration": "2025-07-04T00:00:00.000Z",
+        "presentation": "2025-07-04T00:00:00.000Z",
+        "communication": "2025-09-04T00:00:00.000Z",
+        "responseDue": "2025-05-05T00:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i779A.pdf",
@@ -24,14 +24,14 @@
       "answers": [
         {
           "registrationId": "24935",
-          "date": "2025-07-04T21:00:00.000Z",
+          "date": "2025-07-05T00:00:00.000Z",
           "responseType": "în scris",
           "author": "Autoritatea Naţională pentru Cetăţenie",
           "textUrl": "https://www.cdep.ro/interpel/2025/r779A.pdf"
         },
         {
           "registrationId": "25061",
-          "date": "2025-07-04T21:00:00.000Z",
+          "date": "2025-07-05T00:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/2r779A.pdf"
