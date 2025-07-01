@@ -39,9 +39,9 @@ jobs:
     - name: Run scrapers
       run: |
         if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-          bun scrape ${{ github.event.inputs.jobs }}
+          bun run index.ts jobs ${{ github.event.inputs.jobs }}
         else
-          bun scrape --all
+          bun run index.ts jobs --all
         fi
 
     - name: Analyze data changes
@@ -75,8 +75,43 @@ jobs:
           echo "Only additions/modifications - safe to auto-commit"
         fi
 
+    - name: Analyze version bump type
+      id: analyze_version
+      if: steps.analyze_changes.outputs.has_changes == 'true'
+      run: |
+        # Check if version.json was modified to determine bump type
+        if git diff --staged --name-only | grep -q "data/version.json"; then
+          # Get the previous and current version from version.json
+          PREV_VERSION=$(git show HEAD:data/version.json | jq -r '.version')
+          CURRENT_VERSION=$(cat data/version.json | jq -r '.version')
+          
+          echo "Previous version: $PREV_VERSION"
+          echo "Current version: $CURRENT_VERSION"
+          
+          # Parse semantic versions
+          PREV_MAJOR=$(echo $PREV_VERSION | cut -d. -f1)
+          PREV_MINOR=$(echo $PREV_VERSION | cut -d. -f2)
+          PREV_PATCH=$(echo $PREV_VERSION | cut -d. -f3)
+          
+          CURR_MAJOR=$(echo $CURRENT_VERSION | cut -d. -f1)
+          CURR_MINOR=$(echo $CURRENT_VERSION | cut -d. -f2)
+          CURR_PATCH=$(echo $CURRENT_VERSION | cut -d. -f3)
+          
+          if [ "$CURR_MAJOR" -gt "$PREV_MAJOR" ]; then
+            echo "version_bump_type=major" >> $GITHUB_OUTPUT
+          elif [ "$CURR_MINOR" -gt "$PREV_MINOR" ]; then
+            echo "version_bump_type=minor" >> $GITHUB_OUTPUT
+          elif [ "$CURR_PATCH" -gt "$PREV_PATCH" ]; then
+            echo "version_bump_type=patch" >> $GITHUB_OUTPUT
+          else
+            echo "version_bump_type=none" >> $GITHUB_OUTPUT
+          fi
+        else
+          echo "version_bump_type=none" >> $GITHUB_OUTPUT
+        fi
+
     - name: Auto-commit safe changes
-      if: steps.analyze_changes.outputs.has_changes == 'true' && steps.analyze_changes.outputs.safe_to_commit == 'true'
+      if: steps.analyze_changes.outputs.has_changes == 'true' && steps.analyze_changes.outputs.safe_to_commit == 'true' && (steps.analyze_version.outputs.version_bump_type == 'patch' || steps.analyze_version.outputs.version_bump_type == 'none')
       run: |
         git config --local user.email "cronicar.bot@civicworks.dev"
         git config --local user.name "Cronicar Bot"
@@ -85,6 +120,10 @@ jobs:
 
         # Build commit message with proper newlines
         COMMIT_MSG="Automated data update - $TIMESTAMP"
+
+        if [ "${{ steps.analyze_version.outputs.version_bump_type }}" != "none" ]; then
+          COMMIT_MSG="$COMMIT_MSG (${{ steps.analyze_version.outputs.version_bump_type }} version bump)"
+        fi
 
         if [ "${{ steps.analyze_changes.outputs.added_files }}" -gt 0 ] || [ "${{ steps.analyze_changes.outputs.modified_files }}" -gt 0 ]; then
           COMMIT_MSG="$COMMIT_MSG"$'\n\n'
@@ -102,7 +141,7 @@ jobs:
         git push
 
     - name: Create PR for unsafe changes
-      if: steps.analyze_changes.outputs.has_changes == 'true' && steps.analyze_changes.outputs.safe_to_commit == 'false'
+      if: steps.analyze_changes.outputs.has_changes == 'true' && (steps.analyze_changes.outputs.safe_to_commit == 'false' || steps.analyze_version.outputs.version_bump_type == 'major' || steps.analyze_version.outputs.version_bump_type == 'minor')
       run: |
         # Create a new branch for the PR
         BRANCH_NAME="data-update-$(date -u '+%Y%m%d-%H%M%S')"
@@ -113,20 +152,45 @@ jobs:
 
         TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
 
+        # Determine the reason for creating a PR
+        PR_REASON=""
+        if [ "${{ steps.analyze_changes.outputs.deleted_files }}" -gt 0 ]; then
+          PR_REASON="deletions detected"
+        elif [ "${{ steps.analyze_version.outputs.version_bump_type }}" = "major" ]; then
+          PR_REASON="major version bump"
+        elif [ "${{ steps.analyze_version.outputs.version_bump_type }}" = "minor" ]; then
+          PR_REASON="minor version bump"
+        fi
+
         # Build commit message with proper newlines
-        COMMIT_MSG="Data update with deletions - $TIMESTAMP"$'\n\n'"CHANGES SUMMARY:"
+        COMMIT_MSG="Data update requiring review - $TIMESTAMP"$'\n\n'"CHANGES SUMMARY:"
         COMMIT_MSG="$COMMIT_MSG"$'\n'"- Added: ${{ steps.analyze_changes.outputs.added_files }} files"
         COMMIT_MSG="$COMMIT_MSG"$'\n'"- Modified: ${{ steps.analyze_changes.outputs.modified_files }} files"
         COMMIT_MSG="$COMMIT_MSG"$'\n'"- Deleted: ${{ steps.analyze_changes.outputs.deleted_files }} files"
-        COMMIT_MSG="$COMMIT_MSG"$'\n\n'"Deletions detected - please review for potential scraper issues."
+
+        if [ "${{ steps.analyze_version.outputs.version_bump_type }}" != "none" ]; then
+          COMMIT_MSG="$COMMIT_MSG"$'\n'"- Version bump: ${{ steps.analyze_version.outputs.version_bump_type }}"
+        fi
+
+        COMMIT_MSG="$COMMIT_MSG"$'\n\n'"Reason for PR: $PR_REASON"
 
         git commit -m "$COMMIT_MSG"
         git push origin "$BRANCH_NAME"
 
+        # Build PR title and body
+        PR_TITLE="Data update requiring review - $PR_REASON"
+        PR_BODY="Automated scraping completed but requires manual review.\n\n**Reason for manual review:** $PR_REASON\n\n**Changes:**\n- Added: ${{ steps.analyze_changes.outputs.added_files }} files\n- Modified: ${{ steps.analyze_changes.outputs.modified_files }} files\n- Deleted: ${{ steps.analyze_changes.outputs.deleted_files }} files"
+
+        if [ "${{ steps.analyze_version.outputs.version_bump_type }}" != "none" ]; then
+          PR_BODY="$PR_BODY\n- Version bump: ${{ steps.analyze_version.outputs.version_bump_type }}"
+        fi
+
+        PR_BODY="$PR_BODY\n\nTimestamp: $TIMESTAMP"
+
         # Create PR using GitHub CLI
         gh pr create \
-          --title "Data update with deletions - review required" \
-          --body "Automated scraping detected file deletions which may indicate scraper issues. Please review the changes before merging.\n\n**Changes:**\n- Added: ${{ steps.analyze_changes.outputs.added_files }} files\n- Modified: ${{ steps.analyze_changes.outputs.modified_files }} files\n- Deleted: ${{ steps.analyze_changes.outputs.deleted_files }} files\n\nTimestamp: $TIMESTAMP" \
+          --title "$PR_TITLE" \
+          --body "$PR_BODY" \
           --head "$BRANCH_NAME" \
           --base main
       env:
@@ -135,10 +199,14 @@ jobs:
     - name: Summary
       run: |
         if [ "${{ steps.analyze_changes.outputs.has_changes }}" = "true" ]; then
-          if [ "${{ steps.analyze_changes.outputs.safe_to_commit }}" = "true" ]; then
+          if [ "${{ steps.analyze_changes.outputs.safe_to_commit }}" = "true" ] && ([ "${{ steps.analyze_version.outputs.version_bump_type }}" = "patch" ] || [ "${{ steps.analyze_version.outputs.version_bump_type }}" = "none" ]); then
             echo "Scraping completed successfully - changes auto-committed"
           else
-            echo "Scraping completed - PR created for review due to deletions"
+            if [ "${{ steps.analyze_changes.outputs.deleted_files }}" -gt 0 ]; then
+              echo "Scraping completed - PR created for review due to deletions"
+            elif [ "${{ steps.analyze_version.outputs.version_bump_type }}" = "major" ] || [ "${{ steps.analyze_version.outputs.version_bump_type }}" = "minor" ]; then
+              echo "Scraping completed - PR created for review due to ${{ steps.analyze_version.outputs.version_bump_type }} version bump"
+            fi
           fi
         else
           echo "Scraping completed successfully with no changes"
