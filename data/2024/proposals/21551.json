@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:33.694Z",
+  "data": {
+    "idp": "21551",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.14/2024 pentru modificarea şi completarea Ordonanţei Guvernului nr.15/2002 privind aplicarea tarifului de utilizare şi a tarifului de trecere pe reţeaua de drumuri naţionale din România",
+    "registrationNumber": {
+      "bpi": "98/20-02-2024",
+      "senateChamber": "L29/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n14/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 262/2024LEGE privind aprobarea Ordonantei Guvernului nr. 14/2024 pentru modificarea si completarea Ordonantei Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare si a tarifului de trecere pe reteaua de drumuri nationale din România",
+      "long": "Lege 262/2024LEGE privind aprobarea Ordonantei Guvernului nr. 14/2024 pentru modificarea si completarea Ordonantei Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare si a tarifului de trecere pe reteaua de drumuri nationale din România"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/1/em98.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/1/og98.pdf",
+        "title": "Ordonanţa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/1/cl98.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/1/as71.pdf",
+        "title": "Adresa Senatului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21551"
+  }
+}

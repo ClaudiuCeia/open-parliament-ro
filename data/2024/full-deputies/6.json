@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-06-30T10:08:35.871Z",
+  "lastUpdated": "2025-07-01T16:04:40.540Z",
   "data": {
     "idm": "6",
     "name": "Varol AMET",
@@ -21,7 +21,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=6265&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 7,
+        "count": 8,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=6&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       }
     }

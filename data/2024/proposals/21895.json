@@ -1,0 +1,56 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:02.629Z",
+  "data": {
+    "idp": "21895",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.360/2023 privind sistemul public de pensii",
+    "registrationNumber": {
+      "bpi": "480/02-09-2024716/02-09-2024",
+      "senateChamber": "L524/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n360/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "45",
+      "67",
+      "88",
+      "151",
+      "188",
+      "212",
+      "228",
+      "292",
+      "295",
+      "79"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/5/em716.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/5/pl716.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/5/ces716.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/5/cl716.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/5/opcfisc716.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21895"
+  }
+}

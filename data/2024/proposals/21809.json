@@ -1,0 +1,59 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:13.280Z",
+  "data": {
+    "idp": "21809",
+    "title": "Proiect de Lege privind organizarea activităţii de intermediere imobiliară",
+    "registrationNumber": {
+      "bpi": "387/28-05-2024",
+      "senateChamber": "L162/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "284",
+      "322",
+      "12",
+      "86",
+      "252",
+      "161",
+      "268",
+      "49",
+      "86"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/0/em387.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/0/ces387.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/0/cl387.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/0/csm387.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/0/opcconc387.pdf",
+        "title": "Opinia Consiliului Concurenței"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/0/opcfisc387.pdf",
+        "title": "Opimia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21809"
+  }
+}

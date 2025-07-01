@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:56.889Z",
+  "data": {
+    "idp": "22356",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.30/2025 pentru aprobarea unor măsuri în sistemul de învăţământ",
+    "registrationNumber": {
+      "bpi": "156/14-05-2025",
+      "senateChamber": "L110/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n30/2025",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/0/em156.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/0/oug156.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/0/ces156.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/0/cl156.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22356"
+  }
+}

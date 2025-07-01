@@ -1,0 +1,70 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:08.551Z",
+  "data": {
+    "idp": "22276",
+    "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă nr.195/2002 privind circulaţia pe drumurile publice",
+    "registrationNumber": {
+      "bpi": "75/25-03-2025239/17-06-2025",
+      "senateChamber": "L135/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n195/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "1",
+      "24",
+      "39",
+      "42",
+      "54",
+      "58",
+      "63",
+      "71",
+      "93",
+      "138",
+      "174",
+      "186",
+      "196",
+      "197",
+      "225",
+      "254",
+      "268",
+      "274",
+      "275",
+      "281",
+      "284",
+      "305",
+      "306",
+      "6"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/4/em239.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/4/pl239.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/4/ces239.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/4/cl239.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/4/csm239.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22276"
+  }
+}

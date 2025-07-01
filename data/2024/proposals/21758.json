@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:54.038Z",
+  "data": {
+    "idp": "21758",
+    "title": "Propunere legislativă pentru instituirea zilei de 24 noiembrie Ziua Stephan Ludwig Roth - Ziua respectării naţiunii române de către minorităţile etnice",
+    "registrationNumber": {
+      "bpi": "326/30-04-2024",
+      "senateChamber": "L199/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "23"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/80/5/em326.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/80/5/pl326.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/80/5/ces326.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/80/5/cl326.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21758"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:49.819Z",
+  "data": {
+    "idp": "22319",
+    "title": "Propunere legislativă privind responsabilitatea contractuală şi răspunderea financiară în antecontractele de vânzare-cumpărare încheiate cu dezvoltatori imobiliari.",
+    "registrationNumber": {
+      "bpi": "118/15-04-2025",
+      "senateChamber": "L46/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "29",
+      "45",
+      "48",
+      "73",
+      "121",
+      "125",
+      "149",
+      "172",
+      "209",
+      "236",
+      "247",
+      "269",
+      "285",
+      "314",
+      "328",
+      "4",
+      "21",
+      "34",
+      "112"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/em118.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/pl118.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/ces118.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/cl118.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/asf118.pdf",
+        "title": "Avizul Autorității de Supraveghere Financiară"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/9/cconc118.pdf",
+        "title": "Avizul Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22319"
+  }
+}

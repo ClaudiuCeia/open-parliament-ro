@@ -1,0 +1,51 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:25.596Z",
+  "data": {
+    "idp": "21398",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.148/2000 privind publicitatea",
+    "registrationNumber": {
+      "bpi": "903/07-12-2023234/19-03-2024",
+      "senateChamber": "L74/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n148/2000",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "306"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/0/em903.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/0/pl903.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/0/ces234.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/0/cl234.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/0/cna234.pdf",
+        "title": "Avizul Consiliului Național al Audiovizualului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/0/pvCC.pdf",
+        "title": "Punctul de vedere al Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21398"
+  }
+}

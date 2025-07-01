@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:23.507Z",
+  "data": {
+    "idp": "21567",
+    "title": "Proiect de Lege pentru anularea unor obligaţii fiscale",
+    "registrationNumber": {
+      "bpi": "114/27-02-2024410/04-06-2024",
+      "senateChamber": "L218/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "",
+      "long": ""
+    },
+    "initiators": [
+      "28",
+      "77",
+      "264",
+      "272",
+      "333"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/1/em410.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/1/ces410.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/1/cl410.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/1/OpConsFisc410.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21567"
+  }
+}

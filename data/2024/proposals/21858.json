@@ -1,0 +1,59 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:34.863Z",
+  "data": {
+    "idp": "21858",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.176/2018 privind internshipul",
+    "registrationNumber": {
+      "bpi": "443/19-06-2024",
+      "senateChamber": "L295/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n176/2018",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "317",
+      "106",
+      "9",
+      "137",
+      "85",
+      "89",
+      "93",
+      "144",
+      "114",
+      "124",
+      "131",
+      "132",
+      "136"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/0/em443.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/0/pl443.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/0/ces443.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/0/cl443.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/0/OpConsFisc443.pdf",
+        "title": "Opinia Consiliului Fiscal al României"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21858"
+  }
+}

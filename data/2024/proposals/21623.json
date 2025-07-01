@@ -1,0 +1,74 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:02.435Z",
+  "data": {
+    "idp": "21623",
+    "title": "Proiect de Lege pentru modificarea Ordonanţei de urgenţă a Guvernului nr.55/2002 privind regimul de deţinere al câinilor periculoşi sau agresivi",
+    "registrationNumber": {
+      "bpi": "180/12-03-2024",
+      "senateChamber": "L99/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n55/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "99",
+      "261",
+      "121",
+      "5",
+      "13",
+      "22",
+      "75",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "265",
+      "275",
+      "280",
+      "294",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "33",
+      "41",
+      "52",
+      "59",
+      "68",
+      "69",
+      "83",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/6/em180.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/6/ces180.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/6/cl180.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/6/pvg180.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21623"
+  }
+}

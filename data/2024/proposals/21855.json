@@ -1,0 +1,80 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:33.258Z",
+  "data": {
+    "idp": "21855",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor",
+    "registrationNumber": {
+      "bpi": "437/19-06-2024",
+      "senateChamber": "L254/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n333/2003",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "335",
+      "193",
+      "273",
+      "11",
+      "27",
+      "30",
+      "57",
+      "60",
+      "63",
+      "69",
+      "83",
+      "86",
+      "96",
+      "101",
+      "102",
+      "123",
+      "126",
+      "134",
+      "139",
+      "156",
+      "165",
+      "176",
+      "177",
+      "341",
+      "198",
+      "204",
+      "227",
+      "229",
+      "238",
+      "252",
+      "254",
+      "283",
+      "287",
+      "293",
+      "296",
+      "300",
+      "307",
+      "333"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/6/em437.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/6/ces437.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/6/cl437.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/6/pvg437.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21855"
+  }
+}

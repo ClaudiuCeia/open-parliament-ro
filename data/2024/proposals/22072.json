@@ -1,0 +1,90 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:49.379Z",
+  "data": {
+    "idp": "22072",
+    "title": "Proiect de Lege privind instituirea săptămânii 15-21 mai ca „Săptămâna naţională a siguranţei rutiere\"",
+    "registrationNumber": {
+      "bpi": "671/15-10-2024",
+      "senateChamber": "L482/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 42/2025LEGE privind instituirea \"Săptămânii nationale a sigurantei rutiere\"",
+      "long": "Lege 42/2025LEGE privind instituirea \"Săptămânii nationale a sigurantei rutiere\""
+    },
+    "initiators": [
+      "25",
+      "2",
+      "51",
+      "110",
+      "120",
+      "206",
+      "267",
+      "310",
+      "9",
+      "12",
+      "30",
+      "57",
+      "102",
+      "139",
+      "165",
+      "252",
+      "296",
+      "333",
+      "328",
+      "117",
+      "217",
+      "6",
+      "11",
+      "14",
+      "26",
+      "50",
+      "76",
+      "77",
+      "105",
+      "111",
+      "117",
+      "118",
+      "119",
+      "142",
+      "1",
+      "4",
+      "10",
+      "138",
+      "25",
+      "49",
+      "51",
+      "58",
+      "60",
+      "62",
+      "139",
+      "92",
+      "103",
+      "67"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/90/3/em671.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/90/3/ces671.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/90/3/cl671.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/90/3/cna671.pdf",
+        "title": "Avizul Consiliului Național al Audiovizualului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22072"
+  }
+}

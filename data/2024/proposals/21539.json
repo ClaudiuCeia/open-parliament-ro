@@ -1,0 +1,56 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:27.459Z",
+  "data": {
+    "idp": "21539",
+    "title": "Propunere legislativă pentru completarea art.126 din Legea învăţământului preuniversitar nr.198/2023",
+    "registrationNumber": {
+      "bpi": "87/20-02-2024",
+      "senateChamber": "L339/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la Senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "304",
+      "47",
+      "90",
+      "137",
+      "147",
+      "167",
+      "192",
+      "207",
+      "218",
+      "9",
+      "15",
+      "56",
+      "74",
+      "85",
+      "131"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-03-27T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/6/in56.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/6/em87.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/6/pl87.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21539"
+  }
+}

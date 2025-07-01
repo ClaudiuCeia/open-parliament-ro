@@ -1,0 +1,70 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:37.463Z",
+  "data": {
+    "idp": "22029",
+    "title": "Proiect de Lege pentru modificarea Anexei nr.II din Legea-cadru nr.153/2017 privind salarizarea personalului plătit din fonduri publice",
+    "registrationNumber": {
+      "bpi": "624/02-10-2024",
+      "senateChamber": "L366/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n153/2017",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "39",
+      "56",
+      "138",
+      "180",
+      "262",
+      "317",
+      "319",
+      "84",
+      "79",
+      "4",
+      "137",
+      "15",
+      "24",
+      "40",
+      "43",
+      "56",
+      "65",
+      "75",
+      "89",
+      "93",
+      "144",
+      "131",
+      "132",
+      "136"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/50/9/em624.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/50/9/ces624.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/50/9/cl624.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/50/9/pvg624.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/50/9/opfisc624.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22029"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:01.544Z",
+  "data": {
+    "idp": "21580",
+    "title": "Propunere legislativă privind unele măsuri pentru implementarea procedurii bugetării participative",
+    "registrationNumber": {
+      "bpi": "128/28-02-2024348/14-05-2024",
+      "senateChamber": "L221/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "59",
+      "146",
+      "170",
+      "303"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/00/6/em348.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/00/6/pl348.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/00/6/ces348.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/00/6/cl348.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21580"
+  }
+}

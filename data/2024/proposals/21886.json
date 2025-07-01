@@ -1,0 +1,63 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:37.825Z",
+  "data": {
+    "idp": "21886",
+    "title": "Propunere legislativă pentru declararea nulităţii Acordului privind cooperarea în domeniul securităţii între România şi Ucraina, semnat la Washington, la 10 iulie 2024",
+    "registrationNumber": {
+      "bpi": "471/15-07-2024",
+      "senateChamber": "L563/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata prin respingere definitiva de catre Senat",
+      "long": "procedura legislativa încetata prin respingere definitiva de catre Senat"
+    },
+    "initiators": [
+      "72",
+      "74",
+      "89",
+      "99",
+      "113",
+      "125",
+      "162",
+      "253",
+      "261",
+      "121",
+      "309",
+      "4",
+      "64",
+      "75",
+      "112",
+      "336",
+      "187",
+      "195",
+      "213",
+      "222",
+      "247",
+      "344",
+      "265",
+      "275",
+      "294",
+      "324"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-09-30T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/7/em471.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/7/pl471.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21886"
+  }
+}

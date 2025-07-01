@@ -1,0 +1,44 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:32.215Z",
+  "data": {
+    "idp": "21854",
+    "title": "Proiect de Lege pentru instituirea Programului de finanţare „Investim în studenţii români din diaspora - STUD-IN-VEST”",
+    "registrationNumber": {
+      "bpi": "436/19-06-2024",
+      "senateChamber": "L235/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "",
+      "long": ""
+    },
+    "initiators": [
+      "12",
+      "28"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/3/em436.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/3/ces436.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/3/cl436.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/3/opfisc436.pdf",
+        "title": "Opinia Consiliului Fiscal al României"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21854"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:22.059Z",
+  "data": {
+    "idp": "21660",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate",
+    "registrationNumber": {
+      "bpi": "219/19-03-2024",
+      "senateChamber": "L129/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n248/2005",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 174/2024LEGE pentru modificarea si completarea Legii nr. 248/2005 privind regimul liberei circulatii a cetătenilor români în străinătate",
+      "long": "Lege 174/2024LEGE pentru modificarea si completarea Legii nr. 248/2005 privind regimul liberei circulatii a cetătenilor români în străinătate"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/9/em219.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/9/ces219.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/9/cl219.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21660"
+  }
+}

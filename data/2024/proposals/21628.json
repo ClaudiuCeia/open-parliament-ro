@@ -1,0 +1,51 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:13.477Z",
+  "data": {
+    "idp": "21628",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.127/2019 privind sistemul public de pensii, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "185/12-03-2024",
+      "senateChamber": "L48/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n127/2019",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "72"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/6/em185.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/6/pl185.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/6/ces185.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/6/cl185.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/6/pvg185.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/6/anfp185.pdf",
+        "title": "Punctul de vedere al Agenției Naționale a Funcționarilor Publici ..."
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21628"
+  }
+}

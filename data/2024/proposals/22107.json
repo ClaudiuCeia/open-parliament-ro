@@ -1,0 +1,56 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:02.040Z",
+  "data": {
+    "idp": "22107",
+    "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă a Guvernului nr.113/2011 privind organizarea şi funcţionarea Agenţiei Naţionale pentru Plăţi şi Inspecţie Socială",
+    "registrationNumber": {
+      "bpi": "714/06-11-2024",
+      "senateChamber": "L514/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "163",
+      "15",
+      "47",
+      "186",
+      "276",
+      "319",
+      "327",
+      "43",
+      "56",
+      "85"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/3/em714.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/3/pl714.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/3/ces714.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/3/cl714.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/3/pvg714.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22107"
+  }
+}

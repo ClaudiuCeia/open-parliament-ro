@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:38.630Z",
+  "data": {
+    "idp": "22258",
+    "title": "Proiect de Lege pentru abrogarea art.197 alin.(4)-(13) din Legea nr.135/2010 privind Codul de procedură penală",
+    "registrationNumber": {
+      "bpi": "58/11-03-2025",
+      "senateChamber": "L29/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 64/2025LEGE pentru abrogarea art. 197 alin. (4)-(13) din Legea nr. 135/2010 privind Codul de procedură penală",
+      "long": "Lege 64/2025LEGE pentru abrogarea art. 197 alin. (4)-(13) din Legea nr. 135/2010 privind Codul de procedură penală"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/70/1/em58.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/70/1/cl58.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22258"
+  }
+}

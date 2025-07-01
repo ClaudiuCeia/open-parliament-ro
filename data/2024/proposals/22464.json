@@ -1,0 +1,37 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.449Z",
+  "data": {
+    "idp": "22464",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.286/2009 privind Codul penal, publicată în Monitorul Oficial al României, Partea I, nr.510 din 24 iulie 2009, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "281/01-07-2025",
+      "deputyChamber": "BP281/01.07.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n286/2009",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "",
+      "long": ""
+    },
+    "initiators": ["150", "151"],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/80/1/in281.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/80/1/em281.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/80/1/pl281.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22464"
+  }
+}

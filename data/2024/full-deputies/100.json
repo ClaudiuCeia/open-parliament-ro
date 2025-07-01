@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-06-30T10:09:38.155Z",
+  "lastUpdated": "2025-07-01T16:05:53.957Z",
   "data": {
     "idm": "100",
     "name": "Mihai-Adrian ENACHE",
@@ -24,7 +24,7 @@
     },
     "activity": {
       "Luări de cuvânt": {
-        "count": 28,
+        "count": 29,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7802&leg=2024&idl=1"
       },
       "- din care declaraţii politice": {
@@ -32,7 +32,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7802&leg=2024&topic1=1"
       },
       "Luări de cuvânt în BP": {
-        "count": 13,
+        "count": 14,
         "url": "https://www.cdep.ro/bp/sedinte2015.cautare?idv=7802&leg=2024&ope=1"
       },
       "Propuneri legislative iniţiate": {

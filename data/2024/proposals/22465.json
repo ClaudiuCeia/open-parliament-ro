@@ -1,0 +1,37 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.446Z",
+  "data": {
+    "idp": "22465",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.333/2003, privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor, republicată, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "282/01-07-2025",
+      "deputyChamber": "BP282/01.07.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n333/2003",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "",
+      "long": ""
+    },
+    "initiators": ["150", "151"],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/80/2/in282.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/80/2/em282.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/80/2/pl282.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22465"
+  }
+}

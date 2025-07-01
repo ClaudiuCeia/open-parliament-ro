@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:24.724Z",
+  "data": {
+    "idp": "21831",
+    "title": "Proiect de Lege pentru modificarea art.10 alin.(2) din Legea nr.264/2004 privind organizarea şi funcţionarea Academiei de Ştiinţe Medicale",
+    "registrationNumber": {
+      "bpi": "412/04-06-2024",
+      "senateChamber": "L251/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n264/2004",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 236/2024LEGE pentru modificarea art. 10 alin. (2) din Legea nr. 264/2004 privind organizarea si functionarea Academiei de Stiinte Medicale",
+      "long": "Lege 236/2024LEGE pentru modificarea art. 10 alin. (2) din Legea nr. 264/2004 privind organizarea si functionarea Academiei de Stiinte Medicale"
+    },
+    "initiators": [
+      "51"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/4/em412.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/4/ces412.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/4/cl412.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21831"
+  }
+}

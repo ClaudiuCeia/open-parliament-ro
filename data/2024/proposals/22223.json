@@ -1,0 +1,57 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:34.603Z",
+  "data": {
+    "idp": "22223",
+    "title": "Proiect de Lege pentru modificarea şi completarea unor acte normative în vederea combaterii violenţei - România fără violenţă",
+    "registrationNumber": {
+      "bpi": "25/19-02-2025",
+      "senateChamber": "L566/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 116/2025LEGE pentru modificarea Legii nr. 286/2009 privind Codul penal si pentru modificarea si completarea Legii nr. 26/2024 privind ordinul de protectie",
+      "long": "Lege 116/2025LEGE pentru modificarea Legii nr. 286/2009 privind Codul penal si pentru modificarea si completarea Legii nr. 26/2024 privind ordinul de protectie"
+    },
+    "initiators": [
+      "79",
+      "4",
+      "10",
+      "16",
+      "138",
+      "36",
+      "143",
+      "58",
+      "60",
+      "62",
+      "82",
+      "91",
+      "103",
+      "141",
+      "129"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/50/4/em25.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/50/4/ces25.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/50/4/cl25.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/50/4/csm25.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22223"
+  }
+}

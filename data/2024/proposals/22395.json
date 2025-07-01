@@ -1,0 +1,76 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:04.242Z",
+  "data": {
+    "idp": "22395",
+    "title": "Propunere legislativă privind declararea Zilei de 5 octombrie ca \"Ziua Drepturilor Electorale\"",
+    "registrationNumber": {
+      "bpi": "204/03-06-2025",
+      "senateChamber": "L119/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "62",
+      "70",
+      "103",
+      "246",
+      "318",
+      "158",
+      "137",
+      "21",
+      "50",
+      "67",
+      "75",
+      "101",
+      "128",
+      "152",
+      "148",
+      "169",
+      "175",
+      "218",
+      "231",
+      "237",
+      "304",
+      "312",
+      "319",
+      "323",
+      "8",
+      "128",
+      "33",
+      "57",
+      "72",
+      "81",
+      "82",
+      "85",
+      "97",
+      "100"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/3/em204.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/3/pl204.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/3/ces204.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/3/cl204.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22395"
+  }
+}

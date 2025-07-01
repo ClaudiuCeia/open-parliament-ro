@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:26.555Z",
+  "data": {
+    "idp": "21838",
+    "title": "Proiect de Lege pentru ratificarea Acordului privind Programul de schimburi pentru studii universitare în Europa Centrală (CEEPUS IV), semnat la Varşovia, Polonia, la 20 septembrie 2023",
+    "registrationNumber": {
+      "bpi": "419/17-06-2024",
+      "senateChamber": "L492/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 281/2024LEGE pentru ratificarea Acordului privind Programul de schimburi pentru studii universitare în Europa Centrală (CEEPUS IV), semnat la Varsovia, Polonia, la 20 septembrie 2023  Acord privind Programul de schimburi pentru studii universitare în Europa Centrală (CEEPUS IV”)",
+      "long": "Lege 281/2024LEGE pentru ratificarea Acordului privind Programul de schimburi pentru studii universitare în Europa Centrală (CEEPUS IV), semnat la Varsovia, Polonia, la 20 septembrie 2023  Acord privind Programul de schimburi pentru studii universitare în Europa Centrală (CEEPUS IV”)"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/8/em419.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/8/pl419.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/8/decret419.pdf",
+        "title": "Decretul privind supunerea spre ratificare Parlamentului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/8/cl419.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21838"
+  }
+}

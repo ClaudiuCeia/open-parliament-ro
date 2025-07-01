@@ -1,0 +1,74 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:14.754Z",
+  "data": {
+    "idp": "21482",
+    "title": "Propunere legislativă pentru modificarea alin.(2) al art.119 din Legea nr.53/2003 - Codul muncii",
+    "registrationNumber": {
+      "bpi": "26/06-02-2024",
+      "senateChamber": "L693/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n53/2003",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "323",
+      "223",
+      "264",
+      "79",
+      "98",
+      "11",
+      "134",
+      "1",
+      "4",
+      "8",
+      "10",
+      "16",
+      "138",
+      "20",
+      "30",
+      "36",
+      "60",
+      "62",
+      "139",
+      "86",
+      "91",
+      "92",
+      "96",
+      "141",
+      "112",
+      "52",
+      "37",
+      "38",
+      "140",
+      "120",
+      "126",
+      "99"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/3/em26.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/3/pl26.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/3/ces26.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/3/cl26.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21482"
+  }
+}

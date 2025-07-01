@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:53.373Z",
+  "data": {
+    "idp": "21756",
+    "title": "Propunere legislativă privind implementarea Programului de acordare gratuită a raţiei zilnice de hrană pentru copiii din unităţile de învăţământ preuniversitar publice precum creşe şi grădiniţe",
+    "registrationNumber": {
+      "bpi": "323/30-04-2024",
+      "senateChamber": "L191/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "12"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/80/3/em323.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/80/3/pl323.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/80/3/ces323.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/80/3/cl323.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21756"
+  }
+}

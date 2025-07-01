@@ -1,0 +1,54 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:53.216Z",
+  "data": {
+    "idp": "21912",
+    "title": "Propunere legislativă pentru modificarea Legii nr.287/2009 privind Codul civil",
+    "registrationNumber": {
+      "bpi": "499/04-09-2024",
+      "senateChamber": "L311/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n287/2009",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "6",
+      "7",
+      "33",
+      "42",
+      "65",
+      "95",
+      "131",
+      "144",
+      "196",
+      "210",
+      "258",
+      "76"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/5/em499.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/5/pl499.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/5/ces499.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/5/cl499.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21912"
+  }
+}

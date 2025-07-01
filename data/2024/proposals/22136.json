@@ -1,0 +1,59 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:09.497Z",
+  "data": {
+    "idp": "22136",
+    "title": "Proiect de Lege pentru modificarea art.2 din Legea nr.418/2004 privind statutul profesional specific al medicului de medicină a muncii, precum şi pentru completarea art.64 din Legea nr.360/2023 privind sistemul public de pensii",
+    "registrationNumber": {
+      "bpi": "741/27-11-2024",
+      "senateChamber": "L539/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n360/2023\nmodificarea\nL. nr.\n418/2004",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "145",
+      "11",
+      "42",
+      "47",
+      "54",
+      "55",
+      "61",
+      "73",
+      "53",
+      "80",
+      "95",
+      "109",
+      "117",
+      "118",
+      "119",
+      "142",
+      "133"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/5/em741.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/5/ces741.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/5/cl741.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/5/opcfisc741.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22136"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:28.269Z",
+  "data": {
+    "idp": "21365",
+    "title": "Proiect de Lege pentru modificarea Ordonanţei de Urgenţă nr.194/2002 privind regimul străinilor în România, republicată",
+    "registrationNumber": {
+      "bpi": "874/29-11-2023247/26-03-2024",
+      "senateChamber": "L62/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n194/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "335",
+      "260",
+      "12",
+      "32",
+      "41",
+      "46",
+      "57",
+      "83",
+      "141",
+      "143",
+      "338",
+      "229",
+      "252",
+      "296",
+      "300",
+      "317"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/9/em874.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/9/pl874.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/9/ces247.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/9/cl247.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/9/pvg247.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21365"
+  }
+}

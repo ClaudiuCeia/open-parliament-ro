@@ -1,0 +1,61 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:19.950Z",
+  "data": {
+    "idp": "21997",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.227/2015 privind Codul fiscal, cu modificarile si completarile ulterioare",
+    "registrationNumber": {
+      "bpi": "592/24-09-2024",
+      "senateChamber": "L405/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 290/2024LEGE pentru modificarea si completarea Legii nr. 227/2015 privind Codul fiscal",
+      "long": "Lege 290/2024LEGE pentru modificarea si completarea Legii nr. 227/2015 privind Codul fiscal"
+    },
+    "initiators": [
+      "318",
+      "82",
+      "200"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/8/em592.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/8/pl592.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/8/ces592.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/8/cl592.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/8/pvg508.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/8/avBNR592.pdf",
+        "title": "Adresa Băncii Naționale a României"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/8/pvCC592.pdf",
+        "title": "Opinia Consiliului Concurenței"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/8/opcfisc.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21997"
+  }
+}

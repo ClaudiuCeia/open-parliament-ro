@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:38.230Z",
+  "data": {
+    "idp": "21546",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.8/2024 pentru modificarea Ordonanţei de urgenţă a Guvernului nr.124/2021 privind stabilirea cadrului instituţional şi financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare şi rezilienţă, precum şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.155/2020 privind unele măsuri pentru elaborarea Planului naţional de redresare şi rezilienţă necesar României pentru accesarea de fonduri externe rambursabile şi nerambursabile în cadrul Mecanismului de redresare şi rezilienţă",
+    "registrationNumber": {
+      "bpi": "93/20-02-2024",
+      "senateChamber": "L23/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n8/2024",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 102/2024LEGE privind aprobarea Ordonantei Guvernului nr. 8/2024 pentru modificarea Ordonantei de urgentă a Guvernului nr. 124/2021 privind stabilirea cadrului institutional si financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare si rezilientă, precum si pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 155/2020 privind unele măsuri pentru elaborarea Planului national de redresare si rezilientă necesar României pentru accesarea de fonduri externe rambursabile si nerambursabile în cadrul Mecanismului de redresare si rezilientă",
+      "long": "Lege 102/2024LEGE privind aprobarea Ordonantei Guvernului nr. 8/2024 pentru modificarea Ordonantei de urgentă a Guvernului nr. 124/2021 privind stabilirea cadrului institutional si financiar pentru gestionarea fondurilor europene alocate României prin Mecanismul de redresare si rezilientă, precum si pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 155/2020 privind unele măsuri pentru elaborarea Planului national de redresare si rezilientă necesar României pentru accesarea de fonduri externe rambursabile si nerambursabile în cadrul Mecanismului de redresare si rezilientă"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/0/em93.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/0/oug93.pdf",
+        "title": "Ordonanţa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/0/cl93.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/0/comp93.pdf",
+        "title": "Tabel comparativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21546"
+  }
+}

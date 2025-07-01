@@ -1,0 +1,59 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:53.979Z",
+  "data": {
+    "idp": "21911",
+    "title": "Propunere legislativă pentru completarea art.26 din Legea nr.334/2006 privind finanţarea activităţii partidelor politice",
+    "registrationNumber": {
+      "bpi": "498/04-09-2024",
+      "senateChamber": "L309/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n334/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "15",
+      "43",
+      "47",
+      "56",
+      "192",
+      "205",
+      "245",
+      "319",
+      "43"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/7/em498.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/7/pl498.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/7/ces498.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/7/cl498.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/7/pvg498.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/7/aep498.pdf",
+        "title": "Adresa Autorității Electorale Permanente"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21911"
+  }
+}

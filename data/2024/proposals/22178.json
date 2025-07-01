@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:22.928Z",
+  "data": {
+    "idp": "22178",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.140/2024 pentru modificarea art.13 alin.(4) din Ordonanţa de urgenţă a Guvernului nr.42/2019 privind stabilirea unor măsuri financiare pentru susţinerea desfăşurării Programului naţional „Timişoara - Capitală Europeană a Culturii în anul 2023”",
+    "registrationNumber": {
+      "bpi": "781/18-12-2024",
+      "senateChamber": "L637/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n140/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 93/2025LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 140/2024 pentru modificarea art. 13 alin. (4) din Ordonanta de urgentă a Guvernului nr. 42/2019 privind stabilirea unor măsuri financiare pentru sustinerea desfăsurării Programului national \"Timisoara - Capitală Europeană a Culturii în anul 2023\"",
+      "long": "Lege 93/2025LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 140/2024 pentru modificarea art. 13 alin. (4) din Ordonanta de urgentă a Guvernului nr. 42/2019 privind stabilirea unor măsuri financiare pentru sustinerea desfăsurării Programului national \"Timisoara - Capitală Europeană a Culturii în anul 2023\""
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/10/3/em781.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/10/3/comp781.pdf",
+        "title": "Tabel comparativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/10/3/oug781.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/10/3/cl781.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22178"
+  }
+}

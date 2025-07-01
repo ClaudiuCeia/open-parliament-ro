@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:58.475Z",
+  "data": {
+    "idp": "21822",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.211/2004 privind unele măsuri pentru asigurarea informării, sprijinirii şi protecţiei victimelor infracţiunilor",
+    "registrationNumber": {
+      "bpi": "402/04-06-2024509/11-09-2024",
+      "senateChamber": "L419/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n211/2004",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 272/2024LEGE pentru modificarea si completarea Legii nr. 211/2004 privind unele măsuri pentru asigurarea informării, sprijinirii si protectiei victimelor infractiunilor",
+      "long": "Lege 272/2024LEGE pentru modificarea si completarea Legii nr. 211/2004 privind unele măsuri pentru asigurarea informării, sprijinirii si protectiei victimelor infractiunilor"
+    },
+    "initiators": [
+      "339",
+      "322",
+      "12",
+      "32",
+      "78",
+      "307",
+      "161",
+      "321"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/9/em509.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/9/ces509.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/9/cl509.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/9/csmpv509.pdf",
+        "title": "Punctul de vedere al Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21822"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.366Z",
+  "data": {
+    "idp": "22362",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.272/2004 privind protecţia şi promovarea drepturilor copilului",
+    "registrationNumber": {
+      "bpi": "164/21-05-2025",
+      "deputyChamber": "BP164/21.05.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n272/2004",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "326",
+      "9",
+      "56",
+      "79",
+      "110",
+      "143",
+      "208",
+      "332",
+      "244",
+      "259",
+      "271",
+      "283",
+      "308",
+      "311"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/4/in164.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/4/em164.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/4/pl164.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22362"
+  }
+}

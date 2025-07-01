@@ -1,0 +1,60 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.415Z",
+  "data": {
+    "idp": "22237",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.165/2013 privind măsurile pentru finalizarea procedusului de restituire, în natură sau prin echivalent, a imobilelor preluate abuziv în perioada regimului comunist din România",
+    "registrationNumber": {
+      "bpi": "38/03-03-2025",
+      "deputyChamber": "BP38/03.03.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n165/2013",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "25",
+      "28",
+      "85",
+      "87",
+      "111",
+      "139",
+      "159",
+      "160",
+      "161",
+      "163",
+      "165",
+      "166",
+      "176",
+      "180",
+      "195",
+      "206",
+      "217",
+      "277",
+      "291",
+      "316",
+      "329",
+      "330"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/30/8/in38.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/30/8/em38.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/30/8/pl38.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22237"
+  }
+}

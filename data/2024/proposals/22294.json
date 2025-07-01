@@ -1,0 +1,58 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.414Z",
+  "data": {
+    "idp": "22294",
+    "title": "Propunere legislativă pentru instituirea Programului Subvenţii pentru căminul familiei",
+    "registrationNumber": {
+      "bpi": "94/02-04-2025",
+      "deputyChamber": "BP94/02.04.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "25",
+      "28",
+      "85",
+      "87",
+      "111",
+      "139",
+      "159",
+      "160",
+      "161",
+      "163",
+      "165",
+      "166",
+      "176",
+      "180",
+      "195",
+      "206",
+      "291",
+      "316",
+      "329",
+      "330"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/4/in94.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/4/em94.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/4/pl94.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22294"
+  }
+}

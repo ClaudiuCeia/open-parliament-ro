@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:42.434Z",
+  "data": {
+    "idp": "22059",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.370/2004 pentru alegerea Preşedintelui României şi a Legii nr.208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente",
+    "registrationNumber": {
+      "bpi": "656/08-10-2024",
+      "senateChamber": "L467/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n370/2004\nmodificarea\nL. nr.\n208/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "15",
+      "56",
+      "167",
+      "74"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/2/em656.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/2/pl656.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/2/ces656.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/2/cl656.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/2/pvg656.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22059"
+  }
+}

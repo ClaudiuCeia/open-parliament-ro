@@ -1,0 +1,92 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:58.010Z",
+  "data": {
+    "idp": "22358",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.370/2004 pentru alegerea Preşedintelui României, republicată",
+    "registrationNumber": {
+      "bpi": "160/14-05-2025",
+      "senateChamber": "L81/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n370/2004",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "62",
+      "70",
+      "103",
+      "246",
+      "318",
+      "158",
+      "137",
+      "21",
+      "50",
+      "67",
+      "75",
+      "101",
+      "128",
+      "152",
+      "148",
+      "169",
+      "175",
+      "218",
+      "231",
+      "237",
+      "304",
+      "312",
+      "319",
+      "323",
+      "8",
+      "128",
+      "33",
+      "57",
+      "72",
+      "81",
+      "82",
+      "85",
+      "97",
+      "100"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/4/as160.pdf",
+        "title": "Adresa Senatului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/4/in160.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/4/em160.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/4/pl160.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/4/cl160.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/4/pvg160.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/4/csm160.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/4/aep160.pdf",
+        "title": "Avizul Autorității Electorale Permanente"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22358"
+  }
+}

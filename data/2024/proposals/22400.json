@@ -1,0 +1,58 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.430Z",
+  "data": {
+    "idp": "22400",
+    "title": "Propunere legislativă privind reglementarea şi interzicerea dispozitivelor electronice pentru vapare de unică folosinţă",
+    "registrationNumber": {
+      "bpi": "209/04-06-2025",
+      "deputyChamber": "BP209/04.06.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "62",
+      "103",
+      "246",
+      "318",
+      "67",
+      "75",
+      "101",
+      "128",
+      "152",
+      "148",
+      "169",
+      "175",
+      "218",
+      "231",
+      "237",
+      "304",
+      "312",
+      "319",
+      "323",
+      "132"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/00/9/in209.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/00/9/em209.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/00/9/pl209.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22400"
+  }
+}

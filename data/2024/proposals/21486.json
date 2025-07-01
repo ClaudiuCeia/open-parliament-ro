@@ -1,0 +1,48 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:58.580Z",
+  "data": {
+    "idp": "21486",
+    "title": "Proiect de Lege pentru modificarea alineatului (1) al articolului unic din Legea nr.46/2022 privind aprobarea plăţii cotizaţiei anuale de participare a Autorităţii Electorale Permanente ca membru cu drepturi depline la Reţeaua de Competenţe Electorale Francofone (RECEF)",
+    "registrationNumber": {
+      "bpi": "29/07-02-2024339/14-05-2024",
+      "senateChamber": "L157/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n46/2022",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 6/2025LEGE pentru modificarea alineatului (1) al articolului unic din Legea nr. 46/2022 privind aprobarea plătii cotizatiei anuale de participare a Autoritătii Electorale Permanente ca membru cu drepturi depline la Reteaua de Competente Electorale Francofone (RECEF)",
+      "long": "Lege 6/2025LEGE pentru modificarea alineatului (1) al articolului unic din Legea nr. 46/2022 privind aprobarea plătii cotizatiei anuale de participare a Autoritătii Electorale Permanente ca membru cu drepturi depline la Reteaua de Competente Electorale Francofone (RECEF)"
+    },
+    "initiators": [
+      "110",
+      "12",
+      "252",
+      "268",
+      "38",
+      "126"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/7/em339.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/7/ces339.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/7/cl339.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/7/pvg339.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21486"
+  }
+}

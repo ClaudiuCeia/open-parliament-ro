@@ -1,0 +1,49 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:54.262Z",
+  "data": {
+    "idp": "22344",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.184/2001, republicată, privind organizarea şi exercitarea profesiei de arhitect",
+    "registrationNumber": {
+      "bpi": "144/08-05-2025",
+      "senateChamber": "L67/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n184/2001",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "129",
+      "208",
+      "15",
+      "30",
+      "31",
+      "40",
+      "49",
+      "53",
+      "58",
+      "70",
+      "76"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/9/em144.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/9/ces144.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/9/cl144.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22344"
+  }
+}

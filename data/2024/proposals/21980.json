@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:23.578Z",
+  "data": {
+    "idp": "21980",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei Guvernului nr.32/2024 privind abrogarea art.III şi IV din Legea nr.191/2011 pentru modificarea şi completarea Legii nr.672/2002 privind auditul public intern",
+    "registrationNumber": {
+      "bpi": "573/24-09-2024",
+      "senateChamber": "L436/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n32/2024",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 44/2025LEGE pentru aprobarea Ordonantei Guvernului nr. 32/2024 privind abrogarea art. III si IV din Legea nr. 191/2011 pentru modificarea si completarea Legii nr. 672/2002 privind auditul public intern",
+      "long": "Lege 44/2025LEGE pentru aprobarea Ordonantei Guvernului nr. 32/2024 privind abrogarea art. III si IV din Legea nr. 191/2011 pentru modificarea si completarea Legii nr. 672/2002 privind auditul public intern"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/10/7/em573.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/10/7/og573.pdf",
+        "title": "Ordonanţa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/10/7/cl573.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21980"
+  }
+}

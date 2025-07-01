@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:26.971Z",
+  "data": {
+    "idp": "21839",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.51/2024 pentru modificarea Legii nr.165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România",
+    "registrationNumber": {
+      "bpi": "420/17-06-2024",
+      "senateChamber": "L300/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n51/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 39/2025LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 51/2024 pentru modificarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România",
+      "long": "Lege 39/2025LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 51/2024 pentru modificarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/9/em420.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/9/oug420.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/9/cl420.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21839"
+  }
+}

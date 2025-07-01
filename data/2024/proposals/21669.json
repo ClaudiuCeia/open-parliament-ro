@@ -1,0 +1,78 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:23.106Z",
+  "data": {
+    "idp": "21669",
+    "title": "Proiect de Lege pentru instituirea unei indemnizaţii de hrană în vederea compensării efectelor negative asupra activităţii de transport generate de întârzierea aderării la Spaţiul Schengen, precum şi pentru modificarea şi completarea Legii nr.227/2015 privind Codul fiscal",
+    "registrationNumber": {
+      "bpi": "230/19-03-2024",
+      "senateChamber": "L52/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "273",
+      "17",
+      "30",
+      "54",
+      "69",
+      "76",
+      "77",
+      "96",
+      "102",
+      "143",
+      "156",
+      "176",
+      "215",
+      "244",
+      "271",
+      "290",
+      "333",
+      "79",
+      "1",
+      "8",
+      "10",
+      "138",
+      "25",
+      "28",
+      "36",
+      "49",
+      "58",
+      "60",
+      "63",
+      "139",
+      "82",
+      "84",
+      "86",
+      "91",
+      "92",
+      "103",
+      "112",
+      "127",
+      "128",
+      "129"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/2/em230.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/2/ces230.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/2/cl230.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21669"
+  }
+}

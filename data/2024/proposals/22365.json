@@ -1,0 +1,65 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.339Z",
+  "data": {
+    "idp": "22365",
+    "title": "Propunere legislativă pentru modificarea art.4 alin.(2) din Legea 370/2004 pentru alegerea Preşedintelui României",
+    "registrationNumber": {
+      "bpi": "167/21-05-2025",
+      "deputyChamber": "BP167/21.05.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n370/2004",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "3",
+      "5",
+      "62",
+      "70",
+      "86",
+      "103",
+      "135",
+      "246",
+      "10",
+      "251",
+      "137",
+      "21",
+      "50",
+      "67",
+      "101",
+      "128",
+      "152",
+      "169",
+      "175",
+      "218",
+      "231",
+      "237",
+      "304",
+      "312",
+      "319",
+      "323",
+      "55"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/7/in167.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/7/em167.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/7/pl167.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22365"
+  }
+}

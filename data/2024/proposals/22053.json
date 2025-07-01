@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:44.535Z",
+  "data": {
+    "idp": "22053",
+    "title": "Propunerea legislativă pentru completarea Legii nr.53/2003 - Codul muncii, a Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ şi a Legii nr.134/2010 privind Codul de procedură civilă",
+    "registrationNumber": {
+      "bpi": "649/08-10-2024",
+      "senateChamber": "L428/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n53/2003",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "317"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/9/em649.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/9/pl649.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/9/ces649.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/9/cl649.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/9/csm649.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22053"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:12.272Z",
+  "data": {
+    "idp": "22447",
+    "title": "Propunere legislativă privind modificarea art.101 şi art.1011 din Legea nr.115/2015 pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea Legii administraţiei publice locale nr.215/2001, precum şi pentru modificarea şi completarea Legii nr.393/2004 privind Statutul aleşilor locali",
+    "registrationNumber": {
+      "bpi": "265/25-06-2025",
+      "senateChamber": "L145/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n215/2001\nmodificarea\nL. nr.\n115/2015\nmodificarea\nL. nr.\n393/2004",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "103",
+      "246",
+      "318",
+      "158",
+      "137",
+      "50",
+      "67",
+      "75",
+      "101",
+      "128",
+      "152",
+      "148",
+      "169",
+      "231",
+      "237",
+      "304",
+      "312",
+      "319",
+      "323",
+      "106",
+      "128",
+      "33",
+      "57",
+      "72",
+      "81",
+      "82",
+      "85",
+      "97",
+      "100",
+      "2",
+      "14",
+      "43",
+      "47",
+      "86",
+      "93"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/4/em265.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/4/pl265.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/4/ces265.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/4/cl265.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22447"
+  }
+}

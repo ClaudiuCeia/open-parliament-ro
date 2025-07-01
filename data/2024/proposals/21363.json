@@ -1,0 +1,86 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:14.908Z",
+  "data": {
+    "idp": "21363",
+    "title": "Propunere legislativă pentru modificarea Legii drepturilor pacientului nr.46/2003 şi a Legii privind reforma în domeniul sănătăţii nr.95/2006",
+    "registrationNumber": {
+      "bpi": "872/29-11-2023191/12-03-2024",
+      "senateChamber": "L60/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n46/2023\nmodificarea\nL. nr.\n95/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "71",
+      "163",
+      "15",
+      "21",
+      "34",
+      "43",
+      "47",
+      "52",
+      "56",
+      "81",
+      "90",
+      "92",
+      "103",
+      "127",
+      "137",
+      "138",
+      "147",
+      "150",
+      "164",
+      "180",
+      "186",
+      "192",
+      "207",
+      "251",
+      "276",
+      "299",
+      "327",
+      "9",
+      "15",
+      "43",
+      "56",
+      "74",
+      "85",
+      "89",
+      "93",
+      "114",
+      "124",
+      "131",
+      "132",
+      "46"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/1/em872.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/1/pl872.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/1/ces191.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/1/cl191.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/1/pvg191.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21363"
+  }
+}

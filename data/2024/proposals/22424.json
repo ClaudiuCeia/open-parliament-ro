@@ -1,0 +1,58 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:08.869Z",
+  "data": {
+    "idp": "22424",
+    "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de Urgenţă a Guvernului nr.155 din 21 noiembrie 2001 privind aprobarea programului de gestionare a câinilor fără stăpân",
+    "registrationNumber": {
+      "bpi": "241/17-06-2025",
+      "senateChamber": "L156/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n155/2001",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "3",
+      "135",
+      "245",
+      "280",
+      "318",
+      "52",
+      "65",
+      "132",
+      "155",
+      "164",
+      "183",
+      "229",
+      "250",
+      "257",
+      "266",
+      "2"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/6/em241.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/6/pl241.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/6/ces241.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/6/cl241.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22424"
+  }
+}

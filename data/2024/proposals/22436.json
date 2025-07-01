@@ -1,0 +1,33 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.447Z",
+  "data": {
+    "idp": "22436",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.134/2010, privind codul de procedură civilă, republicată, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "253/23-06-2025",
+      "deputyChamber": "BP253/23.06.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n134/2010",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": ["150", "151"],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/3/em253.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/3/pl253.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22436"
+  }
+}

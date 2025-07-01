@@ -1,0 +1,57 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.380Z",
+  "data": {
+    "idp": "22388",
+    "title": "Propunere legislativă pentru modificarea Legii nr.241/2006 privind serviciul de alimentare cu apă şi de canalizare, republicată",
+    "registrationNumber": {
+      "bpi": "195/28-05-2025",
+      "deputyChamber": "BP195/28.05.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n241/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "318",
+      "10",
+      "22",
+      "158",
+      "251",
+      "15",
+      "89",
+      "50",
+      "75",
+      "101",
+      "128",
+      "152",
+      "148",
+      "169",
+      "218",
+      "231",
+      "237",
+      "312",
+      "319"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/5/in195.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/5/em195.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/5/pl195.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22388"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:42.398Z",
+  "data": {
+    "idp": "21868",
+    "title": "Proiect de Lege pentru modificarea şi completarea unor acte normative în domeniul prevenirii şi combateri criminalităţii organizate şi al prevenirii şi combaterii traficului şi consumului ilicit de droguri",
+    "registrationNumber": {
+      "bpi": "456/24-06-2024",
+      "senateChamber": "L241/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "254",
+      "264",
+      "117",
+      "79",
+      "1",
+      "4",
+      "8",
+      "10",
+      "138",
+      "29",
+      "36",
+      "143",
+      "49",
+      "58",
+      "60",
+      "62",
+      "63",
+      "139",
+      "82",
+      "84",
+      "86",
+      "96",
+      "141",
+      "112",
+      "127",
+      "129"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/00/9/em456.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/00/9/ces456.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/00/9/cl456.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/00/9/csm456.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/00/9/fpub456.pdf",
+        "title": "Punctul de vedere al Agenției Naționale a Funcționarilor Publici"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21868"
+  }
+}

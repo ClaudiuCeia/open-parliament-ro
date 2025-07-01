@@ -1,0 +1,44 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:13.312Z",
+  "data": {
+    "idp": "22461",
+    "title": "Propunere legislativă privind schimbarea denumirii satului Bâlvăneştii de Jos din comuna Bâlvăneşti, judeţul Mehedinţi şi modificarea Anexei la Legea nr.2/1968 privind organizarea administrativă a teritoriului României",
+    "registrationNumber": {
+      "bpi": "278/26-06-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "în termenul acordat pentru avize si puncte de vedere solicitate",
+      "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+    },
+    "initiators": [
+      "54",
+      "306",
+      "16",
+      "59"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-08-04T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/9/em278.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/9/doc278.pdf",
+        "title": "Documentaţie anexă în susţinerea iniţiativei legislative"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/9/pl278.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22461"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:26.073Z",
+  "data": {
+    "idp": "22191",
+    "title": "Proiect de Lege privind modificarea şi completarea Legii nr.118 din 20 iunie 2019 privind Registrul naţional automatizat cu privire la persoanele care au comis infracţiuni sexuale, de exploatare a unor persoane sau asupra minorilor, precum şi pentru completarea Legii nr.76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "796/18-12-2024",
+      "senateChamber": "L546/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n118/2019\nmodificarea\nL. nr.\n76/2008",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "322",
+      "47",
+      "80",
+      "97"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/6/em796.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/6/ces796.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/6/cl796.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22191"
+  }
+}

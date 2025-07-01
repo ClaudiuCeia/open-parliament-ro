@@ -1,0 +1,75 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:30.224Z",
+  "data": {
+    "idp": "22005",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.500/2002 privind finanţele publice",
+    "registrationNumber": {
+      "bpi": "600/24-09-2024",
+      "senateChamber": "L463/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n500/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "89",
+      "261",
+      "5",
+      "13",
+      "19",
+      "23",
+      "75",
+      "112",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "344",
+      "265",
+      "275",
+      "280",
+      "285",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "69",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/7/em600.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/7/pl600.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/7/ces600.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/7/cl600.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/7/pvg537.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22005"
+  }
+}

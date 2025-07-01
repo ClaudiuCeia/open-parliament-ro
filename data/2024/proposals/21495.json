@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:18.485Z",
+  "data": {
+    "idp": "21495",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.115/2023 privind unele măsuri fiscal bugetare în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea evaziunii fiscale, pentru modificarea şi completarea unor acte normative, precum şi pentru prorogarea unor termene",
+    "registrationNumber": {
+      "bpi": "37/13-02-2024",
+      "senateChamber": "L725/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n115/2023",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/30/3/em37.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/30/3/oug37.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/30/3/ces37.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/30/3/cl47.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21495"
+  }
+}

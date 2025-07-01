@@ -1,0 +1,57 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:26.512Z",
+  "data": {
+    "idp": "21673",
+    "title": "Propunere legislativă pentru modificarea Legii partidelor politice nr.14/2003",
+    "registrationNumber": {
+      "bpi": "237/19-03-2024",
+      "senateChamber": "L91/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n14/2003",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "45",
+      "71",
+      "157",
+      "127",
+      "180",
+      "40",
+      "56",
+      "65",
+      "75",
+      "131",
+      "132"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/3/em237.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/3/pl237.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/3/ces237.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/3/cl237.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/3/pvg237.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21673"
+  }
+}

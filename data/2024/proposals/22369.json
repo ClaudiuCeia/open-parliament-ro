@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:58.852Z",
+  "data": {
+    "idp": "22369",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.31/2025 privind unele măsuri pentru simplificarea procedurilor în domeniul urbanismului şi construcţiilor şi accelerarea investiţiilor",
+    "registrationNumber": {
+      "bpi": "173/27-05-2025",
+      "senateChamber": "L120/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n31/2025",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/8/em173.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/8/oug173.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/8/cl173.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22369"
+  }
+}

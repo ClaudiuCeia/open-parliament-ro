@@ -1,0 +1,41 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:46.716Z",
+  "data": {
+    "idp": "22310",
+    "title": "Propunere legislativă pentru modificarea unor acte normative din domeniul pensiilor de serviciu",
+    "registrationNumber": {
+      "bpi": "109/08-04-2025",
+      "senateChamber": "L102/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "adoptata de catre Camera Deputatilor",
+      "long": "adoptata de catre Camera Deputatilor"
+    },
+    "initiators": [
+      "59",
+      "160",
+      "233",
+      "88"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-04-15T00:00:00.000Z",
+      "count": 126
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/00/3/em109.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/00/3/pl109.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22310"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:30.805Z",
+  "data": {
+    "idp": "22013",
+    "title": "Propunere legislativă pentru completarea Legii nr.198/2023 a învăţământului preuniversitar",
+    "registrationNumber": {
+      "bpi": "608/02-10-2024",
+      "senateChamber": "B567/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata",
+      "long": "procedura legislativa încetata"
+    },
+    "initiators": [
+      "59",
+      "71",
+      "125",
+      "146",
+      "170",
+      "303",
+      "345",
+      "7",
+      "20",
+      "49",
+      "73",
+      "94",
+      "149",
+      "169",
+      "236",
+      "305",
+      "316",
+      "322",
+      "198",
+      "296",
+      "8",
+      "15",
+      "47",
+      "52",
+      "127",
+      "138",
+      "147",
+      "164",
+      "180",
+      "197",
+      "218",
+      "251",
+      "276",
+      "299",
+      "317",
+      "319",
+      "13",
+      "75",
+      "344",
+      "265",
+      "294",
+      "173",
+      "330",
+      "9",
+      "15",
+      "56",
+      "85",
+      "131"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-11-11T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/9/em608.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/9/pl608.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22013"
+  }
+}

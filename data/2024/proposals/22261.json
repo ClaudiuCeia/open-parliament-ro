@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:41.172Z",
+  "data": {
+    "idp": "22261",
+    "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ şi pentru modificarea art.1 alin.(1) din Legea nr.251/2004 privind unele măsuri referitoare la bunurile primite cu titlu gratuit cu prilejul unor acţiuni de protocol în exercitarea mandatului sau a funcţiei",
+    "registrationNumber": {
+      "bpi": "61/18-03-2025",
+      "senateChamber": "L51/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n57/2019",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 49/2025LEGE pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 57/2019 privind Codul administrativ si pentru modificarea art. 1 alin. (1) din Legea nr. 251/2004 privind unele măsuri referitoare la bunurile primite cu titlu gratuit cu prilejul unor actiuni de protocol în exercitarea mandatului sau a functiei",
+      "long": "Lege 49/2025LEGE pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 57/2019 privind Codul administrativ si pentru modificarea art. 1 alin. (1) din Legea nr. 251/2004 privind unele măsuri referitoare la bunurile primite cu titlu gratuit cu prilejul unor actiuni de protocol în exercitarea mandatului sau a functiei"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/80/0/em61.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/80/0/cl61.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22261"
+  }
+}

@@ -1,18 +1,38 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-30T14:17:36.178Z",
+  "lastUpdated": "2025-07-01T16:17:40.501Z",
   "data": [
+    {
+      "ids": "8909",
+      "idv": "6690",
+      "idm": "269",
+      "date": "2025-06-24T21:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 25 iunie      2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8909&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=7&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=7&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Supunerea la votul final a:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=7,002&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=7,002&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Proiectului de Hotărâre privind înfiinţarea unei comisii parlamentare de anchetă pentru investigarea cauzelor producerii accidentului ecologic de la Salina Praid şi identificarea responsabilităţilor instituţionale (PHCD 43/2025) (respins);"
+        }
+      ]
+    },
     {
       "ids": "8908",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-06-24T00:00:00.000Z",
+      "date": "2025-06-23T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 24 iunie      2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8908&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Alegerea preşedintelui Camerei Deputaţilor (PHCD 49/2025) (vot secret cu buletine de vot)."
         }
       ]
@@ -21,13 +41,13 @@
       "ids": "8903",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-06-11T00:00:00.000Z",
+      "date": "2025-06-10T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 11 iunie      2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8903&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=2&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=2&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=2&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Aprobarea unor propuneri de modificare a ordinii de zi."
         }
       ]
@@ -36,13 +56,13 @@
       "ids": "8892",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-05-13T00:00:00.000Z",
+      "date": "2025-05-12T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 13 mai        2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8892&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=3&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=3&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 157/2022 pentru instituirea unei scheme de ajutor de stat sub forma de grant acordat producătorilor agricoli care au înfiinţat culturi în toamna anului 2021 ce au fost afectate de seceta pedologică (PL-x 748/2022) (rămas pentru votul final)."
         }
       ]
@@ -51,13 +71,13 @@
       "ids": "8889",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-05-06T00:00:00.000Z",
+      "date": "2025-05-05T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 6 mai        2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8889&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=7&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=7&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=7&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege pentru modificarea Legii nr. 126/1995 privind regimul materiilor explozive (PL-x 151/2019) (rămas pentru votul final)."
         }
       ]
@@ -66,13 +86,13 @@
       "ids": "8888",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-04-23T00:00:00.000Z",
+      "date": "2025-04-22T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 23 aprilie    2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8888&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=3&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=3&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege pentru ratificarea Acordului între Guvernul României şi Guvernul Republicii Moldova privind controlul coordonat pe teritoriul României în punctul de trecere a frontierei de stat Galaţi (România) - Giurgiuleşti (Republica Moldova) rutier, pe sensul de intrare în România, semnat la 20 noiembrie 2024, la Bucureşti (PL-x 120/2025) (rămas pentru votul final)."
         }
       ]
@@ -81,13 +101,13 @@
       "ids": "8886",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-04-15T00:00:00.000Z",
+      "date": "2025-04-14T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 15 aprilie    2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8886&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=5&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=5&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=5&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 206/2020 pentru prorogarea termenului prevăzut la art. 22 alin. (1) din Legea nr. 118/2019 privind Registrul naţional automatizat cu privire la persoanele care au comis infracţiuni sexuale, de exploatare a unor persoane sau asupra minorilor, precum şi pentru completarea Legii nr. 76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare şi pentru stabilirea unor măsuri organizatorice de punere în aplicare a prevederilor acesteia (PL-x 85/2021) (rămas pentru votul final)."
         }
       ]
@@ -96,19 +116,19 @@
       "ids": "8883",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-04-07T00:00:00.000Z",
+      "date": "2025-04-06T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 7 aprilie    2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8883&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=5&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=5&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege pentru ratificarea Acordului între Guvernul României şi Guvernul Regatului Unit al Marii Britanii şi Irlandei de Nord privind cooperarea în domeniul apărării, semnat la Londra, la 13 noiembrie 2024 (PL-x 62/2025) (rămas pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=4&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=4&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei Guvernului nr. 6/2025 privind stabilirea unor măsuri pentru implementarea programelor naţionale din domeniul lucrărilor publice (PL-x 65/2025) (rămas pentru votul final)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=4&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei Guvernului nr. 6/2025 privind stabilirea unor măsuri pentru implementarea programelor naţionale din domeniul lucrărilor publice (PL-x 65/2025) (rămas pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=5&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=5&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru ratificarea Acordului între Guvernul României şi Guvernul Regatului Unit al Marii Britanii şi Irlandei de Nord privind cooperarea în domeniul apărării, semnat la Londra, la 13 noiembrie 2024 (PL-x 62/2025) (rămas pentru votul final)."
         }
       ]
     },
@@ -116,13 +136,13 @@
       "ids": "8877",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-03-26T00:00:00.000Z",
+      "date": "2025-03-25T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 26 martie     2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8877&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=12&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=12&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=12&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege privind instituirea săptămânii 15-21 mai ca \"Săptămâna naţională a siguranţei rutiere\" (PL-x 593/2024) (rămas pentru votul final)."
         }
       ]
@@ -131,13 +151,13 @@
       "ids": "8879",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-03-25T00:00:00.000Z",
+      "date": "2025-03-24T22:00:00.000Z",
       "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 25 martie     2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8879&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8879&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8879&idm=3&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8879&idm=3&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Constituirea grupurilor parlamentare de prietenie."
         }
       ]
@@ -146,13 +166,13 @@
       "ids": "8875",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-03-19T00:00:00.000Z",
+      "date": "2025-03-18T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 19 martie     2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8875&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=1&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=1&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Propunerii legislative privind reparaţiile morale şi materiale pentru fostele cadre militare active, îndepărtate abuziv din armată în perioada 01 ianuarie 1962 - 25 decembrie 1989 (Pl-x 72/2018) (rămasă pentru votul final)."
         }
       ]
@@ -161,13 +181,13 @@
       "ids": "8869",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-03-17T00:00:00.000Z",
+      "date": "2025-03-16T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 17 martie     2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8869&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8869&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8869&idm=9&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8869&idm=9&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege pentru ratificarea Acordului între Guvernul României şi Guvernul Ungariei, semnat la Bucureşti la 3 septembrie 2024, pentru modificarea Acordului între Guvernul României şi Guvernul Republicii Ungare privind colaborarea în domeniul prevenirii şi combaterii criminalităţii transfrontaliere, semnat la Szeged la 21 octombrie 2008 (PL-x 673/2024) (rămas pentru votul final)."
         }
       ]
@@ -176,13 +196,13 @@
       "ids": "8866",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-03-10T00:00:00.000Z",
+      "date": "2025-03-09T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 10 martie     2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8866&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8866&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8866&idm=4&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8866&idm=4&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Comunicare privind Planul de creştere pentru Republica Moldova COM (2024) 470 (PHCD 19/2025) (rămas pentru votul final)."
         }
       ]
@@ -191,29 +211,29 @@
       "ids": "8856",
       "idv": "6690",
       "idm": "269",
-      "date": "2025-02-19T00:00:00.000Z",
+      "date": "2025-02-18T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 19 februarie  2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8856&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=6&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=6&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=6&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Propunerii legislative pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor (Pl-x 703/2018) (rămasă pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=8&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=8&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=8&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege privind desfăşurarea pe timp de pace a misiunilor şi operaţiilor militare pe teritoriul statului român (PL-x 5/2025) (rămas pentru votul final)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=10&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=10&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind transmiterea unui imobil situat în municipiul Tulcea, judeţul Tulcea, aflat în domeniul public al statului, din administrarea Administraţiei Rezervaţiei Biosferei, \"Delta Dunării\", aflată în subordinea Ministerului Mediului, Apelor şi Pădurilor, în administrarea Ministerului Apărării Naţionale (PL-x 42/2024) (rămas pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=9&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=9&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind controlul utilizării spaţiului aerian naţional (PL-x 6/2025) (rămas pentru votul final)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=9&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind controlul utilizării spaţiului aerian naţional (PL-x 6/2025) (rămas pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=10&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=10&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind transmiterea unui imobil situat în municipiul Tulcea, judeţul Tulcea, aflat în domeniul public al statului, din administrarea Administraţiei Rezervaţiei Biosferei, \"Delta Dunării\", aflată în subordinea Ministerului Mediului, Apelor şi Pădurilor, în administrarea Ministerului Apărării Naţionale (PL-x 42/2024) (rămas pentru votul final)."
         }
       ]
     },
@@ -221,13 +241,13 @@
       "ids": "8840",
       "idv": "6690",
       "idm": "269",
-      "date": "2024-12-21T00:00:00.000Z",
+      "date": "2024-12-20T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=6690&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6690%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
         }
       ]

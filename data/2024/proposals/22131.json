@@ -1,0 +1,48 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:08.179Z",
+  "data": {
+    "idp": "22131",
+    "title": "Proiectul Legii profesiilor montane",
+    "registrationNumber": {
+      "bpi": "736/19-11-2024",
+      "senateChamber": "L530/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "300",
+      "86"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/1/em736.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/1/ces736.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/1/cl736.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/1/cconc736.pdf",
+        "title": "Avizul Consiliului Concurenței"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/1/opconsfisc736.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22131"
+  }
+}

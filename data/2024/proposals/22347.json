@@ -1,0 +1,37 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.431Z",
+  "data": {
+    "idp": "22347",
+    "title": "Propunere legislativă pentru modificarea alin.(1) al articolului 12 din Legea nr.145/2014 pentru stabilirea unor măsuri de reglementare a pieţei produselor din sectorul agricol",
+    "registrationNumber": {
+      "bpi": "147/14-05-2025",
+      "deputyChamber": "BP147/14.05.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n145/2014",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": ["64", "130", "168", "274", "326"],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/40/7/in147.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/40/7/em147.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/40/7/pl147.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22347"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:31.942Z",
+  "data": {
+    "idp": "21699",
+    "title": "Propunere legislativă pentru completarea art.16 din Legea nr.95/2006 privind reforma în domeniul sănătăţii",
+    "registrationNumber": {
+      "bpi": "263/03-04-2024",
+      "senateChamber": "L142/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n95/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "56",
+      "138",
+      "186",
+      "197",
+      "207",
+      "276",
+      "327"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/30/0/em263.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/30/0/pl263.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/30/0/cl263.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21699"
+  }
+}

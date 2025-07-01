@@ -1,0 +1,87 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:43.204Z",
+  "data": {
+    "idp": "21874",
+    "title": "Proiect de Lege privind instituirea celei de-a treia zi de sâmbătă din luna septembrie, a fiecărui an, ca „Ziua de Curăţenie Naţională\"",
+    "registrationNumber": {
+      "bpi": "461/26-06-2024",
+      "senateChamber": "L312/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 266/2024LEGE privind instituirea celei de-a treia zi de sâmbătă din luna septembrie a fiecărui an ca \"Ziua de Curătenie Natională\"",
+      "long": "Lege 266/2024LEGE privind instituirea celei de-a treia zi de sâmbătă din luna septembrie a fiecărui an ca \"Ziua de Curătenie Natională\""
+    },
+    "initiators": [
+      "104",
+      "37",
+      "40",
+      "84",
+      "116",
+      "159",
+      "183",
+      "282",
+      "98",
+      "101",
+      "14",
+      "26",
+      "35",
+      "42",
+      "47",
+      "55",
+      "76",
+      "53",
+      "97",
+      "105",
+      "115",
+      "133",
+      "10",
+      "58",
+      "60",
+      "96",
+      "15",
+      "40",
+      "56",
+      "75",
+      "85",
+      "89",
+      "93",
+      "144",
+      "131",
+      "132",
+      "5",
+      "37",
+      "38",
+      "48",
+      "66",
+      "67",
+      "140",
+      "120",
+      "126"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/10/1/em461.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/10/1/ces461.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/10/1/cl461.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/10/1/pvg461.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21874"
+  }
+}

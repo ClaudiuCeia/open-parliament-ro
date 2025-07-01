@@ -1,0 +1,61 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:06.006Z",
+  "data": {
+    "idp": "22124",
+    "title": "Proiect de Lege pentru modificarea art.10 alin.(1) din Ordonanţa de urgenţă a Guvernului nr.34/2013 privind organizarea, administrarea şi exploatarea pajiştilor permanente şi pentru modificarea şi completarea Legii fondului funciar nr.18/1991",
+    "registrationNumber": {
+      "bpi": "728/13-11-2024",
+      "senateChamber": "L552/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n34/2013",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 32/2025LEGE pentru modificarea art. 10 alin. (1) din Ordonanta de urgentă a Guvernului nr. 34/2013 privind organizarea, administrarea si exploatarea pajistilor permanente si pentru modificarea si completarea Legii fondului funciar nr. 18/1991",
+      "long": "Lege 32/2025LEGE pentru modificarea art. 10 alin. (1) din Ordonanta de urgentă a Guvernului nr. 34/2013 privind organizarea, administrarea si exploatarea pajistilor permanente si pentru modificarea si completarea Legii fondului funciar nr. 18/1991"
+    },
+    "initiators": [
+      "246",
+      "7",
+      "65",
+      "196",
+      "210",
+      "36",
+      "37",
+      "84",
+      "85",
+      "100",
+      "116",
+      "154",
+      "158",
+      "159",
+      "161",
+      "172",
+      "201",
+      "263",
+      "328"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/4/em728.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/4/ces728.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/4/cl728.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/4/OpConsFisc728.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22124"
+  }
+}

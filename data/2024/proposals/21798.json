@@ -1,0 +1,42 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:09.205Z",
+  "data": {
+    "idp": "21798",
+    "title": "Proiect de Lege pentru modificarea art. 66 alin.(12) lit.c) din Ordonanţa de urgenţă a Guvernului nr.92/2021 privind regimul deşeurilor",
+    "registrationNumber": {
+      "bpi": "369/23-05-2024",
+      "senateChamber": "L233/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n92/2021",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 56/2025LEGE pentru modificarea art. 66 alin. (12) lit. c) din Ordonanta de urgentă a Guvernului nr. 92/2021 privind regimul deseurilor",
+      "long": "Lege 56/2025LEGE pentru modificarea art. 66 alin. (12) lit. c) din Ordonanta de urgentă a Guvernului nr. 92/2021 privind regimul deseurilor"
+    },
+    "initiators": [
+      "56",
+      "81",
+      "127",
+      "262"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/8/em369.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/8/ces369.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/8/cl369.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21798"
+  }
+}

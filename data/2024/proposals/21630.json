@@ -1,0 +1,61 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:03.615Z",
+  "data": {
+    "idp": "21630",
+    "title": "Propunere legislativă privind completarea Legii nr.227/2015 privind Codul Fiscal",
+    "registrationNumber": {
+      "bpi": "187/12-03-2024",
+      "senateChamber": "L51/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "71",
+      "21",
+      "81",
+      "127",
+      "138",
+      "167",
+      "251",
+      "299",
+      "319",
+      "9",
+      "15",
+      "74",
+      "89",
+      "124",
+      "131"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/9/em187.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/9/pl187.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/9/ces187.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/9/cl187.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/9/pvg187.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21630"
+  }
+}

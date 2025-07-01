@@ -1,0 +1,111 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:19.399Z",
+  "data": {
+    "idp": "22201",
+    "title": "Proiectul Legii bugetului de stat pe anul 2025",
+    "registrationNumber": {
+      "bpi": "3/01-02-2025",
+      "senateChamber": "L13/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor + Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 9/2025Legea bugetului de stat pe anul 2025",
+      "long": "Lege 9/2025Legea bugetului de stat pe anul 2025"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/conf1.pdf",
+        "title": "Declarație de conformitate"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/macro1.pdf",
+        "title": "Raport privind situația macroeconomică pe anul 2025 și proiecția acesteia pe anii 2026-2028"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/pl1.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/ces1.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/cl1.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/csat1.pdf",
+        "title": "Avizul Consiliului Suprem de Apărare a Țării"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/opcfisc.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/anexa%20nr%201.pdf",
+        "title": "Anexa 1"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/anexa%20nr%202.pdf",
+        "title": "Anexa 2"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/pls/dic/site2015.page?id=1154",
+        "title": "Anexa 3"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/anexa%20nr.4.pdf",
+        "title": "Anexa 4"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/anexa%20nr.5.pdf",
+        "title": "Anexa 5"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/anexa%20nr.%205%2001.pdf",
+        "title": "Anexa 5_01"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/anexa%20nr.%205%2002.pdf",
+        "title": "Anexa 5_02"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/anexa%20nr.6.pdf",
+        "title": "Anexa 6"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/anexa%20nr.7.pdf",
+        "title": "Anexa 7"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/Anexa%20nr.7.01.pdf",
+        "title": "Anexa 7_01"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/Anexa%20nr.7.02.pdf",
+        "title": "Anexa 7_02"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/anexa%20nr%208.pdf",
+        "title": "Anexa 8"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/Anexa%20nr.%209.pdf",
+        "title": "Anexa 9"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/1/anexa%20nr.10.pdf",
+        "title": "Anexa 10"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22201"
+  }
+}

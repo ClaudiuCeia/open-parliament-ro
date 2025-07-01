@@ -1,0 +1,66 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.341Z",
+  "data": {
+    "idp": "22391",
+    "title": "Propunere legislativă pentru modificarea Legii nr.115/2015 pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea Legii administraţiei publice locale nr.215/2001, precum şi pentru modificarea şi completarea Legii nr.393/2004 privind Statutul aleşilor locali",
+    "registrationNumber": {
+      "bpi": "198/02-06-2025",
+      "deputyChamber": "BP198/02.06.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n215/2001\nmodificarea\nL. nr.\n393/2004\nmodificarea\nL. nr.\n115/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "3",
+      "62",
+      "86",
+      "103",
+      "135",
+      "245",
+      "246",
+      "280",
+      "318",
+      "158",
+      "251",
+      "21",
+      "50",
+      "67",
+      "75",
+      "101",
+      "128",
+      "152",
+      "148",
+      "169",
+      "175",
+      "218",
+      "231",
+      "237",
+      "304",
+      "312",
+      "319",
+      "323"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/8/in198.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/8/em198.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/90/8/pl198.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22391"
+  }
+}

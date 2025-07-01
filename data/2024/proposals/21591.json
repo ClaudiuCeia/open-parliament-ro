@@ -1,0 +1,61 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:56.206Z",
+  "data": {
+    "idp": "21591",
+    "title": "Proiect de Lege pentru modificarea alin.(1) al art.469 din Legea nr.227/2015 privind Codul fiscal",
+    "registrationNumber": {
+      "bpi": "139/05-03-2024",
+      "senateChamber": "L749/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "59",
+      "146",
+      "170",
+      "246",
+      "297",
+      "303",
+      "79",
+      "98",
+      "101",
+      "35",
+      "123",
+      "30",
+      "49",
+      "60",
+      "40",
+      "48",
+      "66",
+      "120",
+      "126"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/7/em139.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/7/ces139.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/7/cl139.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/7/pvg139.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21591"
+  }
+}

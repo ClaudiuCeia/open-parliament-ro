@@ -1,0 +1,59 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:56.482Z",
+  "data": {
+    "idp": "21352",
+    "title": "Proiect de Lege pentru modificarea Legii fondului funciar nr.18/1991",
+    "registrationNumber": {
+      "bpi": "852/21-11-2023140/05-03-2024",
+      "senateChamber": "L764/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n18/1991",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "lege trimisa la promulgare\ntitlu votat:\nLegea pentru modificarea alin.(21) și (23) ale art.27 din Legea fondului funciar nr.18/1991",
+      "long": "lege trimisa la promulgare\ntitlu votat:\nLegea pentru modificarea alin.(21) și (23) ale art.27 din Legea fondului funciar nr.18/1991"
+    },
+    "initiators": [
+      "68",
+      "257",
+      "305",
+      "325",
+      "24",
+      "123",
+      "307",
+      "158",
+      "263",
+      "10",
+      "82",
+      "166",
+      "179",
+      "217",
+      "224",
+      "274",
+      "330"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/8/em852.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/8/pl852.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/8/ces140.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/8/cl140.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21352"
+  }
+}

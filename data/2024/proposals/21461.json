@@ -1,0 +1,64 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:10.829Z",
+  "data": {
+    "idp": "21461",
+    "title": "Proiect de Lege privind modificarea Ordonanţei de urgenţă a Guvernului nr. 81/2021 privind aprobarea metodelor de intervenţie imediată pentru prevenirea şi combaterea atacurilor exemplarelor de urs brun asupra persoanelor şi bunurilor acestora, precum şi pentru modificarea şi completarea unor acte normative",
+    "registrationNumber": {
+      "bpi": "971/20-12-2023173/12-03-2024",
+      "senateChamber": "L61/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n81/2021",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "48",
+      "191",
+      "233",
+      "254",
+      "36",
+      "100",
+      "116",
+      "135",
+      "154",
+      "158",
+      "159",
+      "161",
+      "172",
+      "183",
+      "201",
+      "263",
+      "11",
+      "112",
+      "37",
+      "66",
+      "120",
+      "126"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/60/9/em971.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/60/9/pl971.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/60/9/ces173.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/60/9/cl173.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21461"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:43.598Z",
+  "data": {
+    "idp": "22049",
+    "title": "Proiect de Lege pentru completarea art.291 alin.(2) din Legea nr. 227/2015 privind Codul fiscal",
+    "registrationNumber": {
+      "bpi": "644/08-10-2024",
+      "senateChamber": "L362/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "163",
+      "15",
+      "47",
+      "56",
+      "81",
+      "138",
+      "180",
+      "186",
+      "192",
+      "205",
+      "207",
+      "218",
+      "245",
+      "299",
+      "317",
+      "13",
+      "40",
+      "43",
+      "56",
+      "65",
+      "75",
+      "85",
+      "93",
+      "144",
+      "114",
+      "131",
+      "132",
+      "136",
+      "5",
+      "37",
+      "38",
+      "48",
+      "87",
+      "126"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/6/em644.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/6/ces644.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/6/cl644.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/6/pvg644.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/70/6/opcfisc644.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22049"
+  }
+}

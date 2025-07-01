@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:25.428Z",
+  "data": {
+    "idp": "21976",
+    "title": "Proiect de Lege pentru completarea art.7 din Ordonanţa Guvernului nr.27/2002 privind reglementarea activităţii de soluţionare a petiţiilor",
+    "registrationNumber": {
+      "bpi": "569/24-09-2024",
+      "senateChamber": "L429/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.G. nr.\n27/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 296/2024LEGE pentru completarea art. 7 din Ordonanta Guvernului nr. 27/2002 privind reglementarea activitătii de solutionare a petitiilor",
+      "long": "Lege 296/2024LEGE pentru completarea art. 7 din Ordonanta Guvernului nr. 27/2002 privind reglementarea activitătii de solutionare a petitiilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/20/2/em569.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/20/2/cl569.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21976"
+  }
+}

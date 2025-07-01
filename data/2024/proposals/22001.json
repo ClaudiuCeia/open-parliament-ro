@@ -1,0 +1,75 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:29.298Z",
+  "data": {
+    "idp": "22001",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii",
+    "registrationNumber": {
+      "bpi": "596/24-09-2024",
+      "senateChamber": "L455/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n95/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "89",
+      "261",
+      "121",
+      "4",
+      "5",
+      "13",
+      "19",
+      "23",
+      "64",
+      "75",
+      "112",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "344",
+      "265",
+      "275",
+      "280",
+      "285",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "68",
+      "69",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/4/em596.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/4/pl596.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/4/ces596.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/4/cl596.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22001"
+  }
+}

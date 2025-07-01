@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:05.194Z",
+  "data": {
+    "idp": "22122",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.126/2024 pentru modificarea şi completarea Legii nr.96/2000 privind organizarea şi funcţionarea Băncii de Export-Import a României EXIMBANK- S.A. şi pentru reglementarea unor măsuri bugetare, precum şi pentru modificarea şi completarea unor acte normative",
+    "registrationNumber": {
+      "bpi": "726/13-11-2024",
+      "senateChamber": "L544/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n126/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/2/em726.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/2/oug726.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/2/ces726.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/2/cl726.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22122"
+  }
+}

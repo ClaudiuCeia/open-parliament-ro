@@ -1,0 +1,59 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:13.152Z",
+  "data": {
+    "idp": "22452",
+    "title": "Propunere legislativă pentru completarea Legii nr.62 din 26 iunie 2019 privind activitatea consulară, publicată în Monitorul Oficial al României, Partea I, nr.525 din 26 iunie 2019",
+    "registrationNumber": {
+      "bpi": "270/25-06-2025",
+      "senateChamber": "L172/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n62/2019",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "3",
+      "70",
+      "135",
+      "245",
+      "280",
+      "318",
+      "10",
+      "251",
+      "60",
+      "55",
+      "65",
+      "77",
+      "132",
+      "164",
+      "183",
+      "229",
+      "266"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/8/em270.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/8/pl270.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/8/ces270.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/8/cl270.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22452"
+  }
+}

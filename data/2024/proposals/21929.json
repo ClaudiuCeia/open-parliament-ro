@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:01.245Z",
+  "data": {
+    "idp": "21929",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.67/2024 privind reorganizarea şi funcţionarea Institutului Naţional de Administraţie",
+    "registrationNumber": {
+      "bpi": "517/17-09-2024",
+      "senateChamber": "L354/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n67/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 81/2025LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 67/2024 privind reorganizarea si functionarea Institutului National de Administratie",
+      "long": "Lege 81/2025LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 67/2024 privind reorganizarea si functionarea Institutului National de Administratie"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/5/em517.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/5/oug517.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/5/ces517.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/5/cl517.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21929"
+  }
+}

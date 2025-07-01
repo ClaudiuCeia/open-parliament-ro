@@ -1,0 +1,65 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:46.211Z",
+  "data": {
+    "idp": "22057",
+    "title": "Propunere legislativă pentru modificarea Legii nr.202/2002 privind egalitatea de şanse şi de tratament între femei şi bărbaţi",
+    "registrationNumber": {
+      "bpi": "654/08-10-2024",
+      "senateChamber": "L459/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n202/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "109",
+      "121",
+      "4",
+      "5",
+      "13",
+      "22",
+      "64",
+      "75",
+      "336",
+      "153",
+      "187",
+      "222",
+      "231",
+      "247",
+      "344",
+      "275",
+      "285",
+      "294",
+      "27"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/4/em654.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/4/pl654.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/4/ces654.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/4/cl654.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/4/pvg654.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22057"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:08.426Z",
+  "data": {
+    "idp": "21467",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.108/2023 pentru modificarea şi completarea Legii concurenţei nr.21/1996, precum şi a altor acte normative",
+    "registrationNumber": {
+      "bpi": "4/05-02-2024",
+      "senateChamber": "L704/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n108/2023",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 231/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 108/2023 pentru modificarea si completarea Legii concurentei nr. 21/1996, precum si a altor acte normative",
+      "long": "Lege 231/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 108/2023 pentru modificarea si completarea Legii concurentei nr. 21/1996, precum si a altor acte normative"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/5/gv4.pdf",
+        "title": "Adresa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/5/em4.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/5/oug4.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/5/ces4.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/5/cl4.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/5/comp4.pdf",
+        "title": "Tabel comparativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21467"
+  }
+}

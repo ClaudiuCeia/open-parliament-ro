@@ -1,0 +1,59 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:51.800Z",
+  "data": {
+    "idp": "21750",
+    "title": "Propunere legislativă pentru completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii",
+    "registrationNumber": {
+      "bpi": "318/30-04-2024",
+      "senateChamber": "L179/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n95/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "163",
+      "15",
+      "34",
+      "43",
+      "52",
+      "56",
+      "90",
+      "164",
+      "186",
+      "192",
+      "207",
+      "251",
+      "262",
+      "276",
+      "317",
+      "319",
+      "327"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/8/em318.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/8/pl318.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/8/ces318.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/8/cl318.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21750"
+  }
+}

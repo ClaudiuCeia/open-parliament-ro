@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-06-30T10:08:39.150Z",
+  "lastUpdated": "2025-07-01T16:04:42.739Z",
   "data": {
     "idm": "9",
     "name": "Gabriel ANDRONACHE",
@@ -24,7 +24,7 @@
     },
     "activity": {
       "Luări de cuvânt": {
-        "count": 51,
+        "count": 52,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=5282&leg=2024&idl=1"
       },
       "Declaraţii politice depuse în scris": {
@@ -32,7 +32,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=5282&leg=2024&idl=1"
       },
       "Luări de cuvânt în BP": {
-        "count": 18,
+        "count": 19,
         "url": "https://www.cdep.ro/bp/sedinte2015.cautare?idv=5282&leg=2024&ope=1"
       },
       "Propuneri legislative iniţiate": {

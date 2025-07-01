@@ -1,0 +1,52 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:14.531Z",
+  "data": {
+    "idp": "21480",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.115/2015 pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea Legii administraţiei publice locale nr.215/2001, precum şi pentru modificarea şi completarea Legii nr.393/2004 privind Statutul aleşilor locali",
+    "registrationNumber": {
+      "bpi": "24/06-02-2024",
+      "senateChamber": "L688/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n215/2001\nmodificarea\nL. nr.\n393/2004\nmodificarea\nL. nr.\n115/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "15",
+      "31",
+      "47",
+      "56",
+      "147",
+      "192"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/2/em24.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/2/pl24.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/2/ces24.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/2/cl24.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/2/pvg24.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21480"
+  }
+}

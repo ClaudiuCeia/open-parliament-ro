@@ -1,0 +1,66 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:32.578Z",
+  "data": {
+    "idp": "21711",
+    "title": "Proiect de Lege pentru modificarea art.5 din Ordonanţa de urgenţă a Guvernului nr.105/2023 privind instituirea unor măsuri în derularea Programului naţional de dezvoltare locală şi a Programului naţional de investiţii „Anghel Saligny”",
+    "registrationNumber": {
+      "bpi": "276/09-04-2024438/19-06-2024",
+      "senateChamber": "L306/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n105/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "46",
+      "78",
+      "252",
+      "254",
+      "264",
+      "287",
+      "293",
+      "36",
+      "37",
+      "84",
+      "100",
+      "116",
+      "135",
+      "154",
+      "158",
+      "183",
+      "201",
+      "263",
+      "282",
+      "328",
+      "166",
+      "179",
+      "5",
+      "38",
+      "48",
+      "66",
+      "67",
+      "126"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/4/em438.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/4/ces438.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/4/cl438.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21711"
+  }
+}

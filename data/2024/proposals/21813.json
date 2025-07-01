@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:13.650Z",
+  "data": {
+    "idp": "21813",
+    "title": "Proiect de Lege pentru suportarea de către statul român a cheltuielilor ocazionate de repatrierea cetăţenilor români decedaţi în străinătate, precum şi pentru abrogarea lit.b) a alin.(1) al art. 15 din Legea nr.198/2008 privind serviciile consulare pentru care se percep taxe şi nivelul taxelor consulare la misiunile diplomatice şi oficiile consulare ale României în străinătate",
+    "registrationNumber": {
+      "bpi": "391/28-05-2024",
+      "senateChamber": "L238/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 270/2024LEGE pentru suportarea de către statul român a cheltuielilor ocazionate de repatrierea cetătenilor români decedati în străinătate, precum si pentru abrogarea lit. b) a alin. (1) al art. 15 din Legea nr. 198/2008 privind serviciile consulare pentru care se percep taxe si nivelul taxelor consulare la misiunile diplomatice si oficiile consulare ale României în străinătate",
+      "long": "Lege 270/2024LEGE pentru suportarea de către statul român a cheltuielilor ocazionate de repatrierea cetătenilor români decedati în străinătate, precum si pentru abrogarea lit. b) a alin. (1) al art. 15 din Legea nr. 198/2008 privind serviciile consulare pentru care se percep taxe si nivelul taxelor consulare la misiunile diplomatice si oficiile consulare ale României în străinătate"
+    },
+    "initiators": [
+      "266"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/1/em391.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/1/ces391.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/1/cl391.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/1/opcfisc391.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21813"
+  }
+}

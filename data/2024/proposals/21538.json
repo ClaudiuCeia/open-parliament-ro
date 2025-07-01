@@ -1,0 +1,61 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:49.295Z",
+  "data": {
+    "idp": "21538",
+    "title": "Propunere legislativă privind acordarea unor facilităţi fiscale sub forma unor reduceri/scutiri de la plata impozitelor pentru familiile care au în întreţinere mai mult de trei copii, precum şi pentru cele care adoptă copii",
+    "registrationNumber": {
+      "bpi": "86/20-02-2024324/30-04-2024",
+      "senateChamber": "L194/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "",
+      "long": ""
+    },
+    "initiators": [
+      "337",
+      "67",
+      "72",
+      "88",
+      "99",
+      "113",
+      "157",
+      "162",
+      "188",
+      "202",
+      "253",
+      "292",
+      "256",
+      "23",
+      "71"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/1/em324.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/1/pl324.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/1/ces324.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/1/cl324.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/1/opConsFisc324.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21538"
+  }
+}

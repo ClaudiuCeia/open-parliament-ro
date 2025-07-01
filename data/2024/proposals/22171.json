@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:24.810Z",
+  "data": {
+    "idp": "22171",
+    "title": "Proiect de Lege privind instituirea Zilei Naţionale a Libertăţii Religioase şi a contribuţiei cultelor la viaţa societăţii româneşti",
+    "registrationNumber": {
+      "bpi": "774/18-12-2024",
+      "senateChamber": "L605/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 98/2025LEGE privind instituirea Zilei nationale a libertătii religioase si a contributiei cultelor la viata societătii românesti",
+      "long": "Lege 98/2025LEGE privind instituirea Zilei nationale a libertătii religioase si a contributiei cultelor la viata societătii românesti"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/1/em774.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/1/cl774.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22171"
+  }
+}

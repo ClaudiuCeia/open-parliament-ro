@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:31.635Z",
+  "data": {
+    "idp": "21697",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.22/2024 pentru modificarea art.351 din Ordonanţa de urgenţă a Guvernului nr.36/2023 privind stabilirea cadrului general pentru închiderea programelor operaţionale finanţate în perioada de programare 2014-2020",
+    "registrationNumber": {
+      "bpi": "261/03-04-2024",
+      "senateChamber": "L149/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n22/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 180/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 22/2024 pentru modificarea art. 351 din Ordonanta de urgentă a Guvernului nr. 36/2023 privind stabilirea cadrului general pentru închiderea programelor operationale finantate în perioada de programare 2014-2020",
+      "long": "Lege 180/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 22/2024 pentru modificarea art. 351 din Ordonanta de urgentă a Guvernului nr. 36/2023 privind stabilirea cadrului general pentru închiderea programelor operationale finantate în perioada de programare 2014-2020"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/20/9/em261.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/20/9/oug261.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/20/9/cl261.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21697"
+  }
+}

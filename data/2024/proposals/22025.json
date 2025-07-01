@@ -1,0 +1,46 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:37.136Z",
+  "data": {
+    "idp": "22025",
+    "title": "Proiect de Lege pentru completarea art.1181 din Legea nr.53/2003 - Codul muncii",
+    "registrationNumber": {
+      "bpi": "620/02-10-2024",
+      "senateChamber": "L404/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n53/2003",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "pe ordinea de zi a sedintelor Camerei Deputatilor",
+      "long": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+    },
+    "initiators": [
+      "308",
+      "322",
+      "47",
+      "80"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/50/8/em620.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/50/8/ces620.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/50/8/cl620.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/50/8/pvg620.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22025"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:48.034Z",
+  "data": {
+    "idp": "21570",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.1/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice",
+    "registrationNumber": {
+      "bpi": "117/27-02-2024",
+      "senateChamber": "L5/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n1/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "pe ordinea de zi a sedintelor Camerei Deputatilor",
+      "long": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/00/4/em117.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/00/4/oug117.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/00/4/cl117.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21570"
+  }
+}

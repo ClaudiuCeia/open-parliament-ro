@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:05.049Z",
+  "data": {
+    "idp": "21789",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.39/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.159/2020 privind finanţarea întreprinderilor mici şi mijlocii şi domeniului HORECA pentru instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică cu o putere instalată cuprinsă între 27 kWp şi 100 kWp necesară consumului propriu şi livrarea surplusului în Sistemul energetic naţional, precum şi a staţiilor de reîncărcare de minimum 22 kW pentru vehicule electrice şi electrice hibrid plug-in, prin Programul de finanţare „ELECTRIC UP”",
+    "registrationNumber": {
+      "bpi": "361/23-05-2024",
+      "senateChamber": "L247/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n39/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 261/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 39/2024 pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 159/2020 privind finantarea întreprinderilor mici si mijlocii si domeniului HORECA pentru instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică cu o putere instalată cuprinsă între 27 kWp si 100 kWp necesară consumului propriu si livrarea surplusului în Sistemul energetic national, precum si a statiilor de reîncărcare de minimum 22 kW pentru vehicule electrice si electrice hibrid plug-in, prin Programul de finantare \"ELECTRIC UP\"",
+      "long": "Lege 261/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 39/2024 pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 159/2020 privind finantarea întreprinderilor mici si mijlocii si domeniului HORECA pentru instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică cu o putere instalată cuprinsă între 27 kWp si 100 kWp necesară consumului propriu si livrarea surplusului în Sistemul energetic national, precum si a statiilor de reîncărcare de minimum 22 kW pentru vehicule electrice si electrice hibrid plug-in, prin Programul de finantare \"ELECTRIC UP\""
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/6/em361.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/6/oug361.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/6/cl361.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21789"
+  }
+}

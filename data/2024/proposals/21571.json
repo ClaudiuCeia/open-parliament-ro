@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:48.332Z",
+  "data": {
+    "idp": "21571",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.4/2024 pentru stabilirea unor măsuri de sprijin cu caracter temporar, destinate producătorilor agricoli în scopul gestionării efectelor fenomenului de secetă pedologică din anul 2023 şi ca urmare a agresiunii Rusiei împotriva Ucrainei",
+    "registrationNumber": {
+      "bpi": "118/27-02-2024",
+      "senateChamber": "L31/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n4/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/00/5/em118.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/00/5/oug118.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/00/5/cl118.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21571"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.376Z",
+  "data": {
+    "idp": "22248",
+    "title": "Proiect de Hotărâre privind modificarea Regulamentului Camerei Deputaţilor",
+    "registrationNumber": {
+      "bpi": "48/06-03-2025",
+      "deputyChamber": "BP48/06.03.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raportdepus",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": ["186", "254", "9", "166", "112"],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/40/8/in48.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/40/8/em48.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/40/8/PHCD17.pdf",
+        "title": "PHCD17"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/40/8/anexa.pdf",
+        "title": "ANEXĂ"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22248"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:19.296Z",
+  "data": {
+    "idp": "21994",
+    "title": "Propunere legislativă privind abrogarea Legii nr.86/2024 privind instituirea zilei de 14 mai ca \"Ziua Solidarităţii şi Prieteniei dintre România şi Statul Israel\"",
+    "registrationNumber": {
+      "bpi": "589/24-09-2024",
+      "senateChamber": "L400/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nabrogarea\nL. nr.\n86/2024",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata prin respingere definitiva de catre Camera Deputatilor",
+      "long": "procedura legislativa încetata prin respingere definitiva de catre Camera Deputatilor"
+    },
+    "initiators": [
+      "72",
+      "162",
+      "64"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/7/em589.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/7/pl589.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/7/ces589.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/7/cl589.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/7/pvg589.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21994"
+  }
+}

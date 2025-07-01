@@ -1,0 +1,56 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:28.359Z",
+  "data": {
+    "idp": "21998",
+    "title": "Propunere legislativă pentru completarea art.6 din Ordonanţa nr.39/2015 privind cazierul fiscal",
+    "registrationNumber": {
+      "bpi": "593/24-09-2024",
+      "senateChamber": "L421/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.G. nr.\n39/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "9",
+      "13",
+      "15",
+      "43",
+      "75",
+      "85",
+      "89",
+      "144",
+      "132",
+      "136"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/1/em593.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/1/pl593.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/1/ces593.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/1/cl593.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/1/pvg593.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21998"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:22.005Z",
+  "data": {
+    "idp": "21501",
+    "title": "Proiect de Lege privind transmiterea unui imobil situat în municipiul Tulcea, judeţul Tulcea, aflat în domeniul public al statului, din administrarea Administraţiei Rezervaţiei Biosferei „Delta Dunării”, aflată în subordinea Ministerului Mediului, Apelor şi Pădurilor, în administrarea Ministerului Apărării Naţionale",
+    "registrationNumber": {
+      "bpi": "43/13-02-2024",
+      "senateChamber": "L672/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 15/2025LEGE privind transmiterea unui imobil situat în municipiul Tulcea, judetul Tulcea, aflat în domeniul public al statului, din administrarea Administratiei Rezervatiei Biosferei \"Delta Dunării\", aflată în subordinea Ministerului Mediului, Apelor si Pădurilor, în administrarea Ministerului Apărării Nationale",
+      "long": "Lege 15/2025LEGE privind transmiterea unui imobil situat în municipiul Tulcea, judetul Tulcea, aflat în domeniul public al statului, din administrarea Administratiei Rezervatiei Biosferei \"Delta Dunării\", aflată în subordinea Ministerului Mediului, Apelor si Pădurilor, în administrarea Ministerului Apărării Nationale"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/40/2/em.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/40/2/em43.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/40/2/cl43.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21501"
+  }
+}

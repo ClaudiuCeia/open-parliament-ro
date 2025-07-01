@@ -1,0 +1,54 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:03.984Z",
+  "data": {
+    "idp": "21375",
+    "title": "Propunere legislativă pentru completarea art.36 din Legea nr.160/1998 pentru organizarea şi exercitarea profesiei de medic veterinar",
+    "registrationNumber": {
+      "bpi": "878/05-12-2023193/12-03-2024",
+      "senateChamber": "L71/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n160/1998",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "7",
+      "42",
+      "65",
+      "91",
+      "115",
+      "175",
+      "206",
+      "210",
+      "305",
+      "310",
+      "315",
+      "318"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/0/em878.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/0/pl878.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/0/ces193.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/0/cl193.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21375"
+  }
+}

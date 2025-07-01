@@ -1,0 +1,49 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:44.252Z",
+  "data": {
+    "idp": "21318",
+    "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvermului nr.111/2010 privind concediul şi indemnizaţia lunară pentru creşterea copiilor şi modificarea Legii nr.72/2016 privind sistemul de pensii şi alte drepturi de asigurări sociale ale avocaţilor",
+    "registrationNumber": {
+      "bpi": "813/31-10-202381/20-02-2024",
+      "senateChamber": "L730/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n111/2010\nmodificarea\nL. nr.\n72/2016",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "193",
+      "21",
+      "197",
+      "8",
+      "139",
+      "86",
+      "114"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/90/4/em813.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/90/4/pl813.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/90/4/ces81.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/90/4/cl81.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21318"
+  }
+}

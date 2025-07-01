@@ -1,0 +1,67 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:19.237Z",
+  "data": {
+    "idp": "21658",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.213/2015 privind Fondul de garantare a asiguraţilor",
+    "registrationNumber": {
+      "bpi": "217/19-03-2024",
+      "senateChamber": "L107/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n213/2015",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "",
+      "long": ""
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/2/em217.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/2/ces217.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/2/cl217.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/2/asf217.pdf",
+        "title": "Punctul de vedere al Autorității de Supraveghere Financiară"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/2/comp217.pdf",
+        "title": "Tabel comparativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/2/conc217.pdf",
+        "title": "Tabel de concordanță"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/2/mae217.pdf",
+        "title": "Observațiile Ministerului Afacerilor Externe"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/2/mj217.pdf",
+        "title": "Observațiile Ministerului Justiției"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/2/cceian217.pdf",
+        "title": "Observațiile Consiliul consultativ pentru evaluarea impactului actelor normative"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/2/mfp217.pdf",
+        "title": "Observațiile Ministerului Finantelor Publice"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21658"
+  }
+}

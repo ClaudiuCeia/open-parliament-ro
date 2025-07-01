@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:52.142Z",
+  "data": {
+    "idp": "21588",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.6/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.126/2005 privind reprezentarea României sau a instituţiilor publice în faţa Curţii de Arbitraj Internaţionale a Centrului Internaţional pentru Reglementarea Diferendelor Relative la Investiţii",
+    "registrationNumber": {
+      "bpi": "136/05-03-2024",
+      "senateChamber": "L109/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n6/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 101/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 6/2024 pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 126/2005 privind reprezentarea României sau a institutiilor publice în fata Curtii de Arbitraj Internationale a Centrului International pentru Reglementarea Diferendelor Relative la Investitii",
+      "long": "Lege 101/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 6/2024 pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 126/2005 privind reprezentarea României sau a institutiilor publice în fata Curtii de Arbitraj Internationale a Centrului International pentru Reglementarea Diferendelor Relative la Investitii"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/6/em136.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/6/oug136.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/6/cl136.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/6/comp136.pdf",
+        "title": "Tabel comparativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21588"
+  }
+}

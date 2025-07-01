@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:37.007Z",
+  "data": {
+    "idp": "21542",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei Guvernului nr.5/2024 privind instituirea unei scheme de ajutor de stat pentru sprijinirea întreprinderilor care îşi desfăşoară activitatea în domeniul producţiei primare de produse agricole vegetale, ca urmare a agresiunii Rusiei împotriva Ucrainei",
+    "registrationNumber": {
+      "bpi": "90/20-02-2024",
+      "senateChamber": "L20/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n5/2024",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 140/2024LEGE pentru aprobarea Ordonantei Guvernului nr. 5/2024 privind instituirea unei scheme de ajutor de stat pentru sprijinirea întreprinderilor care îsi desfăsoară activitatea în domeniul productiei primare de produse agricole vegetale, ca urmare a agresiunii Rusiei împotriva Ucrainei",
+      "long": "Lege 140/2024LEGE pentru aprobarea Ordonantei Guvernului nr. 5/2024 privind instituirea unei scheme de ajutor de stat pentru sprijinirea întreprinderilor care îsi desfăsoară activitatea în domeniul productiei primare de produse agricole vegetale, ca urmare a agresiunii Rusiei împotriva Ucrainei"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/7/em90.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/7/og90.pdf",
+        "title": "Ordonanţa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/7/cl90.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21542"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-06-30T10:11:00.398Z",
+  "lastUpdated": "2025-07-01T16:07:45.065Z",
   "data": {
     "idm": "241",
     "name": "Nicolae-Miroslav PETREŢCHI",
@@ -13,11 +13,11 @@
     },
     "activity": {
       "Luări de cuvânt": {
-        "count": 17,
+        "count": 18,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=6683&leg=2024&idl=1"
       },
       "- din care declaraţii politice": {
-        "count": 9,
+        "count": 10,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=6683&leg=2024&topic1=1"
       },
       "Declaraţii politice depuse în scris": {
@@ -25,7 +25,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=6683&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 11,
+        "count": 12,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=241&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Proiecte de hotarâre iniţiate": {
@@ -33,7 +33,7 @@
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=241&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
       },
       "Întrebari şi interpelări": {
-        "count": 9,
+        "count": 11,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=241&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
       }
     }

@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:37.269Z",
+  "data": {
+    "idp": "21723",
+    "title": "Proiect de Lege pentru ratificarea Protocolului adiţional privind dreptul de participare la activităţile unei autorităţi locale, adoptat la Utrecht, la 16 noiembrie 2009 şi semnat de partea română la 17 octombrie 2023, la Carta europeană a autonomiei locale, adoptată la Strasbourg, la 15 octombrie 1985",
+    "registrationNumber": {
+      "bpi": "289/18-04-2024",
+      "senateChamber": "L399/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 277/2024LEGE pentru ratificarea Protocolului aditional privind dreptul de participare la activitătile unei autorităti locale, adoptat la Utrecht la 16 noiembrie 2009 si semnat de partea română la 17 octombrie 2023, la Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985  Protocol aditional la Carta europeană a autonomiei locale privind dreptul de participare la activitătile unei autorităti locale",
+      "long": "Lege 277/2024LEGE pentru ratificarea Protocolului aditional privind dreptul de participare la activitătile unei autorităti locale, adoptat la Utrecht la 16 noiembrie 2009 si semnat de partea română la 17 octombrie 2023, la Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985  Protocol aditional la Carta europeană a autonomiei locale privind dreptul de participare la activitătile unei autorităti locale"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/40/3/decret289.pdf",
+        "title": "Decretul privind supunerea spre ratificare Parlamentului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/40/3/em289.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/40/3/pl289.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/40/3/cl289.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21723"
+  }
+}

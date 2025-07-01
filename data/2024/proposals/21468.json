@@ -1,0 +1,46 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:07.865Z",
+  "data": {
+    "idp": "21468",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii 303/2022 privind statutul judecătorilor şi procurorilor",
+    "registrationNumber": {
+      "bpi": "6/06-02-2024",
+      "senateChamber": "L279/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n303/2022",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata prin respingere definitiva de catre Senat",
+      "long": "procedura legislativa încetata prin respingere definitiva de catre Senat"
+    },
+    "initiators": [
+      "118"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-03-12T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/4/em6.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/4/pl6.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/4/ces6.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/4/cl6.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21468"
+  }
+}

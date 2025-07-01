@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:19.048Z",
+  "data": {
+    "idp": "22159",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.96/2006, republicată, privind Statutul deputaţilor şi al senatorilor",
+    "registrationNumber": {
+      "bpi": "762/17-12-2024",
+      "senateChamber": "L680/17.12.2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor + Senatul",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 325/2024LEGE pentru modificarea si completarea Legii nr. 96/2006 privind Statutul deputatilor si al senatorilor",
+      "long": "Lege 325/2024LEGE pentru modificarea si completarea Legii nr. 96/2006 privind Statutul deputatilor si al senatorilor"
+    },
+    "initiators": [
+      "12",
+      "14",
+      "49",
+      "57",
+      "86"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/80/4/em684.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/80/4/pl684.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22159"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:06.288Z",
+  "data": {
+    "idp": "22125",
+    "title": "Propunere legislativă privind modificarea Legii nr.227/2015 privind Codul fiscal",
+    "registrationNumber": {
+      "bpi": "729/13-11-2024",
+      "senateChamber": "L538/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "71",
+      "81",
+      "90",
+      "138",
+      "180",
+      "205",
+      "262",
+      "276",
+      "319",
+      "9",
+      "137",
+      "15",
+      "24",
+      "40",
+      "43",
+      "56",
+      "65",
+      "74",
+      "85",
+      "89",
+      "93",
+      "144",
+      "131",
+      "132",
+      "136"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/5/em729.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/5/pl729.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/5/ces729.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/5/cl729.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/40/5/OpConsFisc729.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22125"
+  }
+}

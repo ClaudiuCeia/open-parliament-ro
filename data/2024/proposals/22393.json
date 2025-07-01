@@ -1,0 +1,67 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:03.030Z",
+  "data": {
+    "idp": "22393",
+    "title": "Proiect de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr.175/2022 pentru stabilirea unor măsuri privind obiectivele de investiţii pentru realizarea de amenajări hidroenergetice în curs de execuţie, precum şi a altor proiecte de interes public major care utilizează energie regenerabilă, precum şi pentru modificarea şi completarea unor acte normative",
+    "registrationNumber": {
+      "bpi": "201/03-06-2025",
+      "senateChamber": "L123/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n175/2022",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "34",
+      "76",
+      "168",
+      "178",
+      "305",
+      "46",
+      "84",
+      "199",
+      "232",
+      "271",
+      "273",
+      "4",
+      "260",
+      "25",
+      "111",
+      "161",
+      "39",
+      "1",
+      "15",
+      "31",
+      "53",
+      "58",
+      "91",
+      "98",
+      "6"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/9/em201.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/9/ces201.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/9/cl201.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/9/cconc201.pdf",
+        "title": "Avizul Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22393"
+  }
+}

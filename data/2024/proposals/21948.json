@@ -1,0 +1,71 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:07.986Z",
+  "data": {
+    "idp": "21948",
+    "title": "Propunere legislativă pentru modificarea Legii nr.168/2020 pentru recunoaşterea meritelor personalului participant la acţiuni militare, misiuni şi operaţii pe teritoriul sau în afara teritoriului statului român şi acordarea unor drepturi acestuia, familiei acestuia şi urmaşilor celui decedat",
+    "registrationNumber": {
+      "bpi": "539/17-09-2024",
+      "senateChamber": "L462/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n168/2020",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "89",
+      "121",
+      "4",
+      "5",
+      "19",
+      "23",
+      "75",
+      "112",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "344",
+      "265",
+      "275",
+      "280",
+      "285",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "69",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/70/7/em539.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/70/7/pl539.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/70/7/ces539.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/70/7/cl539.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21948"
+  }
+}

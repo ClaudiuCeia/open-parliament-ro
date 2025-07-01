@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:52.245Z",
+  "data": {
+    "idp": "21908",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.63/2024 privind finanţarea din Fondul pentru mediu a unor proiecte de dezvoltare a infrastructurii de management integrat al deşeurilor",
+    "registrationNumber": {
+      "bpi": "493/04-09-2024",
+      "senateChamber": "L349/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n63/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 65/2025LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 63/2024 privind finantarea din Fondul pentru mediu a unor proiecte de dezvoltare a infrastructurii de management integrat al deseurilor",
+      "long": "Lege 65/2025LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 63/2024 privind finantarea din Fondul pentru mediu a unor proiecte de dezvoltare a infrastructurii de management integrat al deseurilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/2/em493.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/2/oug493.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/30/2/cl493.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21908"
+  }
+}

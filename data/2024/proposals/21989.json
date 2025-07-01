@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:18.211Z",
+  "data": {
+    "idp": "21989",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr.69/2000",
+    "registrationNumber": {
+      "bpi": "583/24-09-2024",
+      "senateChamber": "L425/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n69/2000",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "lege trimisa la promulgare\ntitlu votat:\nLegea pentru modificarea Legii educației fizice și sportului nr.69/2000",
+      "long": "lege trimisa la promulgare\ntitlu votat:\nLegea pentru modificarea Legii educației fizice și sportului nr.69/2000"
+    },
+    "initiators": [
+      "70",
+      "8",
+      "49",
+      "139",
+      "86"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/4/em583.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/4/ces583.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/4/cl583.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/4/pvg583.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21989"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:48.334Z",
+  "data": {
+    "idp": "21897",
+    "title": "Proiect de Lege privind completarea art.1 din Legea nr.222/2017 pentru realizarea „Capabilităţii de apărare aeriană cu baza la sol”, aferentă programului de înzestrare esenţial „Sistem de rachete sol-aer cu bătaie mare (HSAM)”",
+    "registrationNumber": {
+      "bpi": "482/02-09-2024",
+      "senateChamber": "L468/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n222/2017",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 246/2024LEGE privind completarea art. 1 din Legea nr. 222/2017 pentru realizarea \"Capabilitătii de apărare aeriană cu baza la sol\", aferentă programului de înzestrare esential \"Sistem de rachete sol-aer cu bătaie mare (HSAM)\"",
+      "long": "Lege 246/2024LEGE privind completarea art. 1 din Legea nr. 222/2017 pentru realizarea \"Capabilitătii de apărare aeriană cu baza la sol\", aferentă programului de înzestrare esential \"Sistem de rachete sol-aer cu bătaie mare (HSAM)\""
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/3/em423.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/3/cl423.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21897"
+  }
+}

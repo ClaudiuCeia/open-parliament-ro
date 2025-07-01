@@ -1,0 +1,51 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:08.859Z",
+  "data": {
+    "idp": "22141",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr.69/2000",
+    "registrationNumber": {
+      "bpi": "746/27-11-2024",
+      "senateChamber": "L567/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n69/2000",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "125"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/3/em746.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/3/pl746.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/3/ces746.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/3/cl746.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/3/cconc746.pdf",
+        "title": "Avizul Consiliului Concurenței"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/3/opcfisc746.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22141"
+  }
+}

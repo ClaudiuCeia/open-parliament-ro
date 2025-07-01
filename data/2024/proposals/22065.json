@@ -1,0 +1,63 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:47.867Z",
+  "data": {
+    "idp": "22065",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.8/2016 privind înfiinţarea mecanismelor prevăzute de Convenţia privind drepturile persoanelor cu dizabilităţi",
+    "registrationNumber": {
+      "bpi": "662/15-10-2024",
+      "senateChamber": "B466/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n8/2016",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata prin neîncadrare în prevederile art.63 alin.5 din Constitutia României republicata",
+      "long": "procedura legislativa încetata prin neîncadrare în prevederile art.63 alin.5 din Constitutia României republicata"
+    },
+    "initiators": [
+      "70",
+      "76",
+      "109",
+      "110",
+      "117",
+      "123",
+      "83",
+      "66",
+      "67",
+      "140"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-11-25T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/8/em662.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/8/pl662.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/8/ces662.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/8/cl662.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/8/opconsfisc662.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/8/agfpublici662.pdf",
+        "title": "Punctul de vedere al Agenției Naționale a Funcționarilor Publici"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22065"
+  }
+}

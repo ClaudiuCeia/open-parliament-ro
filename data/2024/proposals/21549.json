@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:39.547Z",
+  "data": {
+    "idp": "21549",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei Guvernului nr.12/2024 privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectoarele suin şi avicol, în perioada 1 august 2022-31 august 2023, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei",
+    "registrationNumber": {
+      "bpi": "96/21-02-2024",
+      "senateChamber": "L27/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n12/2024",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 141/2024LEGE pentru aprobarea Ordonantei Guvernului nr. 12/2024 privind instituirea unei scheme de ajutor de stat pentru sustinerea activitătii crescătorilor din sectoarele suin si avicol, în perioada 1 august 2022 - 31 august 2023, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei",
+      "long": "Lege 141/2024LEGE pentru aprobarea Ordonantei Guvernului nr. 12/2024 privind instituirea unei scheme de ajutor de stat pentru sustinerea activitătii crescătorilor din sectoarele suin si avicol, în perioada 1 august 2022 - 31 august 2023, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/3/em96.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/3/og96.pdf",
+        "title": "Ordonanţa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/3/ces96.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/3/cl96.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21549"
+  }
+}

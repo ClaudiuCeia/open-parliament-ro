@@ -1,0 +1,55 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:16.976Z",
+  "data": {
+    "idp": "20225",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei Guvernului nr.19/2022 cu privire la rectificarea bugetului de stat pe anul 2022",
+    "registrationNumber": {
+      "bpi": "561/23-08-2022",
+      "senateChamber": "L652/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor + Senatul",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n19/2022",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor si Senatului",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor si Senatului"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/8/em561.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/8/pl561.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/8/og561.pdf",
+        "title": "Ordonanţa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/8/ces561.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/8/cl561.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/8/opinia561.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/8/csat561.pdf",
+        "title": "Hotărârea Consiliului Suprem de Apărare a Țării"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20225"
+  }
+}

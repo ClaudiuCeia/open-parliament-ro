@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:40.664Z",
+  "data": {
+    "idp": "22048",
+    "title": "Proiect de Lege privind stabilirea salariilor minime adecvate, precum şi pentru modificarea şi completarea unor acte normative",
+    "registrationNumber": {
+      "bpi": "642/08-10-2024",
+      "senateChamber": "L368/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 283/2024LEGE privind modificarea si completarea unor acte normative, pentru stabilirea salariilor minime adecvate",
+      "long": "Lege 283/2024LEGE privind modificarea si completarea unor acte normative, pentru stabilirea salariilor minime adecvate"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/60/8/em642.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/60/8/concor642.pdf",
+        "title": "Tabel de concordanță"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/60/8/ces642.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/60/8/cl642.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22048"
+  }
+}

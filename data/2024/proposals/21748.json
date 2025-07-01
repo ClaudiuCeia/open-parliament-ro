@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:48.965Z",
+  "data": {
+    "idp": "21748",
+    "title": "Propunere legislativă privind protecţia şi promovarea drepturilor fundamentale ale copiilor cetăţeni români domiciliaţi sau cu reşedinţa în străinătate (Legea Pia)",
+    "registrationNumber": {
+      "bpi": "316/30-04-2024",
+      "senateChamber": "L177/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "118"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/0/em316.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/0/pl316.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/0/ces316.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/0/cl316.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/0/csm316.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21748"
+  }
+}

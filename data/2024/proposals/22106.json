@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:00.149Z",
+  "data": {
+    "idp": "22106",
+    "title": "Propunere legislativă pentru completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ",
+    "registrationNumber": {
+      "bpi": "708/05-11-2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n57/2019",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata prin neîncadrare în prevederile art.63 alin.5 din Constitutia României republicata",
+      "long": "procedura legislativa încetata prin neîncadrare în prevederile art.63 alin.5 din Constitutia României republicata"
+    },
+    "initiators": [
+      "15",
+      "205"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-12-16T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/20/7/em708.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/20/7/pl708.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22106"
+  }
+}

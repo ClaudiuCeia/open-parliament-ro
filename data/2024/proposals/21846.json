@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:29.070Z",
+  "data": {
+    "idp": "21846",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.50/2024 pentru modificarea art.58 alin.(4) şi (5) din Legea nr.448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap",
+    "registrationNumber": {
+      "bpi": "428/19-06-2024",
+      "senateChamber": "L299/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n50/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "pe ordinea de zi a sedintelor Camerei Deputatilor",
+      "long": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/70/6/em428.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/70/6/oug428.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/70/6/ces428.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/70/6/cl428.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21846"
+  }
+}

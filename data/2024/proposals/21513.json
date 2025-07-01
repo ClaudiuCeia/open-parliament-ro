@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:20.393Z",
+  "data": {
+    "idp": "21513",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.122/2023 pentru modificarea art.13 alin.(3) din Ordonanţa de urgenţă a Guvernului nr.97/2005 privind evidenţa, domiciliul, reşedinţa şi actele de identitate ale cetăţenilor români",
+    "registrationNumber": {
+      "bpi": "56/14-02-2024",
+      "senateChamber": "L7/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n122/2023",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 215/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 122/2023 pentru modificarea art. 13 alin. (3) din Ordonanta de urgentă a Guvernului nr. 97/2005 privind evidenta, domiciliul, resedinta si actele de identitate ale cetătenilor români",
+      "long": "Lege 215/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 122/2023 pentru modificarea art. 13 alin. (3) din Ordonanta de urgentă a Guvernului nr. 97/2005 privind evidenta, domiciliul, resedinta si actele de identitate ale cetătenilor români"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/30/7/em56.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/30/7/oug56.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/30/7/cl56.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21513"
+  }
+}

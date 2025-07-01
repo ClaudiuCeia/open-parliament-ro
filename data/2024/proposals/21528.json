@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:31.576Z",
+  "data": {
+    "idp": "21528",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.127/2023 pentru modificarea şi completarea unor acte normative, prorogarea unor termene, precum şi unele măsuri bugetare",
+    "registrationNumber": {
+      "bpi": "73/20-02-2024",
+      "senateChamber": "L12/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n255/2023",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 153/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 127/2023 pentru modificarea si completarea unor acte normative, prorogarea unor termene, precum si unele măsuri bugetare",
+      "long": "Lege 153/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 127/2023 pentru modificarea si completarea unor acte normative, prorogarea unor termene, precum si unele măsuri bugetare"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/60/6/em73.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/60/6/oug73.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/60/6/ces73.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/60/6/cl73.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21528"
+  }
+}

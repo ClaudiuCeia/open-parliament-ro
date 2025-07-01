@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:29.455Z",
+  "data": {
+    "idp": "21524",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.2/2024 privind amânarea punerii în aplicare a Deciziei (UE) 2022/197 a Comisiei din 17 ianuarie 2022 de stabilire a unui marcaj fiscal comun pentru motorine şi kerosen",
+    "registrationNumber": {
+      "bpi": "69/20-02-2024",
+      "senateChamber": "L6/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n2/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 181/2024LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 2/2024 privind amânarea punerii în aplicare a Deciziei (UE) 2022/197 a Comisiei din 17 ianuarie 2022 de stabilire a unui marcaj fiscal comun pentru motorine si kerosen",
+      "long": "Lege 181/2024LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 2/2024 privind amânarea punerii în aplicare a Deciziei (UE) 2022/197 a Comisiei din 17 ianuarie 2022 de stabilire a unui marcaj fiscal comun pentru motorine si kerosen"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/60/2/em69.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/60/2/oug69.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/60/2/ces69.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/60/2/cl69.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21524"
+  }
+}

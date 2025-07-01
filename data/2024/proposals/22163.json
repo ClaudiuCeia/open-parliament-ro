@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:20.892Z",
+  "data": {
+    "idp": "22163",
+    "title": "Proiect de Lege privind desfăşurarea pe timp de pace a misiunilor şi operaţiilor militare pe teritoriul statului român",
+    "registrationNumber": {
+      "bpi": "766/17-12-2024",
+      "senateChamber": "L33/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 72/2025LEGE privind desfăsurarea pe timp de pace a misiunilor si operatiilor militare pe teritoriul statului român",
+      "long": "Lege 72/2025LEGE privind desfăsurarea pe timp de pace a misiunilor si operatiilor militare pe teritoriul statului român"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/5/em766.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/5/pl766.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/5/cl766.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/5/csat766.pdf",
+        "title": "Avizul Consiliului Suprem de Apărare a Țării"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22163"
+  }
+}

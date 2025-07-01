@@ -1,0 +1,54 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:00.643Z",
+  "data": {
+    "idp": "22377",
+    "title": "Proiect de Lege pentru modificarea şi completarea anexelor nr.3 şi 4 din Legea nr.43/2014 privind protecţia animalelor utilizate în scopuri ştiinţifice",
+    "registrationNumber": {
+      "bpi": "181/27-05-2025",
+      "senateChamber": "L124/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n43/2014",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "14",
+      "50",
+      "74",
+      "90",
+      "108",
+      "5",
+      "27",
+      "31",
+      "49",
+      "53",
+      "58",
+      "70",
+      "76",
+      "136",
+      "98",
+      "3"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/7/em181.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/7/ces181.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/7/cl181.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22377"
+  }
+}

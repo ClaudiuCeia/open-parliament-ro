@@ -1,0 +1,33 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.448Z",
+  "data": {
+    "idp": "22438",
+    "title": "Propunere legislativă privind declararea Zilei de 5 octombrie ca \"Ziua Artiştilor Români\"",
+    "registrationNumber": {
+      "bpi": "255/23-06-2025",
+      "deputyChamber": "BP255/23.06.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": ["150", "151"],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/5/em255.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/5/pl255.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22438"
+  }
+}

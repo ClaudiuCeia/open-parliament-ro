@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:21.407Z",
+  "data": {
+    "idp": "21826",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.45/2024 pentru modificarea Legii nr.295/2004 privind regimul armelor şi al muniţiilor",
+    "registrationNumber": {
+      "bpi": "406/04-06-2024",
+      "senateChamber": "L278/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n45/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 94/2025LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 45/2024 pentru modificarea Legii nr. 295/2004 privind regimul armelor si al munitiilor",
+      "long": "Lege 94/2025LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 45/2024 pentru modificarea Legii nr. 295/2004 privind regimul armelor si al munitiilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/7/em406.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/7/oug406.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/7/cl406.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21826"
+  }
+}

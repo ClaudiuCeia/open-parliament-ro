@@ -1,0 +1,98 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:59.545Z",
+  "data": {
+    "idp": "21568",
+    "title": "Proiect de Lege pentru instituirea zilei de 1 august ca Ziua naţională a Salvamont România",
+    "registrationNumber": {
+      "bpi": "115/27-02-2024341/14-05-2024",
+      "senateChamber": "L219/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 298/2024LEGE pentru instituirea zilei de 1 august ca Ziua natională a Salvamont România",
+      "long": "Lege 298/2024LEGE pentru instituirea zilei de 1 august ca Ziua natională a Salvamont România"
+    },
+    "initiators": [
+      "20",
+      "35",
+      "51",
+      "68",
+      "73",
+      "80",
+      "91",
+      "120",
+      "128",
+      "140",
+      "169",
+      "171",
+      "175",
+      "185",
+      "196",
+      "208",
+      "209",
+      "210",
+      "239",
+      "249",
+      "258",
+      "269",
+      "273",
+      "305",
+      "306",
+      "310",
+      "315",
+      "316",
+      "326",
+      "9",
+      "12",
+      "30",
+      "54",
+      "57",
+      "63",
+      "69",
+      "78",
+      "96",
+      "101",
+      "102",
+      "123",
+      "139",
+      "156",
+      "165",
+      "338",
+      "177",
+      "204",
+      "252",
+      "254",
+      "296",
+      "300",
+      "307",
+      "333",
+      "116",
+      "145",
+      "129"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/9/em341.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/9/ces341.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/9/cl341.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/9/pvg341.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21568"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:38.516Z",
+  "data": {
+    "idp": "21547",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.10/2024 pentru completarea art.XLVIII din Ordonanţa de urgenţă a Guvernului nr.115/2023 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea evaziunii fiscale, pentru modificarea şi completarea unor acte normative, precum şi pentru prorogarea unor termene şi pentru instituirea unor măsuri în domeniul gestionării fondurilor europene",
+    "registrationNumber": {
+      "bpi": "94/20-02-2024",
+      "senateChamber": "L25/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n10/2024",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 237/2024LEGE privind aprobarea Ordonantei Guvernului nr. 10/2024 pentru completarea art. XLVIII din Ordonanta de urgentă a Guvernului nr. 115/2023 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea evaziunii fiscale, pentru modificarea si completarea unor acte normative, precum si pentru prorogarea unor termene si pentru instituirea unor măsuri în domeniul gestionării fondurilor europene",
+      "long": "Lege 237/2024LEGE privind aprobarea Ordonantei Guvernului nr. 10/2024 pentru completarea art. XLVIII din Ordonanta de urgentă a Guvernului nr. 115/2023 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea evaziunii fiscale, pentru modificarea si completarea unor acte normative, precum si pentru prorogarea unor termene si pentru instituirea unor măsuri în domeniul gestionării fondurilor europene"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/1/em94.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/1/oug94.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/1/cl94.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21547"
+  }
+}

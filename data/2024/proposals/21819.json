@@ -1,0 +1,58 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:17.446Z",
+  "data": {
+    "idp": "21819",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.227/2015 privind Codul fiscal, precum şi a Ordonanţei de urgenţă a Guvernului nr.97/2005 privind evidenţa, domiciliul, reşedinţa şi actele de identitate ale cetăţenilor români",
+    "registrationNumber": {
+      "bpi": "398/24-05-2024",
+      "senateChamber": "L274/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "71",
+      "15",
+      "34",
+      "52",
+      "127",
+      "147",
+      "192",
+      "205",
+      "207",
+      "218",
+      "245",
+      "299"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/1/em398.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/1/pl398.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/1/ces398.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/1/cl398.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/1/opcfisc398.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21819"
+  }
+}

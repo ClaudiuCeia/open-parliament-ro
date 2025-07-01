@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:55.117Z",
+  "data": {
+    "idp": "21914",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.65/2024 pentru modificarea şi completarea Ordonanţei Guvernului nr.26/2013 privind întărirea disciplinei financiare la nivelul unor operatori economici la care statul sau unităţile administrativ-teritoriale sunt acţionari unici ori majoritari sau deţin direct ori indirect o participaţie majoritară",
+    "registrationNumber": {
+      "bpi": "502/11-09-2024",
+      "senateChamber": "L351/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n65/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/1/em502.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/1/oug502.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/1/tabcomp.pdf",
+        "title": "Tabel comparativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/1/cl502.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21914"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:40.758Z",
+  "data": {
+    "idp": "22263",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.3/2025 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.147/2024 privind înfiinţarea, organizarea şi funcţionarea Agenţiei Naţionale pentru Politici şi Coordonare în Domeniul Drogurilor şi al Adicţiilor, a centrelor de sănătate mintală şi pentru prevenirea adicţiilor, precum şi pentru modificarea unor acte normative",
+    "registrationNumber": {
+      "bpi": "63/18-03-2025",
+      "senateChamber": "L31/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n3/2025",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "pe ordinea de zi a sedintelor Camerei Deputatilor",
+      "long": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/70/8/em63.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/70/8/oug63.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/70/8/cl63.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22263"
+  }
+}

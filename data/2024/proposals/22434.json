@@ -1,0 +1,65 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.329Z",
+  "data": {
+    "idp": "22434",
+    "title": "Propunere legislativă privind instituirea Zilei Naţionale a Sportului Paralimpic",
+    "registrationNumber": {
+      "bpi": "251/23-06-2025",
+      "deputyChamber": "BP251/23.06.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "1",
+      "42",
+      "53",
+      "58",
+      "170",
+      "225",
+      "268",
+      "281",
+      "129",
+      "208",
+      "12",
+      "48",
+      "82",
+      "285",
+      "313",
+      "28",
+      "85",
+      "87",
+      "111",
+      "159",
+      "160",
+      "161",
+      "166",
+      "176",
+      "180",
+      "195",
+      "206",
+      "217",
+      "291",
+      "316",
+      "329"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/1/em251.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/50/1/pl251.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22434"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:53.390Z",
+  "data": {
+    "idp": "22336",
+    "title": "Propunere legislativă pentru completarea Legii învăţământului preuniversitar nr.198/2023 şi a Legii învăţământului superior nr.199/2023",
+    "registrationNumber": {
+      "bpi": "136/07-05-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023\nmodificarea\nL. nr.\n199/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "25",
+      "28",
+      "85",
+      "87",
+      "139",
+      "159",
+      "163",
+      "166",
+      "176",
+      "180",
+      "195",
+      "206",
+      "217",
+      "277",
+      "316",
+      "329",
+      "115"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-06-06T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/5/em136.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/5/pl136.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22336"
+  }
+}

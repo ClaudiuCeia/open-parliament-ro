@@ -1,0 +1,77 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:35.203Z",
+  "data": {
+    "idp": "21708",
+    "title": "Proiect de Lege privind unele măsuri în domeniul salarizării personalului plătit din fonduri publice",
+    "registrationNumber": {
+      "bpi": "273/09-04-2024",
+      "senateChamber": "L77/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "260",
+      "9",
+      "46",
+      "76",
+      "77",
+      "96",
+      "134",
+      "165",
+      "191",
+      "264",
+      "271",
+      "287",
+      "293",
+      "79",
+      "8",
+      "10",
+      "143",
+      "51",
+      "58",
+      "62",
+      "139",
+      "82",
+      "84",
+      "86",
+      "92",
+      "112",
+      "127"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/30/9/em273.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/30/9/ces273.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/30/9/cl273.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/30/9/pvg273.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/30/9/ConsFisc273.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/30/9/anfp273.pdf",
+        "title": "Punctul de vedere al Agenției Naționale a Funcționarilor Publici"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21708"
+  }
+}

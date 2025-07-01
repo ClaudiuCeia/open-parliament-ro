@@ -1,0 +1,82 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:16.596Z",
+  "data": {
+    "idp": "21638",
+    "title": "Propunere legislativă privind dreptul românilor de a alege asigurătorul de sănătate",
+    "registrationNumber": {
+      "bpi": "197/12-03-2024",
+      "senateChamber": "L88/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "71",
+      "163",
+      "15",
+      "31",
+      "34",
+      "43",
+      "81",
+      "90",
+      "103",
+      "127",
+      "137",
+      "138",
+      "147",
+      "150",
+      "164",
+      "167",
+      "180",
+      "186",
+      "192",
+      "197",
+      "205",
+      "218",
+      "245",
+      "262",
+      "299",
+      "317",
+      "319",
+      "327",
+      "9",
+      "137",
+      "13",
+      "24",
+      "40",
+      "43",
+      "56",
+      "85",
+      "89",
+      "114",
+      "124",
+      "131"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/6/em197.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/6/pl197.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/6/ces197.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/6/cl197.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21638"
+  }
+}

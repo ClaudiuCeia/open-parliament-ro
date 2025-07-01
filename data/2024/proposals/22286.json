@@ -1,0 +1,79 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:44.517Z",
+  "data": {
+    "idp": "22286",
+    "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ",
+    "registrationNumber": {
+      "bpi": "86/01-04-2025",
+      "senateChamber": "B34/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n57/2019",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "pe ordinea de zi a sedintelor Camerei Deputatilor",
+      "long": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+    },
+    "initiators": [
+      "1",
+      "34",
+      "39",
+      "71",
+      "93",
+      "102",
+      "109",
+      "117",
+      "138",
+      "141",
+      "156",
+      "174",
+      "184",
+      "190",
+      "192",
+      "197",
+      "202",
+      "207",
+      "219",
+      "223",
+      "254",
+      "265",
+      "275",
+      "290",
+      "294",
+      "303",
+      "305",
+      "326",
+      "9",
+      "271"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-04-30T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/90/4/em86.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/90/4/pl86.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/90/4/ces86.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/90/4/cl86.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/90/4/cconc86.pdf",
+        "title": "Avizul Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22286"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:49.395Z",
+  "data": {
+    "idp": "22320",
+    "title": "Propunere legislativă privind responsabilitatea contractuală şi răspunderea financiară în promisiunile de vânzare încheiate cu dezvoltatori imobiliari şi pentru modificarea şi completarea Legii nr.36/1995 a notarilor publici şi a activităţii notariale",
+    "registrationNumber": {
+      "bpi": "119/15-04-2025",
+      "senateChamber": "L62/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n36/1995",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "15",
+      "40",
+      "53",
+      "58",
+      "70",
+      "91"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/7/em119.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/7/pl119.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/7/ces119.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/7/cl119.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/7/cconc119.pdf",
+        "title": "Avizul Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22320"
+  }
+}

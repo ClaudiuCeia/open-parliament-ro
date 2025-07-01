@@ -1,0 +1,58 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:33.975Z",
+  "data": {
+    "idp": "21856",
+    "title": "Propunere legislativă pentru modificarea art.85 alin.(4) din Legea nr.360/2023 privind sistemul public de pensii",
+    "registrationNumber": {
+      "bpi": "440/19-06-2024",
+      "senateChamber": "L273/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n360/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "167",
+      "9",
+      "40",
+      "74",
+      "85",
+      "114",
+      "124",
+      "131"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/8/em440.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/8/pl440.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/8/ces440.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/8/cl440.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/8/pvg440.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/8/OpConsFisc440.pdf",
+        "title": "Opinia Consiliului Fiscal al României"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21856"
+  }
+}

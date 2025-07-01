@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:40.159Z",
+  "data": {
+    "idp": "22257",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.9/2025 pentru modificarea Ordonanţei Guvernului nr.124/1998 privind organizarea şi funcţionarea cabinetelor medicale",
+    "registrationNumber": {
+      "bpi": "57/11-03-2025",
+      "senateChamber": "L24/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n9/2025",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 78/2025LEGE privind aprobarea Ordonantei Guvernului nr. 9/2025 pentru modificarea Ordonantei Guvernului nr. 124/1998 privind organizarea si functionarea cabinetelor medicale",
+      "long": "Lege 78/2025LEGE privind aprobarea Ordonantei Guvernului nr. 9/2025 pentru modificarea Ordonantei Guvernului nr. 124/1998 privind organizarea si functionarea cabinetelor medicale"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/70/6/em57.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/70/6/og57.pdf",
+        "title": "Ordonanţa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/70/6/cl57.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22257"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:05.965Z",
+  "data": {
+    "idp": "21792",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.42/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.173/2022 privind stabilirea unor măsuri necesare pentru îndeplinirea jaloanelor şi ţintelor din Planul naţional de redresare şi rezilienţă aferente componentei 3 - Managementul deşeurilor, componentei 10 - Fondul local, componentei 11 - Turism şi cultură, componentei 12 - Sănătate- Investiţia 12. Dezvoltarea infrastructurii spitaliceşti publice - obiective de investiţii cu contracte de lucrări în derulare încheiate cu Compania Naţională de Investiţii C.N.I. - S.A., componentei 14 - Buna guvernanţă şi componentei 15 - Educaţie, precum şi pentru completarea unor acte normative şi pentru modificarea Ordonanţei Guvernului nr.25/2001 privind înfiinţarea Companiei Naţionale de Investiţii „C.N.I.” S.A.",
+    "registrationNumber": {
+      "bpi": "364/23-05-2024",
+      "senateChamber": "L250/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n42/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/9/em364.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/9/oug364.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/9/ces364.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/9/cl364.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21792"
+  }
+}

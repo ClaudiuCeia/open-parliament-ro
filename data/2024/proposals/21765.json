@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:55.824Z",
+  "data": {
+    "idp": "21765",
+    "title": "Proiect de Lege pentru ratificarea Acordului între Guvernul României şi Guvernul Statelor Unite de colaborare în utilizarea informaţiilor privind călătorii, semnat la 19 ianuarie 2024, la Bucureşti",
+    "registrationNumber": {
+      "bpi": "333/08-05-2024",
+      "senateChamber": "L323/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 209/2024LEGE pentru ratificarea Acordului dintre Guvernul României si Guvernul Statelor Unite ale Americii de colaborare în utilizarea informatiilor privind călătorii, semnat la 19 ianuarie 2024 la Bucuresti  Acord între Guvernul României si Guvernul Statelor Unite ale Americii de colaborare în utilizarea informatiilor privind călătorii",
+      "long": "Lege 209/2024LEGE pentru ratificarea Acordului dintre Guvernul României si Guvernul Statelor Unite ale Americii de colaborare în utilizarea informatiilor privind călătorii, semnat la 19 ianuarie 2024 la Bucuresti  Acord între Guvernul României si Guvernul Statelor Unite ale Americii de colaborare în utilizarea informatiilor privind călătorii"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/0/em333.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/0/pl333.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/0/cl333.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/0/memorandm333.pdf",
+        "title": "Memorandum"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21765"
+  }
+}

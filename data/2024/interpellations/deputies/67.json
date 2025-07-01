@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-30T14:24:50.735Z",
+  "lastUpdated": "2025-07-01T16:10:18.697Z",
   "data": [
     {
       "idi": "78271",
@@ -83,9 +83,9 @@
       },
       "recipient": "",
       "dates": {
-        "registration": "2025-03-06T00:00:00.000Z",
-        "presentation": "2025-03-06T00:00:00.000Z",
-        "communication": "2025-03-06T00:00:00.000Z",
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-03-05T22:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",

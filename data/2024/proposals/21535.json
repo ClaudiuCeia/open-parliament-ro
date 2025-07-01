@@ -1,0 +1,57 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:43.977Z",
+  "data": {
+    "idp": "21535",
+    "title": "Proiect de Lege pentru modificarea art.43 alin.(1) din Legea nr.265/2022 privind registrul comerţului şi pentru modificarea şi completarea altor acte normative cu incidenţă asupra înregistrării în registrul comerţului",
+    "registrationNumber": {
+      "bpi": "80/20-02-2024",
+      "senateChamber": "L757/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n265/2022",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "308",
+      "14",
+      "17",
+      "26",
+      "35",
+      "42",
+      "47",
+      "76",
+      "77",
+      "80",
+      "97",
+      "104",
+      "105",
+      "111",
+      "115",
+      "116",
+      "117",
+      "119",
+      "123"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/90/3/em80.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/90/3/ces80.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/90/3/cl80.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21535"
+  }
+}

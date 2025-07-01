@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:51.223Z",
+  "data": {
+    "idp": "21905",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.56/2024 pentru aprobarea Programului naţional pentru transformarea digitală a autorităţilor publice locale",
+    "registrationNumber": {
+      "bpi": "490/04-09-2024",
+      "senateChamber": "L334/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n56/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 327/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 56/2024 privind aprobarea Programului national pentru transformarea digitală a autoritătilor publice locale",
+      "long": "Lege 327/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 56/2024 privind aprobarea Programului national pentru transformarea digitală a autoritătilor publice locale"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/9/em490.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/9/oug490.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/9/cl490.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21905"
+  }
+}

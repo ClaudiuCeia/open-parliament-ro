@@ -1,0 +1,68 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:48.309Z",
+  "data": {
+    "idp": "22309",
+    "title": "Proiect de Lege privind instituirea anului 2025 ca „Anul Centenar al Rezervistului Militar\"",
+    "registrationNumber": {
+      "bpi": "108/08-04-2025",
+      "senateChamber": "L50/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "15",
+      "35",
+      "74",
+      "89",
+      "134",
+      "154",
+      "210",
+      "230",
+      "261",
+      "301",
+      "315",
+      "221",
+      "22",
+      "28",
+      "133",
+      "44",
+      "51",
+      "56",
+      "69",
+      "79",
+      "83",
+      "84",
+      "99",
+      "101",
+      "102",
+      "105",
+      "106",
+      "110",
+      "119",
+      "123"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/1/em108.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/1/cl108.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/1/pvg108.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22309"
+  }
+}

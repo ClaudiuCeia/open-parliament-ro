@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:07.588Z",
+  "data": {
+    "idp": "21611",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei Guvernului nr.19/2024 pentru modificarea şi completarea Legii nr.422/2001 privind protejarea monumentelor istorice",
+    "registrationNumber": {
+      "bpi": "163/12-03-2024",
+      "senateChamber": "L37/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n19/2024",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 212/2024LEGE privind aprobarea Ordonantei Guvernului nr. 19/2024 pentru modificarea si completarea Legii nr. 422/2001 privind protejarea monumentelor istorice",
+      "long": "Lege 212/2024LEGE privind aprobarea Ordonantei Guvernului nr. 19/2024 pentru modificarea si completarea Legii nr. 422/2001 privind protejarea monumentelor istorice"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/60/1/gv163.pdf",
+        "title": "Adresa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/60/1/em163.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/60/1/og163.pdf",
+        "title": "Ordonanţa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/60/1/cl163.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/60/1/as163.pdf",
+        "title": "Adresa Senatului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21611"
+  }
+}

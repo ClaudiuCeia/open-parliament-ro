@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:20.482Z",
+  "data": {
+    "idp": "21663",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.11/2024 privind gestionarea financiară a alocărilor din Fondul european pentru afaceri maritime, pescuit şi acvacultură aferente politicii comune de pescuit şi politicii maritime integrate la nivelul Uniunii Europene, precum şi a fondurilor alocate de la bugetul de stat pentru perioada de programare 2021-2027",
+    "registrationNumber": {
+      "bpi": "221/19-03-2024",
+      "senateChamber": "L131/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n11/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 197/2024LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 11/2024 privind gestionarea financiară a alocărilor din Fondul european pentru afaceri maritime, pescuit si acvacultură aferente politicii comune de pescuit si politicii maritime integrate la nivelul Uniunii Europene, precum si a fondurilor alocate de la bugetul de stat pentru perioada de programare 2021-2027",
+      "long": "Lege 197/2024LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 11/2024 privind gestionarea financiară a alocărilor din Fondul european pentru afaceri maritime, pescuit si acvacultură aferente politicii comune de pescuit si politicii maritime integrate la nivelul Uniunii Europene, precum si a fondurilor alocate de la bugetul de stat pentru perioada de programare 2021-2027"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/5/em221.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/5/oug221.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/5/cl221.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21663"
+  }
+}

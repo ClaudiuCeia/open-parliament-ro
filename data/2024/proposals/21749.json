@@ -1,0 +1,51 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:51.453Z",
+  "data": {
+    "idp": "21749",
+    "title": "Propunere legislativă privind obligativitatea folosirii camerelor de corp în timpul controalelor şi/sau inspecţiilor realizate de către instituţiile publice de control din România",
+    "registrationNumber": {
+      "bpi": "317/30-04-2024",
+      "senateChamber": "L178/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "118"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/7/em317.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/7/p;317.pdf",
+        "title": "Forma initiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/7/ces317.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/7/cl317.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/7/csm317.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/7/anfp317.pdf",
+        "title": "Avizul Agenției Naționale a Funcțiomarilor Publici"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21749"
+  }
+}

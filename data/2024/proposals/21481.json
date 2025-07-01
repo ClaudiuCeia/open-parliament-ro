@@ -1,0 +1,54 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:15.093Z",
+  "data": {
+    "idp": "21481",
+    "title": "Propunere legislativă privind implementarea Programului naţional de suport pentru pacienţi - „Stop abuzurilor în spitale - Legea Alexandra”",
+    "registrationNumber": {
+      "bpi": "25/06-02-2024",
+      "senateChamber": "L692/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "72",
+      "113",
+      "162",
+      "12",
+      "64",
+      "19",
+      "23",
+      "32",
+      "33",
+      "41",
+      "52",
+      "83"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/4/em25.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/4/pl25.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/4/ces25.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/4/cl25.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21481"
+  }
+}

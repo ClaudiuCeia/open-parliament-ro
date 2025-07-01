@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:03.758Z",
+  "data": {
+    "idp": "22118",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.121/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.7/2024 privind aprobarea schemei de ajutor de stat „Creditul fermierului”, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum şi pentru modificarea art.12 alin.(1) din Legea nr.218/2005 privind stimularea absorbţiei fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit şi afaceri maritime, gestionate de Ministerul Agriculturii şi Dezvoltării Rurale, prin instrumente financiare de garantare şi creditare, precum şi pentru susţinerea obiectivelor naţionale de politică agricolă şi a Ordonanţei de urgenţă a Guvernului nr.84/2023 privind instituirea unui mecanism de consultare şi reacţie coordonată în contextul implementării sistemului de autorizare la export introdus de Ucraina pentru produsele agricole",
+    "registrationNumber": {
+      "bpi": "722/13-11-2024",
+      "senateChamber": "L535/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n121/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/8/em722.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/8/oug722.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/30/8/cl72.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22118"
+  }
+}

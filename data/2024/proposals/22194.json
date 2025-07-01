@@ -1,0 +1,52 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:26.479Z",
+  "data": {
+    "idp": "22194",
+    "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă nr.155 din 2001 privind aprobarea programului de gestionare a câinilor fără stăpân cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "799/18-12-2024",
+      "senateChamber": "L553/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n155/2001",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "246",
+      "259",
+      "297",
+      "98",
+      "101",
+      "86"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/8/em799.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/8/ces799.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/8/cl799.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/8/pvg799.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/8/opConsFisc799.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22194"
+  }
+}

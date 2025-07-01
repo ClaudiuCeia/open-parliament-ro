@@ -1,0 +1,45 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:57.474Z",
+  "data": {
+    "idp": "22208",
+    "title": "Proiect de Lege pentru modificarea art.7 şi art.28 din Legea nr.227/2015 privind Codul Fiscal şi art.3 din Legea nr.15/1994 privind amortizarea capitalului imobilizat în active corporale şi necorporale",
+    "registrationNumber": {
+      "bpi": "9/11-02-2025157/14-05-2025",
+      "senateChamber": "L72/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "213",
+      "220",
+      "313"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/2/em157.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/2/ces157.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/2/cl152.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/2/opcfisc157.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22208"
+  }
+}

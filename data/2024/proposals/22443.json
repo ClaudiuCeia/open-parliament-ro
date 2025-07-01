@@ -1,0 +1,33 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.345Z",
+  "data": {
+    "idp": "22443",
+    "title": "Propunere legislativă privind completarea Legii nr.121 din 18 iulie 2014 privind eficienţa energetică",
+    "registrationNumber": {
+      "bpi": "260/24-06-2025",
+      "deputyChamber": "BP260/24.06.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": ["4", "29", "73", "90", "121", "236", "317", "328"],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/0/em260.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/0/pl260.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22443"
+  }
+}

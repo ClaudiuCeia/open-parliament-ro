@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-30T10:29:14.157Z",
+  "lastUpdated": "2025-07-01T16:08:58.544Z",
   "data": [
     {
       "idi": "77764",
@@ -322,6 +322,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1412A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79322&idl=1",
       "registrationId": "1412A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79592",
+      "title": "Întrebarea nr.1634A/01-07-2025",
+      "description": "Situația Facultății de Psihologie și Științele Educației, Filiala Buzău, din județul Buzău",
+      "addressee": {
+        "idm": "4"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-01-06T22:00:00.000Z",
+        "presentation": "2025-01-06T22:00:00.000Z",
+        "communication": "2025-02-06T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1634A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79592&idl=1",
+      "registrationId": "1634A",
       "requestedResponseType": "în scris",
       "answers": []
     }

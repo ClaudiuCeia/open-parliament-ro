@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:11.023Z",
+  "data": {
+    "idp": "22459",
+    "title": "Propunere legislativă pentru completarea Legii nr.50/1991 privind autorizarea executării lucrărilor de construcţii, republicată în Monitorul Oficial al României, Partea I, nr.933 din 13 octombrie 2004, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "277/25-06-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n50/1991",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "în termenul acordat pentru avize si puncte de vedere solicitate",
+      "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+    },
+    "initiators": [
+      "3",
+      "5",
+      "70",
+      "86",
+      "135",
+      "245",
+      "318",
+      "8",
+      "15",
+      "33",
+      "99",
+      "227",
+      "301",
+      "315",
+      "21",
+      "101",
+      "128",
+      "152",
+      "312",
+      "65",
+      "77",
+      "132",
+      "164",
+      "183",
+      "250",
+      "257"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-08-04T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/7/em277.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/7/pl277.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22459"
+  }
+}

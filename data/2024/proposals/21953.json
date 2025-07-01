@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:09.838Z",
+  "data": {
+    "idp": "21953",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.85/2024 privind unele măsuri pentru reorganizarea Ministerului Agriculturii şi Dezvoltării Rurale şi a unor instituţii aflate în subordinea acestuia, precum şi pentru modificarea Ordonanţei Guvernului nr.12/2024 privind instituirea unei scheme de ajutor de stat pentru susţinerea activităţii crescătorilor din sectoarele suin şi avicol, în perioada 1 august 2022-31 august 2023, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei",
+    "registrationNumber": {
+      "bpi": "544/23-09-2024",
+      "senateChamber": "L385/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n85/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 314/2024LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 85/2024 privind unele măsuri pentru reorganizarea Ministerului Agriculturii si Dezvoltării Rurale si a unor institutii aflate în subordinea acestuia, precum si pentru modificarea Ordonantei Guvernului nr. 12/2024 privind instituirea unei scheme de ajutor de stat pentru sustinerea activitătii crescătorilor din sectoarele suin si avicol, în perioada 1 august 202231 august 2023, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei",
+      "long": "Lege 314/2024LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 85/2024 privind unele măsuri pentru reorganizarea Ministerului Agriculturii si Dezvoltării Rurale si a unor institutii aflate în subordinea acestuia, precum si pentru modificarea Ordonantei Guvernului nr. 12/2024 privind instituirea unei scheme de ajutor de stat pentru sustinerea activitătii crescătorilor din sectoarele suin si avicol, în perioada 1 august 202231 august 2023, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/80/1/em544.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/80/1/oug544.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/80/1/cl544.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21953"
+  }
+}

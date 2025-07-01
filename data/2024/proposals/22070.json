@@ -1,0 +1,56 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:48.795Z",
+  "data": {
+    "idp": "22070",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.102/2014 privind cimitirele, crematoriile umane şi serviciile funerare",
+    "registrationNumber": {
+      "bpi": "669/15-10-2024",
+      "senateChamber": "L443/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n102/2014",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "174",
+      "325",
+      "156",
+      "254",
+      "37",
+      "84",
+      "116",
+      "158",
+      "160",
+      "161",
+      "172",
+      "282",
+      "82",
+      "330",
+      "37",
+      "38",
+      "48",
+      "126"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/90/1/em669.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/90/1/ces669.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/90/1/cl669.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22070"
+  }
+}

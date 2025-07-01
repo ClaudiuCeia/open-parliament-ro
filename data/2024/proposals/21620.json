@@ -1,0 +1,76 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:01.801Z",
+  "data": {
+    "idp": "21620",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii responsabilităţii fiscal-bugetare nr.69/2010",
+    "registrationNumber": {
+      "bpi": "176/12-03-2024",
+      "senateChamber": "L75/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n69/2010",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "9",
+      "46",
+      "76",
+      "96",
+      "134",
+      "143",
+      "165",
+      "191",
+      "252",
+      "264",
+      "271",
+      "287",
+      "293",
+      "314",
+      "79",
+      "10",
+      "143",
+      "51",
+      "58",
+      "62",
+      "63",
+      "139",
+      "82",
+      "84",
+      "86",
+      "92",
+      "94",
+      "112",
+      "127",
+      "129"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/3/em176.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/3/ces176.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/3/cl176.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/3/pvg176.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/40/3/opConsFisc176.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21620"
+  }
+}

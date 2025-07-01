@@ -1,0 +1,80 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:34.531Z",
+  "data": {
+    "idp": "21536",
+    "title": "Propunere legislativă pentru modificarea Legii nr.122/2023 privind exploataţiile de creştere a porcinelor şi combaterea pestei porcine africane în România",
+    "registrationNumber": {
+      "bpi": "83/20-02-2024",
+      "senateChamber": "L752/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n122/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "337",
+      "58",
+      "72",
+      "74",
+      "89",
+      "99",
+      "113",
+      "162",
+      "253",
+      "261",
+      "109",
+      "121",
+      "1",
+      "4",
+      "5",
+      "13",
+      "19",
+      "22",
+      "64",
+      "75",
+      "112",
+      "336",
+      "153",
+      "187",
+      "195",
+      "247",
+      "265",
+      "275",
+      "280",
+      "285",
+      "294",
+      "324",
+      "23",
+      "27",
+      "41",
+      "69",
+      "83",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/3/em83.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/3/pl83.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/3/ces83.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/3/cl83.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21536"
+  }
+}

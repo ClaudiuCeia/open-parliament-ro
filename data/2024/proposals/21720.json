@@ -1,0 +1,53 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:40.636Z",
+  "data": {
+    "idp": "21720",
+    "title": "Propunere legislativă pentru modificarea Legii învăţământului superior nr.199/2023",
+    "registrationNumber": {
+      "bpi": "288/16-04-2024",
+      "senateChamber": "L163/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n199/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "71",
+      "81",
+      "138",
+      "276",
+      "319",
+      "137",
+      "15",
+      "24",
+      "43",
+      "56",
+      "93"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/50/0/em288.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/50/0/pl288.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/50/0/ces288.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/50/0/cl288.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21720"
+  }
+}

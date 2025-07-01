@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:31.207Z",
+  "data": {
+    "idp": "21849",
+    "title": "Proiect de Lege pentru majorarea capitalului autorizat deţinut de România la Banca Europeană pentru Reconstrucţie şi Dezvoltare în conformitate cu Rezoluţia nr.265/2023 privind creşterea capitalului social autorizat şi subscrierea la acesta, adoptată de Consiliul Guvernatorilor Băncii Europene pentru Reconstrucţie şi Dezvoltare",
+    "registrationNumber": {
+      "bpi": "431/19-06-2024",
+      "senateChamber": "L319/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 259/2024LEGE pentru majorarea capitalului autorizat detinut de România la Banca Europeană pentru Reconstructie si Dezvoltare în conformitate cu Rezolutia nr. 265/2023 privind cresterea capitalului social autorizat si subscrierea la acesta, adoptată de Consiliul Guvernatorilor Băncii Europene pentru Reconstructie si Dezvoltare",
+      "long": "Lege 259/2024LEGE pentru majorarea capitalului autorizat detinut de România la Banca Europeană pentru Reconstructie si Dezvoltare în conformitate cu Rezolutia nr. 265/2023 privind cresterea capitalului social autorizat si subscrierea la acesta, adoptată de Consiliul Guvernatorilor Băncii Europene pentru Reconstructie si Dezvoltare"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/1/em431.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/1/cl431.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21849"
+  }
+}

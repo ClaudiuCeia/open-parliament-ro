@@ -1,0 +1,59 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.400Z",
+  "data": {
+    "idp": "22311",
+    "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.155 din 21 noiembrie 2001 privind aprobarea programului de gestionare a câinilor fără stăpân şi pentru modificarea şi completarea Legii nr.205 din 26 mai 2004 privind protecţia animalelor, republicată",
+    "registrationNumber": {
+      "bpi": "110/09-04-2025",
+      "deputyChamber": "BP110/09.04.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n155/2001",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "103",
+      "246",
+      "318",
+      "158",
+      "137",
+      "21",
+      "50",
+      "67",
+      "75",
+      "101",
+      "128",
+      "152",
+      "148",
+      "169",
+      "218",
+      "231",
+      "237",
+      "304",
+      "312",
+      "319",
+      "113"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/10/0/in110.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/10/0/em110.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/10/0/pl110.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22311"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:06.366Z",
+  "data": {
+    "idp": "21647",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii",
+    "registrationNumber": {
+      "bpi": "206/12-03-2024",
+      "senateChamber": "L106/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n95/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "74",
+      "89",
+      "99",
+      "261",
+      "121",
+      "137",
+      "5",
+      "13",
+      "19",
+      "22",
+      "75",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "265",
+      "275",
+      "280",
+      "285",
+      "294",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "33",
+      "41",
+      "52",
+      "68",
+      "69",
+      "71",
+      "83",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/8/em206.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/8/pl206.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/8/ces206.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/8/cl206.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/8/opConsFisc.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21647"
+  }
+}

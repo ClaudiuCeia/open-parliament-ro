@@ -1,0 +1,57 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:59.523Z",
+  "data": {
+    "idp": "22374",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.448 din 6 decembrie 2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap",
+    "registrationNumber": {
+      "bpi": "178/27-05-2025",
+      "senateChamber": "L82/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n448/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "34",
+      "124",
+      "305",
+      "56",
+      "57",
+      "66",
+      "84",
+      "182",
+      "199",
+      "332",
+      "232",
+      "283",
+      "308",
+      "4",
+      "25",
+      "1",
+      "53",
+      "76",
+      "98"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/1/em178.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/1/ces178.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/1/cl178.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22374"
+  }
+}

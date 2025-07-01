@@ -3,7 +3,7 @@
   "name": "open-parliament-romania",
   "title": "Open Parliament Romania Data",
   "description": "Legislative data from the Romanian Chamber of Deputies, including deputy information, proposals, interpellations, motions, and speeches collected from the official parliamentary website.",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/ClaudiuCeia/open-parliament-ro",
   "keywords": [
     "parliament",
@@ -30,34 +30,75 @@
   "contributors": [
     {
       "title": "Open Parliament Romania",
-      "roles": ["creator"]
+      "roles": [
+        "creator"
+      ]
     }
   ],
   "resources": [
     {
       "name": "deputies",
-      "path": "data/resources/deputies.json"
+      "path": "data/resources/deputies.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8",
+      "title": "Deputy List",
+      "description": "Complete list of deputies in the Romanian Chamber of Deputies with basic information including names, constituencies, and party affiliations"
     },
     {
       "name": "deputy-details",
-      "path": "data/resources/deputies_detail.json"
-    },
-    {
-      "name": "deputy-proposals",
-      "path": "data/resources/deputy_proposals.json"
+      "path": "data/resources/deputy-details.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8",
+      "title": "Full Deputies",
+      "description": "Detailed information for each deputy including full biography, committee memberships, contact information, and parliamentary activity"
     },
     {
       "name": "deputy-interpellations",
-      "path": "data/resources/deputy_interpellations.json"
+      "path": "data/resources/deputy-interpellations.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8",
+      "title": "Deputy Interpellations",
+      "description": "Interpellations submitted by each deputy to government ministers and officials"
     },
     {
       "name": "deputy-motions",
-      "path": "data/resources/deputy_motions.json"
+      "path": "data/resources/deputy-motions.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8",
+      "title": "Deputy Motions",
+      "description": "Simple motions submitted by deputies during parliamentary sessions"
     },
     {
       "name": "deputy-speeches",
-      "path": "data/resources/deputy_speeches.json"
+      "path": "data/resources/deputy-speeches.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8",
+      "title": "Deputy Speeches",
+      "description": "Parliamentary speeches and interventions made by each deputy during plenary sessions"
+    },
+    {
+      "name": "proposals",
+      "path": "data/resources/proposals.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8",
+      "title": "Legislative Proposals",
+      "description": "All legislative proposals in the Chamber of Deputies, including proposal details, status, documents, and initiator information"
+    },
+    {
+      "name": "deputy-proposal-mappings",
+      "path": "data/resources/deputy-proposal-mappings.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8",
+      "title": "Deputy Proposal Mappings",
+      "description": "Mapping of deputies to their legislative proposals, showing which proposals each deputy has initiated"
     }
   ],
-  "created": "2025-07-01T00:52:25.490Z"
+  "created": "2025-07-01T16:51:17.807Z"
 }

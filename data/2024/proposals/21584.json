@@ -1,0 +1,60 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:08.851Z",
+  "data": {
+    "idp": "21584",
+    "title": "Proiect de Lege pentru modificarea art.37 din Legea cadastrului şi a publicităţii imobiliare nr.7/1996",
+    "registrationNumber": {
+      "bpi": "132/04-03-2024368/23-05-2024",
+      "senateChamber": "L232/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n7/1996",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "33",
+      "35",
+      "61",
+      "80",
+      "94",
+      "110",
+      "119",
+      "129",
+      "130",
+      "148",
+      "168",
+      "169",
+      "184",
+      "208",
+      "210",
+      "220",
+      "257",
+      "269",
+      "289",
+      "331",
+      "301",
+      "316"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/7/em368.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/7/ces368.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/7/cl368.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21584"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:11.901Z",
+  "data": {
+    "idp": "21619",
+    "title": "Proiect de Lege pentru modificarea art.291 alin.(2) lit.e) pct.3 din Legea nr.227/2015 privind Codul fiscal",
+    "registrationNumber": {
+      "bpi": "175/12-03-2024",
+      "senateChamber": "L69/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 254/2024LEGE pentru modificarea art. 291 alin. (2) din Legea nr. 227/2015 privind Codul fiscal",
+      "long": "Lege 254/2024LEGE pentru modificarea art. 291 alin. (2) din Legea nr. 227/2015 privind Codul fiscal"
+    },
+    "initiators": [
+      "290",
+      "6",
+      "109",
+      "134",
+      "135",
+      "8",
+      "10",
+      "58",
+      "63",
+      "82",
+      "84",
+      "86",
+      "91",
+      "94",
+      "112",
+      "24",
+      "71"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/1/em175.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/1/ces175.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/1/cl175.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/1/opConsFisc175.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21619"
+  }
+}

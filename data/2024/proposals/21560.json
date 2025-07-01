@@ -1,0 +1,46 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:47.635Z",
+  "data": {
+    "idp": "21560",
+    "title": "Proiect de Lege pentru completarea art.21 din Legea nr.448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap",
+    "registrationNumber": {
+      "bpi": "107/26-02-2024313/30-04-2024",
+      "senateChamber": "L210/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n448/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 240/2024LEGE pentru completarea art. 21 din Legea nr. 448/2006 privind protectia si promovarea drepturilor persoanelor cu handicap",
+      "long": "Lege 240/2024LEGE pentru completarea art. 21 din Legea nr. 448/2006 privind protectia si promovarea drepturilor persoanelor cu handicap"
+    },
+    "initiators": [
+      "266",
+      "12",
+      "24",
+      "312"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/7/em313.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/7/ces313.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/7/cl313.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/7/opConsFisc313.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21560"
+  }
+}

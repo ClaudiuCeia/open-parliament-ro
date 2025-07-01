@@ -1,0 +1,81 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:14.560Z",
+  "data": {
+    "idp": "21810",
+    "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice şi pentru modificarea şi completarea art.337 din Legea nr.286/2009 privind Codul Penal",
+    "registrationNumber": {
+      "bpi": "388/28-05-2024",
+      "senateChamber": "L195/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n195/2002\nmodificarea\nL. nr.\n286/2009",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "59",
+      "146",
+      "170",
+      "246",
+      "259",
+      "303",
+      "311",
+      "214",
+      "219",
+      "250",
+      "277",
+      "305",
+      "322",
+      "17",
+      "27",
+      "340",
+      "41",
+      "156",
+      "165",
+      "215",
+      "223",
+      "252",
+      "287",
+      "300",
+      "39",
+      "180",
+      "36",
+      "37",
+      "100",
+      "116",
+      "135",
+      "161",
+      "172",
+      "328",
+      "101"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/4/em388.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/4/ces388.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/4/cl388.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/4/pvg388.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/4/csm388.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21810"
+  }
+}

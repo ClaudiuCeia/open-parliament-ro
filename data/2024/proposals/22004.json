@@ -1,0 +1,78 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:20.414Z",
+  "data": {
+    "idp": "22004",
+    "title": "Propunere legislativă pentru completarea Legii nr.227/2015 privind CODUL FISCAL",
+    "registrationNumber": {
+      "bpi": "599/24-09-2024",
+      "senateChamber": "L461/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "89",
+      "261",
+      "121",
+      "4",
+      "5",
+      "13",
+      "19",
+      "23",
+      "64",
+      "75",
+      "112",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "344",
+      "265",
+      "275",
+      "280",
+      "285",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "69",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/9/em599.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/9/pl599.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/9/ces599.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/9/cl599.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/9/pvg599.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22004"
+  }
+}

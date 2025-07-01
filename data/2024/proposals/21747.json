@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:48.679Z",
+  "data": {
+    "idp": "21747",
+    "title": "Propunere legislativă pentru modificarea şi completarea unor acte normative în vederea prevenirii şi combaterii traficului şi consumului ilicit de droguri",
+    "registrationNumber": {
+      "bpi": "315/30-04-2024",
+      "senateChamber": "L143/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "9",
+      "11",
+      "46",
+      "77",
+      "86",
+      "102",
+      "143",
+      "190",
+      "191",
+      "215",
+      "238",
+      "242",
+      "307",
+      "333",
+      "79",
+      "3",
+      "8",
+      "10",
+      "25",
+      "29",
+      "49",
+      "82",
+      "112",
+      "129"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/9/em315.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/9/pl315.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/9/cl%20315.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21747"
+  }
+}

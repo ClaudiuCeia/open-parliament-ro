@@ -1,0 +1,60 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:14.576Z",
+  "data": {
+    "idp": "21633",
+    "title": "Propunere legislativă pentru completarea Legii nr.248/2005 privind regimul liberei circulaţii a cetăţenilor români în străinătate",
+    "registrationNumber": {
+      "bpi": "190/12-03-2024",
+      "senateChamber": "L56/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n248/2005",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "47",
+      "167",
+      "245",
+      "262",
+      "299",
+      "317",
+      "319",
+      "15",
+      "24",
+      "40",
+      "74",
+      "85",
+      "114",
+      "131"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/0/em190.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/0/pl190.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/0/ces190.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/0/cl190.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/0/pvg180.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21633"
+  }
+}

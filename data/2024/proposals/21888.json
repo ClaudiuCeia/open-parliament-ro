@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:38.907Z",
+  "data": {
+    "idp": "21888",
+    "title": "Proiect de Lege pentru ratificarea Acordului între Guvernul României şi Guvernul Regatului Maroc privind cooperarea în domeniul militar şi tehnic, semnat la Rabat, la 27 februarie 2024",
+    "registrationNumber": {
+      "bpi": "474/19-07-2024",
+      "senateChamber": "L497/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 282/2024LEGE pentru ratificarea Acordului dintre Guvernul României si Guvernul Regatului Maroc privind cooperarea în domeniul militar si tehnic, semnat la Rabat la 27 februarie 2024  Acord între Guvernul României si Guvernul Regatului Maroc privind cooperarea în domeniul militar si tehnic",
+      "long": "Lege 282/2024LEGE pentru ratificarea Acordului dintre Guvernul României si Guvernul Regatului Maroc privind cooperarea în domeniul militar si tehnic, semnat la Rabat la 27 februarie 2024  Acord între Guvernul României si Guvernul Regatului Maroc privind cooperarea în domeniul militar si tehnic"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/9/em474.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/9/pl474.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/9/cl474.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/9/csat474.pdf",
+        "title": "Hotărârea Consiliului Suprem de Apărare a Țării"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21888"
+  }
+}

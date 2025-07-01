@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:03.668Z",
+  "data": {
+    "idp": "22245",
+    "title": "Proiect de Lege privind declararea lunii martie ca Luna Femeilor",
+    "registrationNumber": {
+      "bpi": "46/05-03-2025200/03-06-2025",
+      "senateChamber": "L114/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "1",
+      "39",
+      "53",
+      "58",
+      "115",
+      "141",
+      "170",
+      "184",
+      "192",
+      "275",
+      "89",
+      "129",
+      "182",
+      "208",
+      "244",
+      "283",
+      "308",
+      "85",
+      "39",
+      "105",
+      "5",
+      "49",
+      "76",
+      "136"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/1/em200.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/1/ces200.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/1/cl200.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22245"
+  }
+}

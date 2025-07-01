@@ -1,0 +1,56 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.364Z",
+  "data": {
+    "idp": "22368",
+    "title": "Propunere legislativă privind protecţia minorilor sub 18 ani în faţa conţinutului nociv distribuit pe platformele online de tip very large online platforms (vlop)",
+    "registrationNumber": {
+      "bpi": "170/27-05-2025",
+      "deputyChamber": "BP170/27.05.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "9",
+      "30",
+      "49",
+      "57",
+      "81",
+      "84",
+      "110",
+      "143",
+      "182",
+      "205",
+      "208",
+      "214",
+      "232",
+      "244",
+      "271",
+      "283",
+      "311",
+      "320"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/70/0/in170.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/70/0/em170.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/70/0/pl170.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22368"
+  }
+}

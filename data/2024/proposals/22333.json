@@ -1,0 +1,37 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:51.067Z",
+  "data": {
+    "idp": "22333",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.303/2022 privind statutul judecătorilor şi procurorilor",
+    "registrationNumber": {
+      "bpi": "133/30-04-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n303/2022",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "213"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-06-02T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/20/4/133em.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/20/4/pl133.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22333"
+  }
+}

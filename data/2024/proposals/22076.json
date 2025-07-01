@@ -1,0 +1,49 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:48.131Z",
+  "data": {
+    "idp": "22076",
+    "title": "Propunere legislativă privind reorganizarea administrativ-teritorială a României",
+    "registrationNumber": {
+      "bpi": "676/16-10-2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata prin retragere de catre initiator",
+      "long": "procedura legislativa încetata prin retragere de catre initiator"
+    },
+    "initiators": [
+      "15",
+      "43",
+      "47",
+      "164",
+      "207",
+      "218",
+      "232",
+      "251",
+      "276",
+      "299",
+      "319",
+      "327",
+      "75"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-11-25T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/9/em676.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/9/pl676.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22076"
+  }
+}

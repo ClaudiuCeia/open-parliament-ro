@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:54.746Z",
+  "data": {
+    "idp": "22346",
+    "title": "Proiect de Lege pentru modificarea art.32 alin.(1) lit.b) din Legea nr.273/2006 privind finanţele publice locale",
+    "registrationNumber": {
+      "bpi": "146/08-05-2025",
+      "senateChamber": "L74/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n273/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "129",
+      "5",
+      "10",
+      "30",
+      "40",
+      "53",
+      "58",
+      "70",
+      "76",
+      "136",
+      "91",
+      "98"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/1/em146.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/1/ces146.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/1/cl146.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22346"
+  }
+}

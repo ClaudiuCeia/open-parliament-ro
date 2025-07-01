@@ -1,0 +1,79 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:44.691Z",
+  "data": {
+    "idp": "22287",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.47/1992 privind organizarea şi funcţionarea Curţii Constituţionale, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "87/01-04-2025",
+      "senateChamber": "B37/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n47/1992",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "pe ordinea de zi a sedintelor Camerei Deputatilor",
+      "long": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+    },
+    "initiators": [
+      "62",
+      "70",
+      "103",
+      "246",
+      "318",
+      "158",
+      "137",
+      "21",
+      "50",
+      "67",
+      "75",
+      "101",
+      "128",
+      "152",
+      "148",
+      "169",
+      "175",
+      "218",
+      "231",
+      "237",
+      "304",
+      "312",
+      "319",
+      "323",
+      "8",
+      "128",
+      "33",
+      "57",
+      "72",
+      "81",
+      "82",
+      "85",
+      "97",
+      "100"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-04-30T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/90/5/em87.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/90/5/pl87.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/90/5/ces87.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/90/5/cl87.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22287"
+  }
+}

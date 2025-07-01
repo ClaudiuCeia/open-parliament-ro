@@ -1,0 +1,63 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.339Z",
+  "data": {
+    "idp": "22364",
+    "title": "Propunere legislativă pentru modificarea Legii nr.33/2007 privind organizarea şi desfăşurarea alegerilor pentru Parlamentul European",
+    "registrationNumber": {
+      "bpi": "166/21-05-2025",
+      "deputyChamber": "BP166/21.05.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n33/2007\nmodificarea\nL. nr.\n22/2007",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "3",
+      "5",
+      "70",
+      "86",
+      "103",
+      "135",
+      "246",
+      "251",
+      "137",
+      "21",
+      "50",
+      "67",
+      "101",
+      "128",
+      "152",
+      "148",
+      "175",
+      "218",
+      "231",
+      "237",
+      "304",
+      "312",
+      "319",
+      "323",
+      "55"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/6/in166.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/6/em166.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/6/pl166.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22364"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:12.649Z",
+  "data": {
+    "idp": "21624",
+    "title": "Proiect de Lege pentru instituirea zilei de 21 aprilie ca Ziua Prieteniei dintre România şi Republica Federală Germania",
+    "registrationNumber": {
+      "bpi": "181/12-03-2024",
+      "senateChamber": "L128/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 79/2024LEGE pentru instituirea zilei de 21 aprilie ca \"Ziua Prieteniei dintre România si Republica Federală Germania\"",
+      "long": "Lege 79/2024LEGE pentru instituirea zilei de 21 aprilie ca \"Ziua Prieteniei dintre România si Republica Federală Germania\""
+    },
+    "initiators": [
+      "117",
+      "321"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/3/em181.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/3/ces181.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/3/cl181.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/3/pvg181.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21624"
+  }
+}

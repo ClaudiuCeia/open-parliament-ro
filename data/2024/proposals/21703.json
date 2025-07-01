@@ -1,0 +1,77 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:27.986Z",
+  "data": {
+    "idp": "21703",
+    "title": "Proiect de Lege pentru instituirea zilei de 9 septembrie ca „Ziua naţională a bunicilor”",
+    "registrationNumber": {
+      "bpi": "268/09-04-2024423/17-06-2024",
+      "senateChamber": "L305/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "335",
+      "193",
+      "273",
+      "9",
+      "12",
+      "17",
+      "30",
+      "340",
+      "46",
+      "54",
+      "55",
+      "57",
+      "60",
+      "63",
+      "69",
+      "78",
+      "83",
+      "86",
+      "96",
+      "122",
+      "126",
+      "134",
+      "139",
+      "156",
+      "165",
+      "338",
+      "177",
+      "191",
+      "204",
+      "216",
+      "252",
+      "254",
+      "264",
+      "287",
+      "293",
+      "300",
+      "307",
+      "333",
+      "84"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/70/2/em423.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/70/2/ces423.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/70/2/cl423.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21703"
+  }
+}

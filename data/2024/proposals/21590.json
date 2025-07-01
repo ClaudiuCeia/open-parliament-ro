@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:53.020Z",
+  "data": {
+    "idp": "21590",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.8/2024 pentru modificarea Ordonanţei Guvernului nr.24/2016 privind organizarea şi desfăşurarea activităţii de neutralizare a subproduselor de origine animală care nu sunt destinate consumului uman, precum şi pentru aprobarea unor măsuri de aplicare a acesteia",
+    "registrationNumber": {
+      "bpi": "138/05-03-2024",
+      "senateChamber": "L116/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n8/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 252/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 8/2024 pentru modificarea Ordonantei Guvernului nr. 24/2016 privind organizarea si desfăsurarea activitătii de neutralizare a subproduselor de origine animală care nu sunt destinate consumului uman, precum si pentru aprobarea unor măsuri de aplicare a acesteia",
+      "long": "Lege 252/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 8/2024 pentru modificarea Ordonantei Guvernului nr. 24/2016 privind organizarea si desfăsurarea activitătii de neutralizare a subproduselor de origine animală care nu sunt destinate consumului uman, precum si pentru aprobarea unor măsuri de aplicare a acesteia"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/8/em138.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/8/oug138.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/8/ces138.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/8/cl138.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21590"
+  }
+}

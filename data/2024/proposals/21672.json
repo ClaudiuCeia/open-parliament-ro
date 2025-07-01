@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:25.889Z",
+  "data": {
+    "idp": "21672",
+    "title": "Propunere legislativă privind eliminarea inechităţii acordării unor indemnizaţii diferenţiate copiilor urmaşi ai eroilor-martiri prin modificarea Legea 341/2004 a recunoştinţei pentru victoria Revoluţiei Române din Decembrie 1989, pentru revolta muncitorească anticomunistă de la Braşov din noiembrie 1987 şi pentru revolta muncitorească anticomunistă din Valea Jiului - Lupeni - august 1977",
+    "registrationNumber": {
+      "bpi": "235/19-03-2024",
+      "senateChamber": "L87/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "71",
+      "43",
+      "52",
+      "56",
+      "103",
+      "138",
+      "205",
+      "232",
+      "245",
+      "276",
+      "317",
+      "319",
+      "327",
+      "79",
+      "13",
+      "75"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/1/em235.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/1/pl235.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/1/ces235.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/1/cl235.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/1/opConsFisc235.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21672"
+  }
+}

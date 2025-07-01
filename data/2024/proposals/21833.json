@@ -1,0 +1,52 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:25.068Z",
+  "data": {
+    "idp": "21833",
+    "title": "Proiect de Lege pentru completarea unor acte normative în domeniul evidenţei persoanelor şi permiselor de conducere",
+    "registrationNumber": {
+      "bpi": "414/04-06-2024",
+      "senateChamber": "L266/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "45",
+      "106",
+      "9",
+      "137",
+      "40",
+      "74",
+      "85",
+      "89",
+      "144",
+      "114",
+      "124",
+      "131",
+      "132",
+      "136"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/5/em414.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/5/ces414.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/5/cl414.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21833"
+  }
+}

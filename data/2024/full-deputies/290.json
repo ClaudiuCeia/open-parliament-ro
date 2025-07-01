@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-06-30T10:11:27.489Z",
+  "lastUpdated": "2025-07-01T16:08:21.703Z",
   "data": {
     "idm": "290",
     "name": "Vasile-Daniel SUCIUvicepreşedinte al Camerei Deputaţilor",
@@ -24,11 +24,11 @@
     },
     "activity": {
       "Luări de cuvânt": {
-        "count": 480,
+        "count": 490,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=6190&leg=2024&idl=1"
       },
       "Luări de cuvânt în BP": {
-        "count": 410,
+        "count": 440,
         "url": "https://www.cdep.ro/bp/sedinte2015.cautare?idv=6190&leg=2024&ope=1"
       },
       "Propuneri legislative iniţiate": {

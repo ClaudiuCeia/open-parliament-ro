@@ -1,0 +1,61 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:49.529Z",
+  "data": {
+    "idp": "21900",
+    "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ",
+    "registrationNumber": {
+      "bpi": "487/04-09-2024",
+      "senateChamber": "L661/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n57/2019",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la Senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "36",
+      "100",
+      "159",
+      "282",
+      "97",
+      "25",
+      "129",
+      "100",
+      "5",
+      "37",
+      "140",
+      "126"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-10-07T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/5/em487.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/5/pl487.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/5/ces487.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/5/cl487.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/5/adrCSM487.pdf",
+        "title": "Adresa Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21900"
+  }
+}

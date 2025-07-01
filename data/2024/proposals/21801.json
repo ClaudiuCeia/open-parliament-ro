@@ -1,0 +1,61 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:07.189Z",
+  "data": {
+    "idp": "21801",
+    "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de Urgenţă a Guvernului nr.109/2011 privind guvernanţa corporativă a întreprinderilor publice, aprobată prin Legea nr.111/2016, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "372/23-05-2024",
+      "senateChamber": "L196/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n109/2011",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "71",
+      "163",
+      "15",
+      "43",
+      "47",
+      "92",
+      "127",
+      "180",
+      "192",
+      "218",
+      "276",
+      "299",
+      "327",
+      "13",
+      "24",
+      "65",
+      "89",
+      "93",
+      "132"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/2/em372.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/2/pl372.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/2/ces372.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/2/cl372.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21801"
+  }
+}

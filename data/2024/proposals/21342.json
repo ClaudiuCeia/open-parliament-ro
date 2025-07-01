@@ -1,0 +1,75 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:22.819Z",
+  "data": {
+    "idp": "21342",
+    "title": "Proiect de Lege pentru abrogarea art.LVIII din Legea nr.296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+    "registrationNumber": {
+      "bpi": "840/14-11-2023228/19-03-2024",
+      "senateChamber": "L756/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "335",
+      "193",
+      "273",
+      "9",
+      "18",
+      "41",
+      "46",
+      "54",
+      "57",
+      "77",
+      "78",
+      "86",
+      "101",
+      "102",
+      "338",
+      "176",
+      "189",
+      "190",
+      "191",
+      "198",
+      "229",
+      "238",
+      "254",
+      "255",
+      "264",
+      "271",
+      "300",
+      "307",
+      "82"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/1/em228.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/1/ces228.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/1/cl228.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/1/pvg228.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/1/opConsFisc228.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21342"
+  }
+}

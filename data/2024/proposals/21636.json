@@ -1,0 +1,67 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:15.774Z",
+  "data": {
+    "idp": "21636",
+    "title": "Propunere legislativă pentru completarea art.37 din Ordonanţa de urgenţă nr.57/2019 privind Codul administrativ publicat în Monitorul Oficial, Partea I nr.555 din 05 iulie 2019",
+    "registrationNumber": {
+      "bpi": "195/12-03-2024",
+      "senateChamber": "L80/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n57/2019",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "9",
+      "137",
+      "13",
+      "15",
+      "24",
+      "43",
+      "75",
+      "89",
+      "93",
+      "131",
+      "132",
+      "136",
+      "46"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/4/in195.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/4/em195.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/4/pl195.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/4/ces195.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/4/cl195.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/4/pvCC195.pdf",
+        "title": "Punctul de vedere al Consiliului Concurenție"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/4/anpc195.pdf",
+        "title": "Avizul Autorității Naționale pentru Protecția Consumatorilor"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21636"
+  }
+}

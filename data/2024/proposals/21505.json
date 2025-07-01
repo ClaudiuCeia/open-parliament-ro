@@ -1,0 +1,64 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:24.685Z",
+  "data": {
+    "idp": "21505",
+    "title": "Proiect de Lege pentru completarea art.43 din Ordonanţa Guvernului nr.43/1997 privind regimul juridic al drumurilor",
+    "registrationNumber": {
+      "bpi": "47/13-02-2024",
+      "senateChamber": "L711/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.G. nr.\n43/1997",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 302/2024LEGE pentru completarea art. 43 din Ordonanta Guvernului nr. 43/1997 privind regimul juridic al drumurilor",
+      "long": "Lege 302/2024LEGE pentru completarea art. 43 din Ordonanta Guvernului nr. 43/1997 privind regimul juridic al drumurilor"
+    },
+    "initiators": [
+      "14",
+      "71",
+      "73",
+      "304",
+      "57",
+      "47",
+      "81",
+      "103",
+      "127",
+      "138",
+      "147",
+      "180",
+      "194",
+      "232",
+      "245",
+      "262",
+      "299",
+      "317",
+      "158",
+      "9",
+      "40",
+      "93",
+      "114",
+      "131",
+      "132",
+      "46"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/40/8/em47.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/40/8/ces47.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/40/8/cl47.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21505"
+  }
+}

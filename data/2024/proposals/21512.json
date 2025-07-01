@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:23.146Z",
+  "data": {
+    "idp": "21512",
+    "title": "Proiect de Lege pentru schimbarea denumirii Universităţii „Danubius” din Galaţi",
+    "registrationNumber": {
+      "bpi": "55/14-02-2024",
+      "senateChamber": "L720/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 155/2024LEGE pentru schimbarea denumirii Universitătii \"Danubius\" din Galati",
+      "long": "Lege 155/2024LEGE pentru schimbarea denumirii Universitătii \"Danubius\" din Galati"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/40/4/em55.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/40/4/cl55.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21512"
+  }
+}

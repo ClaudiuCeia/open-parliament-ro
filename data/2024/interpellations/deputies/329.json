@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-30T14:33:00.596Z",
+  "lastUpdated": "2025-07-01T16:16:16.832Z",
   "data": [
     {
       "idi": "77965",
@@ -11,9 +11,9 @@
       },
       "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndoamnei\nSimona Bucura-Oprescu\n- Ministru",
       "dates": {
-        "registration": "2025-05-03T00:00:00.000Z",
-        "presentation": "2025-05-03T00:00:00.000Z",
-        "communication": "2025-05-03T00:00:00.000Z",
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -40,9 +40,9 @@
       },
       "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
       "dates": {
-        "registration": "2025-02-04T00:00:00.000Z",
-        "presentation": "2025-02-04T00:00:00.000Z",
-        "communication": "2025-02-04T00:00:00.000Z",
+        "registration": "2025-02-03T22:00:00.000Z",
+        "presentation": "2025-02-03T22:00:00.000Z",
+        "communication": "2025-02-03T22:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -53,7 +53,7 @@
       "answers": [
         {
           "registrationId": "13",
-          "date": "2025-12-05T00:00:00.000Z",
+          "date": "2025-12-04T22:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r731A.pdf"

@@ -1,0 +1,60 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:59.572Z",
+  "data": {
+    "idp": "21603",
+    "title": "Propunere legislativă pentru completarea art.5 alin.(1) din Legea 544/2001 privind liberul acces la informaţiile de interes public",
+    "registrationNumber": {
+      "bpi": "154/06-03-2024",
+      "senateChamber": "L57/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n544/2001",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "71",
+      "21",
+      "34",
+      "47",
+      "81",
+      "92",
+      "127",
+      "167",
+      "299",
+      "9",
+      "40",
+      "93",
+      "131",
+      "136"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/30/8/em154.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/30/8/PL154.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/30/8/ces154.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/30/8/cl154.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/30/8/Cconturu154.pdf",
+        "title": "Avizul Curții de Conturi"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21603"
+  }
+}

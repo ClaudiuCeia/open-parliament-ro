@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:02.328Z",
+  "data": {
+    "idp": "21933",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.71/2024 pentru modificarea şi completarea unor acte normative, precum şi pentru stabilirea unor măsuri de prevenire şi combatere a publicităţii şi a tehnicilor agresive de comunicare practicate de entităţile care nu sunt înscrise în Registrul Autorităţii de Supraveghere Financiară",
+    "registrationNumber": {
+      "bpi": "521/17-09-2024",
+      "senateChamber": "L371/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n71/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/9/em521.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/9/oug521.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/9/ax521.pdf",
+        "title": "Anexă"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/9/ces521.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/9/cl521.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21933"
+  }
+}

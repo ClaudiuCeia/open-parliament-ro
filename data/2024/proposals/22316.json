@@ -1,0 +1,66 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:49.103Z",
+  "data": {
+    "idp": "22316",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.286/2009 privind Codul penal",
+    "registrationNumber": {
+      "bpi": "115/15-04-2025",
+      "senateChamber": "L30/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n286/2009",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "63",
+      "131",
+      "309",
+      "9",
+      "129",
+      "208",
+      "308",
+      "20",
+      "5",
+      "15",
+      "30",
+      "31",
+      "40",
+      "49",
+      "53",
+      "58",
+      "67",
+      "70",
+      "98",
+      "122"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/5/em115.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/5/ces115.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/5/cl105.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/5/cl115.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/10/5/csm115.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22316"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:17.287Z",
+  "data": {
+    "idp": "21491",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.112/2023 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.194/2002 privind regimul străinilor în România",
+    "registrationNumber": {
+      "bpi": "34/13-02-2024",
+      "senateChamber": "L718/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n112/2023",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "lege trimisa la promulgare",
+      "long": "lege trimisa la promulgare"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/30/0/em34.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/30/0/oug34.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/30/0/cl34.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/30/0/comp34.pdf",
+        "title": "Tabel comparativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21491"
+  }
+}

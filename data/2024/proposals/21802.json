@@ -1,0 +1,76 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:10.474Z",
+  "data": {
+    "idp": "21802",
+    "title": "Propunere legislativă pentru modificarea Legii nr.307/2006 privind apărarea împotriva incendiilor şi completarea altor acte normative",
+    "registrationNumber": {
+      "bpi": "373/23-05-2024",
+      "senateChamber": "L202/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n307/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "89",
+      "113",
+      "261",
+      "121",
+      "1",
+      "4",
+      "5",
+      "13",
+      "22",
+      "75",
+      "112",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "247",
+      "265",
+      "275",
+      "280",
+      "285",
+      "294",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "41",
+      "52",
+      "68",
+      "69",
+      "71",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/30/1/em373.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/30/1/pl373.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/30/1/ces373.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/30/1/cl373.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21802"
+  }
+}

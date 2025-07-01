@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:11.128Z",
+  "data": {
+    "idp": "21959",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.79/2024 pentru modificarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ",
+    "registrationNumber": {
+      "bpi": "552/24-09-2024",
+      "senateChamber": "L379/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n79/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "în reexaminare la Senat ca urmare a deciziei Curtii Constitutionale",
+      "long": "în reexaminare la Senat ca urmare a deciziei Curtii Constitutionale"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/80/5/em552.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/80/5/oug552.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/80/5/cl552.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21959"
+  }
+}

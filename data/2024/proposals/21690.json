@@ -1,0 +1,71 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:34.628Z",
+  "data": {
+    "idp": "21690",
+    "title": "Propunere legislativă pentru modificarea unor prevederi ale Legii nr.226/2023 privind aplicarea unor tarife rutiere pe reţeaua de drumuri naţionale din România",
+    "registrationNumber": {
+      "bpi": "253/27-03-2024441/19-06-2024",
+      "senateChamber": "L283/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n226/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 275/2024LEGE pentru modificarea si completarea Legii nr. 226/2023 privind aplicarea unor tarife rutiere pe reteaua de drumuri nationale din România",
+      "long": "Lege 275/2024LEGE pentru modificarea si completarea Legii nr. 226/2023 privind aplicarea unor tarife rutiere pe reteaua de drumuri nationale din România"
+    },
+    "initiators": [
+      "25",
+      "335",
+      "273",
+      "11",
+      "24",
+      "27",
+      "32",
+      "340",
+      "41",
+      "54",
+      "76",
+      "83",
+      "96",
+      "134",
+      "165",
+      "341",
+      "190",
+      "244",
+      "264",
+      "283",
+      "287",
+      "296",
+      "307",
+      "320",
+      "333"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/9/em441.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/9/pl441.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/9/ces441.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/9/cl441.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/9/pvg441.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21690"
+  }
+}

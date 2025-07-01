@@ -1,0 +1,40 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:33.498Z",
+  "data": {
+    "idp": "21702",
+    "title": "Propunere legislativă pentru modificarea art.17 din Ordonanţa de urgenţă a Guvernului nr.24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii",
+    "registrationNumber": {
+      "bpi": "267/08-04-2024",
+      "senateChamber": "L237/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n24/2008",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "procedura legislativa încetata prin respingere definitiva de catre Senat",
+      "long": "procedura legislativa încetata prin respingere definitiva de catre Senat"
+    },
+    "initiators": [
+      "117",
+      "217",
+      "321"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-04-12T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/30/4/em267.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/30/4/pl267.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21702"
+  }
+}

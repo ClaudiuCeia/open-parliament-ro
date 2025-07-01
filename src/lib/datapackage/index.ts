@@ -30,23 +30,18 @@ type DataPackageContributor = {
 
 type DataPackageResource = {
   name: string;
-  path: string; // Path to the Data Resource descriptor file
-};
-
-// Individual Data Resource descriptor (saved as separate files)
-export interface DataResourceDescriptor {
-  $schema: string;
-  name: string;
   path: string | string[];
-  format: string;
-  mediatype: string;
-  encoding: string;
-  title: string;
-  description: string;
-  schema?: object;
+  format?: string;
+  mediatype?: string;
+  encoding?: string;
+  bytes?: number;
+  hash?: string;
+  title?: string;
+  description?: string;
+  type?: string;
   sources?: DataPackageSource[];
   licenses?: DataPackageLicense[];
-}
+};
 
 export interface DataPackage {
   $schema: string;
@@ -65,76 +60,22 @@ export interface DataPackage {
   created: string;
 }
 
-async function getJobPaths(
-  job: ScraperJob<unknown, unknown>,
-): Promise<string[]> {
-  if (job.isAtomic) {
-    return [job.outputPath.replace("./", "")];
-  } else {
-    const items = await job.listItems();
-    const allPaths = items.map((item) => job.getPath(item).replace("./", ""));
-    const uniquePaths = Array.from(new Set(allPaths)); // Deduplicate paths
-
-    // Sort paths properly - first by year, then numerically by filename
-    return uniquePaths.sort((a, b) => {
-      // Extract year from path (e.g., "2024" from "data/2024/...")
-      const yearA = a.match(/(\d{4})/)?.[1];
-      const yearB = b.match(/(\d{4})/)?.[1];
-
-      if (yearA && yearB && yearA !== yearB) {
-        return parseInt(yearA) - parseInt(yearB);
-      }
-
-      // For same year or no year, sort by filename numerically
-      const filenameA = a.split("/").pop()?.replace(".json", "") || "";
-      const filenameB = b.split("/").pop()?.replace(".json", "") || "";
-
-      // If both are numeric, sort numerically
-      const numA = parseInt(filenameA);
-      const numB = parseInt(filenameB);
-
-      if (!Number.isNaN(numA) && !Number.isNaN(numB)) {
-        return numA - numB;
-      }
-
-      // Otherwise, sort alphabetically
-      return a.localeCompare(b);
-    });
-  }
-}
-
 export async function generateDataPackage(
   jobs: Map<string, ScraperJob<unknown, unknown>>,
   preserveCreatedDate?: string,
 ): Promise<DataPackage> {
   const resources: DataPackageResource[] = [];
 
-  for (const [jobName, job] of jobs) {
-    // Create Data Resource descriptor
-    const dataResourceDescriptor: DataResourceDescriptor = {
-      $schema: "https://datapackage.org/profiles/2.0/dataresource.json",
+  // Generate individual resource descriptor files and reference them in the main datapackage
+  for (const [, job] of jobs) {
+    resources.push({
       name: job.datapackage.name,
-      title: job.datapackage.title,
-      description: job.datapackage.description,
+      path: `data/resources/${job.datapackage.name}.json`,
       format: "json",
       mediatype: "application/json",
       encoding: "utf-8",
-      path: job.isAtomic
-        ? job.outputPath.replace("./", "")
-        : await getJobPaths(job),
-    };
-
-    // Save the Data Resource descriptor
-    const descriptorPath = `./data/resources/${jobName}.json`;
-    await Bun.write(
-      descriptorPath,
-      JSON.stringify(dataResourceDescriptor, null, 2),
-    );
-
-    // Add reference to the descriptor in the main datapackage
-    resources.push({
-      name: job.datapackage.name,
-      path: descriptorPath.replace("./", ""),
+      title: job.datapackage.title,
+      description: job.datapackage.description,
     });
   }
 
@@ -188,6 +129,9 @@ export async function writeDataPackage(
   jobs: Map<string, ScraperJob<unknown, unknown>>,
   outputPath = "./data/datapackage.json",
 ): Promise<void> {
+  // Generate individual resource descriptor files
+  await writeResourceDescriptors(jobs);
+
   // Check if datapackage.json already exists and preserve its created date
   let existingCreatedDate: string | undefined;
   if (existsSync(outputPath)) {
@@ -219,6 +163,9 @@ export async function writeDataPackageWithVersionUpdate(
 ): Promise<void> {
   await updateVersionInfo(jobs, jobResults, forceBumpType, customReason);
 
+  // Generate individual resource descriptor files
+  await writeResourceDescriptors(jobs);
+
   // Check if datapackage.json already exists and preserve its created date
   let existingCreatedDate: string | undefined;
   if (existsSync(outputPath)) {
@@ -236,4 +183,44 @@ export async function writeDataPackageWithVersionUpdate(
 
   const dataPackage = await generateDataPackage(jobs, existingCreatedDate);
   await Bun.write(outputPath, JSON.stringify(dataPackage, null, 2));
+}
+
+/**
+ * Generate individual resource descriptor files for each job
+ */
+export async function writeResourceDescriptors(
+  jobs: Map<string, ScraperJob<unknown, unknown>>,
+  resourcesDir = "./data/resources",
+): Promise<void> {
+  // Create resources directory if it doesn't exist
+  if (!existsSync(resourcesDir)) {
+    await Bun.write(`${resourcesDir}/.gitkeep`, "");
+  }
+
+  for (const [, job] of jobs) {
+    const resourceDescriptor: DataPackageResource & { $schema: string } = {
+      $schema: "https://datapackage.org/profiles/2.0/dataresource.json",
+      name: job.datapackage.name,
+      title: job.datapackage.title,
+      description: job.datapackage.description,
+      format: "json",
+      mediatype: "application/json",
+      encoding: "utf-8",
+      path: "", // Will be set below
+    };
+
+    if (job.isAtomic) {
+      // Single file resource
+      resourceDescriptor.path = job.outputPath.replace("./", "");
+    } else {
+      // Multiple files - list actual paths
+      const items = await job.listItems();
+      const allPaths = items.map((item) => job.getPath(item).replace("./", ""));
+      const paths = Array.from(new Set(allPaths)); // Deduplicate paths
+      resourceDescriptor.path = paths;
+    }
+
+    const resourcePath = `${resourcesDir}/${job.datapackage.name}.json`;
+    await Bun.write(resourcePath, JSON.stringify(resourceDescriptor, null, 2));
+  }
 }

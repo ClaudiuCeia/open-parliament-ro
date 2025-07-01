@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:06.460Z",
+  "data": {
+    "idp": "22266",
+    "title": "Proiect de Lege pentru completarea art.220 din Legea nr.134/2010 privind Codul de procedură civilă",
+    "registrationNumber": {
+      "bpi": "67/19-03-2025221/11-06-2025",
+      "senateChamber": "L127/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n134/2010",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "192",
+      "9",
+      "213",
+      "285",
+      "139",
+      "166",
+      "206",
+      "76"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/4/em221.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/4/ces221.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/4/cl221.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/90/4/csm221.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22266"
+  }
+}

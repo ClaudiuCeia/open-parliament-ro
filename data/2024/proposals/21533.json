@@ -1,0 +1,63 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:34.215Z",
+  "data": {
+    "idp": "21533",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.38/2003 privind transportul în regim de taxi şi în regim de închiriere",
+    "registrationNumber": {
+      "bpi": "645/04-10-202378/20-02-2024",
+      "senateChamber": "L654/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n38/2003",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "",
+      "long": ""
+    },
+    "initiators": [
+      "193",
+      "235",
+      "281",
+      "284",
+      "9",
+      "12",
+      "30",
+      "41",
+      "63",
+      "69",
+      "86",
+      "96",
+      "101",
+      "102",
+      "139",
+      "156",
+      "176",
+      "204",
+      "255",
+      "287",
+      "296"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/2/em78.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/2/ces78.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/2/cl78.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/70/2/pvCC78.pdf",
+        "title": "Punctul de vedere al Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21533"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:05.720Z",
+  "data": {
+    "idp": "21645",
+    "title": "Propunere legislativă pentru modificarea şi completarea unor acte normative",
+    "registrationNumber": {
+      "bpi": "204/12-03-2024",
+      "senateChamber": "L103/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "74",
+      "89",
+      "99",
+      "261",
+      "121",
+      "5",
+      "13",
+      "19",
+      "22",
+      "75",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "265",
+      "275",
+      "280",
+      "285",
+      "294",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "33",
+      "41",
+      "52",
+      "68",
+      "69",
+      "71",
+      "83",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/6/em204.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/6/pl204.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/6/ces204.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/6/cl204.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/6/pvg204.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/6/opConsFisc.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21645"
+  }
+}

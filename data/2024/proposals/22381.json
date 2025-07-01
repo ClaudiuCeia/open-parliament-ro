@@ -1,0 +1,37 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.435Z",
+  "data": {
+    "idp": "22381",
+    "title": "Propunere legislativă pentru completarea art.6, alin (1) din Legea nr.363/2007 privind combaterea practicilor incorecte ale comercianţilor în relaţia cu consumatorii şi armonizarea reglementărilor cu legislaţia europeană privind protecţia consumatorilor",
+    "registrationNumber": {
+      "bpi": "187/28-05-2025",
+      "deputyChamber": "BP187/28.05.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "-",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": ["64", "130", "168", "274", "326"],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/80/7/in187.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/80/7/em187.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/80/7/pl187.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22381"
+  }
+}

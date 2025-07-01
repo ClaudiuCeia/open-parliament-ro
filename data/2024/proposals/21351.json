@@ -1,0 +1,61 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:50.869Z",
+  "data": {
+    "idp": "21351",
+    "title": "Propunere legislativă privind completarea articolului 37, alineatul (1) al Ordonanţei de Urgenţă nr.195 din 12 decembrie 2002 publicată în Monitorul Oficial al României nr.958/28 decembrie 2002",
+    "registrationNumber": {
+      "bpi": "851/21-11-2023126/28-02-2024",
+      "senateChamber": "L763/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n195/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "68",
+      "257",
+      "305",
+      "325",
+      "24",
+      "123",
+      "126",
+      "139",
+      "307",
+      "158",
+      "263",
+      "10",
+      "82",
+      "166",
+      "179",
+      "217",
+      "224",
+      "274",
+      "330"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/3/em126.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/3/pl126.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/3/ces126.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/3/cl126.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21351"
+  }
+}

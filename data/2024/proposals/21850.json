@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:29.616Z",
+  "data": {
+    "idp": "21850",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.54/2024 privind modificarea art.VII1 din Ordonanţa de urgenţă a Guvernului nr.119/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei",
+    "registrationNumber": {
+      "bpi": "432/19-06-2024",
+      "senateChamber": "L320/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n54/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 312/2024LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 54/2024 privind modificarea art. VII1 din Ordonanta de urgentă a Guvernului nr. 119/2022 pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 27/2022 privind măsurile aplicabile clientilor finali din piata de energie electrică si gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum si pentru modificarea si completarea unor acte normative din domeniul energiei",
+      "long": "Lege 312/2024LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 54/2024 privind modificarea art. VII1 din Ordonanta de urgentă a Guvernului nr. 119/2022 pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 27/2022 privind măsurile aplicabile clientilor finali din piata de energie electrică si gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum si pentru modificarea si completarea unor acte normative din domeniul energiei"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/70/7/em432.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/70/7/oug432.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/70/7/cl432.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/70/7/csat432.pdf",
+        "title": "Hotărârea Consiliului Suprem de Apărare a Țării"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21850"
+  }
+}

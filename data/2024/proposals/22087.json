@@ -1,0 +1,53 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:55.338Z",
+  "data": {
+    "idp": "22087",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii cadastrului şi a publicităţii imobiliare nr.7/1996",
+    "registrationNumber": {
+      "bpi": "688/22-10-2024",
+      "senateChamber": "L422/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n7/1996",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "36",
+      "100",
+      "159",
+      "282",
+      "97",
+      "25",
+      "129",
+      "5",
+      "37",
+      "140",
+      "126"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/10/0/em688.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/10/0/ces688.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/10/0/cl688.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/10/0/pvg688.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22087"
+  }
+}

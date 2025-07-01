@@ -1,0 +1,49 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:57.559Z",
+  "data": {
+    "idp": "21919",
+    "title": "Proiect de Lege pentru modificarea şi completarea art.18 din Legea nr.334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+    "registrationNumber": {
+      "bpi": "507/11-09-2024",
+      "senateChamber": "L298/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n334/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "322",
+      "307",
+      "57"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/7/em507.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/7/ces507.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/7/cl507.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/7/pvg507.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/7/curteconturi507.pdf",
+        "title": "Avizul Curții de Conturi"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21919"
+  }
+}

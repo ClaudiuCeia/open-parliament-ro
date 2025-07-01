@@ -1,0 +1,46 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:55.128Z",
+  "data": {
+    "idp": "22349",
+    "title": "Propunere legislativă pentru modificarea Ordonanţei de urgenţă nr.57/2019 privind Codul administrativ",
+    "registrationNumber": {
+      "bpi": "149/14-05-2025",
+      "senateChamber": "B85/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n57/2019",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "122"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-06-19T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/3/em49.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/3/pl49.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/3/ces49.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/40/3/cl49.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22349"
+  }
+}

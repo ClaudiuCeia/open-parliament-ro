@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:40.832Z",
+  "data": {
+    "idp": "21553",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei Guvernului nr.16/2024 privind inspecţia tehnică şi supravegherea prin acţiuni de inspecţie tehnică în domeniul feroviar, al transportului cu metroul, metroul uşor, monorai şi al transportului urban, suburban şi regional pe şine, pe linii ferate industriale şi pe căile ferate cu caracter de patrimoniu, de muzeu sau turistic",
+    "registrationNumber": {
+      "bpi": "100/20-02-2024",
+      "senateChamber": "L34/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n16/2024",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 225/2024LEGE pentru aprobarea Ordonantei Guvernului nr. 16/2024 privind inspectia tehnică si supravegherea prin actiuni de inspectie tehnică în domeniul feroviar, al transportului cu metroul, metroul usor, monorai si al transportului urban, suburban si regional pe sine, pe linii ferate industriale si pe căile ferate cu caracter de patrimoniu, de muzeu sau turistic",
+      "long": "Lege 225/2024LEGE pentru aprobarea Ordonantei Guvernului nr. 16/2024 privind inspectia tehnică si supravegherea prin actiuni de inspectie tehnică în domeniul feroviar, al transportului cu metroul, metroul usor, monorai si al transportului urban, suburban si regional pe sine, pe linii ferate industriale si pe căile ferate cu caracter de patrimoniu, de muzeu sau turistic"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/6/em100.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/6/og100.pdf",
+        "title": "Ordonanţa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/6/cl100.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21553"
+  }
+}

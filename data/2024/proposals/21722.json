@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:39.760Z",
+  "data": {
+    "idp": "21722",
+    "title": "Proiect de Lege privind statutul personalului de cercetare, dezvoltare şi inovare",
+    "registrationNumber": {
+      "bpi": "286/16-04-2024",
+      "senateChamber": "L184/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 183/2024LEGE privind statutul personalului de cercetare, dezvoltare si inovare",
+      "long": "Lege 183/2024LEGE privind statutul personalului de cercetare, dezvoltare si inovare"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/40/8/em286.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/40/8/ces286.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/40/8/cl286.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21722"
+  }
+}

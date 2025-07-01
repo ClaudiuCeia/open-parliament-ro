@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:48.799Z",
+  "data": {
+    "idp": "21574",
+    "title": "Proiect de Lege pentru introducerea, modificarea sau completarea menţiunii privind transpunerea normelor Uniunii Europene în cuprinsul unor acte normative, precum şi pentru modificarea şi completarea Legii nr.302/2004 privind cooperarea judiciară internaţională în materie penală şi a Legii nr.135/2010 privind Codul de procedură penală",
+    "registrationNumber": {
+      "bpi": "121/28-02-2024",
+      "senateChamber": "L3/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 122/2024LEGE pentru introducerea, modificarea sau completarea mentiunii privind transpunerea normelor Uniunii Europene în cuprinsul unor acte normative, precum si pentru modificarea si completarea Legii nr. 302/2004 privind cooperarea judiciară internatională în materie penală si a Legii nr. 135/2010 privind Codul de procedură penală",
+      "long": "Lege 122/2024LEGE pentru introducerea, modificarea sau completarea mentiunii privind transpunerea normelor Uniunii Europene în cuprinsul unor acte normative, precum si pentru modificarea si completarea Legii nr. 302/2004 privind cooperarea judiciară internatională în materie penală si a Legii nr. 135/2010 privind Codul de procedură penală"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/00/6/em121.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/00/6/cl121.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/00/6/comp121.pdf",
+        "title": "Tabel comparativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21574"
+  }
+}

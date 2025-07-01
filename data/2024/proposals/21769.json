@@ -1,0 +1,73 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:58.207Z",
+  "data": {
+    "idp": "21769",
+    "title": "Proiect de Lege pentru modificarea alineatului (1) al articolului unic din Legea nr.46/2022 privind aprobarea plăţii cotizaţiei anuale de participare a Autorităţii Electorale Permanente ca membru cu drepturi depline la Reţeaua de Competenţe Electorale Francofone (RECEF)",
+    "registrationNumber": {
+      "bpi": "338/14-05-2024",
+      "senateChamber": "L152/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n46/2022",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "17",
+      "22",
+      "34",
+      "42",
+      "45",
+      "50",
+      "54",
+      "55",
+      "61",
+      "72",
+      "73",
+      "76",
+      "53",
+      "80",
+      "95",
+      "97",
+      "102",
+      "104",
+      "107",
+      "108",
+      "110",
+      "111",
+      "115",
+      "117",
+      "123",
+      "142",
+      "133"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/6/em338.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/6/comp338.pdf",
+        "title": "Tabel comparativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/6/ces338.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/6/cl338.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/90/6/pvg338.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21769"
+  }
+}

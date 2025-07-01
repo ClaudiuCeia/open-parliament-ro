@@ -1,0 +1,57 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:12.984Z",
+  "data": {
+    "idp": "21403",
+    "title": "Proiect de Lege privind modificarea şi completarea Legii nr.349/2002 pentru prevenirea şi combaterea efectelor consumului produselor din tutun",
+    "registrationNumber": {
+      "bpi": "908/12-12-2023207/13-03-2024",
+      "senateChamber": "L82/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n349/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "193",
+      "69",
+      "176",
+      "215",
+      "254",
+      "255",
+      "296",
+      "300",
+      "307",
+      "333",
+      "86"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/4/em908.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/4/pl908.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/4/ces207.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/4/cl207.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/4/pvCC207.pdf",
+        "title": "Punctul de vedere al Consiliului Concurenâei"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21403"
+  }
+}

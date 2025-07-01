@@ -1,0 +1,82 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:14.376Z",
+  "data": {
+    "idp": "21632",
+    "title": "Propunere legislativă pentru completarea Legii nr.69/2000 a educaţiei fizice şi sportului",
+    "registrationNumber": {
+      "bpi": "189/12-03-2024",
+      "senateChamber": "L55/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n69/2000",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "71",
+      "20",
+      "304",
+      "46",
+      "15",
+      "21",
+      "31",
+      "34",
+      "56",
+      "81",
+      "127",
+      "137",
+      "138",
+      "150",
+      "164",
+      "192",
+      "194",
+      "197",
+      "218",
+      "232",
+      "251",
+      "276",
+      "317",
+      "9",
+      "15",
+      "40",
+      "56",
+      "85",
+      "114",
+      "131",
+      "132",
+      "136"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/9/em189a.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/9/em189.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/9/pl189.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/9/ces189.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/9/cl189.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/70/9/pvg189.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21632"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:22.553Z",
+  "data": {
+    "idp": "21667",
+    "title": "Proiect de Lege pentru completarea tabelelor-anexă nr. I şi II la Legea nr.143/2000 privind prevenirea şi combaterea traficului şi consumului ilicit de droguri",
+    "registrationNumber": {
+      "bpi": "225/19-03-2024",
+      "senateChamber": "L137/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 171/2024LEGE pentru completarea tabelelor-anexă nr. I si II la Legea nr. 143/2000 privind prevenirea si combaterea traficului si consumului ilicit de droguri",
+      "long": "Lege 171/2024LEGE pentru completarea tabelelor-anexă nr. I si II la Legea nr. 143/2000 privind prevenirea si combaterea traficului si consumului ilicit de droguri"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/0/em225.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/0/cl225.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21667"
+  }
+}

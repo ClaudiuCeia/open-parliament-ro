@@ -1,0 +1,52 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:56.624Z",
+  "data": {
+    "idp": "21918",
+    "title": "Proiect de Lege pentru modificarea şi completarea alin.(6) şi alin.(7) ale art.104 din Legea energiei electrice şi a gazelor naturale nr.123/2012",
+    "registrationNumber": {
+      "bpi": "506/11-09-2024",
+      "senateChamber": "L297/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n123/2012",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "La Senat în reexaminare solicitata de Presedintele României\ntitlu votat:\nLege pentru modificarea și completarea Legii energiei electrice şi a gazelor naturale nr. 123/2012",
+      "long": "La Senat în reexaminare solicitata de Presedintele României\ntitlu votat:\nLege pentru modificarea și completarea Legii energiei electrice şi a gazelor naturale nr. 123/2012"
+    },
+    "initiators": [
+      "68",
+      "11",
+      "26",
+      "72",
+      "77",
+      "135"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/4/em506.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/4/ces506.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/4/cl506.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/4/pvg506.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/4/cconc506.pdf",
+        "title": "Avizul Consiului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21918"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-30T14:28:06.572Z",
+  "lastUpdated": "2025-07-01T16:12:41.515Z",
   "data": [
     {
       "idi": "77938",
@@ -11,9 +11,9 @@
       },
       "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nEmilian-Horațiu Hurezeanu\n- Ministru",
       "dates": {
-        "registration": "2025-04-03T00:00:00.000Z",
-        "presentation": "2025-04-03T00:00:00.000Z",
-        "communication": "2025-05-03T00:00:00.000Z",
+        "registration": "2025-04-02T21:00:00.000Z",
+        "presentation": "2025-04-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -40,9 +40,9 @@
       },
       "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndoamnei\nSimona Bucura-Oprescu\n- Ministru",
       "dates": {
-        "registration": "2025-04-03T00:00:00.000Z",
-        "presentation": "2025-04-03T00:00:00.000Z",
-        "communication": "2025-05-03T00:00:00.000Z",
+        "registration": "2025-04-02T21:00:00.000Z",
+        "presentation": "2025-04-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -53,7 +53,7 @@
       "answers": [
         {
           "registrationId": "1579",
-          "date": "2025-07-04T00:00:00.000Z",
+          "date": "2025-07-03T21:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r350A.pdf"
@@ -69,10 +69,10 @@
       },
       "recipient": "",
       "dates": {
-        "registration": "2025-03-04T00:00:00.000Z",
-        "presentation": "2025-03-04T00:00:00.000Z",
-        "communication": "2025-09-04T00:00:00.000Z",
-        "responseDue": "2025-05-05T00:00:00.000Z"
+        "registration": "2025-03-03T22:00:00.000Z",
+        "presentation": "2025-03-03T22:00:00.000Z",
+        "communication": "2025-09-03T21:00:00.000Z",
+        "responseDue": "2025-05-04T21:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i754A.pdf",
@@ -82,14 +82,14 @@
       "answers": [
         {
           "registrationId": "8535",
-          "date": "2025-07-05T00:00:00.000Z",
+          "date": "2025-07-04T21:00:00.000Z",
           "responseType": "în scris",
           "author": "Autoritatea Electorală Permanentă",
           "textUrl": "https://www.cdep.ro/interpel/2025/2r754A.pdf"
         },
         {
           "registrationId": "326",
-          "date": "2025-07-05T00:00:00.000Z",
+          "date": "2025-07-04T21:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r754A.pdf"
@@ -105,15 +105,99 @@
       },
       "recipient": "Departamentul pentru Românii de Pretutindeni",
       "dates": {
-        "registration": "2025-11-06T00:00:00.000Z",
-        "presentation": "2025-11-06T00:00:00.000Z",
-        "communication": "2025-11-06T00:00:00.000Z",
-        "responseDue": "2025-02-07T00:00:00.000Z"
+        "registration": "2025-11-05T22:00:00.000Z",
+        "presentation": "2025-11-05T22:00:00.000Z",
+        "communication": "2025-11-05T22:00:00.000Z",
+        "responseDue": "2025-02-06T22:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1376A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79286&idl=1",
       "registrationId": "1376A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79572",
+      "title": "Întrebarea nr.1614A/01-07-2025",
+      "description": "Măsuri de sprijin pentru facilitarea investițiilor cetățenilor români din diaspora în economia națională",
+      "addressee": {
+        "idm": "173"
+      },
+      "recipient": "Ministerul Economiei, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": "2025-01-06T22:00:00.000Z",
+        "presentation": "2025-01-06T22:00:00.000Z",
+        "communication": "2025-02-06T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1614A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79572&idl=1",
+      "registrationId": "1614A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79573",
+      "title": "Întrebarea nr.1615A/01-07-2025",
+      "description": "Situația elevilor reveniți din diaspora și măsuri pentru integrarea lor în învățământul preuniversitar românesc",
+      "addressee": {
+        "idm": "173"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-01-06T22:00:00.000Z",
+        "presentation": "2025-01-06T22:00:00.000Z",
+        "communication": "2025-02-06T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1615A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79573&idl=1",
+      "registrationId": "1615A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79574",
+      "title": "Întrebarea nr.1616A/01-07-2025",
+      "description": "Convenții internaționale de evitare a dublei impuneri în negociere și implicarea românilor din diaspora",
+      "addressee": {
+        "idm": "173"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": "2025-01-06T22:00:00.000Z",
+        "presentation": "2025-01-06T22:00:00.000Z",
+        "communication": "2025-02-06T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1616A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79574&idl=1",
+      "registrationId": "1616A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79575",
+      "title": "Întrebarea nr.1617A/01-07-2025",
+      "description": "Obiective și măsuri pentru sprijinirea comunităților de români din afara granițelor",
+      "addressee": {
+        "idm": "173"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-01-06T22:00:00.000Z",
+        "presentation": "2025-01-06T22:00:00.000Z",
+        "communication": "2025-02-06T22:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1617A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79575&idl=1",
+      "registrationId": "1617A",
       "requestedResponseType": "în scris",
       "answers": []
     }

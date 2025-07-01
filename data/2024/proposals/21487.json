@@ -1,0 +1,44 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:40.121Z",
+  "data": {
+    "idp": "21487",
+    "title": "Propunere legislativă pentru implementarea bugetării participative la nivel local, precum şi completarea Legii nr.273/2006 privind finanţele publice locale",
+    "registrationNumber": {
+      "bpi": "30/07-02-2024287/16-04-2024",
+      "senateChamber": "L158/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "45",
+      "157"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/40/9/em30.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/40/9/pl30.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/40/9/ces287.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/40/9/cl287.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21487"
+  }
+}

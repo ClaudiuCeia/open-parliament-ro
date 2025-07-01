@@ -1,0 +1,79 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:45.600Z",
+  "data": {
+    "idp": "21877",
+    "title": "Proiect de Lege pentru completarea Legii nr.272/2004 privind protecţia şi promovarea drepturilor copilului",
+    "registrationNumber": {
+      "bpi": "463/26-06-2024",
+      "senateChamber": "L314/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n272/2004",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 295/2024LEGE pentru completarea Legii nr. 272/2004 privind protectia si promovarea drepturilor copilului",
+      "long": "Lege 295/2024LEGE pentru completarea Legii nr. 272/2004 privind protectia si promovarea drepturilor copilului"
+    },
+    "initiators": [
+      "7",
+      "20",
+      "33",
+      "42",
+      "49",
+      "51",
+      "68",
+      "97",
+      "110",
+      "130",
+      "140",
+      "142",
+      "149",
+      "171",
+      "174",
+      "175",
+      "334",
+      "185",
+      "196",
+      "199",
+      "203",
+      "206",
+      "208",
+      "210",
+      "214",
+      "219",
+      "220",
+      "226",
+      "243",
+      "250",
+      "257",
+      "258",
+      "269",
+      "331",
+      "305",
+      "309",
+      "316",
+      "318",
+      "322",
+      "9",
+      "19"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/10/7/em463.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/10/7/ces463.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/10/7/cl463.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21877"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:52.309Z",
+  "data": {
+    "idp": "22078",
+    "title": "Proiect de Lege pentru aprobarea plăţii cotizaţiei financiare anuale a României la Fondul Organizaţiei Naţiunilor Unite pentru consolidarea păcii, precum şi pentru completarea Ordonanţei Guvernului nr.41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte",
+    "registrationNumber": {
+      "bpi": "678/17-10-2024",
+      "senateChamber": "L10/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 18/2025LEGE pentru aprobarea plătii cotizatiei financiare anuale a României la Fondul Organizatiei Natiunilor Unite pentru consolidarea păcii, precum si pentru completarea Ordonantei Guvernului nr. 41/1994 privind autorizarea plătii cotizatiilor la organizatiile internationale interguvernamentale la care România este parte",
+      "long": "Lege 18/2025LEGE pentru aprobarea plătii cotizatiei financiare anuale a României la Fondul Organizatiei Natiunilor Unite pentru consolidarea păcii, precum si pentru completarea Ordonantei Guvernului nr. 41/1994 privind autorizarea plătii cotizatiilor la organizatiile internationale interguvernamentale la care România este parte"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/00/2/em678.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/00/2/pl678.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/00/2/cl678.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22078"
+  }
+}

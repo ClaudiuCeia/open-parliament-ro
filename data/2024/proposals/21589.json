@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:52.569Z",
+  "data": {
+    "idp": "21589",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.7/2024 privind aprobarea schemei de ajutor de stat „Creditul fermierului”, în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum şi pentru modificarea art.12 alin.(1) din Legea nr.218/2005 privind stimularea absorbţiei fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit şi afaceri maritime, gestionate de Ministerul Agriculturii şi Dezvoltării Rurale, prin instrumente financiare de garantare şi creditare, precum şi pentru susţinerea obiectivelor naţionale de politică agricolă",
+    "registrationNumber": {
+      "bpi": "137/05-03-2024",
+      "senateChamber": "L110/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n7/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 108/2025LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 7/2024 privind aprobarea schemei de ajutor de stat \"Creditul fermierului\", în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum si pentru modificarea art. 12 alin. (1) din Legea nr. 218/2005 privind stimularea absorbtiei fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit si afaceri maritime, gestionate de Ministerul Agriculturii si Dezvoltării Rurale, prin instrumente financiare de garantare si creditare, precum si pentru sustinerea obiectivelor nationale de politică agricolă",
+      "long": "Lege 108/2025LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 7/2024 privind aprobarea schemei de ajutor de stat \"Creditul fermierului\", în contextul crizei provocate de agresiunea Rusiei împotriva Ucrainei, precum si pentru modificarea art. 12 alin. (1) din Legea nr. 218/2005 privind stimularea absorbtiei fondurilor alocate României pentru agricultură, dezvoltare rurală, pescuit si afaceri maritime, gestionate de Ministerul Agriculturii si Dezvoltării Rurale, prin instrumente financiare de garantare si creditare, precum si pentru sustinerea obiectivelor nationale de politică agricolă"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/7/em137.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/7/oug137.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/7/cl137.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21589"
+  }
+}

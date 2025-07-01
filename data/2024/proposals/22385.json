@@ -1,0 +1,68 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:02.586Z",
+  "data": {
+    "idp": "22385",
+    "title": "Proiect de Lege pentru completarea Ordonanţei de urgenţă a Guvernului nr.92/2021 privind regimul deşeurilor",
+    "registrationNumber": {
+      "bpi": "192/28-05-2025",
+      "senateChamber": "L143/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n92/2021",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "117",
+      "184",
+      "226",
+      "307",
+      "7",
+      "12",
+      "36",
+      "48",
+      "73",
+      "82",
+      "90",
+      "94",
+      "98",
+      "198",
+      "236",
+      "285",
+      "287",
+      "314",
+      "317",
+      "330",
+      "76",
+      "118",
+      "4",
+      "34",
+      "64",
+      "68",
+      "73",
+      "80",
+      "111",
+      "112"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/6/em192.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/6/ces192.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/6/cl192.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22385"
+  }
+}

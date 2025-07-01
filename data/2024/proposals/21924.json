@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:00.144Z",
+  "data": {
+    "idp": "21924",
+    "title": "Propunere legislativă privind abrogarea Legii nr.28/1991 privind acceptarea de către România a Acordului (Statutului) privind Corporaţia Financiară Internaţională (C.F.I.)",
+    "registrationNumber": {
+      "bpi": "515/17-09-2024",
+      "senateChamber": "L663/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nabrogarea\nL. nr.\n28/1991",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata prin respingere definitiva de catre Senat",
+      "long": "procedura legislativa încetata prin respingere definitiva de catre Senat"
+    },
+    "initiators": [
+      "64"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-10-28T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/3/em515.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/3/pl515.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/3/ces515.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/3/cl515.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/50/3/pvg383.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21924"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:15.669Z",
+  "data": {
+    "idp": "20211",
+    "title": "Proiect de Lege pentru aprobarea contului general anual de execuţie a bugetului de stat, a contului anual de execuţie a bugetului Fondului naţional unic de asigurări sociale de sănătate şi a contului general anual al datoriei publice aferente anului 2021",
+    "registrationNumber": {
+      "bpi": "508/28-06-2022",
+      "senateChamber": "L648/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor + Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor si Senatului",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor si Senatului"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/4/em508.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/4/pl508.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/4/cl508.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/4/vol%201%20complet.pdf",
+        "title": "Volumul I"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/4/vol%202%20complet.pdf",
+        "title": "Volumul II"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/4/vol%203%20complet.pdf",
+        "title": "Volumul III"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/4/vol%204%20complet.pdf",
+        "title": "Volumul IV"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/4/vol%205%20complet.pdf",
+        "title": "Volumul V"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/70/4/vol%206%20complet.pdf",
+        "title": "Volumul VI"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=20211"
+  }
+}

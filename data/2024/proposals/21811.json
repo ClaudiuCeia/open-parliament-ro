@@ -1,0 +1,72 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:14.839Z",
+  "data": {
+    "idp": "21811",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.126/1995 privind regimul materiilor explozive",
+    "registrationNumber": {
+      "bpi": "389/28-05-2024",
+      "senateChamber": "L206/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n126/1995",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "89",
+      "113",
+      "261",
+      "121",
+      "1",
+      "4",
+      "5",
+      "13",
+      "22",
+      "75",
+      "112",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "247",
+      "265",
+      "275",
+      "280",
+      "285",
+      "294",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "41",
+      "52",
+      "68",
+      "69",
+      "71",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/5/em389.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/5/ces389.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/5/cl389.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21811"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:15.890Z",
+  "data": {
+    "idp": "21955",
+    "title": "Proiect de Lege privind rezilienţa entităţilor critice, precum şi pentru modificarea unor acte normative",
+    "registrationNumber": {
+      "bpi": "548/24-09-2024",
+      "senateChamber": "L369/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 294/2024LEGE privind rezilienta entitătilor critice, precum si pentru modificarea unor acte normative",
+      "long": "Lege 294/2024LEGE privind rezilienta entitătilor critice, precum si pentru modificarea unor acte normative"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/90/8/em548.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/90/8/ces548.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/90/8/cl548.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/90/8/conc548.pdf",
+        "title": "Tabel de concordanță"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/90/8/csat548.pdf",
+        "title": "Hotărârea Consiliului Suprem de Apărare a Țării"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21955"
+  }
+}

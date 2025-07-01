@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-06-30T10:11:38.655Z",
+  "lastUpdated": "2025-07-01T16:08:35.395Z",
   "data": {
     "idm": "308",
     "name": "Raluca TURCANvicepreşedinte al Camerei Deputaţilor",
@@ -24,7 +24,7 @@
     },
     "activity": {
       "Luări de cuvânt": {
-        "count": 256,
+        "count": 283,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=4696&leg=2024&idl=1"
       },
       "- din care declaraţii politice": {
@@ -40,7 +40,7 @@
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=308&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Întrebari şi interpelări": {
-        "count": 2,
+        "count": 3,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=308&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
       }
     }

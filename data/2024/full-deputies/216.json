@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-06-30T10:10:46.734Z",
+  "lastUpdated": "2025-07-01T16:07:24.717Z",
   "data": {
     "idm": "216",
     "name": "Gheorghe NACOV",
@@ -17,7 +17,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7280&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 5,
+        "count": 6,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=216&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       }
     }

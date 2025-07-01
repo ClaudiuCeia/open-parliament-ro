@@ -1,0 +1,79 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:52.109Z",
+  "data": {
+    "idp": "22330",
+    "title": "Proiect de Lege privind modificarea Legii nr.370/2004 pentru alegerea Preşedintelui României",
+    "registrationNumber": {
+      "bpi": "130/29-04-2025",
+      "senateChamber": "L71/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n370/2004",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "12",
+      "26",
+      "29",
+      "36",
+      "44",
+      "45",
+      "48",
+      "73",
+      "82",
+      "90",
+      "94",
+      "98",
+      "125",
+      "126",
+      "149",
+      "181",
+      "213",
+      "236",
+      "267",
+      "269",
+      "285",
+      "287",
+      "293",
+      "299",
+      "313",
+      "314",
+      "317",
+      "328",
+      "4",
+      "11",
+      "64",
+      "80",
+      "127"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/0/em130.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/0/ces130.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/0/cl130.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/0/pvg130.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/30/0/aep130.pdf",
+        "title": "Avizul Autorității Electorale Permanente"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22330"
+  }
+}

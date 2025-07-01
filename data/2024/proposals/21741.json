@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:49.854Z",
+  "data": {
+    "idp": "21741",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.286/2009 privind Codul penal",
+    "registrationNumber": {
+      "bpi": "308/30-04-2024",
+      "senateChamber": "L156/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n286/2009",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 202/2024LEGE pentru modificarea si completarea Legii nr. 286/2009 privind Codul penal",
+      "long": "Lege 202/2024LEGE pentru modificarea si completarea Legii nr. 286/2009 privind Codul penal"
+    },
+    "initiators": [
+      "339",
+      "266",
+      "32",
+      "86"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/2/em308.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/2/ces308.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/2/cl308.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/2/pvg308.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/70/2/csm308.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21741"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:09.357Z",
+  "data": {
+    "idp": "22429",
+    "title": "Propunere legislativă pentru completarea Ordonanţei Guvernului nr.57/2002 privind cercetarea ştiinţifică şi dezvoltarea tehnologică",
+    "registrationNumber": {
+      "bpi": "246/18-06-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.G. nr.\n57/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "în termenul acordat pentru avize si puncte de vedere solicitate",
+      "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+    },
+    "initiators": [
+      "24",
+      "71",
+      "263",
+      "259",
+      "218",
+      "87",
+      "134",
+      "67"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-07-28T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/8/em246.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/8/pl246.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22429"
+  }
+}

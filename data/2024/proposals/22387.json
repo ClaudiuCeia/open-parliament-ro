@@ -1,0 +1,76 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:02.732Z",
+  "data": {
+    "idp": "22387",
+    "title": "Propunere legislativă pentru eliminarea impozitului pe bacşiş prin modificarea Ordonanţei de urgenţă 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale",
+    "registrationNumber": {
+      "bpi": "194/28-05-2025",
+      "senateChamber": "L95/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n28/1999",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "278",
+      "4",
+      "12",
+      "29",
+      "36",
+      "44",
+      "45",
+      "48",
+      "82",
+      "90",
+      "94",
+      "121",
+      "126",
+      "149",
+      "172",
+      "181",
+      "198",
+      "220",
+      "236",
+      "247",
+      "260",
+      "267",
+      "269",
+      "287",
+      "293",
+      "299",
+      "314",
+      "317",
+      "3",
+      "34"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/7/em194.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/7/pl194.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/7/ces194.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/7/cl194.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/7/cconc194.pdf",
+        "title": "Avizul Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22387"
+  }
+}

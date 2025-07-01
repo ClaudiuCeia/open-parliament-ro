@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:20.825Z",
+  "data": {
+    "idp": "22006",
+    "title": "Propunere legislativă privind abrogarea Legii nr.157/2018 privind unele măsuri pentru prevenirea şi combaterea antisemitismului",
+    "registrationNumber": {
+      "bpi": "601/24-09-2024",
+      "senateChamber": "L464/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nabrogarea\nL. nr.\n157/2018",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata prin respingere definitiva de catre Camera Deputatilor",
+      "long": "procedura legislativa încetata prin respingere definitiva de catre Camera Deputatilor"
+    },
+    "initiators": [
+      "64"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/10/0/em601.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/10/0/pl601.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/10/0/ces601.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/10/0/cl601.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22006"
+  }
+}

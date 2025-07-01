@@ -1,0 +1,55 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:04.022Z",
+  "data": {
+    "idp": "22244",
+    "title": "Propunere legislativă pentru completarea art.28 Ordonanţa de urgenţă nr.109/2011 privind guvernanţa corporativă a întreprinderilor publice",
+    "registrationNumber": {
+      "bpi": "45/05-03-2025203/03-06-2025",
+      "senateChamber": "L113/03.06.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.G. nr.\n109/2011",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "31",
+      "57",
+      "81",
+      "84",
+      "182",
+      "232",
+      "278",
+      "283",
+      "311"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/2/em203.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/2/pl203.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/2/ces203.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/2/cl203.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/80/2/cconc203.pdf",
+        "title": "Avizul Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22244"
+  }
+}

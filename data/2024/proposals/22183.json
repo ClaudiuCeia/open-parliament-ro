@@ -1,0 +1,51 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:24.180Z",
+  "data": {
+    "idp": "22183",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii 334 din 17 iulie 2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, în scopul asigurării independenţei şi pluralismului presei",
+    "registrationNumber": {
+      "bpi": "787/18-12-2024",
+      "senateChamber": "L565/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n334/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "33"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/10/9/em787.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/10/9/pl787.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/10/9/cesl787.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/10/9/cl787.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/10/9/cna787.pdf",
+        "title": "Avizul Consiliului Național al Audiovizualului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/10/9/opcfisc787.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22183"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:02.843Z",
+  "data": {
+    "idp": "21784",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.198/2023 privind învăţământul preuniversitar publicată în Monitorul Oficial al României, Partea I nr.613 din 05 iulie 2023, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "357/23-05-2024",
+      "senateChamber": "L561/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la Senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "204",
+      "79",
+      "1",
+      "4",
+      "8",
+      "138",
+      "25",
+      "36",
+      "143",
+      "58",
+      "60",
+      "62",
+      "63",
+      "139",
+      "82",
+      "84",
+      "92",
+      "96",
+      "103",
+      "141",
+      "129"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-06-25T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/1/em357.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/1/pl357.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/1/ces357.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/1/cl357.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/10/1/fiscal357.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21784"
+  }
+}

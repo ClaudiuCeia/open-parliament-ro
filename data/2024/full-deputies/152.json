@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-06-30T10:10:09.278Z",
+  "lastUpdated": "2025-07-01T16:06:34.616Z",
   "data": {
     "idm": "152",
     "name": "Tudor IONESCU",
@@ -24,15 +24,15 @@
     },
     "activity": {
       "Luări de cuvânt": {
-        "count": 29,
+        "count": 30,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7653&leg=2024&idl=1"
       },
       "- din care declaraţii politice": {
-        "count": 11,
+        "count": 12,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7653&leg=2024&topic1=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 38,
+        "count": 39,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=152&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Proiecte de hotarâre iniţiate": {

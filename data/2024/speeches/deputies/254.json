@@ -1,18 +1,33 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-30T14:17:30.835Z",
+  "lastUpdated": "2025-07-01T16:17:36.264Z",
   "data": [
+    {
+      "ids": "8909",
+      "idv": "6760",
+      "idm": "254",
+      "date": "2025-06-24T21:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 25 iunie      2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8909&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=2&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=2&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Aprobarea unei modificări a ordinii de zi."
+        }
+      ]
+    },
     {
       "ids": "8908",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-06-24T00:00:00.000Z",
+      "date": "2025-06-23T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 24 iunie      2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8908&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Alegerea preşedintelui Camerei Deputaţilor (PHCD 49/2025) (vot secret cu buletine de vot)."
         }
       ]
@@ -21,13 +36,13 @@
       "ids": "8905",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-06-18T00:00:00.000Z",
+      "date": "2025-06-17T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 18 iunie      2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8905&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=2&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=2&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=2&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Aprobarea unei modificări a ordinii de zi."
         }
       ]
@@ -36,13 +51,13 @@
       "ids": "8903",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-06-11T00:00:00.000Z",
+      "date": "2025-06-10T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 11 iunie      2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8903&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=2&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=2&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=2&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Aprobarea unor propuneri de modificare a ordinii de zi."
         }
       ]
@@ -51,18 +66,18 @@
       "ids": "8900",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-06-04T00:00:00.000Z",
+      "date": "2025-06-03T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 4 iunie      2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8900&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=3&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=3&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Aprobarea unor modificări ale ordinii de zi."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=9&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=9&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Proiectul de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 27/2025 pentru aprobarea Cadrului de competenţe digitale pentru cetăţenii României (PL-x 147/2025) (retras de pe lista de vot final)."
         }
       ]
@@ -71,13 +86,13 @@
       "ids": "8898",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-05-28T00:00:00.000Z",
+      "date": "2025-05-27T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 28 mai        2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8898&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=2&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=2&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=2&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Aprobarea unei modificări a ordinii de zi."
         }
       ]
@@ -86,18 +101,18 @@
       "ids": "8888",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-04-23T00:00:00.000Z",
+      "date": "2025-04-22T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 23 aprilie    2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8888&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=12&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=12&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=12&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Propunerii legislative privind modificarea unor acte normative din domeniul pensiilor de serviciu (Pl-x 103/2025) (rămasă pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=9&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=9&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Aprobarea prelungirii programului de lucru."
         }
       ]
@@ -106,13 +121,13 @@
       "ids": "8884",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-04-08T00:00:00.000Z",
+      "date": "2025-04-07T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 8 aprilie    2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8884&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8884&idm=6&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8884&idm=6&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8884&idm=6&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Aprobarea prelungirii programului de lucru."
         }
       ]
@@ -121,18 +136,18 @@
       "ids": "8877",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-03-26T00:00:00.000Z",
+      "date": "2025-03-25T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 26 martie     2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8877&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=4&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=4&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ şi pentru modificarea art. 1 alin. (1) din Legea nr. 251/2004 privind unele măsuri referitoare la bunurile primite cu titlu gratuit cu prilejul unor acţiuni de protocol în exercitarea mandatului sau a funcţiei (PL-x 80/2025) (rămas pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=6&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=6&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=6&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea alin. (6) şi alin. (7) ale art. 104 din Legea energiei electrice şi a gazelor naturale nr. 123/2012 (PL-x 444/2024) (rămas pentru votul final)."
         }
       ]
@@ -141,19 +156,19 @@
       "ids": "8875",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-03-19T00:00:00.000Z",
+      "date": "2025-03-18T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 19 martie     2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8875&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=12&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=12&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Propunerii legislative pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, cu modificările şi completările ulterioare (Pl-x 616/2020) (rămasă pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=3&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Propunerii legislative pentru completarea Legii nr. 46/2008 - Codul silvic (Pl-x 397/2017) (rămasă pentru votul final)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=3&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Propunerii legislative pentru completarea Legii nr. 46/2008 - Codul silvic (Pl-x 397/2017) (rămasă pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=12&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=12&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Propunerii legislative pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii, cu modificările şi completările ulterioare (Pl-x 616/2020) (rămasă pentru votul final)."
         }
       ]
     },
@@ -161,19 +176,19 @@
       "ids": "8861",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-02-26T00:00:00.000Z",
+      "date": "2025-02-25T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 26 februarie  2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8861&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=9&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Aprobarea prelungirii programului de lucru."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=2&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=2&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Aprobarea unor modificări ale ordinii de zi."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=2&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=2&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Aprobarea unor modificări ale ordinii de zi."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=9&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=9&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Aprobarea prelungirii programului de lucru."
         }
       ]
     },
@@ -181,13 +196,13 @@
       "ids": "8856",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-02-19T00:00:00.000Z",
+      "date": "2025-02-18T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 19 februarie  2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8856&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=7&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=7&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=7&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Aprobarea prelungirii programului de lucru."
         }
       ]
@@ -196,13 +211,13 @@
       "ids": "8852",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-02-12T00:00:00.000Z",
+      "date": "2025-02-11T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 12 februarie  2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8852&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=2&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=2&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=2&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Aprobarea unei modificări a ordinii de zi."
         }
       ]
@@ -211,13 +226,13 @@
       "ids": "8845",
       "idv": "6760",
       "idm": "254",
-      "date": "2025-02-03T00:00:00.000Z",
+      "date": "2025-02-02T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 3 februarie  2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8845&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8845&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8845&idm=9&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8845&idm=9&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Informare privind modificări în componenţa numerică şi în conducerea grupurilor parlamentare."
         }
       ]
@@ -226,28 +241,28 @@
       "ids": "8842",
       "idv": "6760",
       "idm": "254",
-      "date": "2024-12-23T00:00:00.000Z",
+      "date": "2024-12-22T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 23 decembrie  2024",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8842&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=1&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=1&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Alegerea preşedintelui Camerei Deputaţilor."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=5&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=5&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=5&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Aprobarea întrunirii Comisiei juridice, de disciplină şi imunităţi, Comisiei pentru învăţământ şi Comisiei pentru politică economică, reformă şi privatizare, în vederea alegerii preşedinţilor."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=4&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=4&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Informare privind o modificare în conducerea Grupului parlamentar al PSD."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=3&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8842&idm=3&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Alegerea unui nou membru al Biroului permanent."
         }
       ]
@@ -256,13 +271,13 @@
       "ids": "8840",
       "idv": "6760",
       "idm": "254",
-      "date": "2024-12-21T00:00:00.000Z",
+      "date": "2024-12-20T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=6760&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6760%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
         }
       ]

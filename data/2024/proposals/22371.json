@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:59.928Z",
+  "data": {
+    "idp": "22371",
+    "title": "Proiect de Lege pentru completarea Legii nr.286/2009 privind Codul penal",
+    "registrationNumber": {
+      "bpi": "175/27-05-2025",
+      "senateChamber": "L77/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n286/2009",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "pe ordinea de zi a sedintelor Camerei Deputatilor",
+      "long": "pe ordinea de zi a sedintelor Camerei Deputatilor"
+    },
+    "initiators": [
+      "29",
+      "36",
+      "48",
+      "90",
+      "125",
+      "126",
+      "149",
+      "269",
+      "285",
+      "317",
+      "11",
+      "46",
+      "64",
+      "96",
+      "111",
+      "112"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/4/em175.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/4/cl175.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22371"
+  }
+}

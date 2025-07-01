@@ -1,0 +1,55 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:19.651Z",
+  "data": {
+    "idp": "21825",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii învăţământului preuniversitar nr.198/2023",
+    "registrationNumber": {
+      "bpi": "405/04-06-2024",
+      "senateChamber": "L562/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la Senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "71",
+      "180",
+      "207",
+      "276",
+      "9",
+      "15",
+      "43",
+      "114",
+      "124",
+      "131"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-07-08T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/5/em405.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/5/pl405.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/5/ces405.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/50/5/cl405.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21825"
+  }
+}

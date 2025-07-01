@@ -1,0 +1,68 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:24.753Z",
+  "data": {
+    "idp": "21350",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes naţional, judeţean şi local",
+    "registrationNumber": {
+      "bpi": "850/20-11-2023229/18-03-2024",
+      "senateChamber": "L762/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n255/2010",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "36",
+      "37",
+      "84",
+      "100",
+      "116",
+      "135",
+      "154",
+      "158",
+      "159",
+      "160",
+      "161",
+      "183",
+      "201",
+      "328",
+      "86",
+      "37",
+      "66",
+      "126"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/7/em850.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/7/pl850.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/7/ces229.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/7/cl229.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/7/pvg229.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/7/pvCC229.pdf",
+        "title": "Punctul de vedere al Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21350"
+  }
+}

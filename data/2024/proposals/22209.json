@@ -1,0 +1,73 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:58.319Z",
+  "data": {
+    "idp": "22209",
+    "title": "Propunere legislativă pentru completarea art.22 din Legea nr.143/2000 privind combaterea traficului şi consumului ilicit de droguri",
+    "registrationNumber": {
+      "bpi": "10/19-02-2025161/14-05-2025",
+      "senateChamber": "L86/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n143/2000",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "1",
+      "24",
+      "42",
+      "54",
+      "63",
+      "64",
+      "102",
+      "130",
+      "141",
+      "156",
+      "174",
+      "197",
+      "223",
+      "225",
+      "268",
+      "305",
+      "306",
+      "6",
+      "39"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/5/as161.pdf",
+        "title": "Adresa Senatului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/5/in161.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/5/em161.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/5/pl161.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/5/ces161.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/5/cl161.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/50/5/csm161.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22209"
+  }
+}

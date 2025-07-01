@@ -1,0 +1,55 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:25.038Z",
+  "data": {
+    "idp": "21670",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii învăţământului preuniversitar nr.198/2023",
+    "registrationNumber": {
+      "bpi": "231/19-03-2024",
+      "senateChamber": "L126/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n198/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "230",
+      "303",
+      "304",
+      "34",
+      "47",
+      "81",
+      "92",
+      "137",
+      "138",
+      "147",
+      "180",
+      "207",
+      "276",
+      "40",
+      "43",
+      "93",
+      "131"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/8/em231.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/8/ces231.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/00/8/cl231.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21670"
+  }
+}

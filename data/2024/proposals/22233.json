@@ -1,0 +1,41 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:36.659Z",
+  "data": {
+    "idp": "22233",
+    "title": "Propunere legislativă pentru completarea art.546 din Ordonanţa de urgenţă a Guvernului nr.57/2019 privind Codul administrativ",
+    "registrationNumber": {
+      "bpi": "35/26-02-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n57/2019",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata prin retragere de catre initiator",
+      "long": "procedura legislativa încetata prin retragere de catre initiator"
+    },
+    "initiators": [
+      "297"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-03-31T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/60/3/in35.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/60/3/em35.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/60/3/pl35.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22233"
+  }
+}

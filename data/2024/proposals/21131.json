@@ -1,0 +1,73 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:12.628Z",
+  "data": {
+    "idp": "21131",
+    "title": "Proiect de Lege pentru modificarea Ordonanţei de urgenţă nr.195 din 12 decembrie 2002 privind circulaţia pe drumurile publice",
+    "registrationNumber": {
+      "bpi": "597/19-09-202313/06-02-2024",
+      "senateChamber": "L603/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n195/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "58",
+      "273",
+      "9",
+      "12",
+      "24",
+      "30",
+      "32",
+      "46",
+      "78",
+      "86",
+      "101",
+      "134",
+      "139",
+      "165",
+      "176",
+      "189",
+      "190",
+      "191",
+      "204",
+      "252",
+      "255",
+      "278",
+      "287",
+      "296",
+      "300",
+      "307",
+      "320"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/10/6/em597.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/10/6/pl597.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/10/6/ces13.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/10/6/cl13.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/10/6/csm13.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21131"
+  }
+}

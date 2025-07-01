@@ -1,0 +1,65 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.414Z",
+  "data": {
+    "idp": "22445",
+    "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România - Republicată",
+    "registrationNumber": {
+      "bpi": "262/24-06-2025",
+      "deputyChamber": "BP262/24.06.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n94/2000",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "34",
+      "53",
+      "64",
+      "95",
+      "130",
+      "207",
+      "232",
+      "125",
+      "25",
+      "28",
+      "85",
+      "87",
+      "111",
+      "139",
+      "159",
+      "160",
+      "161",
+      "165",
+      "166",
+      "176",
+      "180",
+      "195",
+      "206",
+      "217",
+      "277",
+      "291",
+      "316",
+      "329",
+      "330",
+      "241",
+      "331"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/2/em262.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/60/2/pl262.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22445"
+  }
+}

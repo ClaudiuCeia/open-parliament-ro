@@ -1,0 +1,51 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:00.951Z",
+  "data": {
+    "idp": "22378",
+    "title": "Proiect de Lege privind unele măsuri pentru prevenirea şi combaterea antisemitismului, xenofobiei, radicalizării şi a discursului instigator la ură",
+    "registrationNumber": {
+      "bpi": "182/27-05-2025",
+      "senateChamber": "L125/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "lege trimisa la promulgare\ntitlu votat:\nLegea pentru modificarea şi completarea Ordonanţei de urgenţă nr.31/2002 privind interzicerea organizaţiilor, simbolurilor şi faptelor cu caracter fascist, legionar, rasist sau xenofob şi a promovării cultului persoanelor vinovate de săvârşirea unor infracţiuni de genocid contra umanităţii şi de crime de război, precum şi pentru modificarea Legii nr.157/2018 privind unele măsuri pentru prevenirea şi combaterea antisemitismului",
+      "long": "lege trimisa la promulgare\ntitlu votat:\nLegea pentru modificarea şi completarea Ordonanţei de urgenţă nr.31/2002 privind interzicerea organizaţiilor, simbolurilor şi faptelor cu caracter fascist, legionar, rasist sau xenofob şi a promovării cultului persoanelor vinovate de săvârşirea unor infracţiuni de genocid contra umanităţii şi de crime de război, precum şi pentru modificarea Legii nr.157/2018 privind unele măsuri pentru prevenirea şi combaterea antisemitismului"
+    },
+    "initiators": [
+      "322"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/8/em182.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/8/ces182.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/8/cl182.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/8/cna182.pdf",
+        "title": "Avizul Consiliului Național al Audiovizualului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/8/combdiscr182.pdf",
+        "title": "Avizul Consilului Național pentru Combaterea Discriminării"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/60/8/csm182.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22378"
+  }
+}

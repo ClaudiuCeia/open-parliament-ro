@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-30T14:24:09.895Z",
+  "lastUpdated": "2025-07-01T16:09:51.920Z",
   "data": [
     {
       "idi": "77462",
@@ -14,7 +14,7 @@
         "registration": null,
         "presentation": null,
         "communication": null,
-        "responseDue": "2025-06-02T00:00:00.000Z"
+        "responseDue": "2025-06-01T21:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1A.pdf",
@@ -24,7 +24,7 @@
       "answers": [
         {
           "registrationId": "22896",
-          "date": "2025-10-02T00:00:00.000Z",
+          "date": "2025-10-01T21:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nIoan Cristian Haiduc\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1A.pdf"
@@ -40,10 +40,10 @@
       },
       "recipient": "Institutul Naţional de Statistică\nîn atenţia:\ndomnului\nTudorel Andrei \n- Presedinte",
       "dates": {
-        "registration": "2025-11-02T00:00:00.000Z",
-        "presentation": "2025-11-02T00:00:00.000Z",
-        "communication": "2025-12-02T00:00:00.000Z",
-        "responseDue": "2025-05-03T00:00:00.000Z"
+        "registration": "2025-11-01T22:00:00.000Z",
+        "presentation": "2025-11-01T22:00:00.000Z",
+        "communication": "2025-12-01T22:00:00.000Z",
+        "responseDue": "2025-05-02T21:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i156A.pdf",
@@ -79,7 +79,7 @@
         "registration": null,
         "presentation": null,
         "communication": null,
-        "responseDue": "2025-11-03T00:00:00.000Z"
+        "responseDue": "2025-11-02T22:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i28B.pdf",
@@ -108,7 +108,7 @@
         "registration": null,
         "presentation": null,
         "communication": null,
-        "responseDue": "2025-12-03T00:00:00.000Z"
+        "responseDue": "2025-12-02T22:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i236A.pdf",
@@ -134,9 +134,9 @@
       },
       "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nBarna Tánczos\n- Ministru",
       "dates": {
-        "registration": "2025-05-03T00:00:00.000Z",
-        "presentation": "2025-05-03T00:00:00.000Z",
-        "communication": "2025-05-03T00:00:00.000Z",
+        "registration": "2025-05-02T21:00:00.000Z",
+        "presentation": "2025-05-02T21:00:00.000Z",
+        "communication": "2025-05-02T21:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -165,7 +165,7 @@
       "dates": {
         "registration": null,
         "presentation": null,
-        "communication": "2025-02-04T00:00:00.000Z",
+        "communication": "2025-02-03T22:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -192,9 +192,9 @@
       },
       "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
       "dates": {
-        "registration": "2025-02-04T00:00:00.000Z",
-        "presentation": "2025-02-04T00:00:00.000Z",
-        "communication": "2025-02-04T00:00:00.000Z",
+        "registration": "2025-02-03T22:00:00.000Z",
+        "presentation": "2025-02-03T22:00:00.000Z",
+        "communication": "2025-02-03T22:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -216,7 +216,7 @@
         "registration": null,
         "presentation": null,
         "communication": null,
-        "responseDue": "2025-12-05T00:00:00.000Z"
+        "responseDue": "2025-12-04T22:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i890A.pdf",
@@ -226,7 +226,7 @@
       "answers": [
         {
           "registrationId": "7314",
-          "date": "2025-03-06T00:00:00.000Z",
+          "date": "2025-03-05T22:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r890A.pdf"

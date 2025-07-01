@@ -1,29 +1,49 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-30T14:17:26.555Z",
+  "lastUpdated": "2025-07-01T16:17:32.819Z",
   "data": [
+    {
+      "ids": "8909",
+      "idv": "6683",
+      "idm": "241",
+      "date": "2025-06-24T21:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 25 iunie      2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8909&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1,015&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1,015&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Nicolae-Miroslav Petreţchi - declaraţie politică având ca temă sprijinul acordat de Uniunea Ucrainenilor din România coaliţiei de guvernare, noului Guvern, direcţiei executive strategice a României;"
+        }
+      ]
+    },
     {
       "ids": "8905",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-06-18T00:00:00.000Z",
+      "date": "2025-06-17T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 18 iunie      2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8905&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Supunerea la votul final a:"
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9,003&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9,003&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Proiectului de Lege pentru instituirea zilei de 15 august ca \"Ziua Maramureşului\" (PL-x 128/2025) (adoptat);"
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9,009&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9,009&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Proiectului de Lege pentru modificarea alin. (21) şi (23) ale art. 27 din Legea fondului funciar nr. 18/1991 (PL-x 128/2024) (adoptat);"
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9,009&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9,009&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Proiectului de Lege pentru modificarea alin. (21) şi (23) ale art. 27 din Legea fondului funciar nr. 18/1991 (PL-x 128/2024) (adoptat);"
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9,003&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9,003&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Proiectului de Lege pentru instituirea zilei de 15 august ca \"Ziua Maramureşului\" (PL-x 128/2025) (adoptat);"
         }
       ]
     },
@@ -31,13 +51,13 @@
       "ids": "8904",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-06-16T00:00:00.000Z",
+      "date": "2025-06-15T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 16 iunie      2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8904&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8904&idm=8&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8904&idm=8&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8904&idm=8&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege pentru modificarea Legii fondului funciar nr. 18/1991 (PL-x 128/2024) (rămas pentru votul final)."
         }
       ]
@@ -46,18 +66,18 @@
       "ids": "8903",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-06-11T00:00:00.000Z",
+      "date": "2025-06-10T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 11 iunie      2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8903&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1,013&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1,013&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1,013&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi - declaraţie politică referitoare la Summitul \"Uniţi pentru Pace şi Securitate\" de la Kiev;"
         }
       ]
@@ -66,18 +86,18 @@
       "ids": "8892",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-05-13T00:00:00.000Z",
+      "date": "2025-05-12T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 13 mai        2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8892&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1,012&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1,012&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1,012&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi - declaraţie politică referitoare la poziţia Uniunii Ucrainenilor din România privind turul II al alegerilor prezidenţiale;"
         }
       ]
@@ -86,18 +106,18 @@
       "ids": "8891",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-05-12T00:00:00.000Z",
+      "date": "2025-05-11T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 12 mai        2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8891&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8891&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8891&idm=9&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8891&idm=9&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Prezentarea, pe scurt, a interpelărilor adresate membrilor Guvernului."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8891&idm=9,003&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8891&idm=9,003&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8891&idm=9,003&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi"
         }
       ]
@@ -106,18 +126,18 @@
       "ids": "8889",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-05-06T00:00:00.000Z",
+      "date": "2025-05-05T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 6 mai        2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8889&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=9&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=9&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Primirea de răspunsuri la interpelările adresate membrilor Guvernului."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=9,002&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=9,002&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=9,002&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Petreţchi Nicolae-Miroslav"
         }
       ]
@@ -126,18 +146,18 @@
       "ids": "8886",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-04-15T00:00:00.000Z",
+      "date": "2025-04-14T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 15 aprilie    2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8886&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1,011&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1,011&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1,011&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi - declaraţie politică având ca temă rolul României în contextul reconfigurării arhitecturii de securitate la nivel regional şi global;"
         }
       ]
@@ -146,18 +166,18 @@
       "ids": "8881",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-04-02T00:00:00.000Z",
+      "date": "2025-04-01T21:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 2 aprilie    2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8881&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1,014&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1,014&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=1,014&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi - declaraţie politică despre consolidarea relaţiilor dintre România şi Ucraina;"
         }
       ]
@@ -166,18 +186,18 @@
       "ids": "8877",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-03-26T00:00:00.000Z",
+      "date": "2025-03-25T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 26 martie     2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8877&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1,013&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1,013&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1,013&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi - declaraţie politică având ca subiect alegerile prezidenţiale;"
         }
       ]
@@ -186,18 +206,18 @@
       "ids": "8876",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-03-24T00:00:00.000Z",
+      "date": "2025-03-23T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 24 martie     2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8876&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=12&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=12&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=12&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Prezentarea, pe scurt, a interpelărilor adresate membrilor Guvernului."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=12,003&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=12,003&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=12,003&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi"
         }
       ]
@@ -206,18 +226,18 @@
       "ids": "8863",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-03-05T00:00:00.000Z",
+      "date": "2025-03-04T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 5 martie     2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8863&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1,012&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1,012&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=1,012&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi - declaraţie politică referitoare la teme de actualitate;"
         }
       ]
@@ -226,18 +246,18 @@
       "ids": "8861",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-02-26T00:00:00.000Z",
+      "date": "2025-02-25T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 26 februarie  2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8861&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1,015&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1,015&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=1,015&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi - declaraţie politică având ca temă necesitatea de a construi o pace justă şi de durată în Ucraina;"
         }
       ]
@@ -246,18 +266,18 @@
       "ids": "8856",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-02-19T00:00:00.000Z",
+      "date": "2025-02-18T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 19 februarie  2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8856&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1,017&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1,017&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1,017&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi - declaraţie politică făcând referire la realegerea lui Donald Trump şi viitorul relaţiilor transatlantice;"
         }
       ]
@@ -266,18 +286,18 @@
       "ids": "8853",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-02-17T00:00:00.000Z",
+      "date": "2025-02-16T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 17 februarie  2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8853&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Prezentarea, pe scurt, a interpelărilor adresate membrilor Guvernului."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12,013&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12,013&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=12,013&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi"
         }
       ]
@@ -286,18 +306,18 @@
       "ids": "8852",
       "idv": "6683",
       "idm": "241",
-      "date": "2025-02-12T00:00:00.000Z",
+      "date": "2025-02-11T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 12 februarie  2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8852&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1,012&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1,012&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1,012&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nicolae-Miroslav Petreţchi - declaraţie politică: \"Moratoriu pentru stabilitatea României\";"
         }
       ]
@@ -306,13 +326,13 @@
       "ids": "8840",
       "idv": "6683",
       "idm": "241",
-      "date": "2024-12-21T00:00:00.000Z",
+      "date": "2024-12-20T22:00:00.000Z",
       "title": "Sedinta Camerei Deputatilor din 21 decembrie  2024",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8840&idl=1",
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=24-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=6683&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6683%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=25-06-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
         }
       ]

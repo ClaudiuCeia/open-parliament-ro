@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:40.393Z",
+  "data": {
+    "idp": "21552",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei Guvernului nr.15/2024 privind aprobarea plăţii sumelor restante provenite din cotizaţii anuale către organizaţii internaţionale din domeniul transportului naval",
+    "registrationNumber": {
+      "bpi": "99/20-02-2024",
+      "senateChamber": "L33/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n15/2024",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 168/2024LEGE pentru aprobarea Ordonantei Guvernului nr. 15/2024 privind aprobarea plătii sumelor restante provenite din cotizatii anuale către organizatii internationale din domeniul transportului naval",
+      "long": "Lege 168/2024LEGE pentru aprobarea Ordonantei Guvernului nr. 15/2024 privind aprobarea plătii sumelor restante provenite din cotizatii anuale către organizatii internationale din domeniul transportului naval"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/5/em99.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/5/og99.pdf",
+        "title": "Ordonanţa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/80/5/cl99.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21552"
+  }
+}

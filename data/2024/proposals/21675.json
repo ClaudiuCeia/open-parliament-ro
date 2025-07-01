@@ -1,0 +1,85 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:26.171Z",
+  "data": {
+    "idp": "21675",
+    "title": "Propunere legislativă privind acordarea unor drepturi persoanelor care au trăit experienţa caselor de copii din România în perioada 1947-1997",
+    "registrationNumber": {
+      "bpi": "236/19-03-2024",
+      "senateChamber": "L90/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "340",
+      "163",
+      "223",
+      "307",
+      "21",
+      "34",
+      "43",
+      "47",
+      "56",
+      "81",
+      "127",
+      "137",
+      "138",
+      "147",
+      "164",
+      "180",
+      "192",
+      "197",
+      "207",
+      "262",
+      "276",
+      "299",
+      "317",
+      "319",
+      "327",
+      "79",
+      "101",
+      "4",
+      "137",
+      "13",
+      "40",
+      "56",
+      "75",
+      "93",
+      "114",
+      "132",
+      "136",
+      "48",
+      "66"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/2/em236.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/2/pl236.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/2/ces236.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/2/cl236.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/10/2/opConsFisc236.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21675"
+  }
+}

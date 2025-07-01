@@ -1,0 +1,55 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:31.306Z",
+  "data": {
+    "idp": "22015",
+    "title": "Propunere legislativă pentru completarea Legii nr.223/2015 privind pensiile militare de stat",
+    "registrationNumber": {
+      "bpi": "610/02-10-2024",
+      "senateChamber": "L559/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n223/2015",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Sesizare de neconstitutionalitate",
+      "long": "Sesizare de neconstitutionalitate"
+    },
+    "initiators": [
+      "12",
+      "165",
+      "49",
+      "58",
+      "86",
+      "92"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-10-28T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/40/0/em610.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/40/0/pl610.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/40/0/ces610.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/40/0/cl610.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/40/0/opfisc610.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22015"
+  }
+}

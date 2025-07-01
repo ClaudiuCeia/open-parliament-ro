@@ -1,0 +1,48 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:28.051Z",
+  "data": {
+    "idp": "21996",
+    "title": "Propunere legislativă privind modificarea art.13, alin.(2) din OUG 41/2022 pentru instituirea Sistemului naţional privind monitorizarea transporturilor rutiere de bunuri cu risc fiscal ridicat RO e-Transport",
+    "registrationNumber": {
+      "bpi": "591/24-09-2024",
+      "senateChamber": "L403/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n41/2022",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "137",
+      "131"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/0/em591.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/0/pl591.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/0/ces591.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/0/cl591.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/30/0/pvg591.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21996"
+  }
+}

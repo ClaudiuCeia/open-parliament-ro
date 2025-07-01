@@ -1,0 +1,68 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:33.607Z",
+  "data": {
+    "idp": "21652",
+    "title": "Propunere legislativă pentru modificarea art.25 alin.(2) din Legea nr.226/2021 privind stabilirea măsurilor de protecţie socială pentru consumatorul vulnerabil de energie, cu modificările ulterioare",
+    "registrationNumber": {
+      "bpi": "211/19-03-2024439/19-06-2024",
+      "senateChamber": "L268/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n226/2021",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "335",
+      "273",
+      "9",
+      "11",
+      "12",
+      "27",
+      "340",
+      "46",
+      "54",
+      "57",
+      "63",
+      "78",
+      "86",
+      "134",
+      "156",
+      "341",
+      "189",
+      "191",
+      "215",
+      "229",
+      "271",
+      "287"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/7/em439.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/7/pl439.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/7/ces439.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/7/cl439.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/80/7/pvg439.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21652"
+  }
+}

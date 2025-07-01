@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:17.407Z",
+  "data": {
+    "idp": "21649",
+    "title": "Proiect de Lege pentru ratificarea Acordului-cadru între Guvernul României şi Guvernul Republicii Turcia privind cooperarea în domeniul militar, semnat la Ankara, la 6 octombrie 2023",
+    "registrationNumber": {
+      "bpi": "208/18-03-2024",
+      "senateChamber": "L303/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 220/2024LEGE pentru ratificarea Acordului-cadru dintre Guvernul României si Guvernul Republicii Turcia privind cooperarea în domeniul militar, semnat la Ankara la 6 octombrie 2023",
+      "long": "Lege 220/2024LEGE pentru ratificarea Acordului-cadru dintre Guvernul României si Guvernul Republicii Turcia privind cooperarea în domeniul militar, semnat la Ankara la 6 octombrie 2023"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/8/em208.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/8/pl208.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/8/cl208.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/8/csat208.pdf",
+        "title": "Avizul Consiliului Suprem de Aparare a Țării"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21649"
+  }
+}

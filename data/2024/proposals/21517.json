@@ -1,0 +1,60 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:27.036Z",
+  "data": {
+    "idp": "21517",
+    "title": "Propunere legislativă pentru modificarea Legii învăţământului superior nr.199/2023",
+    "registrationNumber": {
+      "bpi": "62/19-02-2024",
+      "senateChamber": "L322/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n199/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la Senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "71",
+      "81",
+      "127",
+      "167",
+      "251",
+      "276",
+      "317",
+      "319",
+      "137",
+      "15",
+      "43",
+      "56",
+      "74",
+      "75",
+      "85",
+      "89",
+      "93",
+      "124",
+      "131"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-03-21T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/5/in62.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/5/em62.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/5/pl62.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21517"
+  }
+}

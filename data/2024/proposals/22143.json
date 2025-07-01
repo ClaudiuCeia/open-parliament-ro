@@ -1,0 +1,67 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:11.320Z",
+  "data": {
+    "idp": "22143",
+    "title": "Propunere legislativă pentru completarea art.291 alin.(3) din Legea 227/2015 privind Codul Fiscal",
+    "registrationNumber": {
+      "bpi": "748/27-11-2024",
+      "senateChamber": "L586/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "21",
+      "34",
+      "43",
+      "81",
+      "127",
+      "180",
+      "186",
+      "197",
+      "205",
+      "137",
+      "15",
+      "40",
+      "75",
+      "89",
+      "144",
+      "114",
+      "131"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/60/1/em748.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/60/1/pl748.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/60/1/ces748.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/60/1/cl748.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/60/1/opcfisc748.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/60/1/pvg748.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22143"
+  }
+}

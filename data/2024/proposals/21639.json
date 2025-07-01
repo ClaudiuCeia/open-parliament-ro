@@ -1,0 +1,94 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:16.908Z",
+  "data": {
+    "idp": "21639",
+    "title": "Propunere legislativă pentru modificarea Legii nr.227/2015 privind Codul Fiscal şi pentru modificarea art.76 din Legea nr.204/2006 privind pensiile facultative",
+    "registrationNumber": {
+      "bpi": "198/12-03-2024",
+      "senateChamber": "L92/05.02.2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "67",
+      "71",
+      "88",
+      "151",
+      "157",
+      "202",
+      "228",
+      "291",
+      "295",
+      "163",
+      "8",
+      "21",
+      "31",
+      "34",
+      "43",
+      "47",
+      "56",
+      "81",
+      "90",
+      "92",
+      "127",
+      "138",
+      "150",
+      "167",
+      "180",
+      "186",
+      "192",
+      "197",
+      "205",
+      "207",
+      "218",
+      "232",
+      "245",
+      "251",
+      "262",
+      "276",
+      "299",
+      "317",
+      "319",
+      "327",
+      "256",
+      "137",
+      "13",
+      "24",
+      "40",
+      "65",
+      "131",
+      "46"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/7/em198.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/7/pl198.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/7/ces198.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/7/cl198.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/7/opConsFisc.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21639"
+  }
+}

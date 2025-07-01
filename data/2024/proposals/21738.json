@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:46.015Z",
+  "data": {
+    "idp": "21738",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.30/2024 pentru modificarea şi completarea Legii nr.227/2015 privind Codul fiscal şi a art.LIX din Legea nr.296/2023 privind unele măsuri fiscal-bugetare pentru asigurarea sustenabilităţii financiare a României pe termen lung",
+    "registrationNumber": {
+      "bpi": "304/30-04-2024",
+      "senateChamber": "L169/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n30/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala",
+      "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/3/em304.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/3/oug304.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/3/ces304.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/3/cl304.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/60/3/TabelComp304.pdf",
+        "title": "Tabel comparartiv"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21738"
+  }
+}

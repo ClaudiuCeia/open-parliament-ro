@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:33.322Z",
+  "data": {
+    "idp": "22211",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.149/2024 pentru modificarea şi completarea unor acte normative cu privire la gestionarea financiară a fondurilor europene nerambursabile alocate României din FEGA şi FEADR, precum şi a fondurilor alocate de la bugetul de stat, aferente politicii agricole comune",
+    "registrationNumber": {
+      "bpi": "13/19-02-2025",
+      "senateChamber": "L2/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n149/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 101/2025LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 149/2024 pentru modificarea si completarea unor acte normative cu privire la gestionarea financiară a fondurilor europene nerambursabile alocate României din FEGA si FEADR, precum si a fondurilor alocate de la bugetul de stat, aferente politicii agricole comune",
+      "long": "Lege 101/2025LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 149/2024 pentru modificarea si completarea unor acte normative cu privire la gestionarea financiară a fondurilor europene nerambursabile alocate României din FEGA si FEADR, precum si a fondurilor alocate de la bugetul de stat, aferente politicii agricole comune"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/40/9/em13.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/40/9/oug13.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/40/9/cl13.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22211"
+  }
+}

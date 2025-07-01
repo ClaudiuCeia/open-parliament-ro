@@ -1,0 +1,65 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.348Z",
+  "data": {
+    "idp": "22367",
+    "title": "Propunere legislativă pentru modificarea art.6 alin.1 lit.s) din Legea vânătorii şi a protecţiei fondului cinegetic nr.407/2006",
+    "registrationNumber": {
+      "bpi": "169/22-05-2025",
+      "deputyChamber": "BP169/22.05.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n407/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "4",
+      "12",
+      "26",
+      "45",
+      "73",
+      "82",
+      "90",
+      "94",
+      "98",
+      "121",
+      "125",
+      "126",
+      "167",
+      "181",
+      "189",
+      "198",
+      "213",
+      "236",
+      "267",
+      "269",
+      "285",
+      "287",
+      "293",
+      "299",
+      "314",
+      "317",
+      "328"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/in169.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/em169.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/60/9/pl169.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22367"
+  }
+}

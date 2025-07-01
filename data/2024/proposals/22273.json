@@ -1,0 +1,78 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:42.309Z",
+  "data": {
+    "idp": "22273",
+    "title": "Propunere legislativă pentru completarea art.143 din Legea învăţământului preuniversitar nr.198/2023",
+    "registrationNumber": {
+      "bpi": "72/21-03-2025",
+      "senateChamber": "B151/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata",
+      "long": "procedura legislativa încetata"
+    },
+    "initiators": [
+      "95",
+      "124",
+      "12",
+      "26",
+      "29",
+      "36",
+      "82",
+      "90",
+      "98",
+      "125",
+      "126",
+      "149",
+      "167",
+      "181",
+      "189",
+      "247",
+      "260",
+      "269",
+      "293",
+      "299",
+      "313",
+      "314",
+      "317",
+      "328",
+      "18",
+      "15",
+      "27",
+      "3",
+      "4",
+      "24",
+      "34",
+      "46",
+      "64",
+      "68",
+      "73",
+      "78",
+      "80",
+      "96",
+      "127",
+      "111",
+      "112"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-04-28T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/80/4/emb72.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/80/4/pl72.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22273"
+  }
+}

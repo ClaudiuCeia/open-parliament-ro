@@ -1,0 +1,89 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:18.925Z",
+  "data": {
+    "idp": "21657",
+    "title": "Propunere legislativă pentru completarea Legii învăţământului superior nr.199/2023",
+    "registrationNumber": {
+      "bpi": "215/19-03-2024",
+      "senateChamber": "B710/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n199/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata",
+      "long": "procedura legislativa încetata"
+    },
+    "initiators": [
+      "71",
+      "304",
+      "163",
+      "15",
+      "21",
+      "39",
+      "43",
+      "47",
+      "52",
+      "56",
+      "90",
+      "103",
+      "127",
+      "137",
+      "138",
+      "147",
+      "150",
+      "164",
+      "180",
+      "186",
+      "192",
+      "197",
+      "207",
+      "218",
+      "232",
+      "251",
+      "262",
+      "276",
+      "299",
+      "317",
+      "9",
+      "137",
+      "15",
+      "24",
+      "40",
+      "43",
+      "56",
+      "85",
+      "89",
+      "93",
+      "124",
+      "131",
+      "132",
+      "46"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-04-04T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/1/em215.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/1/pl215.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/1/ces215.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/1/cl215.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21657"
+  }
+}

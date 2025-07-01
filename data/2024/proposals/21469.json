@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:09.067Z",
+  "data": {
+    "idp": "21469",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.102/2023 pentru completarea art.21 din Legea nr.156/2023 privind organizarea activităţii de prevenire a separării copilului de familie",
+    "registrationNumber": {
+      "bpi": "8/06-02-2024",
+      "senateChamber": "L673/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n102/2023",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 65/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 102/2023 pentru completarea art. 21 din Legea nr. 156/2023 privind organizarea activitătii de prevenire a separării copilului de familie",
+      "long": "Lege 65/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 102/2023 pentru completarea art. 21 din Legea nr. 156/2023 privind organizarea activitătii de prevenire a separării copilului de familie"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/6/em8.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/6/oug8.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/6/ces8.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/6/cl8.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21469"
+  }
+}

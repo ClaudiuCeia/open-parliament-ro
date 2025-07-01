@@ -1,0 +1,71 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:12.694Z",
+  "data": {
+    "idp": "21806",
+    "title": "Propunere legislativă privind deconspirarea rudelor lucrătorilor Securităţii care ocupă demnităţi sau funcţii publice prin completarea Ordonanţei de urgenţă nr.24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii",
+    "registrationNumber": {
+      "bpi": "382/23-05-2024",
+      "senateChamber": "L261/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n24/2008",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "163",
+      "21",
+      "43",
+      "47",
+      "81",
+      "92",
+      "103",
+      "127",
+      "137",
+      "138",
+      "150",
+      "164",
+      "167",
+      "180",
+      "186",
+      "192",
+      "194",
+      "197",
+      "205",
+      "207",
+      "218",
+      "232",
+      "251",
+      "276",
+      "299",
+      "137",
+      "13",
+      "144",
+      "136"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/30/8/em382.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/30/8/pl382.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/30/8/ces382.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/30/8/cl382.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21806"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:46.535Z",
+  "data": {
+    "idp": "22058",
+    "title": "Propunere legislativă pentru modificarea art.2 din Legea nr.406/2001 privind acordarea unor drepturi persoanelor care au avut calitatea de şef al statului român",
+    "registrationNumber": {
+      "bpi": "655/08-10-2024",
+      "senateChamber": "L460/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n406/2001",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "89",
+      "261",
+      "4",
+      "5",
+      "13",
+      "19",
+      "23",
+      "75",
+      "112",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "344",
+      "265",
+      "275",
+      "280",
+      "285",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "69",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/5/em655.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/5/pl655.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/5/ces655.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/80/5/cl655.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22058"
+  }
+}

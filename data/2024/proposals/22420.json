@@ -1,0 +1,36 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:09.659Z",
+  "data": {
+    "idp": "22420",
+    "title": "Propunere legislativă privind modificarea şi completarea Legii nr.96/2006 privind Statutul deputaţilor şi al senatorilor",
+    "registrationNumber": {
+      "bpi": "233/16-06-2025",
+      "senateChamber": "L184/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor + Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n96/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala",
+      "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
+    },
+    "initiators": [
+      "131",
+      "294"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/0/em233.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/10/0/pl233.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22420"
+  }
+}

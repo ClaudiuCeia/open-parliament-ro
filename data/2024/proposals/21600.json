@@ -1,0 +1,82 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:55.431Z",
+  "data": {
+    "idp": "21600",
+    "title": "Propunere legislativă pentru modificarea anexei nr.1 la Legea nr.208/2015 privind alegerea Senatului şi a Camerei deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "150/05-03-2024",
+      "senateChamber": "L105/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n208/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "74",
+      "89",
+      "99",
+      "261",
+      "121",
+      "4",
+      "5",
+      "13",
+      "19",
+      "22",
+      "64",
+      "75",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "265",
+      "275",
+      "280",
+      "285",
+      "294",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "33",
+      "41",
+      "52",
+      "59",
+      "68",
+      "69",
+      "71",
+      "83",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/4/em150.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/4/pl150.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/4/ces150.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/4/cl150.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21600"
+  }
+}

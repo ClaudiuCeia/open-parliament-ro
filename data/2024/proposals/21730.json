@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:43.250Z",
+  "data": {
+    "idp": "21730",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.32/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022 - 31 martie 2023, precum şi pentru modificarea şi completarea unor acte normative din domeniul energiei şi adoptarea unor măsuri în domeniul energiei",
+    "registrationNumber": {
+      "bpi": "296/23-04-2024",
+      "senateChamber": "L171/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n32/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 316/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 32/2024 pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 27/2022 privind măsurile aplicabile clientilor finali din piata de energie electrică si gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum si pentru modificarea si completarea unor acte normative din domeniul energiei si adoptarea unor măsuri în domeniul energiei",
+      "long": "Lege 316/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 32/2024 pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 27/2022 privind măsurile aplicabile clientilor finali din piata de energie electrică si gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum si pentru modificarea si completarea unor acte normative din domeniul energiei si adoptarea unor măsuri în domeniul energiei"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/50/5/em296.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/50/5/oug296.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/50/5/ces296.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/50/5/cl296.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/200/50/5/TabelComp296.pdf",
+        "title": "Tabel comparativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21730"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:16.157Z",
+  "data": {
+    "idp": "21507",
+    "title": "Propunere legislativă pentru completarea art.143 alin.(1) din OUG nr.57/2019 privind Codul administrativ, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "53/14-02-2024",
+      "senateChamber": "L288/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n57/2019",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata prin respingere definitiva de catre Senat",
+      "long": "procedura legislativa încetata prin respingere definitiva de catre Senat"
+    },
+    "initiators": [
+      "157"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-03-19T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/7/em53.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/7/pl53.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21507"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-30T14:27:40.109Z",
+  "lastUpdated": "2025-07-01T16:12:23.966Z",
   "data": [
     {
       "idi": "78463",
@@ -11,10 +11,10 @@
       },
       "recipient": "",
       "dates": {
-        "registration": "2025-08-04T00:00:00.000Z",
-        "presentation": "2025-08-04T00:00:00.000Z",
-        "communication": "2025-08-04T00:00:00.000Z",
-        "responseDue": "2025-02-05T00:00:00.000Z"
+        "registration": "2025-08-03T21:00:00.000Z",
+        "presentation": "2025-08-03T21:00:00.000Z",
+        "communication": "2025-08-03T21:00:00.000Z",
+        "responseDue": "2025-02-04T22:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i223B.pdf",
@@ -31,7 +31,7 @@
         },
         {
           "registrationId": "2650",
-          "date": "2025-03-06T00:00:00.000Z",
+          "date": "2025-03-05T22:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/2r223B.pdf"

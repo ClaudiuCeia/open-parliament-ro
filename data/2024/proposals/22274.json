@@ -1,0 +1,40 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:42.652Z",
+  "data": {
+    "idp": "22274",
+    "title": "Propunere legislativă pentru modificarea şi completarea OUG nr.57/2019 privind Codul administrativ precum şi a Legii nr.119/1996 cu privire la actele de stare civilă",
+    "registrationNumber": {
+      "bpi": "73/24-03-2025",
+      "senateChamber": "L150/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n57/2019",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "la Senat\ntitlu votat:\nLegea pentru modificarea Ordonanței de urgență a Guvernului nr.57/2019 privind Codul administrativ, precum şi pentru modificarea Legii nr.119/1996 cu privire Ia actele de stare civilă",
+      "long": "la Senat\ntitlu votat:\nLegea pentru modificarea Ordonanței de urgență a Guvernului nr.57/2019 privind Codul administrativ, precum şi pentru modificarea Legii nr.119/1996 cu privire Ia actele de stare civilă"
+    },
+    "initiators": [
+      "9",
+      "271",
+      "273"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-04-03T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/80/5/em73.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/80/5/pl73.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22274"
+  }
+}

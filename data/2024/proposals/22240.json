@@ -1,0 +1,55 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:02.054Z",
+  "data": {
+    "idp": "22240",
+    "title": "Proiect de Lege pentru instituirea zilei de 15 mai ca Ziua naţională a Familiei",
+    "registrationNumber": {
+      "bpi": "41/04-03-2025190/28-05-2025",
+      "senateChamber": "L100/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "49",
+      "57",
+      "81",
+      "84",
+      "92",
+      "110",
+      "118",
+      "199",
+      "214",
+      "332",
+      "232",
+      "244",
+      "273",
+      "278",
+      "311",
+      "320",
+      "98"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/3/em190.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/3/ces190.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/3/cl190.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22240"
+  }
+}

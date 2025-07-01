@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:06.722Z",
+  "data": {
+    "idp": "21466",
+    "title": "Proiect de Lege pentru ratificarea Acordului între Guvernul României şi Guvernul Emiratelor Arabe Unite privind cooperarea în domeniul militar, semnat la Abu Dhabi la 22 iunie 2022",
+    "registrationNumber": {
+      "bpi": "3/15-01-2024",
+      "senateChamber": "L151/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 144/2024LEGE pentru ratificarea Acordului dintre Guvernul României si Guvernul Emiratelor Arabe Unite privind cooperarea în domeniul militar, semnat la Abu Dhabi la 22 iunie 2022",
+      "long": "Lege 144/2024LEGE pentru ratificarea Acordului dintre Guvernul României si Guvernul Emiratelor Arabe Unite privind cooperarea în domeniul militar, semnat la Abu Dhabi la 22 iunie 2022"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/2/em3.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/2/pl3.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/00/2/cl3.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21466"
+  }
+}

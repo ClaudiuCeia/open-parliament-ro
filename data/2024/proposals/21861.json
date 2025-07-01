@@ -1,0 +1,74 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:13.021Z",
+  "data": {
+    "idp": "21861",
+    "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.111/2010 privind concediul şi indemnizaţia lunară pentru creşterea copiilor",
+    "registrationNumber": {
+      "bpi": "448/26-06-2024752/04-12-2024",
+      "senateChamber": "L527/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n111/2010",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "129",
+      "267",
+      "270",
+      "57",
+      "333",
+      "56",
+      "317",
+      "36",
+      "37",
+      "84",
+      "100",
+      "116",
+      "135",
+      "154",
+      "155",
+      "158",
+      "159",
+      "172",
+      "183",
+      "201",
+      "263",
+      "282",
+      "92",
+      "43",
+      "93",
+      "5",
+      "37",
+      "38",
+      "48",
+      "66",
+      "140",
+      "120"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/60/6/em752.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/60/6/ces752.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/60/6/cl752.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/60/6/opcfisc752.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21861"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:21.599Z",
+  "data": {
+    "idp": "22172",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.130/2024 privind modificarea art.13 alin.(1) din Ordonanţa de urgenţă a Guvernului nr.28/2013 pentru aprobarea Programului naţional de dezvoltare locală, a art.9 alin.(1) din Ordonanţa de urgenţă a Guvernului nr.95/2021 pentru aprobarea Programului naţional de investiţii „Anghel Saligny”, precum şi pentru modificarea şi completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii",
+    "registrationNumber": {
+      "bpi": "775/18-12-2024",
+      "senateChamber": "L606/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n130/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 105/2025LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 130/2024 privind modificarea art. 13 alin. (1) din Ordonanta de urgentă a Guvernului nr. 28/2013 pentru aprobarea Programului national de dezvoltare locală, a art. 9 alin. (1) din Ordonanta de urgentă a Guvernului nr. 95/2021 pentru aprobarea Programului national de investitii \"Anghel Saligny\", precum si pentru modificarea si completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii",
+      "long": "Lege 105/2025LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 130/2024 privind modificarea art. 13 alin. (1) din Ordonanta de urgentă a Guvernului nr. 28/2013 pentru aprobarea Programului national de dezvoltare locală, a art. 9 alin. (1) din Ordonanta de urgentă a Guvernului nr. 95/2021 pentru aprobarea Programului national de investitii \"Anghel Saligny\", precum si pentru modificarea si completarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/8/em775.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/8/oug775.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/00/8/cl775.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22172"
+  }
+}

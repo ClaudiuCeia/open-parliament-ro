@@ -1,0 +1,74 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:25.529Z",
+  "data": {
+    "idp": "21242",
+    "title": "Propunere legislativă pentru modificarea articolul 49 din Legea petrolului nr.238/2004",
+    "registrationNumber": {
+      "bpi": "723/18-10-202349/13-02-2024",
+      "senateChamber": "L695/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n238/2004",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "337",
+      "74",
+      "99",
+      "118",
+      "125",
+      "162",
+      "261",
+      "121",
+      "309",
+      "5",
+      "13",
+      "19",
+      "22",
+      "75",
+      "112",
+      "153",
+      "187",
+      "195",
+      "231",
+      "247",
+      "265",
+      "280",
+      "285",
+      "294"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/0/em723.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/0/pl723.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/0/ces49.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/0/cl49.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/0/pvg49.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/50/0/cconc49.pdf",
+        "title": "Punctul de vedere al Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21242"
+  }
+}

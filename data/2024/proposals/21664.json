@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:20.922Z",
+  "data": {
+    "idp": "21664",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.12/2024 pentru modificarea art.4 din Ordonanţa de urgenţă a Guvernului nr.60/2020 privind unele măsuri financiare în vederea implementării proiectelor de infrastructură fazate din perioada de programare 2007-2013 şi a proiectelor de asistenţă tehnică, finanţate din fondurile Uniunii Europene aferente perioadei de programare 2014-2020, precum şi în vederea elaborării şi implementării strategiilor teritoriale integrate în perioada de programare 2021-2027",
+    "registrationNumber": {
+      "bpi": "222/19-03-2024",
+      "senateChamber": "L132/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n12/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 229/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 12/2024 pentru modificarea art. 4 din Ordonanta de urgentă a Guvernului nr. 60/2020 privind unele măsuri financiare în vederea implementării proiectelor de infrastructură fazate din perioada de programare 2007-2013 si a proiectelor de asistentă tehnică, finantate din fondurile Uniunii Europene aferente perioadei de programare 2014-2020, precum si în vederea elaborării si implementării strategiilor teritoriale integrate în perioada de programare 2021-2027, precum si privind abrogarea art. II din Legea nr. 302/2021 pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 60/2020 privind unele măsuri financiare în vederea implementării proiectelor de infrastructură fazate din perioada de programare 2007-2013, finantate din fondurile Uniunii Europene aferente perioadei de programare 2014-2020",
+      "long": "Lege 229/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 12/2024 pentru modificarea art. 4 din Ordonanta de urgentă a Guvernului nr. 60/2020 privind unele măsuri financiare în vederea implementării proiectelor de infrastructură fazate din perioada de programare 2007-2013 si a proiectelor de asistentă tehnică, finantate din fondurile Uniunii Europene aferente perioadei de programare 2014-2020, precum si în vederea elaborării si implementării strategiilor teritoriale integrate în perioada de programare 2021-2027, precum si privind abrogarea art. II din Legea nr. 302/2021 pentru modificarea si completarea Ordonantei de urgentă a Guvernului nr. 60/2020 privind unele măsuri financiare în vederea implementării proiectelor de infrastructură fazate din perioada de programare 2007-2013, finantate din fondurile Uniunii Europene aferente perioadei de programare 2014-2020"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/6/em222.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/6/oug222.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/90/6/cl222.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21664"
+  }
+}

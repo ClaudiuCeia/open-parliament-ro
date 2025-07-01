@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:17.774Z",
+  "data": {
+    "idp": "21988",
+    "title": "Proiect de Lege pentru modificarea art.193 alin.(5) din Legea nr.95/2006 privind reforma în domeniul sănătăţii",
+    "registrationNumber": {
+      "bpi": "581/24-09-2024",
+      "senateChamber": "L401/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n95/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 33/2025LEGE pentru modificarea art. 193 alin. (5) din Legea nr. 95/2006 privind reforma în domeniul sănătătii",
+      "long": "Lege 33/2025LEGE pentru modificarea art. 193 alin. (5) din Legea nr. 95/2006 privind reforma în domeniul sănătătii"
+    },
+    "initiators": [
+      "6",
+      "118",
+      "4",
+      "10",
+      "62"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/3/em581.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/3/ces581.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/3/cl581.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/00/3/opconsfisc581.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21988"
+  }
+}

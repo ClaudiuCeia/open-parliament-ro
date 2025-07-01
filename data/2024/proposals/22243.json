@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:37.010Z",
+  "data": {
+    "idp": "22243",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei Guvernului nr.6/2025 privind stabilirea unor măsuri pentru implementarea programelor naţionale din domeniul lucrărilor publice",
+    "registrationNumber": {
+      "bpi": "44/05-03-2025",
+      "senateChamber": "L21/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.G. nr.\n6/2025",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 55/2025LEGE pentru aprobarea Ordonantei Guvernului nr. 6/2025 privind stabilirea unor măsuri pentru implementarea programelor nationale din domeniul lucrărilor publice",
+      "long": "Lege 55/2025LEGE pentru aprobarea Ordonantei Guvernului nr. 6/2025 privind stabilirea unor măsuri pentru implementarea programelor nationale din domeniul lucrărilor publice"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/60/5/em44.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/60/5/og44.pdf",
+        "title": "Ordonanţa Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/60/5/cl44.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22243"
+  }
+}

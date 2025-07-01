@@ -1,0 +1,77 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:55.685Z",
+  "data": {
+    "idp": "21605",
+    "title": "Propunere legislativă pentru abrogarea art.21 din Legea nr.202/1998 privind organizarea Monitorului Oficial al României",
+    "registrationNumber": {
+      "bpi": "156/06-03-2024",
+      "senateChamber": "L96/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "74",
+      "89",
+      "261",
+      "121",
+      "5",
+      "13",
+      "19",
+      "22",
+      "75",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "265",
+      "275",
+      "280",
+      "285",
+      "294",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "41",
+      "52",
+      "68",
+      "69",
+      "71",
+      "83",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/5/em156.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/5/pl156.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/5/ces156.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/20/5/cl156.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21605"
+  }
+}

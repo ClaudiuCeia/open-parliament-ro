@@ -1,0 +1,65 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:47:38.120Z",
+  "data": {
+    "idp": "22033",
+    "title": "Propunere legislativă pentru completarea Legii-cadru nr.153 din 28 iunie 2017, publicată în Monitorul Oficial Nr.492 din 28 iunie 2017, privind salarizarea personalului plătit din fonduri publice",
+    "registrationNumber": {
+      "bpi": "628/02-10-2024",
+      "senateChamber": "L441/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n153/2017",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "109",
+      "121",
+      "137",
+      "4",
+      "13",
+      "22",
+      "75",
+      "336",
+      "153",
+      "187",
+      "222",
+      "231",
+      "247",
+      "265",
+      "275",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "52",
+      "68",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/60/1/em628.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/60/1/pl628.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/60/1/ces628.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/500/60/1/cl628628.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22033"
+  }
+}

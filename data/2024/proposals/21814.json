@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:15.772Z",
+  "data": {
+    "idp": "21814",
+    "title": "Proiect de Lege pentru modificarea art.428 din Legea nr.95/2006 privind reforma în domeniul sănătăţii",
+    "registrationNumber": {
+      "bpi": "392/28-05-2024",
+      "senateChamber": "L252/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n95/2006",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 255/2024LEGE pentru modificarea Legii nr. 95/2006 privind reforma în domeniul sănătătii",
+      "long": "Lege 255/2024LEGE pentru modificarea Legii nr. 95/2006 privind reforma în domeniul sănătătii"
+    },
+    "initiators": [
+      "51"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/7/em392.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/7/ces392.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/40/7/cl392.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21814"
+  }
+}

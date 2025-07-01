@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:54.883Z",
+  "data": {
+    "idp": "21913",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.64/2024 pentru modificarea şi completarea Ordonanţei Guvernului nr.19/2002 privind unele măsuri pentru constituirea şi utilizarea fondului locativ de protocol şi bunuri mobile din domeniul public al statului, aflate în administrarea Regiei Autonome „Administraţia Patrimoniului Protocolului de Stat”, precum şi pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.173/2020 privind reglementarea condiţiilor pentru atribuirea şi închirierea unor imobile, proprietate publică şi privată a statului, aflate în administrarea Regiei Autonome „Administraţia Patrimoniului Protocolului de Stat” şi a altor măsuri economico-­financiare",
+    "registrationNumber": {
+      "bpi": "501/11-09-2024",
+      "senateChamber": "L350/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n64/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/0/em501.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/0/oug501.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/40/0/cl501.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21913"
+  }
+}

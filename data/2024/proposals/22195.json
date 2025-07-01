@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:26.730Z",
+  "data": {
+    "idp": "22195",
+    "title": "Proiect de Lege pentru modificarea art.20 alin.(2) din Ordonanţa de urgenţă nr.103/2013 privind salarizarea personalului plătit din fonduri publice în anul 2014, precum şi alte măsuri în domeniul cheltuielilor publice",
+    "registrationNumber": {
+      "bpi": "800/18-12-2024",
+      "senateChamber": "L554/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n103/2013",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "36",
+      "37",
+      "40",
+      "84",
+      "85",
+      "100",
+      "116",
+      "154",
+      "155",
+      "159",
+      "160",
+      "161",
+      "183",
+      "328",
+      "5",
+      "37",
+      "38",
+      "67",
+      "87",
+      "120"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/9/em800.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/9/ces800.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/9/cl800.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/20/9/opConsFisc800.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22195"
+  }
+}

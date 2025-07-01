@@ -1,0 +1,33 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.422Z",
+  "data": {
+    "idp": "22428",
+    "title": "Propunere legislativă privind completarea Legii 504/2002 publicată în Monitorul Oficial al României, partea I, nr.534 din 22 iulie 2002",
+    "registrationNumber": {
+      "bpi": "245/18-06-2025",
+      "deputyChamber": "BP245/18.06.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n504/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": ["32", "31", "159", "329", "122", "241", "282"],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/5/em245.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/40/5/pl245.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22428"
+  }
+}

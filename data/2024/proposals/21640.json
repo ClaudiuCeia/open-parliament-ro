@@ -1,0 +1,76 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:04.159Z",
+  "data": {
+    "idp": "21640",
+    "title": "Propunere legislativă pentru modificarea art.10 alin.(5) din Legea nr.121/2014 privind eficienţa energetică",
+    "registrationNumber": {
+      "bpi": "199/12-03-2024",
+      "senateChamber": "L94/05.02.2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n121/2014",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "74",
+      "99",
+      "261",
+      "121",
+      "5",
+      "13",
+      "22",
+      "75",
+      "336",
+      "153",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "265",
+      "275",
+      "280",
+      "294",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "33",
+      "41",
+      "52",
+      "68",
+      "69",
+      "71",
+      "83",
+      "100",
+      "121"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/1/em199.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/1/pl199.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/1/ces199.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/50/1/cl199.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21640"
+  }
+}

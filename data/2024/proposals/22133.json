@@ -1,0 +1,75 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:09.184Z",
+  "data": {
+    "idp": "22133",
+    "title": "Proiect de Lege pentru modificarea art.10 din Legea nr.299/2007 privind sprijinul acordat românilor de pretutindeni",
+    "registrationNumber": {
+      "bpi": "738/19-11-2024",
+      "senateChamber": "L551/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n299/2007",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
+      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+    },
+    "initiators": [
+      "89",
+      "113",
+      "261",
+      "4",
+      "13",
+      "22",
+      "64",
+      "75",
+      "336",
+      "187",
+      "195",
+      "222",
+      "231",
+      "247",
+      "344",
+      "256",
+      "265",
+      "275",
+      "280",
+      "285",
+      "294",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "41",
+      "147",
+      "148",
+      "59",
+      "69",
+      "71"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/4/em738.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/4/ces738.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/4/cl738.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/4/pvg738.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22133"
+  }
+}

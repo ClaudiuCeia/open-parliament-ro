@@ -1,0 +1,45 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:28.440Z",
+  "data": {
+    "idp": "22188",
+    "title": "Propunere legislativă pentru modificarea şi completarea Legii nr.227/2015 privind Codul fiscal, cu modificările şi completările ulterioare",
+    "registrationNumber": {
+      "bpi": "793/18-12-2024",
+      "senateChamber": "L624/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n227/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "45",
+      "157",
+      "193"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/30/4/em793.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/30/4/pl793.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/30/4/ces793.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/30/4/cl793.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22188"
+  }
+}

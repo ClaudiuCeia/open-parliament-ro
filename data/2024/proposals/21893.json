@@ -1,0 +1,51 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:47.153Z",
+  "data": {
+    "idp": "21893",
+    "title": "Proiect de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr.102/2024 pentru ratificarea celui de-al doilea Protocol de amendare, semnat la Bucureşti la 24 mai 2024, a Acordului între Guvernul României şi Guvernul Republicii Moldova privind cooperarea în domeniul militar, semnat la Chişinău la 20 aprilie 2012",
+    "registrationNumber": {
+      "bpi": "478/29-08-2024",
+      "senateChamber": "L498/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n102/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 276/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 102/2024 pentru ratificarea celui de-al doilea Protocol de amendare, semnat la Bucuresti la 24 mai 2024, a Acordului dintre Guvernul României si Guvernul Republicii Moldova privind cooperarea în domeniul militar, semnat la Chisinău la 20 aprilie 2012",
+      "long": "Lege 276/2024LEGE privind aprobarea Ordonantei de urgentă a Guvernului nr. 102/2024 pentru ratificarea celui de-al doilea Protocol de amendare, semnat la Bucuresti la 24 mai 2024, a Acordului dintre Guvernul României si Guvernul Republicii Moldova privind cooperarea în domeniul militar, semnat la Chisinău la 20 aprilie 2012"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/1/em478%20BUN.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/1/pl478%20BUN.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/1/oug478%20BUN.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/1/cl478%20BUN.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/1/csat478%20BUN.pdf",
+        "title": "Avizul Consiliului Suprem de Apărare a Țării"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/1/memorandum478%20BUN.pdf",
+        "title": "Memorandum"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21893"
+  }
+}

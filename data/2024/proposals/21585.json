@@ -1,0 +1,69 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:51.695Z",
+  "data": {
+    "idp": "21585",
+    "title": "Propunere legislativă pentru modificarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ",
+    "registrationNumber": {
+      "bpi": "133/05-03-2024",
+      "senateChamber": "L324/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n57/2019",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la Senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "36",
+      "37",
+      "40",
+      "84",
+      "85",
+      "100",
+      "116",
+      "135",
+      "154",
+      "155",
+      "161",
+      "172",
+      "183",
+      "201",
+      "263",
+      "282",
+      "328",
+      "5",
+      "37",
+      "38",
+      "48",
+      "67",
+      "140",
+      "126"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-04-11T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/5/em133.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/5/pl133.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/5/cl133.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/10/5/115ces.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21585"
+  }
+}

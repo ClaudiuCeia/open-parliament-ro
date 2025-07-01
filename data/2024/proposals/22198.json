@@ -1,0 +1,37 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.457Z",
+  "data": {
+    "idp": "22198",
+    "title": "Propunere legislativă pentru completarea art.15 alin.(2) din Ordonanţa de urgenţă a Guvernului nr.77/2009 privind organizarea şi exploatarea jocurilor de noroc",
+    "registrationNumber": {
+      "bpi": "803/23-12-2024",
+      "deputyChamber": "BP803/23.12.2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n77/2009",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": ["297"],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2024/800/00/3/in803.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2024/800/00/3/em803.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2024/800/00/3/pl803.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22198"
+  }
+}

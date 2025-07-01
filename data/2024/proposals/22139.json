@@ -1,0 +1,75 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:10.352Z",
+  "data": {
+    "idp": "22139",
+    "title": "Propunere legislativă pentru modificarea art.53 din Legea nr.360/2023 privind sistemul public de pensii",
+    "registrationNumber": {
+      "bpi": "744/27-11-2024",
+      "senateChamber": "L550/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n360/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "89",
+      "261",
+      "22",
+      "64",
+      "75",
+      "112",
+      "336",
+      "187",
+      "222",
+      "231",
+      "247",
+      "344",
+      "265",
+      "275",
+      "294",
+      "324",
+      "2",
+      "19",
+      "23",
+      "27",
+      "32",
+      "41",
+      "147",
+      "148",
+      "52",
+      "59",
+      "68",
+      "69",
+      "71"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/8/em744.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/8/pl744.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/8/ces744.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/8/cl744.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/600/50/8/opcfisc744.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22139"
+  }
+}

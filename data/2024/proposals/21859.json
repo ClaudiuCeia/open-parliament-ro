@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:35.990Z",
+  "data": {
+    "idp": "21859",
+    "title": "Proiect de Lege pentru aderarea României la Protocolul referitor la stabilirea sediului, adoptat la Dijon, la 21 mai 2022, de modificare a Acordului privind înfiinţarea Organizaţiei Internaţionale a Viei şi Vinului, adoptat la Paris la 3 aprilie 2001",
+    "registrationNumber": {
+      "bpi": "446/25-06-2024",
+      "senateChamber": "L506/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 308/2024LEGE pentru aderarea României la Protocolul referitor la stabilirea sediului, adoptat la Dijon la 21 mai 2022, de modificare a Acordului privind crearea Organizatiei Internationale a Viei si Vinului, adoptat la Paris la 3 aprilie 2001 ;p: Protocol de modificare a Acordului din 3 aprilie 2001 privind crearea Organizatiei Internationale a Viei si Vinului, referitor la stabilirea sediului, adoptat la Dijon la 21 mai 2022",
+      "long": "Lege 308/2024LEGE pentru aderarea României la Protocolul referitor la stabilirea sediului, adoptat la Dijon la 21 mai 2022, de modificare a Acordului privind crearea Organizatiei Internationale a Viei si Vinului, adoptat la Paris la 3 aprilie 2001 ;p: Protocol de modificare a Acordului din 3 aprilie 2001 privind crearea Organizatiei Internationale a Viei si Vinului, referitor la stabilirea sediului, adoptat la Dijon la 21 mai 2022"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/3/em446.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/3/pl446.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/3/decret446.pdf",
+        "title": "Decretul privind supunerea spre ratificare Parlamentului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/90/3/cl446.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21859"
+  }
+}

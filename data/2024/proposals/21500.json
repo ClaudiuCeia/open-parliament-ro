@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:44:16.928Z",
+  "data": {
+    "idp": "21500",
+    "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.110/2023 privind modalitatea de operare a sistemelor de aeronave fără pilot la bord în cadrul Ministerului Afacerilor Interne, precum şi pentru desemnarea Inspectoratului General de Aviaţie al Ministerului Afacerilor Interne ca unitate de achiziţii centralizată pentru achiziţia centralizată de sisteme de aeronave fără pilot la bord",
+    "registrationNumber": {
+      "bpi": "42/13-02-2024",
+      "senateChamber": "L722/2023"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\naprobarea\nO.U.G. nr.\n110/2023",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 112/2025LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 110/2023 privind modalitatea de operare a sistemelor de aeronave fără pilot la bord în cadrul Ministerului Afacerilor Interne, precum si pentru desemnarea Inspectoratului General de Aviatie al Ministerului Afacerilor Interne ca unitate de achizitii centralizată pentru achizitia centralizată de sisteme de aeronave fără pilot la bord",
+      "long": "Lege 112/2025LEGE pentru aprobarea Ordonantei de urgentă a Guvernului nr. 110/2023 privind modalitatea de operare a sistemelor de aeronave fără pilot la bord în cadrul Ministerului Afacerilor Interne, precum si pentru desemnarea Inspectoratului General de Aviatie al Ministerului Afacerilor Interne ca unitate de achizitii centralizată pentru achizitia centralizată de sisteme de aeronave fără pilot la bord"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/9/em42.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/9/oug42.pdf",
+        "title": "Ordonanţa de urgenţă a Guvernului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/9/cl42.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/9/ces42.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/000/20/9/csat42.pdf",
+        "title": "Avizul Consiliului Suprem de Apărare a Țării"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21500"
+  }
+}

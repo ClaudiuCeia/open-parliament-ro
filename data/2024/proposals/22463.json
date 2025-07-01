@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.402Z",
+  "data": {
+    "idp": "22463",
+    "title": "Propunere legislativă pentru completarea Legii nr.360/2002 privind Statutul poliţistului şi a Legii poliţiei locale nr.155/2010",
+    "registrationNumber": {
+      "bpi": "280/30-06-2025",
+      "deputyChamber": "BP280/30.06.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n360/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "",
+      "long": ""
+    },
+    "initiators": [
+      "21",
+      "50",
+      "75",
+      "101",
+      "128",
+      "152",
+      "169",
+      "231",
+      "237",
+      "304",
+      "312",
+      "323"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/80/0/in280.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/80/0/em280.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/200/80/0/pl280.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22463"
+  }
+}

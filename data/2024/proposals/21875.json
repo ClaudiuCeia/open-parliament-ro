@@ -1,0 +1,84 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:44.945Z",
+  "data": {
+    "idp": "21875",
+    "title": "Proiect de Lege pentru instituirea anului 2025 ca „Anul Naţional al Copilului”",
+    "registrationNumber": {
+      "bpi": "462/26-06-2024",
+      "senateChamber": "L313/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 264/2024LEGE pentru instituirea anului 2025 ca \"Anul National al Copilului\"",
+      "long": "Lege 264/2024LEGE pentru instituirea anului 2025 ca \"Anul National al Copilului\""
+    },
+    "initiators": [
+      "303",
+      "7",
+      "20",
+      "33",
+      "42",
+      "49",
+      "51",
+      "68",
+      "97",
+      "110",
+      "130",
+      "140",
+      "142",
+      "149",
+      "171",
+      "174",
+      "175",
+      "334",
+      "185",
+      "196",
+      "199",
+      "203",
+      "206",
+      "208",
+      "210",
+      "214",
+      "219",
+      "220",
+      "226",
+      "243",
+      "250",
+      "257",
+      "258",
+      "269",
+      "331",
+      "305",
+      "309",
+      "316",
+      "318",
+      "322",
+      "9",
+      "19"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/10/6/em462.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/10/6/ces462.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/10/6/cl462.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/10/6/pvg416.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21875"
+  }
+}

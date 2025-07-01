@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-06-30T14:32:35.524Z",
+  "lastUpdated": "2025-07-01T16:15:57.823Z",
   "data": [
     {
       "idi": "77881",
@@ -11,9 +11,9 @@
       },
       "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru Rafila\n- Ministru",
       "dates": {
-        "registration": "2025-04-03T00:00:00.000Z",
-        "presentation": "2025-04-03T00:00:00.000Z",
-        "communication": "2025-04-03T00:00:00.000Z",
+        "registration": "2025-04-02T21:00:00.000Z",
+        "presentation": "2025-04-02T21:00:00.000Z",
+        "communication": "2025-04-02T21:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -24,7 +24,7 @@
       "answers": [
         {
           "registrationId": "4184",
-          "date": "2025-03-04T00:00:00.000Z",
+          "date": "2025-03-03T22:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nMarius Tiberius Brădăţan\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r86B.pdf"
@@ -40,9 +40,9 @@
       },
       "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
       "dates": {
-        "registration": "2025-04-03T00:00:00.000Z",
+        "registration": "2025-04-02T21:00:00.000Z",
         "presentation": null,
-        "communication": "2025-04-03T00:00:00.000Z",
+        "communication": "2025-04-02T21:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -53,7 +53,7 @@
       "answers": [
         {
           "registrationId": "7413",
-          "date": "2025-03-04T00:00:00.000Z",
+          "date": "2025-03-03T22:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nSorin-Mihai Grindeanu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r87B.pdf"
@@ -79,7 +79,7 @@
         "registration": null,
         "presentation": null,
         "communication": null,
-        "responseDue": "2025-09-04T00:00:00.000Z"
+        "responseDue": "2025-09-03T21:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i532A.pdf",
@@ -118,7 +118,7 @@
       "answers": [
         {
           "registrationId": "2539",
-          "date": "2025-07-05T00:00:00.000Z",
+          "date": "2025-07-04T21:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Culturii\ncomunicat de:\ndoamna\nNatalia-Elena Intotero\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r154B.pdf"
@@ -201,7 +201,7 @@
       "dates": {
         "registration": null,
         "presentation": null,
-        "communication": "2025-02-04T00:00:00.000Z",
+        "communication": "2025-02-03T22:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -212,7 +212,7 @@
       "answers": [
         {
           "registrationId": "9446",
-          "date": "2025-07-05T00:00:00.000Z",
+          "date": "2025-07-04T21:00:00.000Z",
           "responseType": "în scris",
           "author": "Ministerul Educaţiei şi Cercetării",
           "textUrl": "https://www.cdep.ro/interpel/2025/r708A.pdf"
@@ -228,10 +228,10 @@
       },
       "recipient": "Ministerul Culturii\nîn atenţia:\ndoamnei\nNatalia-Elena Intotero\n- Ministru",
       "dates": {
-        "registration": "2025-08-04T00:00:00.000Z",
-        "presentation": "2025-08-04T00:00:00.000Z",
-        "communication": "2025-08-04T00:00:00.000Z",
-        "responseDue": "2025-02-05T00:00:00.000Z"
+        "registration": "2025-08-03T21:00:00.000Z",
+        "presentation": "2025-08-03T21:00:00.000Z",
+        "communication": "2025-08-03T21:00:00.000Z",
+        "responseDue": "2025-02-04T22:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i234B.pdf",
@@ -252,7 +252,7 @@
         "registration": null,
         "presentation": null,
         "communication": null,
-        "responseDue": "2025-12-05T00:00:00.000Z"
+        "responseDue": "2025-12-04T22:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i864A.pdf",
@@ -281,7 +281,7 @@
         "registration": null,
         "presentation": null,
         "communication": null,
-        "responseDue": "2025-12-05T00:00:00.000Z"
+        "responseDue": "2025-12-04T22:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i867A.pdf",
@@ -310,7 +310,7 @@
         "registration": null,
         "presentation": null,
         "communication": null,
-        "responseDue": "2025-12-06T00:00:00.000Z"
+        "responseDue": "2025-12-05T22:00:00.000Z"
       },
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1148A.pdf",
@@ -365,9 +365,9 @@
       },
       "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nSebastian-Ioan Burduja\n- Ministru",
       "dates": {
-        "registration": "2025-03-06T00:00:00.000Z",
-        "presentation": "2025-03-06T00:00:00.000Z",
-        "communication": "2025-03-06T00:00:00.000Z",
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-03-05T22:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",
@@ -386,9 +386,9 @@
       },
       "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
       "dates": {
-        "registration": "2025-03-06T00:00:00.000Z",
-        "presentation": "2025-03-06T00:00:00.000Z",
-        "communication": "2025-03-06T00:00:00.000Z",
+        "registration": "2025-03-05T22:00:00.000Z",
+        "presentation": "2025-03-05T22:00:00.000Z",
+        "communication": "2025-03-05T22:00:00.000Z",
         "responseDue": null
       },
       "mode": "în scris",

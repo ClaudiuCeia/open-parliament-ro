@@ -1,0 +1,56 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:09.515Z",
+  "data": {
+    "idp": "21799",
+    "title": "Proiect de Lege privind modificarea şi completarea Legii nr. 217/2003 pentru prevenirea şi combaterea violenţei domestice",
+    "registrationNumber": {
+      "bpi": "370/23-05-2024",
+      "senateChamber": "L234/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n21/2003",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "Lege 1/2025LEGE privind modificarea si completarea Legii nr. 217/2003 pentru prevenirea si combaterea violentei domestice",
+      "long": "Lege 1/2025LEGE privind modificarea si completarea Legii nr. 217/2003 pentru prevenirea si combaterea violentei domestice"
+    },
+    "initiators": [
+      "38",
+      "59",
+      "146",
+      "170",
+      "303",
+      "311",
+      "149",
+      "219",
+      "250",
+      "298",
+      "57",
+      "180",
+      "40",
+      "84"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/9/em370.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/9/ces370.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/9/cl370.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/20/9/cna370.pdf",
+        "title": "Avizul Consiliului Național al Audiovizualului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21799"
+  }
+}

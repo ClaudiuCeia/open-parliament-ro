@@ -1,0 +1,39 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:48:40.994Z",
+  "data": {
+    "idp": "22260",
+    "title": "Proiect de Lege privind aprobarea Politicii publice de proprietate privată a statului",
+    "registrationNumber": {
+      "bpi": "60/18-03-2025",
+      "senateChamber": "L44/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "Lege 48/2025LEGE privind aprobarea Politicii publice de proprietate privată a statului",
+      "long": "Lege 48/2025LEGE privind aprobarea Politicii publice de proprietate privată a statului"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/70/9/em60.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/70/9/ces60.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/70/9/cl60.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22260"
+  }
+}

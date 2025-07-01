@@ -1,0 +1,74 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:07.906Z",
+  "data": {
+    "idp": "22422",
+    "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.57/2019 privind Codul administrativ, pentru completarea Legii minelor nr.85/2003, precum şi pentru completarea art.14 din Legea nr.102/2014 privind cimitirele, crematoriile umane şi serviciile funerare",
+    "registrationNumber": {
+      "bpi": "237/17-06-2025",
+      "senateChamber": "L130/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n85/2003\nmodificarea\nL. nr.\n102/2014\nmodificarea\nO.U.G. nr.\n57/2019",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "7",
+      "9",
+      "14",
+      "30",
+      "49",
+      "56",
+      "57",
+      "79",
+      "84",
+      "88",
+      "110",
+      "118",
+      "153",
+      "199",
+      "205",
+      "208",
+      "214",
+      "332",
+      "232",
+      "234",
+      "244",
+      "271",
+      "283",
+      "311",
+      "320",
+      "15",
+      "30",
+      "31",
+      "53",
+      "58",
+      "70",
+      "76",
+      "91",
+      "98",
+      "118",
+      "122"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/1/em237.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/1/ces237.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/00/1/cl237.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22422"
+  }
+}

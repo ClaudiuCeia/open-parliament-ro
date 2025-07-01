@@ -1,0 +1,77 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:01.814Z",
+  "data": {
+    "idp": "22383",
+    "title": "Propunere legislativă privind organizarea, funcţionarea şi administrarea Catalogului Naţional al Serviciilor Publice",
+    "registrationNumber": {
+      "bpi": "189/28-05-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "procedura legislativa încetata",
+      "long": "procedura legislativa încetata"
+    },
+    "initiators": [
+      "306",
+      "72",
+      "99",
+      "154",
+      "7",
+      "30",
+      "31",
+      "49",
+      "56",
+      "57",
+      "66",
+      "79",
+      "81",
+      "84",
+      "110",
+      "129",
+      "143",
+      "182",
+      "199",
+      "205",
+      "208",
+      "214",
+      "332",
+      "232",
+      "234",
+      "244",
+      "249",
+      "271",
+      "273",
+      "276",
+      "283",
+      "311",
+      "320",
+      "36",
+      "198",
+      "312",
+      "266",
+      "329",
+      "67",
+      "98",
+      "3"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-06-30T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/2/em189.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/100/70/2/pl189.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22383"
+  }
+}

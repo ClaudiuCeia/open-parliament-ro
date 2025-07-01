@@ -1,0 +1,58 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:49:12.635Z",
+  "data": {
+    "idp": "22449",
+    "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de Urgenţă nr.41 din 8 aprilie 2022 privind instituirea Sistemului naţional de monitorizare a transporturilor rutiere de bunuri RO e-Transport şi abrogarea art.XXVIII din Ordonanţa de urgenţă a Guvernului nr.130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum şi modificarea şi completarea unor acte normative",
+    "registrationNumber": {
+      "bpi": "267/25-06-2025",
+      "senateChamber": "L155/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n41/2022",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "3",
+      "4",
+      "11",
+      "12",
+      "24",
+      "63",
+      "64",
+      "68",
+      "73",
+      "80",
+      "127",
+      "112"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/6/em267.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/6/pl267.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/6/ces267.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/6/cl267.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/20/6/opcfisc267.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22449"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:45:18.024Z",
+  "data": {
+    "idp": "21654",
+    "title": "Propunere legislativă pentru modificarea si completarea unor acte normative în domeniul organizării şi funcţionării serviciilor de informaţii în România, precum şi pentru modificarea şi completarea Legii nr.96/2006 privind statutul deputaţilor şi senatorilor, republicată",
+    "registrationNumber": {
+      "bpi": "213/19-03-2024",
+      "senateChamber": "L281/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la Senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "38"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-04-19T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/9/em213.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/100/80/9/pl213.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21654"
+  }
+}

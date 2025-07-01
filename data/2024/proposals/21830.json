@@ -1,0 +1,64 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:24.226Z",
+  "data": {
+    "idp": "21830",
+    "title": "Proiect de Lege pentru modificarea si completarea Ordonanţei Guvernului 83/2001 privind înfiinţarea, organizarea şi funcţionarea serviciilor publice comunitare de paşapoarte şi serviciilor publice comunitare regim permise de conducere şi înmatriculare a vehiculelor",
+    "registrationNumber": {
+      "bpi": "411/04-06-2024",
+      "senateChamber": "L224/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.G. nr.\n83/2001",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "163",
+      "15",
+      "21",
+      "31",
+      "34",
+      "43",
+      "47",
+      "81",
+      "90",
+      "103",
+      "137",
+      "138",
+      "147",
+      "164",
+      "180",
+      "186",
+      "207",
+      "218",
+      "245",
+      "262",
+      "319",
+      "327"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/3/em411.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/3/ces411.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/3/cl411.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/300/60/3/pvg411.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21830"
+  }
+}

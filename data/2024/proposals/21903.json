@@ -1,0 +1,51 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T16:46:48.997Z",
+  "data": {
+    "idp": "21903",
+    "title": "Propunere legislativă privind instituirea unor măsuri speciale pentru protecţia obiectivelor militare",
+    "registrationNumber": {
+      "bpi": "485/04-09-2024",
+      "senateChamber": "L600/2024"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la Senat\ntitlu votat:\nLege privind instituirea unor măsuri speciale în zonele cu regim de protecţie specială a obiectivelor militare",
+      "long": "la Senat\ntitlu votat:\nLege privind instituirea unor măsuri speciale în zonele cu regim de protecţie specială a obiectivelor militare"
+    },
+    "initiators": [
+      "266",
+      "326"
+    ],
+    "publicConsultation": {
+      "dueDate": "2024-10-07T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/4/em485.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/4/pl485.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/4/ces485.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/4/cl485.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2024/400/20/4/ancom485.pdf",
+        "title": "Punct de vedere ANCOM"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=21903"
+  }
+}

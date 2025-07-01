@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-06-30T10:10:43.891Z",
+  "lastUpdated": "2025-07-01T16:07:20.961Z",
   "data": {
     "idm": "211",
     "name": "Valeriu MUNTEANU",
@@ -24,7 +24,7 @@
     },
     "activity": {
       "Luări de cuvânt": {
-        "count": 18,
+        "count": 19,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7700&leg=2024&idl=1"
       },
       "- din care declaraţii politice": {
@@ -44,7 +44,7 @@
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=211&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
       },
       "Întrebari şi interpelări": {
-        "count": 45,
+        "count": 47,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=211&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
       },
       "Moţiuni": {

@@ -2,7 +2,7 @@ import * as cheerio from "cheerio";
 import { TextDecoder } from "text-decoding";
 import { logger } from "../log";
 
-const MAX_CACHE_SIZE = 50;
+const MAX_CACHE_SIZE = 100;
 const Cache: Record<
   string,
   { html: string; $: cheerio.CheerioAPI; lastUsed: number }
@@ -81,7 +81,7 @@ export const $fetch = async (
       addToCache(url, result);
       return result;
     } catch (err) {
-      const jitter = Math.random() * 500;
+      const jitter = Math.random() * 100;
       const wait = delay * 2 ** i + jitter;
 
       if (err instanceof Error && err.name === "AbortError") {

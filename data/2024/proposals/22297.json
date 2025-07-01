@@ -1,0 +1,60 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-07-01T13:31:40.360Z",
+  "data": {
+    "idp": "22297",
+    "title": "Propunere legislativă pentru modificarea art.18 alin.(1) lit.b) din Ordonanţa de urgenţă nr.140/2021 privind anumite aspecte referitoare la contractele de vânzare de bunuri",
+    "registrationNumber": {
+      "bpi": "98/02-04-2025",
+      "deputyChamber": "BP98/02.04.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n140/2021",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "la senat",
+      "long": "la Senat"
+    },
+    "initiators": [
+      "7",
+      "14",
+      "31",
+      "46",
+      "49",
+      "56",
+      "79",
+      "88",
+      "110",
+      "118",
+      "153",
+      "205",
+      "208",
+      "214",
+      "332",
+      "232",
+      "234",
+      "244",
+      "273",
+      "276",
+      "295",
+      "311"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/8/in98.pdf",
+        "title": "Adresa iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/8/em98.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/000/90/8/pl98.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22297"
+  }
+}
