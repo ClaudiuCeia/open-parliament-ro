@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:27:09.104Z",
+  "lastUpdated": "2025-07-02T18:28:24.485Z",
   "data": [
     {
       "idi": "77472",
@@ -1303,6 +1303,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1496A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79454&idl=1",
       "registrationId": "1496A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79612",
+      "title": "Întrebarea nr.1654A/02-07-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 640A – ”Dotarea cabinetelor medicilor de familie din județul Prahova cu echipamente și aparatură cu ajutorul fondurilor prevăzute în Planul Național de Redresare și Reziliență”",
+      "addressee": {
+        "idm": "262"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1654A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79612&idl=1",
+      "registrationId": "1654A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79613",
+      "title": "Întrebarea nr.1655A/02-07-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 955A – ”Când veți elibera ordinul prin care universitățile de medicină și farmacie vor coordona Rezidențiatul”",
+      "addressee": {
+        "idm": "262"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1655A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79613&idl=1",
+      "registrationId": "1655A",
       "requestedResponseType": "în scris",
       "answers": []
     }

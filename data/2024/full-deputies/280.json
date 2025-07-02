@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-07-02T09:18:02.357Z",
+  "lastUpdated": "2025-07-02T18:19:12.269Z",
   "data": {
     "idm": "280",
     "name": "Aurora-Tasica SIMU",
@@ -24,7 +24,7 @@
     },
     "activity": {
       "Luări de cuvânt": {
-        "count": 15,
+        "count": 16,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7692&leg=2024&idl=1"
       },
       "- din care declaraţii politice": {

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:19:17.748Z",
+  "lastUpdated": "2025-07-02T18:20:35.539Z",
   "data": [
     {
       "idi": "77546",
@@ -135,9 +135,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i265A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=77781&idl=1",
-      "registrationId": "265A",
+      "registrationId": "265A14",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "14",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nSimona Bucura-Oprescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r265A.pdf"
+        }
+      ]
     },
     {
       "idi": "77936",

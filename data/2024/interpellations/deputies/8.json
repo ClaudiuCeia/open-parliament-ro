@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:19:10.702Z",
+  "lastUpdated": "2025-07-02T18:20:28.399Z",
   "data": [
     {
       "idi": "77809",
@@ -609,9 +609,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1284A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79194&idl=1",
-      "registrationId": "1284A",
+      "registrationId": "1284A266313",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266313",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1284A.pdf"
+        }
+      ]
     },
     {
       "idi": "79323",
@@ -673,6 +681,90 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1557A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79515&idl=1",
       "registrationId": "1557A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79594",
+      "title": "Întrebarea nr.1636A/02-07-2025",
+      "description": "Măsuri privind protejarea furnizorilor afectați de situația Combinatului Siderurgic Galați",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1636A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79594&idl=1",
+      "registrationId": "1636A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79598",
+      "title": "Întrebarea nr.1640A/02-07-2025",
+      "description": "Situația critică a scăderii debitului Dunării",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1640A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79598&idl=1",
+      "registrationId": "1640A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79599",
+      "title": "Întrebarea nr.1641A/02-07-2025",
+      "description": "Finalizarea Drumului Expres Tureni – Cluj-Napoca și continuarea lucrărilor la DEx4",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1641A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79599&idl=1",
+      "registrationId": "1641A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79600",
+      "title": "Întrebarea nr.1642A/02-07-2025",
+      "description": "Situația bazinului olimpic de la Lia Manoliu și măsurile asumate de ANS",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Agenţia Naţională pentru Sport",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1642A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79600&idl=1",
+      "registrationId": "1642A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:22:12.749Z",
+  "lastUpdated": "2025-07-02T18:23:29.332Z",
   "data": [
     {
       "idi": "77601",
@@ -2470,9 +2470,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1212A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79058&idl=1",
-      "registrationId": "1212A",
+      "registrationId": "1212A266288",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266288",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1212A.pdf"
+        }
+      ]
     },
     {
       "idi": "79059",
@@ -2617,9 +2625,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1324A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79234&idl=1",
-      "registrationId": "1324A",
+      "registrationId": "1324A14464",
       "requestedResponseType": "în scris şi oral",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "14464",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1324A.pdf"
+        }
+      ]
     },
     {
       "idi": "79235",
@@ -2638,9 +2654,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1325A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79235&idl=1",
-      "registrationId": "1325A",
+      "registrationId": "1325A14468",
       "requestedResponseType": "în scris şi oral",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "14468",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1325A.pdf"
+        }
+      ]
     },
     {
       "idi": "79236",

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:29:09.472Z",
+  "lastUpdated": "2025-07-02T18:30:23.718Z",
   "data": [
     {
       "idi": "77649",
@@ -211,9 +211,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1221A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79067&idl=1",
-      "registrationId": "1221A",
+      "registrationId": "1221A266289",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266289",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1221A.pdf"
+        }
+      ]
     },
     {
       "idi": "79069",
@@ -261,9 +269,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1223A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79070&idl=1",
-      "registrationId": "1223A",
+      "registrationId": "1223A36377",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "36377",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1223A.pdf"
+        }
+      ]
     },
     {
       "idi": "79071",
@@ -382,9 +398,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1228A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79075&idl=1",
-      "registrationId": "1228A",
+      "registrationId": "1228A14149",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "14149",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1228A.pdf"
+        }
+      ]
     },
     {
       "idi": "79076",
@@ -439,7 +463,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1230A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79077&idl=1",
-      "registrationId": "1230A264",
+      "registrationId": "1230A26414148",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -448,6 +472,13 @@
           "responseType": "în scris",
           "author": "Autoritatea Naţională de Supraveghere a Prelucrării Datelor cu Caracter Personal",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1230A.pdf"
+        },
+        {
+          "registrationId": "14148",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1230A.pdf"
         }
       ]
     },
@@ -574,6 +605,90 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1582A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79540&idl=1",
       "registrationId": "1582A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79614",
+      "title": "Întrebarea nr.1656A/02-07-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1202A - Netransmiterea la termen a Raportului Anual de Progres privind reducerea deficitului bugetar către Comisia Europeană",
+      "addressee": {
+        "idm": "315"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1656A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79614&idl=1",
+      "registrationId": "1656A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79615",
+      "title": "Întrebarea nr.1657A/02-07-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1204A - Situația migranților ilegali depistați pe teritoriul României în ultimii ani",
+      "addressee": {
+        "idm": "315"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1657A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79615&idl=1",
+      "registrationId": "1657A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79616",
+      "title": "Întrebarea nr.1658A/02-07-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1226A - După 11 ani de la tragedia de la Colectiv, încă nu avem centre pentru mari arși",
+      "addressee": {
+        "idm": "315"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1658A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79616&idl=1",
+      "registrationId": "1658A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79617",
+      "title": "Întrebarea nr.1659A/02-07-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1227A - Tratamentul umilitor la care a fost supus cetățeanul Peșchir de către Poliția Română",
+      "addressee": {
+        "idm": "315"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1659A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79617&idl=1",
+      "registrationId": "1659A",
       "requestedResponseType": "în scris",
       "answers": []
     }

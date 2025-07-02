@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:24:06.693Z",
+  "lastUpdated": "2025-07-02T18:25:22.844Z",
   "data": [
     {
       "idi": "77500",
@@ -1069,9 +1069,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1076A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78871&idl=1",
-      "registrationId": "1076A",
+      "registrationId": "1076A266250",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266250",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1076A.pdf"
+        }
+      ]
     },
     {
       "idi": "78872",
@@ -1227,9 +1235,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1182A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79028&idl=1",
-      "registrationId": "1182A",
+      "registrationId": "1182A161063",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161063",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1182A.pdf"
+        }
+      ]
     },
     {
       "idi": "79029",
@@ -1290,9 +1306,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1282A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79192&idl=1",
-      "registrationId": "1282A",
+      "registrationId": "1282A31183",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "31183",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Energiei\ncomunicat de:\ndomnul\nPavel-Casian Niţulescu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1282A.pdf"
+        }
+      ]
     },
     {
       "idi": "79310",
@@ -1480,6 +1504,69 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1599A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79557&idl=1",
       "registrationId": "1599A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79601",
+      "title": "Întrebarea nr.1643A/02-07-2025",
+      "description": "Situația taberelor școlare pentru elevi aflate în subordinea Ministerului Educației și Cercetării",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1643A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79601&idl=1",
+      "registrationId": "1643A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79602",
+      "title": "Întrebarea nr.1644A/02-07-2025",
+      "description": "Reluarea programului Rabla pentru tractoare",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1644A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79602&idl=1",
+      "registrationId": "1644A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79603",
+      "title": "Întrebarea nr.1645A/02-07-2025",
+      "description": "Combaterea defrișărilor ilegale în județul Cluj",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1645A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79603&idl=1",
+      "registrationId": "1645A",
       "requestedResponseType": "în scris",
       "answers": []
     }

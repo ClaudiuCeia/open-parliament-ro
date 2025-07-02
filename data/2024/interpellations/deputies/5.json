@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:19:03.267Z",
+  "lastUpdated": "2025-07-02T18:20:20.175Z",
   "data": [
     {
       "idi": "77466",
@@ -1638,9 +1638,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1333A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79243&idl=1",
-      "registrationId": "1333A",
+      "registrationId": "1333A2002",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "2002",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1333A.pdf"
+        }
+      ]
     },
     {
       "idi": "79244",
@@ -1659,7 +1667,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1334A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79244&idl=1",
-      "registrationId": "1334A37892",
+      "registrationId": "1334A378922786",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -1668,6 +1676,13 @@
           "responseType": "în scris",
           "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1334A.pdf"
+        },
+        {
+          "registrationId": "2786",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1334A.pdf"
         }
       ]
     },
@@ -1801,9 +1816,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1365A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79275&idl=1",
-      "registrationId": "1365A",
+      "registrationId": "1365A1756",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1756",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1365A.pdf"
+        }
+      ]
     }
   ]
 }

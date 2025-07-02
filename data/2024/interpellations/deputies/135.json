@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:23:27.373Z",
+  "lastUpdated": "2025-07-02T18:24:42.703Z",
   "data": [
     {
       "idi": "77823",
@@ -972,9 +972,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i350B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78909&idl=1",
-      "registrationId": "350B",
+      "registrationId": "350B15314",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "15314",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r350B.pdf"
+        }
+      ]
     },
     {
       "idi": "78910",
@@ -1314,9 +1322,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i402B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79147&idl=1",
-      "registrationId": "402B",
+      "registrationId": "402B6408",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6408",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nBogdan-Gruia Ivan\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r402B.pdf"
+        }
+      ]
     },
     {
       "idi": "79148",
@@ -1335,9 +1351,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i403B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79148&idl=1",
-      "registrationId": "403B",
+      "registrationId": "403B4990",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "4990",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r403B.pdf"
+        }
+      ]
     },
     {
       "idi": "79149",

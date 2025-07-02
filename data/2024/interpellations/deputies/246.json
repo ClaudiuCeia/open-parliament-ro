@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:26:26.030Z",
+  "lastUpdated": "2025-07-02T18:27:41.510Z",
   "data": [
     {
       "idi": "77720",
@@ -156,9 +156,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i387B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79132&idl=1",
-      "registrationId": "387B",
+      "registrationId": "387B17901",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "17901",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r387B.pdf"
+        }
+      ]
     },
     {
       "idi": "79158",
@@ -219,9 +227,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i415B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79160&idl=1",
-      "registrationId": "415B",
+      "registrationId": "415B3829",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "3829",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nMarcel-Ioan Boloş\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r415B.pdf"
+        }
+      ]
     },
     {
       "idi": "79161",

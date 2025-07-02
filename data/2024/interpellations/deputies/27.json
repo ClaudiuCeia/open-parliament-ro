@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:20:06.875Z",
+  "lastUpdated": "2025-07-02T18:21:25.552Z",
   "data": [
     {
       "idi": "77593",
@@ -1600,7 +1600,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1361A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79271&idl=1",
-      "registrationId": "1361A138417",
+      "registrationId": "1361A1384179980",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -1609,6 +1609,13 @@
           "responseType": "în scris",
           "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1361A.pdf"
+        },
+        {
+          "registrationId": "9980",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Guvernul României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1361A.pdf"
         }
       ]
     },
@@ -1827,6 +1834,111 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1591A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79549&idl=1",
       "registrationId": "1591A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79607",
+      "title": "Întrebarea nr.1649A/02-07-2025",
+      "description": "Rata de succes a tratamentului cancerelor din România",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1649A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79607&idl=1",
+      "registrationId": "1649A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79608",
+      "title": "Întrebarea nr.1650A/02-07-2025",
+      "description": "Scumpirile în lanț din iulie vor afecta major viețile românilor!",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1650A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79608&idl=1",
+      "registrationId": "1650A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79609",
+      "title": "Întrebarea nr.1651A/02-07-2025",
+      "description": "Situația migranților primiți în România conform „Regulamentului Dublin”",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1651A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79609&idl=1",
+      "registrationId": "1651A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79610",
+      "title": "Întrebarea nr.1652A/02-07-2025",
+      "description": "Dispune țara noastră de pulbere suficientă pentru a acoperi necesarul de producție al muniție",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1652A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79610&idl=1",
+      "registrationId": "1652A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79611",
+      "title": "Întrebarea nr.1653A/02-07-2025",
+      "description": "Pacienții din România sunt în pericol din cauza lipsurilor din spitale",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1653A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79611&idl=1",
+      "registrationId": "1653A",
       "requestedResponseType": "în scris",
       "answers": []
     }

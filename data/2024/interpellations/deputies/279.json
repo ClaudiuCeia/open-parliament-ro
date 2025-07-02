@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:27:31.450Z",
+  "lastUpdated": "2025-07-02T18:28:46.785Z",
   "data": [
     {
       "idi": "77476",
@@ -380,9 +380,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i387A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=77976&idl=1",
-      "registrationId": "387A",
+      "registrationId": "387A266073",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266073",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r387A.pdf"
+        }
+      ]
     },
     {
       "idi": "77999",
@@ -1151,7 +1159,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1353A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79263&idl=1",
-      "registrationId": "1353A138406",
+      "registrationId": "1353A1384069979",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -1160,6 +1168,13 @@
           "responseType": "în scris",
           "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1353A.pdf"
+        },
+        {
+          "registrationId": "9979",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Guvernul României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1353A.pdf"
         }
       ]
     },
@@ -1328,6 +1343,69 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1554A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79512&idl=1",
       "registrationId": "1554A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79604",
+      "title": "Întrebarea nr.1646A/02-07-2025",
+      "description": "Respectarea obligației legale de a crea servicii în comunitate pentru pacienții psihiatrici",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1646A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79604&idl=1",
+      "registrationId": "1646A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79605",
+      "title": "Întrebarea nr.1647A/02-07-2025",
+      "description": "Prioritățile sistemului de sănătate",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1647A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79605&idl=1",
+      "registrationId": "1647A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79606",
+      "title": "Întrebarea nr.1648A/02-07-2025",
+      "description": "Afacerea Mistral – un nou tun financiar",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1648A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79606&idl=1",
+      "registrationId": "1648A",
       "requestedResponseType": "în scris",
       "answers": []
     }

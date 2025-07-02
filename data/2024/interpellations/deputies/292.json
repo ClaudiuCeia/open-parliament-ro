@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T09:27:54.517Z",
+  "lastUpdated": "2025-07-02T18:29:09.958Z",
   "data": [
     {
       "idi": "77740",
@@ -619,9 +619,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1046A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78841&idl=1",
-      "registrationId": "1046A",
+      "registrationId": "1046A241423",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "241423",
+          "date": "2025-01-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nBogdan-Gruia Ivan\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1046A.pdf"
+        }
+      ]
     },
     {
       "idi": "78843",
@@ -854,6 +862,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1559A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79517&idl=1",
       "registrationId": "1559A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79596",
+      "title": "Întrebarea nr.1638A/02-07-2025",
+      "description": "Modernizarea și redresarea transportului feroviar de pasageri în zona Dunării de Jos",
+      "addressee": {
+        "idm": "292"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1638A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79596&idl=1",
+      "registrationId": "1638A",
       "requestedResponseType": "în scris",
       "answers": []
     }
