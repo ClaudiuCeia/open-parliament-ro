@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-02T00:23:39.309Z",
+  "lastUpdated": "2025-07-02T09:22:19.951Z",
   "data": [
     {
       "idi": "77573",
@@ -474,6 +474,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1484A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79442&idl=1",
       "registrationId": "1484A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79593",
+      "title": "Întrebarea nr.1635A/02-07-2025",
+      "description": "Solicitare informații privind legalitatea subînchirierii unor bunuri proprietate publică",
+      "addressee": {
+        "idm": "94"
+      },
+      "recipient": "Curtea de Conturi a României\nîn atenţia:\ndomnului\nMihai Busuioc\n- Presedinte",
+      "dates": {
+        "registration": "2025-02-07T00:00:00.000Z",
+        "presentation": "2025-02-07T00:00:00.000Z",
+        "communication": "2025-02-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1635A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79593&idl=1",
+      "registrationId": "1635A",
       "requestedResponseType": "în scris",
       "answers": []
     }
