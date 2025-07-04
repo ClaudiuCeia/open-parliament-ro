@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-04T00:30:45.323Z",
+  "lastUpdated": "2025-07-04T09:26:32.726Z",
   "data": [
     {
       "idi": "77472",
@@ -901,9 +901,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i955A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78748&idl=1",
-      "registrationId": "955A",
+      "registrationId": "955A8628",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "8628",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r955A.pdf"
+        }
+      ]
     },
     {
       "idi": "78749",
@@ -1281,9 +1289,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1379A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79289&idl=1",
-      "registrationId": "1379A",
+      "registrationId": "1379A43",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "43",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nDragoş Nicolae Pîslaru\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1379A.pdf"
+        }
+      ]
     },
     {
       "idi": "79454",
@@ -1344,9 +1360,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1655A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79613&idl=1",
-      "registrationId": "1655A",
+      "registrationId": "1655A8628",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "8628",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1655A.pdf"
+        }
+      ]
     }
   ]
 }

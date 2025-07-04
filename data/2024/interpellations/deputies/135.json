@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-04T00:26:54.614Z",
+  "lastUpdated": "2025-07-04T09:22:47.409Z",
   "data": [
     {
       "idi": "77823",
@@ -1167,9 +1167,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1278A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79188&idl=1",
-      "registrationId": "1278A",
+      "registrationId": "1278A161116",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161116",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1278A.pdf"
+        }
+      ]
     },
     {
       "idi": "79189",
@@ -1209,9 +1217,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1280A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79190&idl=1",
-      "registrationId": "1280A",
+      "registrationId": "1280A161116",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161116",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1280A.pdf"
+        }
+      ]
     },
     {
       "idi": "79143",
@@ -1611,9 +1627,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i463B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79375&idl=1",
-      "registrationId": "463B",
+      "registrationId": "463B142571",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "142571",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r463B.pdf"
+        }
+      ]
     },
     {
       "idi": "79376",

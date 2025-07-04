@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-04T00:28:53.728Z",
+  "lastUpdated": "2025-07-04T09:24:42.914Z",
   "data": [
     {
       "idi": "77828",
@@ -853,9 +853,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1358A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79268&idl=1",
-      "registrationId": "1358A",
+      "registrationId": "1358A31196",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "31196",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Energiei\ncomunicat de:\ndomnul\nPavel-Casian Niţulescu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1358A.pdf"
+        }
+      ]
     },
     {
       "idi": "79269",

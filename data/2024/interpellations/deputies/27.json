@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-04T00:23:27.395Z",
+  "lastUpdated": "2025-07-04T09:19:26.926Z",
   "data": [
     {
       "idi": "77593",
@@ -1537,9 +1537,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1261A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79108&idl=1",
-      "registrationId": "1261A",
+      "registrationId": "1261A161116",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161116",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1261A.pdf"
+        }
+      ]
     },
     {
       "idi": "79216",

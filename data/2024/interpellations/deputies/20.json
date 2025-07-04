@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-04T00:23:01.293Z",
+  "lastUpdated": "2025-07-04T09:19:01.374Z",
   "data": [
     {
       "idi": "78209",
@@ -279,9 +279,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1258A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79105&idl=1",
-      "registrationId": "1258A",
+      "registrationId": "1258A24775",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "24775",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nMircea Fechet\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1258A.pdf"
+        }
+      ]
     },
     {
       "idi": "79230",

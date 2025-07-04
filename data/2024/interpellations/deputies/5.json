@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-04T00:22:18.721Z",
+  "lastUpdated": "2025-07-04T09:18:20.719Z",
   "data": [
     {
       "idi": "77466",
@@ -1609,7 +1609,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1160A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79005&idl=1",
-      "registrationId": "1160A4782",
+      "registrationId": "1160A478214135",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -1618,6 +1618,13 @@
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1160A.pdf"
+        },
+        {
+          "registrationId": "14135",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nGabriel Predoi",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1160A.pdf"
         }
       ]
     },
@@ -1795,9 +1802,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1339A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79249&idl=1",
-      "registrationId": "1339A",
+      "registrationId": "1339A1139",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1139",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nEmilian-Horațiu Hurezeanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1339A.pdf"
+        }
+      ]
     },
     {
       "idi": "79275",
