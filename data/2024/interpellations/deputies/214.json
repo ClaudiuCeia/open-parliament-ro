@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-04T09:24:50.803Z",
+  "lastUpdated": "2025-07-04T18:24:55.335Z",
   "data": [
     {
       "idi": "77550",
@@ -581,6 +581,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1530A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79488&idl=1",
       "registrationId": "1530A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79624",
+      "title": "Întrebarea nr.1666A/04-07-2025",
+      "description": "Situația cererilor de transfer bugetar depuse de Consiliul Județean Iași",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-04-07T00:00:00.000Z",
+        "presentation": "2025-04-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1666A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79624&idl=1",
+      "registrationId": "1666A",
       "requestedResponseType": "în scris",
       "answers": []
     }

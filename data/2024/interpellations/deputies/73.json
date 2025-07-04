@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-04T09:20:28.031Z",
+  "lastUpdated": "2025-07-04T18:20:33.333Z",
   "data": [
     {
       "idi": "77664",
@@ -49,6 +49,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i275A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=77791&idl=1",
       "registrationId": "275A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79626",
+      "title": "Întrebarea nr.1668A/04-07-2025",
+      "description": "Reglementări antene 5G",
+      "addressee": {
+        "idm": "73"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-04-07T00:00:00.000Z",
+        "presentation": "2025-04-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1668A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79626&idl=1",
+      "registrationId": "1668A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79627",
+      "title": "Întrebarea nr.1669A/04-07-2025",
+      "description": "Reglementări antene 5G",
+      "addressee": {
+        "idm": "73"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-04-07T00:00:00.000Z",
+        "presentation": "2025-04-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1669A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79627&idl=1",
+      "registrationId": "1669A",
       "requestedResponseType": "în scris",
       "answers": []
     }

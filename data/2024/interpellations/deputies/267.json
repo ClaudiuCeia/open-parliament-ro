@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-04T09:26:37.939Z",
+  "lastUpdated": "2025-07-04T18:26:40.669Z",
   "data": [
     {
       "idi": "78193",
@@ -157,6 +157,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1564A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79522&idl=1",
       "registrationId": "1564A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79625",
+      "title": "Întrebarea nr.1667A/04-07-2025",
+      "description": "Asigurarea de sănătate a cetățenilor străini angajați legal în cadrul societăților comerciale",
+      "addressee": {
+        "idm": "267"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-04-07T00:00:00.000Z",
+        "presentation": "2025-04-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1667A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79625&idl=1",
+      "registrationId": "1667A",
       "requestedResponseType": "în scris",
       "answers": []
     }
