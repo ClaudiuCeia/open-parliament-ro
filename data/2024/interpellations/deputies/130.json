@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-07T09:24:17.027Z",
+  "lastUpdated": "2025-07-07T18:23:28.933Z",
   "data": [
     {
       "idi": "77739",
@@ -135,9 +135,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1372A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79282&idl=1",
-      "registrationId": "1372A",
+      "registrationId": "1372A161161",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161161",
+          "date": "2025-07-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1372A.pdf"
+        }
+      ]
     },
     {
       "idi": "79566",
@@ -157,6 +165,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1608A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79566&idl=1",
       "registrationId": "1608A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79633",
+      "title": "Întrebarea nr.1675A/07-07-2025",
+      "description": "Suspendarea programelor finanțate prin Administrația Fondului pentru Mediu",
+      "addressee": {
+        "idm": "130"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": "2025-07-07T00:00:00.000Z",
+        "presentation": "2025-07-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1675A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79633&idl=1",
+      "registrationId": "1675A",
       "requestedResponseType": "în scris",
       "answers": []
     }

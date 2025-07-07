@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-07-07T09:13:48.714Z",
+  "lastUpdated": "2025-07-07T18:12:29.235Z",
   "data": {
     "idp": "22310",
     "title": "Propunere legislativă pentru modificarea unor acte normative din domeniul pensiilor de serviciu",
@@ -13,8 +13,8 @@
     "type": "Propunere legislativa",
     "emergencyProcedure": true,
     "status": {
-      "short": "adoptata de catre Camera Deputatilor",
-      "long": "adoptata de catre Camera Deputatilor"
+      "short": "la Senat",
+      "long": "la Senat"
     },
     "initiators": [
       "59",

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-07T09:30:10.009Z",
+  "lastUpdated": "2025-07-07T18:29:27.104Z",
   "data": [
     {
       "idi": "77566",
@@ -902,9 +902,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1283A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79193&idl=1",
-      "registrationId": "1283A",
+      "registrationId": "1283A65",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "65",
+          "date": "2025-07-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Autoritatea pentru Digitalizarea României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1283A.pdf"
+        }
+      ]
     },
     {
       "idi": "79283",

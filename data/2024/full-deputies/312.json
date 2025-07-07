@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-07-07T09:19:18.470Z",
+  "lastUpdated": "2025-07-07T18:18:26.614Z",
   "data": {
     "idm": "312",
     "name": "Mihai-Adrian ŢIU",
@@ -32,8 +32,12 @@
         "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7746&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 40,
+        "count": 42,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=312&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Proiecte de hotarâre iniţiate": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=312&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
       },
       "Întrebari şi interpelări": {
         "count": 14,

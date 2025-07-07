@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-07T09:30:18.616Z",
+  "lastUpdated": "2025-07-07T18:29:36.289Z",
   "data": [
     {
       "idi": "78132",
@@ -743,9 +743,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1271A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79119&idl=1",
-      "registrationId": "1271A",
+      "registrationId": "1271A18052",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "18052",
+          "date": "2025-07-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1271A.pdf"
+        }
+      ]
     },
     {
       "idi": "79276",
@@ -920,6 +928,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1604A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79562&idl=1",
       "registrationId": "1604A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79628",
+      "title": "Întrebarea nr.1670A/07-07-2025",
+      "description": "Stadiul implementării Programului naţional de reabilitare şi/sau înfiinţare a infrastructurii principale de irigaţii şi infrastructurii de desecare şi drenaj",
+      "addressee": {
+        "idm": "311"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": "2025-07-07T00:00:00.000Z",
+        "presentation": "2025-07-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1670A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79628&idl=1",
+      "registrationId": "1670A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79629",
+      "title": "Întrebarea nr.1671A/07-07-2025",
+      "description": "Precizări privind operaționalizarea Sistemului National Integrat de Asistență Socială - SNIAS",
+      "addressee": {
+        "idm": "311"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": "2025-07-07T00:00:00.000Z",
+        "presentation": "2025-07-07T00:00:00.000Z",
+        "communication": "2025-07-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1671A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79629&idl=1",
+      "registrationId": "1671A",
       "requestedResponseType": "în scris",
       "answers": []
     }

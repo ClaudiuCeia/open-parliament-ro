@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-07T09:28:54.259Z",
+  "lastUpdated": "2025-07-07T18:28:10.713Z",
   "data": [
     {
       "idi": "77476",
@@ -786,9 +786,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i903A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78641&idl=1",
-      "registrationId": "903A",
+      "registrationId": "903A70",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "70",
+          "date": "2025-07-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndomnul\nÁkos Derzsi\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r903A.pdf"
+        }
+      ]
     },
     {
       "idi": "78642",
@@ -930,7 +938,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i981A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78774&idl=1",
-      "registrationId": "981A30374",
+      "registrationId": "981A30374160919",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -939,6 +947,13 @@
           "responseType": "în scris",
           "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r981A.pdf"
+        },
+        {
+          "registrationId": "160919",
+          "date": "2025-07-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r981A.pdf"
         }
       ]
     },

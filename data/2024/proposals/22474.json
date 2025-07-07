@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-07-07T09:14:41.910Z",
+  "lastUpdated": "2025-07-07T18:13:21.084Z",
   "data": {
     "idp": "22474",
     "title": "Proiect de Lege privind unele măsuri fiscal-bugetare",
@@ -12,8 +12,8 @@
     "type": "Proiect de Lege",
     "emergencyProcedure": false,
     "status": {
-      "short": "înregistrat la Camera Deputatilor",
-      "long": "înregistrat la Camera Deputatilor"
+      "short": "Guvernul si-a angajat raspunderea pentru proiectul de lege",
+      "long": "Guvernul si-a angajat raspunderea pentru proiectul de lege"
     },
     "initiators": [
       "GOVERNMENT"

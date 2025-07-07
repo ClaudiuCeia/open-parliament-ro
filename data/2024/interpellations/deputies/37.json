@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-07T09:21:17.799Z",
+  "lastUpdated": "2025-07-07T18:20:27.270Z",
   "data": [
     {
       "idi": "77548",
@@ -78,6 +78,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1469A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79427&idl=1",
       "registrationId": "1469A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79632",
+      "title": "Întrebarea nr.1674A/07-07-2025",
+      "description": "Disfuncționalități ale rețelei de telefonie mobilă din județul Caraș Severin",
+      "addressee": {
+        "idm": "37"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": "2025-07-07T00:00:00.000Z",
+        "presentation": "2025-07-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1674A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79632&idl=1",
+      "registrationId": "1674A",
       "requestedResponseType": "în scris",
       "answers": []
     }
