@@ -1,11 +1,12 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-07-08T09:14:00.424Z",
+  "lastUpdated": "2025-07-08T18:13:05.441Z",
   "data": {
     "idp": "22474",
     "title": "Proiect de Lege privind unele măsuri fiscal-bugetare",
     "registrationNumber": {
-      "bpi": "291/04-07-2025"
+      "bpi": "291/04-07-2025",
+      "senateChamber": "L200/2025"
     },
     "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
     "decidingChamber": "Camera Deputaţilor + Senatul",
