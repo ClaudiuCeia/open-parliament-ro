@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-09T00:31:06.750Z",
+  "lastUpdated": "2025-07-09T09:30:26.268Z",
   "data": [
     {
       "idi": "77665",
@@ -738,6 +738,48 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1015A.pdf"
         }
       ]
+    },
+    {
+      "idi": "79658",
+      "title": "Întrebarea nr.1700A/09-07-2025",
+      "description": "Solicitare privind trimiterea Corpului de Control al Prim-ministrului la Agenția Națională pentru Dezvoltarea Infrastructurii în Sănătate (ANDIS)",
+      "addressee": {
+        "idm": "314"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Gavril Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1700A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79658&idl=1",
+      "registrationId": "1700A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79659",
+      "title": "Întrebarea nr.1701A/09-07-2025",
+      "description": "Transparență și responsabilitate în implementarea spitalelor din PNRR – întrebări privind întârzieri, termene și finanțare",
+      "addressee": {
+        "idm": "314"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1701A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79659&idl=1",
+      "registrationId": "1701A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

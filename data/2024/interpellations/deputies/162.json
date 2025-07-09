@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-09T00:25:48.027Z",
+  "lastUpdated": "2025-07-09T09:24:57.586Z",
   "data": [
     {
       "idi": "77875",
@@ -172,6 +172,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1492A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79450&idl=1",
       "registrationId": "1492A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79639",
+      "title": "Întrebarea nr.1681A/07-07-2025",
+      "description": "Aplicarea Deciziei Curții Constituționale nr. 724/2024 și compensarea sumelor reținute neconstituțional din pensiile de serviciu",
+      "addressee": {
+        "idm": "162"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-07-07T00:00:00.000Z",
+        "presentation": "2025-07-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1681A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79639&idl=1",
+      "registrationId": "1681A",
       "requestedResponseType": "în scris",
       "answers": []
     }

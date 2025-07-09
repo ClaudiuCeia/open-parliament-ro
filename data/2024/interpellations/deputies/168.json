@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-09T00:26:05.576Z",
+  "lastUpdated": "2025-07-09T09:25:16.577Z",
   "data": [
     {
       "idi": "77500",
@@ -1607,6 +1607,132 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1645A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79603&idl=1",
       "registrationId": "1645A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79647",
+      "title": "Întrebarea nr.1689A/08-07-2025",
+      "description": "Situația accidentelor rutiere produse în primele 6 luni ale anului 2025",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-08-07T00:00:00.000Z",
+        "presentation": "2025-08-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1689A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79647&idl=1",
+      "registrationId": "1689A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79648",
+      "title": "Întrebarea nr.1690A/08-07-2025",
+      "description": "Situația concediilor medicale acordate în anul 2024",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-08-07T00:00:00.000Z",
+        "presentation": "2025-08-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1690A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79648&idl=1",
+      "registrationId": "1690A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79654",
+      "title": "Întrebarea nr.1696A/09-07-2025",
+      "description": "Centrele de permanență din mediul rural",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1696A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79654&idl=1",
+      "registrationId": "1696A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79655",
+      "title": "Întrebarea nr.1697A/09-07-2025",
+      "description": "Majorarea indemnizațiilor membrilor Consiliului de Administrație TAROM în contextul reducerilor bugetare",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Gavril Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1697A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79655&idl=1",
+      "registrationId": "1697A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79656",
+      "title": "Întrebarea nr.1698A/09-07-2025",
+      "description": "Clarificări privind impozitarea veniturilor din jocuri de noroc și plățile eșalonate către câștigători",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1698A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79656&idl=1",
+      "registrationId": "1698A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79657",
+      "title": "Întrebarea nr.1699A/09-07-2025",
+      "description": "Nerespectarea angajamentului privind creșterea impozitului pe veniturile din jocuri de noroc",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Gavril Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1699A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79657&idl=1",
+      "registrationId": "1699A",
       "requestedResponseType": "în scris",
       "answers": []
     }

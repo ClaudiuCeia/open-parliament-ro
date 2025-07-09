@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-09T00:28:05.543Z",
+  "lastUpdated": "2025-07-09T09:27:19.013Z",
   "data": [
     {
       "idi": "77542",
@@ -597,6 +597,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1584A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79542&idl=1",
       "registrationId": "1584A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79660",
+      "title": "Întrebarea nr.1702A/09-07-2025",
+      "description": "Stadiul lucrărilor de modernizare a Drumului Național 52 Alexandria – Turnu Măgurele",
+      "addressee": {
+        "idm": "236"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1702A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79660&idl=1",
+      "registrationId": "1702A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79661",
+      "title": "Întrebarea nr.1703A/09-07-2025",
+      "description": "Funcționarea Registrului Matricol Unic (RMUR), stadiul RUNIDAS și nevoia de acces direct al tinerilor la datele educaționale",
+      "addressee": {
+        "idm": "236"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1703A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79661&idl=1",
+      "registrationId": "1703A",
       "requestedResponseType": "în scris",
       "answers": []
     }
