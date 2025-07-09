@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-09T09:20:08.372Z",
+  "lastUpdated": "2025-07-09T18:19:12.824Z",
   "data": [
     {
       "idi": "77809",
@@ -575,9 +575,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1177A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79023&idl=1",
-      "registrationId": "1177A",
+      "registrationId": "1177A266285",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266285",
+          "date": "2025-08-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1177A.pdf"
+        }
+      ]
     },
     {
       "idi": "79125",
@@ -646,9 +654,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1413A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79323&idl=1",
-      "registrationId": "1413A",
+      "registrationId": "1413A31258",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "31258",
+          "date": "2025-08-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Energiei\ncomunicat de:\ndomnul\nPavel-Casian Niţulescu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1413A.pdf"
+        }
+      ]
     },
     {
       "idi": "79425",

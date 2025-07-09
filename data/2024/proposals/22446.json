@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-07-09T09:14:44.361Z",
+  "lastUpdated": "2025-07-09T18:13:41.301Z",
   "data": {
     "idp": "22446",
     "title": "Proiect de Lege privind abilitarea Guvernului de a emite ordonanţe",
@@ -13,8 +13,8 @@
     "type": "Proiect de Lege",
     "emergencyProcedure": true,
     "status": {
-      "short": "lege trimisa la promulgare",
-      "long": "lege trimisa la promulgare"
+      "short": "Sesizare de neconstitutionalitate",
+      "long": "Sesizare de neconstitutionalitate"
     },
     "initiators": [
       "GOVERNMENT"

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-09T09:27:44.814Z",
+  "lastUpdated": "2025-07-09T18:26:51.137Z",
   "data": [
     {
       "idi": "77464",
@@ -244,6 +244,69 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1460A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79418&idl=1",
       "registrationId": "1460A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79669",
+      "title": "Întrebarea nr.1712A/09-07-2025",
+      "description": "Informaţii referitoare la taberele de vara pentru copii",
+      "addressee": {
+        "idm": "247"
+      },
+      "recipient": "Ministerul Familiei, Tineretului și Egalității de șanse\nîn atenţia:\ndomnului\nPetre-Florin Manole\n- Ministru",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1712A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79669&idl=1",
+      "registrationId": "1712A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79670",
+      "title": "Întrebarea nr.1713A/09-07-2025",
+      "description": "Solicitare informații privind măsurile ce se impun în urma apariției unui focar de variolă ovină la o fermă din Plovdiv, Bulgaria",
+      "addressee": {
+        "idm": "247"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1713A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79670&idl=1",
+      "registrationId": "1713A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79671",
+      "title": "Întrebarea nr.1714A/09-07-2025",
+      "description": "Solicitare privind incidentele rutiere și sancțiunile aplicate conducătorilor de trotinete electrice",
+      "addressee": {
+        "idm": "247"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1714A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79671&idl=1",
+      "registrationId": "1714A",
       "requestedResponseType": "în scris",
       "answers": []
     }

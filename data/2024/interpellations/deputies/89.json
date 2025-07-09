@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-09T09:23:17.076Z",
+  "lastUpdated": "2025-07-09T18:22:21.993Z",
   "data": [
     {
       "idi": "77601",
@@ -3136,9 +3136,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1422A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79332&idl=1",
-      "registrationId": "1422A",
+      "registrationId": "1422A266409",
       "requestedResponseType": "în scris şi oral",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266409",
+          "date": "2025-08-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1422A.pdf"
+        }
+      ]
     },
     {
       "idi": "79333",

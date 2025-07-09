@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-09T09:29:07.880Z",
+  "lastUpdated": "2025-07-09T18:28:14.519Z",
   "data": [
     {
       "idi": "77576",
@@ -598,9 +598,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1485A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79443&idl=1",
-      "registrationId": "1485A",
+      "registrationId": "1485A1394",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1394",
+          "date": "2025-08-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională pentru Restituirea Proprietăţilor",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1485A.pdf"
+        }
+      ]
     },
     {
       "idi": "79523",
@@ -683,6 +691,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1610A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79568&idl=1",
       "registrationId": "1610A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79672",
+      "title": "Întrebarea nr.1715A/09-07-2025",
+      "description": "Problema certificatelor digitale de căsătorie, de naștere și deces",
+      "addressee": {
+        "idm": "291"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-09-07T00:00:00.000Z",
+        "presentation": "2025-09-07T00:00:00.000Z",
+        "communication": "2025-09-07T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1715A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79672&idl=1",
+      "registrationId": "1715A",
       "requestedResponseType": "în scris",
       "answers": []
     }
