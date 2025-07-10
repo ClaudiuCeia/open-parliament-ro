@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-10T09:21:04.990Z",
+  "lastUpdated": "2025-07-10T18:19:36.690Z",
   "data": [
     {
       "idi": "77546",
@@ -293,9 +293,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1198A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79044&idl=1",
-      "registrationId": "1198A",
+      "registrationId": "1198A23223",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "23223",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndoamna\nDiana-Anda Buzoianu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1198A.pdf"
+        }
+      ]
     },
     {
       "idi": "79045",
@@ -364,9 +372,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i458B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79370&idl=1",
-      "registrationId": "458B",
+      "registrationId": "458B10454",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10454",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r458B.pdf"
+        }
+      ]
     },
     {
       "idi": "79428",

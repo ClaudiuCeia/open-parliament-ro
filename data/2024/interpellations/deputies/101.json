@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-10T09:24:52.268Z",
+  "lastUpdated": "2025-07-10T18:22:58.199Z",
   "data": [
     {
       "idi": "77602",
@@ -596,7 +596,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i435B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79180&idl=1",
-      "registrationId": "435B4775",
+      "registrationId": "435B477537907",
       "requestedResponseType": "în scris şi oral",
       "answers": [
         {
@@ -605,6 +605,13 @@
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r435B.pdf"
+        },
+        {
+          "registrationId": "37907",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r435B.pdf"
         }
       ]
     },
@@ -625,9 +632,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i470B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79382&idl=1",
-      "registrationId": "470B",
+      "registrationId": "470B26343",
       "requestedResponseType": "în scris şi oral",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "26343",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndoamna\nDiana-Anda Buzoianu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r470B.pdf"
+        }
+      ]
     }
   ]
 }

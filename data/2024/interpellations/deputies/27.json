@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-10T09:22:04.981Z",
+  "lastUpdated": "2025-07-10T18:20:29.141Z",
   "data": [
     {
       "idi": "77593",
@@ -1445,9 +1445,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1164A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79010&idl=1",
-      "registrationId": "1164A",
+      "registrationId": "1164A10250",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10250",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1164A.pdf"
+        }
+      ]
     },
     {
       "idi": "79011",
@@ -1516,9 +1524,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1260A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79107&idl=1",
-      "registrationId": "1260A",
+      "registrationId": "1260A24745",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "24745",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndoamna\nDiana-Anda Buzoianu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1260A.pdf"
+        }
+      ]
     },
     {
       "idi": "79108",
@@ -1595,9 +1611,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1360A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79270&idl=1",
-      "registrationId": "1360A",
+      "registrationId": "1360A11133",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11133",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1360A.pdf"
+        }
+      ]
     },
     {
       "idi": "79271",

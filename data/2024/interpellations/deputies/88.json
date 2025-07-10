@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-10T09:23:56.898Z",
+  "lastUpdated": "2025-07-10T18:22:09.445Z",
   "data": [
     {
       "idi": "79260",
@@ -69,9 +69,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i448B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79360&idl=1",
-      "registrationId": "448B",
+      "registrationId": "448B142",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "142",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Investițiilor si Proiectelor Europene",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r448B.pdf"
+        }
+      ]
     },
     {
       "idi": "79558",

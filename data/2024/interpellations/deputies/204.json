@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-10T09:27:31.198Z",
+  "lastUpdated": "2025-07-10T18:25:22.314Z",
   "data": [
     {
       "idi": "77811",
@@ -699,9 +699,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1298A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79208&idl=1",
-      "registrationId": "1298A",
+      "registrationId": "1298A24745",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "24745",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndoamna\nDiana-Anda Buzoianu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1298A.pdf"
+        }
+      ]
     },
     {
       "idi": "79324",

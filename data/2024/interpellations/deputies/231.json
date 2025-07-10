@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-10T09:28:47.529Z",
+  "lastUpdated": "2025-07-10T18:26:30.235Z",
   "data": [
     {
       "idi": "77607",
@@ -301,9 +301,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i412B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79157&idl=1",
-      "registrationId": "412B",
+      "registrationId": "412B24748",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "24748",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndoamna\nDiana-Anda Buzoianu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r412B.pdf"
+        }
+      ]
     },
     {
       "idi": "79361",
@@ -364,9 +372,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i468B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79380&idl=1",
-      "registrationId": "468B",
+      "registrationId": "468B163",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "163",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r468B.pdf"
+        }
+      ]
     }
   ]
 }

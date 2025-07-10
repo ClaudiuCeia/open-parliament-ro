@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-10T09:20:47.272Z",
+  "lastUpdated": "2025-07-10T18:19:20.697Z",
   "data": [
     {
       "idi": "77466",
@@ -1402,7 +1402,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1053A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78848&idl=1",
-      "registrationId": "1053A46344783",
+      "registrationId": "1053A4634478321964",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -1418,6 +1418,13 @@
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/2r1053A.pdf"
+        },
+        {
+          "registrationId": "21964",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndoamna\nDiana-Anda Buzoianu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/3r1053A.pdf"
         }
       ]
     },
@@ -1588,9 +1595,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1159A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79004&idl=1",
-      "registrationId": "1159A",
+      "registrationId": "1159A23223",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "23223",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndoamna\nDiana-Anda Buzoianu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1159A.pdf"
+        }
+      ]
     },
     {
       "idi": "79005",
@@ -1731,9 +1746,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1336A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79246&idl=1",
-      "registrationId": "1336A",
+      "registrationId": "1336A149611",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "149611",
+          "date": "2025-10-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1336A.pdf"
+        }
+      ]
     },
     {
       "idi": "79247",
