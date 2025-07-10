@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-09T18:03:10.875Z",
+  "lastUpdated": "2025-07-10T00:05:23.681Z",
   "data": [
     {
       "ids": "8905",
@@ -41,6 +41,11 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8903&idl=1",
       "transcripts": [
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=3&sir=&sep=and&idv=7659&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind instituirea anului 2026 ca Anul Nadia Comăneci (PL-x 153/2025) (rămas pentru votul final)."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1&sir=&sep=and&idv=7659&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
@@ -49,11 +54,6 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1,011&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1,011&sir=&sep=and&idv=7659&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Nini-Alexandru Pascalini - declaraţie politică despre \"Trădarea şi mascarada politică\";"
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=3&sir=&sep=and&idv=7659&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind instituirea anului 2026 ca Anul Nadia Comăneci (PL-x 153/2025) (rămas pentru votul final)."
         }
       ]
     },
@@ -66,9 +66,19 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8886&idl=1",
       "transcripts": [
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=5&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=5&sir=&sep=and&idv=7659&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 206/2020 pentru prorogarea termenului prevăzut la art. 22 alin. (1) din Legea nr. 118/2019 privind Registrul naţional automatizat cu privire la persoanele care au comis infracţiuni sexuale, de exploatare a unor persoane sau asupra minorilor, precum şi pentru completarea Legii nr. 76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare şi pentru stabilirea unor măsuri organizatorice de punere în aplicare a prevederilor acesteia (PL-x 85/2021) (rămas pentru votul final)."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=11&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=11&sir=&sep=and&idv=7659&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Supunerea la votul final a:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=11,007&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=11,007&sir=&sep=and&idv=7659&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Propunerii legislative pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii (Pl-x 258/2019) (adoptată);"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=11,004&idl=1",
@@ -86,11 +96,6 @@
           "description": "Nini-Alexandru Pascalini - declaraţie politică având subiectul \"Se demontează Eminescu, se evacuează bisericile. Ce le mai rămâne românilor din nordul Bucovinei? De la fake news la violenţe reale\";"
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=5&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=5&sir=&sep=and&idv=7659&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 206/2020 pentru prorogarea termenului prevăzut la art. 22 alin. (1) din Legea nr. 118/2019 privind Registrul naţional automatizat cu privire la persoanele care au comis infracţiuni sexuale, de exploatare a unor persoane sau asupra minorilor, precum şi pentru completarea Legii nr. 76/2008 privind organizarea şi funcţionarea Sistemului Naţional de Date Genetice Judiciare şi pentru stabilirea unor măsuri organizatorice de punere în aplicare a prevederilor acesteia (PL-x 85/2021) (rămas pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=11&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=11&sir=&sep=and&idv=7659&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Supunerea la votul final a:"
@@ -99,11 +104,6 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=11,005&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=11,005&sir=&sep=and&idv=7659&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 165/2020 privind mandatul acordat ministerelor pentru identificarea, selectarea şi rezervarea imobilelor destinate ca sedii ale unor agenţii sau centre europene nou înfiinţate (PL-x 9/2021) (adoptat);"
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=11,007&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=11,007&sir=&sep=and&idv=7659&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7659%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=07-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Propunerii legislative pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii (Pl-x 258/2019) (adoptată);"
         }
       ]
     },
