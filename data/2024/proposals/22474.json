@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-07-16T00:17:46.275Z",
+  "lastUpdated": "2025-07-16T09:17:51.318Z",
   "data": {
     "idp": "22474",
     "title": "Proiect de Lege privind unele măsuri fiscal-bugetare",
@@ -13,8 +13,8 @@
     "type": "Proiect de Lege",
     "emergencyProcedure": false,
     "status": {
-      "short": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala",
-      "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
+      "short": "lege trimisa la promulgare",
+      "long": "lege trimisa la promulgare"
     },
     "initiators": [
       "GOVERNMENT"
