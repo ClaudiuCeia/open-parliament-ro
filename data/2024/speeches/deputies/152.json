@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-19T09:02:30.699Z",
+  "lastUpdated": "2025-07-19T15:02:43.999Z",
   "data": [
     {
       "ids": "8909",
@@ -31,14 +31,14 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8908&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=3&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Informare privind excluderea din cadrul Grupului parlamentar SOS România a doamnelor deputat Rodica Plopeanu, Mariana Vârgă şi a domnului deputat Mădălin-Laurenţiu Făget, şi activarea lor ca deputaţi neafiliaţi."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Alegerea preşedintelui Camerei Deputaţilor (PHCD 49/2025) (vot secret cu buletine de vot)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=3&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Informare privind excluderea din cadrul Grupului parlamentar SOS România a doamnelor deputat Rodica Plopeanu, Mariana Vârgă şi a domnului deputat Mădălin-Laurenţiu Făget, şi activarea lor ca deputaţi neafiliaţi."
         }
       ]
     },
@@ -126,6 +126,11 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8900&idl=1",
       "transcripts": [
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=4&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=4&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Intervenţii din partea grupurilor parlamentare pentru marcarea Zilei Tratatului de la Trianon."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=1&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
@@ -134,11 +139,6 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=1,023&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=1,023&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică având titlul \"La mulţi ani, copii ai României, născuţi în ţară sau în afara graniţelor!\";"
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=4&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Intervenţii din partea grupurilor parlamentare pentru marcarea Zilei Tratatului de la Trianon."
         }
       ]
     },
@@ -331,14 +331,14 @@
           "description": "Prezentarea, pe scurt, a interpelărilor adresate membrilor Guvernului."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,009&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,009&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Tudor Ionescu"
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,007&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,007&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Andrei George Plujar"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,009&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,009&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Tudor Ionescu"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=6&idl=1",
