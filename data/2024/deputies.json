@@ -1,6 +1,6 @@
 {
   "version": "0.0.2",
-  "lastUpdated": "2025-07-25T06:02:56.063Z",
+  "lastUpdated": "2025-07-26T09:14:10.907Z",
   "data": [
     {
       "idm": "1",
@@ -16,7 +16,7 @@
         "name": "TELEORMAN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
       },
-      "lastUpdated": "2025-07-25T06:01:36.941Z"
+      "lastUpdated": "2025-07-26T09:12:52.011Z"
     },
     {
       "idm": "3",
@@ -32,7 +32,7 @@
         "name": "Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=43"
       },
-      "lastUpdated": "2025-07-25T06:01:37.665Z"
+      "lastUpdated": "2025-07-26T09:12:52.709Z"
     },
     {
       "idm": "4",
@@ -48,7 +48,7 @@
         "name": "BUZĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
       },
-      "lastUpdated": "2025-07-25T06:01:38.433Z"
+      "lastUpdated": "2025-07-26T09:12:53.480Z"
     },
     {
       "idm": "5",
@@ -64,7 +64,7 @@
         "name": "BACĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
       },
-      "lastUpdated": "2025-07-25T06:01:38.870Z"
+      "lastUpdated": "2025-07-26T09:12:53.901Z"
     },
     {
       "idm": "6",
@@ -75,7 +75,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:01:39.336Z"
+      "lastUpdated": "2025-07-26T09:12:54.411Z"
     },
     {
       "idm": "7",
@@ -91,7 +91,7 @@
         "name": "GIURGIU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=19"
       },
-      "lastUpdated": "2025-07-25T06:01:40.075Z"
+      "lastUpdated": "2025-07-26T09:12:55.182Z"
     },
     {
       "idm": "8",
@@ -107,7 +107,7 @@
         "name": "VASLUI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=38"
       },
-      "lastUpdated": "2025-07-25T06:01:40.500Z"
+      "lastUpdated": "2025-07-26T09:12:55.608Z"
     },
     {
       "idm": "9",
@@ -123,7 +123,7 @@
         "name": "BRAŞOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
       },
-      "lastUpdated": "2025-07-25T06:01:40.930Z"
+      "lastUpdated": "2025-07-26T09:12:56.019Z"
     },
     {
       "idm": "10",
@@ -139,7 +139,7 @@
         "name": "DÂMBOVIŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
       },
-      "lastUpdated": "2025-07-25T06:01:41.366Z"
+      "lastUpdated": "2025-07-26T09:12:56.428Z"
     },
     {
       "idm": "11",
@@ -155,7 +155,7 @@
         "name": "ARAD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
       },
-      "lastUpdated": "2025-07-25T06:01:42.144Z"
+      "lastUpdated": "2025-07-26T09:12:57.250Z"
     },
     {
       "idm": "12",
@@ -171,7 +171,7 @@
         "name": "BUCUREŞTI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=41"
       },
-      "lastUpdated": "2025-07-25T06:01:42.560Z"
+      "lastUpdated": "2025-07-26T09:12:57.667Z"
     },
     {
       "idm": "13",
@@ -187,7 +187,7 @@
         "name": "SATU-MARE",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
       },
-      "lastUpdated": "2025-07-25T06:01:42.984Z"
+      "lastUpdated": "2025-07-26T09:12:58.076Z"
     },
     {
       "idm": "14",
@@ -203,7 +203,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:01:43.392Z"
+      "lastUpdated": "2025-07-26T09:12:58.490Z"
     },
     {
       "idm": "15",
@@ -219,7 +219,7 @@
         "name": "TIMIŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
       },
-      "lastUpdated": "2025-07-25T06:01:43.802Z"
+      "lastUpdated": "2025-07-26T09:12:58.902Z"
     },
     {
       "idm": "16",
@@ -235,7 +235,7 @@
         "name": "BUCUREŞTI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=41"
       },
-      "lastUpdated": "2025-07-25T06:01:44.007Z"
+      "lastUpdated": "2025-07-26T09:12:59.106Z"
     },
     {
       "idm": "17",
@@ -251,7 +251,7 @@
         "name": "TELEORMAN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
       },
-      "lastUpdated": "2025-07-25T06:01:44.212Z"
+      "lastUpdated": "2025-07-26T09:12:59.310Z"
     },
     {
       "idm": "18",
@@ -267,7 +267,7 @@
         "name": "ALBA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=1"
       },
-      "lastUpdated": "2025-07-25T06:01:44.629Z"
+      "lastUpdated": "2025-07-26T09:12:59.720Z"
     },
     {
       "idm": "19",
@@ -283,7 +283,7 @@
         "name": "PRAHOVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
       },
-      "lastUpdated": "2025-07-25T06:01:45.045Z"
+      "lastUpdated": "2025-07-26T09:13:00.131Z"
     },
     {
       "idm": "20",
@@ -299,7 +299,7 @@
         "name": "HUNEDOARA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
       },
-      "lastUpdated": "2025-07-25T06:01:45.454Z"
+      "lastUpdated": "2025-07-26T09:13:00.546Z"
     },
     {
       "idm": "21",
@@ -315,7 +315,7 @@
         "name": "TULCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
       },
-      "lastUpdated": "2025-07-25T06:01:46.158Z"
+      "lastUpdated": "2025-07-26T09:13:01.233Z"
     },
     {
       "idm": "22",
@@ -331,7 +331,7 @@
         "name": "TELEORMAN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
       },
-      "lastUpdated": "2025-07-25T06:01:46.363Z"
+      "lastUpdated": "2025-07-26T09:13:01.438Z"
     },
     {
       "idm": "23",
@@ -347,7 +347,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:01:46.567Z"
+      "lastUpdated": "2025-07-26T09:13:01.641Z"
     },
     {
       "idm": "24",
@@ -363,7 +363,7 @@
         "name": "TELEORMAN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
       },
-      "lastUpdated": "2025-07-25T06:01:46.774Z"
+      "lastUpdated": "2025-07-26T09:13:01.845Z"
     },
     {
       "idm": "25",
@@ -379,7 +379,7 @@
         "name": "HARGHITA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=21"
       },
-      "lastUpdated": "2025-07-25T06:01:47.483Z"
+      "lastUpdated": "2025-07-26T09:13:02.554Z"
     },
     {
       "idm": "26",
@@ -395,7 +395,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:01:47.896Z"
+      "lastUpdated": "2025-07-26T09:13:02.972Z"
     },
     {
       "idm": "27",
@@ -411,7 +411,7 @@
         "name": "NEAMŢ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
       },
-      "lastUpdated": "2025-07-25T06:01:48.313Z"
+      "lastUpdated": "2025-07-26T09:13:03.391Z"
     },
     {
       "idm": "28",
@@ -427,7 +427,7 @@
         "name": "BIHOR",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
       },
-      "lastUpdated": "2025-07-25T06:01:48.734Z"
+      "lastUpdated": "2025-07-26T09:13:03.811Z"
     },
     {
       "idm": "29",
@@ -443,7 +443,7 @@
         "name": "DÂMBOVIŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
       },
-      "lastUpdated": "2025-07-25T06:01:48.936Z"
+      "lastUpdated": "2025-07-26T09:13:04.016Z"
     },
     {
       "idm": "30",
@@ -459,7 +459,7 @@
         "name": "SIBIU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=33"
       },
-      "lastUpdated": "2025-07-25T06:01:49.355Z"
+      "lastUpdated": "2025-07-26T09:13:04.433Z"
     },
     {
       "idm": "31",
@@ -475,7 +475,7 @@
         "name": "MEHEDINŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
       },
-      "lastUpdated": "2025-07-25T06:01:49.779Z"
+      "lastUpdated": "2025-07-26T09:13:04.850Z"
     },
     {
       "idm": "32",
@@ -491,7 +491,7 @@
         "name": "BACĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
       },
-      "lastUpdated": "2025-07-25T06:01:49.984Z"
+      "lastUpdated": "2025-07-26T09:13:05.054Z"
     },
     {
       "idm": "33",
@@ -507,7 +507,7 @@
         "name": "GALAŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
       },
-      "lastUpdated": "2025-07-25T06:01:50.417Z"
+      "lastUpdated": "2025-07-26T09:13:05.473Z"
     },
     {
       "idm": "34",
@@ -523,7 +523,7 @@
         "name": "TIMIŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
       },
-      "lastUpdated": "2025-07-25T06:01:50.621Z"
+      "lastUpdated": "2025-07-26T09:13:05.678Z"
     },
     {
       "idm": "35",
@@ -539,7 +539,7 @@
         "name": "BISTRIŢA-NĂSĂUD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=6"
       },
-      "lastUpdated": "2025-07-25T06:01:51.039Z"
+      "lastUpdated": "2025-07-26T09:13:06.104Z"
     },
     {
       "idm": "36",
@@ -555,7 +555,7 @@
         "name": "VÂLCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
       },
-      "lastUpdated": "2025-07-25T06:01:51.465Z"
+      "lastUpdated": "2025-07-26T09:13:06.518Z"
     },
     {
       "idm": "37",
@@ -566,7 +566,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:01:51.670Z"
+      "lastUpdated": "2025-07-26T09:13:06.721Z"
     },
     {
       "idm": "38",
@@ -582,7 +582,7 @@
         "name": "CLUJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
       },
-      "lastUpdated": "2025-07-25T06:01:52.090Z"
+      "lastUpdated": "2025-07-26T09:13:07.136Z"
     },
     {
       "idm": "39",
@@ -598,7 +598,7 @@
         "name": "BRAŞOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
       },
-      "lastUpdated": "2025-07-25T06:01:52.292Z"
+      "lastUpdated": "2025-07-26T09:13:07.340Z"
     },
     {
       "idm": "40",
@@ -614,7 +614,7 @@
         "name": "ARGEŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
       },
-      "lastUpdated": "2025-07-25T06:01:52.710Z"
+      "lastUpdated": "2025-07-26T09:13:07.757Z"
     },
     {
       "idm": "41",
@@ -630,7 +630,7 @@
         "name": "BACĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
       },
-      "lastUpdated": "2025-07-25T06:01:52.914Z"
+      "lastUpdated": "2025-07-26T09:13:07.962Z"
     },
     {
       "idm": "42",
@@ -646,7 +646,7 @@
         "name": "BOTOŞANI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
       },
-      "lastUpdated": "2025-07-25T06:01:53.339Z"
+      "lastUpdated": "2025-07-26T09:13:08.387Z"
     },
     {
       "idm": "43",
@@ -662,7 +662,7 @@
         "name": "VRANCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
       },
-      "lastUpdated": "2025-07-25T06:01:53.773Z"
+      "lastUpdated": "2025-07-26T09:13:08.795Z"
     },
     {
       "idm": "44",
@@ -678,7 +678,7 @@
         "name": "OLT",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
       },
-      "lastUpdated": "2025-07-25T06:01:54.194Z"
+      "lastUpdated": "2025-07-26T09:13:09.206Z"
     },
     {
       "idm": "45",
@@ -694,7 +694,7 @@
         "name": "SATU-MARE",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
       },
-      "lastUpdated": "2025-07-25T06:01:54.397Z"
+      "lastUpdated": "2025-07-26T09:13:09.410Z"
     },
     {
       "idm": "46",
@@ -710,7 +710,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:01:54.600Z"
+      "lastUpdated": "2025-07-26T09:13:09.613Z"
     },
     {
       "idm": "47",
@@ -726,7 +726,7 @@
         "name": "ARGEŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
       },
-      "lastUpdated": "2025-07-25T06:01:54.804Z"
+      "lastUpdated": "2025-07-26T09:13:09.816Z"
     },
     {
       "idm": "48",
@@ -742,7 +742,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:01:55.007Z"
+      "lastUpdated": "2025-07-26T09:13:10.019Z"
     },
     {
       "idm": "49",
@@ -758,7 +758,7 @@
         "name": "ARAD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
       },
-      "lastUpdated": "2025-07-25T06:01:55.211Z"
+      "lastUpdated": "2025-07-26T09:13:10.222Z"
     },
     {
       "idm": "50",
@@ -774,7 +774,7 @@
         "name": "IALOMIŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=23"
       },
-      "lastUpdated": "2025-07-25T06:01:55.618Z"
+      "lastUpdated": "2025-07-26T09:13:10.634Z"
     },
     {
       "idm": "51",
@@ -790,7 +790,7 @@
         "name": "DOLJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
       },
-      "lastUpdated": "2025-07-25T06:01:56.027Z"
+      "lastUpdated": "2025-07-26T09:13:11.044Z"
     },
     {
       "idm": "52",
@@ -806,7 +806,7 @@
         "name": "CONSTANŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
       },
-      "lastUpdated": "2025-07-25T06:01:56.723Z"
+      "lastUpdated": "2025-07-26T09:13:11.725Z"
     },
     {
       "idm": "53",
@@ -822,7 +822,7 @@
         "name": "MEHEDINŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
       },
-      "lastUpdated": "2025-07-25T06:01:56.928Z"
+      "lastUpdated": "2025-07-26T09:13:11.929Z"
     },
     {
       "idm": "54",
@@ -838,7 +838,7 @@
         "name": "MUREŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=27"
       },
-      "lastUpdated": "2025-07-25T06:01:57.339Z"
+      "lastUpdated": "2025-07-26T09:13:12.348Z"
     },
     {
       "idm": "55",
@@ -854,7 +854,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:01:57.547Z"
+      "lastUpdated": "2025-07-26T09:13:12.552Z"
     },
     {
       "idm": "56",
@@ -870,7 +870,7 @@
         "name": "OLT",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
       },
-      "lastUpdated": "2025-07-25T06:01:57.751Z"
+      "lastUpdated": "2025-07-26T09:13:12.755Z"
     },
     {
       "idm": "57",
@@ -886,7 +886,7 @@
         "name": "BUCUREŞTI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=41"
       },
-      "lastUpdated": "2025-07-25T06:01:57.956Z"
+      "lastUpdated": "2025-07-26T09:13:12.959Z"
     },
     {
       "idm": "58",
@@ -902,7 +902,7 @@
         "name": "BRĂILA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=9"
       },
-      "lastUpdated": "2025-07-25T06:01:58.369Z"
+      "lastUpdated": "2025-07-26T09:13:13.373Z"
     },
     {
       "idm": "59",
@@ -918,7 +918,7 @@
         "name": "BUZĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
       },
-      "lastUpdated": "2025-07-25T06:01:58.581Z"
+      "lastUpdated": "2025-07-26T09:13:13.577Z"
     },
     {
       "idm": "60",
@@ -934,7 +934,7 @@
         "name": "MEHEDINŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
       },
-      "lastUpdated": "2025-07-25T06:01:58.783Z"
+      "lastUpdated": "2025-07-26T09:13:13.780Z"
     },
     {
       "idm": "61",
@@ -950,7 +950,7 @@
         "name": "CLUJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
       },
-      "lastUpdated": "2025-07-25T06:01:58.989Z"
+      "lastUpdated": "2025-07-26T09:13:13.983Z"
     },
     {
       "idm": "62",
@@ -966,7 +966,7 @@
         "name": "OLT",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
       },
-      "lastUpdated": "2025-07-25T06:01:59.192Z"
+      "lastUpdated": "2025-07-26T09:13:14.187Z"
     },
     {
       "idm": "63",
@@ -982,7 +982,7 @@
         "name": "GALAŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
       },
-      "lastUpdated": "2025-07-25T06:01:59.394Z"
+      "lastUpdated": "2025-07-26T09:13:14.391Z"
     },
     {
       "idm": "64",
@@ -998,7 +998,7 @@
         "name": "SIBIU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=33"
       },
-      "lastUpdated": "2025-07-25T06:01:59.600Z"
+      "lastUpdated": "2025-07-26T09:13:14.594Z"
     },
     {
       "idm": "65",
@@ -1014,7 +1014,7 @@
         "name": "BIHOR",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
       },
-      "lastUpdated": "2025-07-25T06:01:59.807Z"
+      "lastUpdated": "2025-07-26T09:13:14.797Z"
     },
     {
       "idm": "66",
@@ -1030,7 +1030,7 @@
         "name": "CLUJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
       },
-      "lastUpdated": "2025-07-25T06:02:00.011Z"
+      "lastUpdated": "2025-07-26T09:13:14.999Z"
     },
     {
       "idm": "67",
@@ -1046,7 +1046,7 @@
         "name": "Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=43"
       },
-      "lastUpdated": "2025-07-25T06:02:00.216Z"
+      "lastUpdated": "2025-07-26T09:13:15.201Z"
     },
     {
       "idm": "68",
@@ -1062,7 +1062,7 @@
         "name": "BRĂILA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=9"
       },
-      "lastUpdated": "2025-07-25T06:02:00.420Z"
+      "lastUpdated": "2025-07-26T09:13:15.404Z"
     },
     {
       "idm": "69",
@@ -1078,7 +1078,7 @@
         "name": "BOTOŞANI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
       },
-      "lastUpdated": "2025-07-25T06:02:00.630Z"
+      "lastUpdated": "2025-07-26T09:13:15.606Z"
     },
     {
       "idm": "70",
@@ -1094,7 +1094,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:00.834Z"
+      "lastUpdated": "2025-07-26T09:13:15.809Z"
     },
     {
       "idm": "71",
@@ -1110,7 +1110,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:01.039Z"
+      "lastUpdated": "2025-07-26T09:13:16.013Z"
     },
     {
       "idm": "72",
@@ -1126,7 +1126,7 @@
         "name": "CLUJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
       },
-      "lastUpdated": "2025-07-25T06:02:01.244Z"
+      "lastUpdated": "2025-07-26T09:13:16.216Z"
     },
     {
       "idm": "73",
@@ -1142,7 +1142,7 @@
         "name": "BRAŞOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
       },
-      "lastUpdated": "2025-07-25T06:02:01.448Z"
+      "lastUpdated": "2025-07-26T09:13:16.419Z"
     },
     {
       "idm": "74",
@@ -1158,7 +1158,7 @@
         "name": "CĂLĂRAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=12"
       },
-      "lastUpdated": "2025-07-25T06:02:01.860Z"
+      "lastUpdated": "2025-07-26T09:13:16.829Z"
     },
     {
       "idm": "75",
@@ -1174,7 +1174,7 @@
         "name": "BRĂILA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=9"
       },
-      "lastUpdated": "2025-07-25T06:02:02.064Z"
+      "lastUpdated": "2025-07-26T09:13:17.032Z"
     },
     {
       "idm": "76",
@@ -1190,7 +1190,7 @@
         "name": "VASLUI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=38"
       },
-      "lastUpdated": "2025-07-25T06:02:02.268Z"
+      "lastUpdated": "2025-07-26T09:13:17.234Z"
     },
     {
       "idm": "77",
@@ -1206,7 +1206,7 @@
         "name": "TULCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
       },
-      "lastUpdated": "2025-07-25T06:02:02.472Z"
+      "lastUpdated": "2025-07-26T09:13:17.437Z"
     },
     {
       "idm": "78",
@@ -1222,7 +1222,7 @@
         "name": "GIURGIU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=19"
       },
-      "lastUpdated": "2025-07-25T06:02:02.677Z"
+      "lastUpdated": "2025-07-26T09:13:17.642Z"
     },
     {
       "idm": "79",
@@ -1238,7 +1238,7 @@
         "name": "DÂMBOVIŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
       },
-      "lastUpdated": "2025-07-25T06:02:02.880Z"
+      "lastUpdated": "2025-07-26T09:13:17.845Z"
     },
     {
       "idm": "80",
@@ -1254,7 +1254,7 @@
         "name": "OLT",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
       },
-      "lastUpdated": "2025-07-25T06:02:03.085Z"
+      "lastUpdated": "2025-07-26T09:13:18.048Z"
     },
     {
       "idm": "81",
@@ -1270,7 +1270,7 @@
         "name": "SĂLAJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=32"
       },
-      "lastUpdated": "2025-07-25T06:02:03.499Z"
+      "lastUpdated": "2025-07-26T09:13:18.462Z"
     },
     {
       "idm": "82",
@@ -1286,7 +1286,7 @@
         "name": "MEHEDINŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
       },
-      "lastUpdated": "2025-07-25T06:02:03.703Z"
+      "lastUpdated": "2025-07-26T09:13:18.665Z"
     },
     {
       "idm": "83",
@@ -1297,7 +1297,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:03.905Z"
+      "lastUpdated": "2025-07-26T09:13:18.867Z"
     },
     {
       "idm": "84",
@@ -1313,7 +1313,7 @@
         "name": "CONSTANŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
       },
-      "lastUpdated": "2025-07-25T06:02:04.107Z"
+      "lastUpdated": "2025-07-26T09:13:19.069Z"
     },
     {
       "idm": "85",
@@ -1329,7 +1329,7 @@
         "name": "NEAMŢ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
       },
-      "lastUpdated": "2025-07-25T06:02:04.312Z"
+      "lastUpdated": "2025-07-26T09:13:19.272Z"
     },
     {
       "idm": "86",
@@ -1345,7 +1345,7 @@
         "name": "BISTRIŢA-NĂSĂUD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=6"
       },
-      "lastUpdated": "2025-07-25T06:02:04.515Z"
+      "lastUpdated": "2025-07-26T09:13:19.474Z"
     },
     {
       "idm": "87",
@@ -1361,7 +1361,7 @@
         "name": "CLUJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
       },
-      "lastUpdated": "2025-07-25T06:02:04.718Z"
+      "lastUpdated": "2025-07-26T09:13:19.679Z"
     },
     {
       "idm": "88",
@@ -1377,7 +1377,7 @@
         "name": "MUREŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=27"
       },
-      "lastUpdated": "2025-07-25T06:02:04.923Z"
+      "lastUpdated": "2025-07-26T09:13:19.884Z"
     },
     {
       "idm": "89",
@@ -1393,7 +1393,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:05.127Z"
+      "lastUpdated": "2025-07-26T09:13:20.088Z"
     },
     {
       "idm": "90",
@@ -1409,7 +1409,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:05.331Z"
+      "lastUpdated": "2025-07-26T09:13:20.292Z"
     },
     {
       "idm": "91",
@@ -1425,7 +1425,7 @@
         "name": "VASLUI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=38"
       },
-      "lastUpdated": "2025-07-25T06:02:05.537Z"
+      "lastUpdated": "2025-07-26T09:13:20.495Z"
     },
     {
       "idm": "92",
@@ -1441,7 +1441,7 @@
         "name": "NEAMŢ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
       },
-      "lastUpdated": "2025-07-25T06:02:05.741Z"
+      "lastUpdated": "2025-07-26T09:13:20.698Z"
     },
     {
       "idm": "93",
@@ -1457,7 +1457,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:05.945Z"
+      "lastUpdated": "2025-07-26T09:13:20.903Z"
     },
     {
       "idm": "94",
@@ -1473,7 +1473,7 @@
         "name": "DOLJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
       },
-      "lastUpdated": "2025-07-25T06:02:06.150Z"
+      "lastUpdated": "2025-07-26T09:13:21.105Z"
     },
     {
       "idm": "95",
@@ -1489,7 +1489,7 @@
         "name": "TIMIŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
       },
-      "lastUpdated": "2025-07-25T06:02:06.353Z"
+      "lastUpdated": "2025-07-26T09:13:21.309Z"
     },
     {
       "idm": "96",
@@ -1505,7 +1505,7 @@
         "name": "TULCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
       },
-      "lastUpdated": "2025-07-25T06:02:06.556Z"
+      "lastUpdated": "2025-07-26T09:13:21.512Z"
     },
     {
       "idm": "97",
@@ -1521,7 +1521,7 @@
         "name": "BACĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
       },
-      "lastUpdated": "2025-07-25T06:02:06.759Z"
+      "lastUpdated": "2025-07-26T09:13:21.716Z"
     },
     {
       "idm": "98",
@@ -1537,7 +1537,7 @@
         "name": "SUCEAVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
       },
-      "lastUpdated": "2025-07-25T06:02:07.173Z"
+      "lastUpdated": "2025-07-26T09:13:22.137Z"
     },
     {
       "idm": "99",
@@ -1553,7 +1553,7 @@
         "name": "BACĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
       },
-      "lastUpdated": "2025-07-25T06:02:07.377Z"
+      "lastUpdated": "2025-07-26T09:13:22.341Z"
     },
     {
       "idm": "100",
@@ -1569,7 +1569,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:07.583Z"
+      "lastUpdated": "2025-07-26T09:13:22.545Z"
     },
     {
       "idm": "101",
@@ -1585,7 +1585,7 @@
         "name": "VÂLCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
       },
-      "lastUpdated": "2025-07-25T06:02:07.786Z"
+      "lastUpdated": "2025-07-26T09:13:22.747Z"
     },
     {
       "idm": "102",
@@ -1601,7 +1601,7 @@
         "name": "BIHOR",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
       },
-      "lastUpdated": "2025-07-25T06:02:07.992Z"
+      "lastUpdated": "2025-07-26T09:13:22.949Z"
     },
     {
       "idm": "103",
@@ -1617,7 +1617,7 @@
         "name": "CONSTANŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
       },
-      "lastUpdated": "2025-07-25T06:02:08.197Z"
+      "lastUpdated": "2025-07-26T09:13:23.152Z"
     },
     {
       "idm": "104",
@@ -1633,7 +1633,7 @@
         "name": "BACĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
       },
-      "lastUpdated": "2025-07-25T06:02:08.401Z"
+      "lastUpdated": "2025-07-26T09:13:23.355Z"
     },
     {
       "idm": "105",
@@ -1644,7 +1644,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:08.604Z"
+      "lastUpdated": "2025-07-26T09:13:23.559Z"
     },
     {
       "idm": "106",
@@ -1660,7 +1660,7 @@
         "name": "ARAD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
       },
-      "lastUpdated": "2025-07-25T06:02:08.808Z"
+      "lastUpdated": "2025-07-26T09:13:23.763Z"
     },
     {
       "idm": "107",
@@ -1671,7 +1671,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:09.011Z"
+      "lastUpdated": "2025-07-26T09:13:23.965Z"
     },
     {
       "idm": "108",
@@ -1687,7 +1687,7 @@
         "name": "TIMIŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
       },
-      "lastUpdated": "2025-07-25T06:02:09.215Z"
+      "lastUpdated": "2025-07-26T09:13:24.168Z"
     },
     {
       "idm": "109",
@@ -1703,7 +1703,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:09.419Z"
+      "lastUpdated": "2025-07-26T09:13:24.371Z"
     },
     {
       "idm": "110",
@@ -1719,7 +1719,7 @@
         "name": "BIHOR",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
       },
-      "lastUpdated": "2025-07-25T06:02:09.622Z"
+      "lastUpdated": "2025-07-26T09:13:24.575Z"
     },
     {
       "idm": "111",
@@ -1735,7 +1735,7 @@
         "name": "COVASNA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=15"
       },
-      "lastUpdated": "2025-07-25T06:02:10.042Z"
+      "lastUpdated": "2025-07-26T09:13:25.003Z"
     },
     {
       "idm": "112",
@@ -1746,7 +1746,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:10.244Z"
+      "lastUpdated": "2025-07-26T09:13:25.207Z"
     },
     {
       "idm": "113",
@@ -1762,7 +1762,7 @@
         "name": "HUNEDOARA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
       },
-      "lastUpdated": "2025-07-25T06:02:10.448Z"
+      "lastUpdated": "2025-07-26T09:13:25.410Z"
     },
     {
       "idm": "114",
@@ -1778,7 +1778,7 @@
         "name": "ALBA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=1"
       },
-      "lastUpdated": "2025-07-25T06:02:10.652Z"
+      "lastUpdated": "2025-07-26T09:13:25.613Z"
     },
     {
       "idm": "115",
@@ -1794,7 +1794,7 @@
         "name": "SATU-MARE",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
       },
-      "lastUpdated": "2025-07-25T06:02:10.856Z"
+      "lastUpdated": "2025-07-26T09:13:25.817Z"
     },
     {
       "idm": "116",
@@ -1810,7 +1810,7 @@
         "name": "DOLJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
       },
-      "lastUpdated": "2025-07-25T06:02:11.060Z"
+      "lastUpdated": "2025-07-26T09:13:26.021Z"
     },
     {
       "idm": "117",
@@ -1826,7 +1826,7 @@
         "name": "CONSTANŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
       },
-      "lastUpdated": "2025-07-25T06:02:11.264Z"
+      "lastUpdated": "2025-07-26T09:13:26.224Z"
     },
     {
       "idm": "118",
@@ -1842,7 +1842,7 @@
         "name": "MARAMUREŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
       },
-      "lastUpdated": "2025-07-25T06:02:11.682Z"
+      "lastUpdated": "2025-07-26T09:13:26.639Z"
     },
     {
       "idm": "119",
@@ -1858,7 +1858,7 @@
         "name": "DOLJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
       },
-      "lastUpdated": "2025-07-25T06:02:11.887Z"
+      "lastUpdated": "2025-07-26T09:13:26.843Z"
     },
     {
       "idm": "120",
@@ -1874,7 +1874,7 @@
         "name": "CĂLĂRAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=12"
       },
-      "lastUpdated": "2025-07-25T06:02:12.092Z"
+      "lastUpdated": "2025-07-26T09:13:27.046Z"
     },
     {
       "idm": "121",
@@ -1890,7 +1890,7 @@
         "name": "VRANCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
       },
-      "lastUpdated": "2025-07-25T06:02:12.296Z"
+      "lastUpdated": "2025-07-26T09:13:27.249Z"
     },
     {
       "idm": "122",
@@ -1901,7 +1901,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:12.498Z"
+      "lastUpdated": "2025-07-26T09:13:27.450Z"
     },
     {
       "idm": "123",
@@ -1917,7 +1917,7 @@
         "name": "VÂLCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
       },
-      "lastUpdated": "2025-07-25T06:02:12.700Z"
+      "lastUpdated": "2025-07-26T09:13:27.653Z"
     },
     {
       "idm": "124",
@@ -1933,7 +1933,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:12.904Z"
+      "lastUpdated": "2025-07-26T09:13:27.856Z"
     },
     {
       "idm": "125",
@@ -1949,7 +1949,7 @@
         "name": "CONSTANŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
       },
-      "lastUpdated": "2025-07-25T06:02:13.106Z"
+      "lastUpdated": "2025-07-26T09:13:28.059Z"
     },
     {
       "idm": "126",
@@ -1965,7 +1965,7 @@
         "name": "NEAMŢ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
       },
-      "lastUpdated": "2025-07-25T06:02:13.308Z"
+      "lastUpdated": "2025-07-26T09:13:28.262Z"
     },
     {
       "idm": "127",
@@ -1981,7 +1981,7 @@
         "name": "NEAMŢ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
       },
-      "lastUpdated": "2025-07-25T06:02:13.514Z"
+      "lastUpdated": "2025-07-26T09:13:28.466Z"
     },
     {
       "idm": "128",
@@ -1997,7 +1997,7 @@
         "name": "BRAŞOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
       },
-      "lastUpdated": "2025-07-25T06:02:13.716Z"
+      "lastUpdated": "2025-07-26T09:13:28.669Z"
     },
     {
       "idm": "129",
@@ -2013,7 +2013,7 @@
         "name": "ARGEŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
       },
-      "lastUpdated": "2025-07-25T06:02:13.920Z"
+      "lastUpdated": "2025-07-26T09:13:28.872Z"
     },
     {
       "idm": "130",
@@ -2029,7 +2029,7 @@
         "name": "SĂLAJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=32"
       },
-      "lastUpdated": "2025-07-25T06:02:14.124Z"
+      "lastUpdated": "2025-07-26T09:13:29.076Z"
     },
     {
       "idm": "131",
@@ -2045,7 +2045,7 @@
         "name": "TULCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
       },
-      "lastUpdated": "2025-07-25T06:02:14.328Z"
+      "lastUpdated": "2025-07-26T09:13:29.280Z"
     },
     {
       "idm": "132",
@@ -2061,7 +2061,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:14.532Z"
+      "lastUpdated": "2025-07-26T09:13:29.483Z"
     },
     {
       "idm": "133",
@@ -2072,7 +2072,7 @@
         "name": "Deputaţi neafiliaţi",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=0"
       },
-      "lastUpdated": "2025-07-25T06:02:14.735Z"
+      "lastUpdated": "2025-07-26T09:13:29.685Z"
     },
     {
       "idm": "134",
@@ -2088,7 +2088,7 @@
         "name": "TELEORMAN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
       },
-      "lastUpdated": "2025-07-25T06:02:14.939Z"
+      "lastUpdated": "2025-07-26T09:13:29.888Z"
     },
     {
       "idm": "135",
@@ -2104,7 +2104,7 @@
         "name": "MEHEDINŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
       },
-      "lastUpdated": "2025-07-25T06:02:15.142Z"
+      "lastUpdated": "2025-07-26T09:13:30.090Z"
     },
     {
       "idm": "136",
@@ -2120,7 +2120,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:15.345Z"
+      "lastUpdated": "2025-07-26T09:13:30.294Z"
     },
     {
       "idm": "137",
@@ -2136,7 +2136,7 @@
         "name": "SATU-MARE",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
       },
-      "lastUpdated": "2025-07-25T06:02:15.549Z"
+      "lastUpdated": "2025-07-26T09:13:30.497Z"
     },
     {
       "idm": "138",
@@ -2152,7 +2152,7 @@
         "name": "BRAŞOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
       },
-      "lastUpdated": "2025-07-25T06:02:15.754Z"
+      "lastUpdated": "2025-07-26T09:13:30.700Z"
     },
     {
       "idm": "139",
@@ -2168,7 +2168,7 @@
         "name": "HARGHITA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=21"
       },
-      "lastUpdated": "2025-07-25T06:02:15.957Z"
+      "lastUpdated": "2025-07-26T09:13:30.903Z"
     },
     {
       "idm": "140",
@@ -2184,7 +2184,7 @@
         "name": "HUNEDOARA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
       },
-      "lastUpdated": "2025-07-25T06:02:16.161Z"
+      "lastUpdated": "2025-07-26T09:13:31.106Z"
     },
     {
       "idm": "141",
@@ -2200,7 +2200,7 @@
         "name": "DÂMBOVIŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
       },
-      "lastUpdated": "2025-07-25T06:02:16.365Z"
+      "lastUpdated": "2025-07-26T09:13:31.310Z"
     },
     {
       "idm": "142",
@@ -2216,7 +2216,7 @@
         "name": "CONSTANŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
       },
-      "lastUpdated": "2025-07-25T06:02:16.568Z"
+      "lastUpdated": "2025-07-26T09:13:31.514Z"
     },
     {
       "idm": "143",
@@ -2232,7 +2232,7 @@
         "name": "CONSTANŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
       },
-      "lastUpdated": "2025-07-25T06:02:16.772Z"
+      "lastUpdated": "2025-07-26T09:13:31.717Z"
     },
     {
       "idm": "144",
@@ -2248,7 +2248,7 @@
         "name": "SĂLAJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=32"
       },
-      "lastUpdated": "2025-07-25T06:02:16.976Z"
+      "lastUpdated": "2025-07-26T09:13:31.920Z"
     },
     {
       "idm": "145",
@@ -2264,7 +2264,7 @@
         "name": "PRAHOVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
       },
-      "lastUpdated": "2025-07-25T06:02:17.180Z"
+      "lastUpdated": "2025-07-26T09:13:32.123Z"
     },
     {
       "idm": "147",
@@ -2280,7 +2280,7 @@
         "name": "HUNEDOARA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
       },
-      "lastUpdated": "2025-07-25T06:02:17.385Z"
+      "lastUpdated": "2025-07-26T09:13:32.328Z"
     },
     {
       "idm": "148",
@@ -2296,7 +2296,7 @@
         "name": "SUCEAVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
       },
-      "lastUpdated": "2025-07-25T06:02:17.589Z"
+      "lastUpdated": "2025-07-26T09:13:32.532Z"
     },
     {
       "idm": "149",
@@ -2312,7 +2312,7 @@
         "name": "CONSTANŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
       },
-      "lastUpdated": "2025-07-25T06:02:17.793Z"
+      "lastUpdated": "2025-07-26T09:13:32.735Z"
     },
     {
       "idm": "150",
@@ -2328,7 +2328,7 @@
         "name": "OLT",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
       },
-      "lastUpdated": "2025-07-25T06:02:17.997Z"
+      "lastUpdated": "2025-07-26T09:13:32.938Z"
     },
     {
       "idm": "151",
@@ -2344,7 +2344,7 @@
         "name": "BACĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
       },
-      "lastUpdated": "2025-07-25T06:02:18.200Z"
+      "lastUpdated": "2025-07-26T09:13:33.140Z"
     },
     {
       "idm": "152",
@@ -2360,7 +2360,7 @@
         "name": "ARGEŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
       },
-      "lastUpdated": "2025-07-25T06:02:18.405Z"
+      "lastUpdated": "2025-07-26T09:13:33.342Z"
     },
     {
       "idm": "153",
@@ -2376,7 +2376,7 @@
         "name": "GORJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=20"
       },
-      "lastUpdated": "2025-07-25T06:02:18.827Z"
+      "lastUpdated": "2025-07-26T09:13:33.754Z"
     },
     {
       "idm": "154",
@@ -2392,7 +2392,7 @@
         "name": "DOLJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
       },
-      "lastUpdated": "2025-07-25T06:02:19.031Z"
+      "lastUpdated": "2025-07-26T09:13:33.957Z"
     },
     {
       "idm": "155",
@@ -2408,7 +2408,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:19.234Z"
+      "lastUpdated": "2025-07-26T09:13:34.161Z"
     },
     {
       "idm": "156",
@@ -2424,7 +2424,7 @@
         "name": "CARAŞ-SEVERIN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=11"
       },
-      "lastUpdated": "2025-07-25T06:02:19.649Z"
+      "lastUpdated": "2025-07-26T09:13:34.576Z"
     },
     {
       "idm": "157",
@@ -2440,7 +2440,7 @@
         "name": "BISTRIŢA-NĂSĂUD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=6"
       },
-      "lastUpdated": "2025-07-25T06:02:19.853Z"
+      "lastUpdated": "2025-07-26T09:13:34.780Z"
     },
     {
       "idm": "158",
@@ -2456,7 +2456,7 @@
         "name": "GALAŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
       },
-      "lastUpdated": "2025-07-25T06:02:20.056Z"
+      "lastUpdated": "2025-07-26T09:13:34.983Z"
     },
     {
       "idm": "159",
@@ -2472,7 +2472,7 @@
         "name": "VÂLCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
       },
-      "lastUpdated": "2025-07-25T06:02:20.259Z"
+      "lastUpdated": "2025-07-26T09:13:35.186Z"
     },
     {
       "idm": "160",
@@ -2488,7 +2488,7 @@
         "name": "HARGHITA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=21"
       },
-      "lastUpdated": "2025-07-25T06:02:20.462Z"
+      "lastUpdated": "2025-07-26T09:13:35.391Z"
     },
     {
       "idm": "161",
@@ -2504,7 +2504,7 @@
         "name": "NEAMŢ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
       },
-      "lastUpdated": "2025-07-25T06:02:20.665Z"
+      "lastUpdated": "2025-07-26T09:13:35.594Z"
     },
     {
       "idm": "162",
@@ -2520,7 +2520,7 @@
         "name": "MUREŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=27"
       },
-      "lastUpdated": "2025-07-25T06:02:20.869Z"
+      "lastUpdated": "2025-07-26T09:13:35.797Z"
     },
     {
       "idm": "163",
@@ -2536,7 +2536,7 @@
         "name": "COVASNA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=15"
       },
-      "lastUpdated": "2025-07-25T06:02:21.072Z"
+      "lastUpdated": "2025-07-26T09:13:36.002Z"
     },
     {
       "idm": "164",
@@ -2552,7 +2552,7 @@
         "name": "SUCEAVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
       },
-      "lastUpdated": "2025-07-25T06:02:21.275Z"
+      "lastUpdated": "2025-07-26T09:13:36.204Z"
     },
     {
       "idm": "165",
@@ -2568,7 +2568,7 @@
         "name": "COVASNA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=15"
       },
-      "lastUpdated": "2025-07-25T06:02:21.477Z"
+      "lastUpdated": "2025-07-26T09:13:36.407Z"
     },
     {
       "idm": "166",
@@ -2584,7 +2584,7 @@
         "name": "HARGHITA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=21"
       },
-      "lastUpdated": "2025-07-25T06:02:21.679Z"
+      "lastUpdated": "2025-07-26T09:13:36.609Z"
     },
     {
       "idm": "167",
@@ -2600,7 +2600,7 @@
         "name": "BACĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
       },
-      "lastUpdated": "2025-07-25T06:02:21.882Z"
+      "lastUpdated": "2025-07-26T09:13:36.812Z"
     },
     {
       "idm": "168",
@@ -2616,7 +2616,7 @@
         "name": "CLUJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
       },
-      "lastUpdated": "2025-07-25T06:02:22.088Z"
+      "lastUpdated": "2025-07-26T09:13:37.016Z"
     },
     {
       "idm": "169",
@@ -2632,7 +2632,7 @@
         "name": "TELEORMAN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
       },
-      "lastUpdated": "2025-07-25T06:02:22.290Z"
+      "lastUpdated": "2025-07-26T09:13:37.219Z"
     },
     {
       "idm": "170",
@@ -2648,7 +2648,7 @@
         "name": "BOTOŞANI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
       },
-      "lastUpdated": "2025-07-25T06:02:22.494Z"
+      "lastUpdated": "2025-07-26T09:13:37.423Z"
     },
     {
       "idm": "171",
@@ -2659,7 +2659,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:22.696Z"
+      "lastUpdated": "2025-07-26T09:13:37.626Z"
     },
     {
       "idm": "172",
@@ -2675,7 +2675,7 @@
         "name": "Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=43"
       },
-      "lastUpdated": "2025-07-25T06:02:22.899Z"
+      "lastUpdated": "2025-07-26T09:13:37.829Z"
     },
     {
       "idm": "173",
@@ -2691,7 +2691,7 @@
         "name": "Circumscripţia electorală pentru cetăţenii români cu domiciliul în afara ţării",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=43"
       },
-      "lastUpdated": "2025-07-25T06:02:23.104Z"
+      "lastUpdated": "2025-07-26T09:13:38.031Z"
     },
     {
       "idm": "174",
@@ -2707,7 +2707,7 @@
         "name": "BUZĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
       },
-      "lastUpdated": "2025-07-25T06:02:23.308Z"
+      "lastUpdated": "2025-07-26T09:13:38.234Z"
     },
     {
       "idm": "175",
@@ -2723,7 +2723,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:23.511Z"
+      "lastUpdated": "2025-07-26T09:13:38.436Z"
     },
     {
       "idm": "176",
@@ -2739,7 +2739,7 @@
         "name": "SĂLAJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=32"
       },
-      "lastUpdated": "2025-07-25T06:02:23.714Z"
+      "lastUpdated": "2025-07-26T09:13:38.640Z"
     },
     {
       "idm": "177",
@@ -2755,7 +2755,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:23.917Z"
+      "lastUpdated": "2025-07-26T09:13:38.843Z"
     },
     {
       "idm": "178",
@@ -2771,7 +2771,7 @@
         "name": "GORJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=20"
       },
-      "lastUpdated": "2025-07-25T06:02:24.121Z"
+      "lastUpdated": "2025-07-26T09:13:39.047Z"
     },
     {
       "idm": "179",
@@ -2787,7 +2787,7 @@
         "name": "DOLJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
       },
-      "lastUpdated": "2025-07-25T06:02:24.323Z"
+      "lastUpdated": "2025-07-26T09:13:39.251Z"
     },
     {
       "idm": "180",
@@ -2803,7 +2803,7 @@
         "name": "NEAMŢ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
       },
-      "lastUpdated": "2025-07-25T06:02:24.527Z"
+      "lastUpdated": "2025-07-26T09:13:39.453Z"
     },
     {
       "idm": "181",
@@ -2819,7 +2819,7 @@
         "name": "SATU-MARE",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
       },
-      "lastUpdated": "2025-07-25T06:02:24.729Z"
+      "lastUpdated": "2025-07-26T09:13:39.656Z"
     },
     {
       "idm": "182",
@@ -2835,7 +2835,7 @@
         "name": "GIURGIU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=19"
       },
-      "lastUpdated": "2025-07-25T06:02:24.934Z"
+      "lastUpdated": "2025-07-26T09:13:39.859Z"
     },
     {
       "idm": "183",
@@ -2851,7 +2851,7 @@
         "name": "MARAMUREŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
       },
-      "lastUpdated": "2025-07-25T06:02:25.137Z"
+      "lastUpdated": "2025-07-26T09:13:40.062Z"
     },
     {
       "idm": "184",
@@ -2867,7 +2867,7 @@
         "name": "CONSTANŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
       },
-      "lastUpdated": "2025-07-25T06:02:25.340Z"
+      "lastUpdated": "2025-07-26T09:13:40.265Z"
     },
     {
       "idm": "185",
@@ -2883,7 +2883,7 @@
         "name": "ALBA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=1"
       },
-      "lastUpdated": "2025-07-25T06:02:25.543Z"
+      "lastUpdated": "2025-07-26T09:13:40.468Z"
     },
     {
       "idm": "186",
@@ -2899,7 +2899,7 @@
         "name": "GALAŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
       },
-      "lastUpdated": "2025-07-25T06:02:25.747Z"
+      "lastUpdated": "2025-07-26T09:13:40.670Z"
     },
     {
       "idm": "187",
@@ -2910,7 +2910,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:25.948Z"
+      "lastUpdated": "2025-07-26T09:13:40.872Z"
     },
     {
       "idm": "188",
@@ -2926,7 +2926,7 @@
         "name": "CARAŞ-SEVERIN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=11"
       },
-      "lastUpdated": "2025-07-25T06:02:26.152Z"
+      "lastUpdated": "2025-07-26T09:13:41.076Z"
     },
     {
       "idm": "189",
@@ -2942,7 +2942,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:26.356Z"
+      "lastUpdated": "2025-07-26T09:13:41.279Z"
     },
     {
       "idm": "190",
@@ -2958,7 +2958,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:26.560Z"
+      "lastUpdated": "2025-07-26T09:13:41.482Z"
     },
     {
       "idm": "191",
@@ -2974,7 +2974,7 @@
         "name": "ARGEŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
       },
-      "lastUpdated": "2025-07-25T06:02:26.765Z"
+      "lastUpdated": "2025-07-26T09:13:41.687Z"
     },
     {
       "idm": "192",
@@ -2990,7 +2990,7 @@
         "name": "CARAŞ-SEVERIN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=11"
       },
-      "lastUpdated": "2025-07-25T06:02:26.971Z"
+      "lastUpdated": "2025-07-26T09:13:41.891Z"
     },
     {
       "idm": "193",
@@ -3006,7 +3006,7 @@
         "name": "PRAHOVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
       },
-      "lastUpdated": "2025-07-25T06:02:27.175Z"
+      "lastUpdated": "2025-07-26T09:13:42.094Z"
     },
     {
       "idm": "194",
@@ -3022,7 +3022,7 @@
         "name": "PRAHOVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
       },
-      "lastUpdated": "2025-07-25T06:02:27.378Z"
+      "lastUpdated": "2025-07-26T09:13:42.296Z"
     },
     {
       "idm": "195",
@@ -3038,7 +3038,7 @@
         "name": "COVASNA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=15"
       },
-      "lastUpdated": "2025-07-25T06:02:27.581Z"
+      "lastUpdated": "2025-07-26T09:13:42.498Z"
     },
     {
       "idm": "196",
@@ -3054,7 +3054,7 @@
         "name": "GIURGIU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=19"
       },
-      "lastUpdated": "2025-07-25T06:02:27.786Z"
+      "lastUpdated": "2025-07-26T09:13:42.701Z"
     },
     {
       "idm": "197",
@@ -3070,7 +3070,7 @@
         "name": "BRĂILA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=9"
       },
-      "lastUpdated": "2025-07-25T06:02:27.988Z"
+      "lastUpdated": "2025-07-26T09:13:42.905Z"
     },
     {
       "idm": "198",
@@ -3086,7 +3086,7 @@
         "name": "GORJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=20"
       },
-      "lastUpdated": "2025-07-25T06:02:28.191Z"
+      "lastUpdated": "2025-07-26T09:13:43.108Z"
     },
     {
       "idm": "199",
@@ -3102,7 +3102,7 @@
         "name": "BOTOŞANI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
       },
-      "lastUpdated": "2025-07-25T06:02:28.394Z"
+      "lastUpdated": "2025-07-26T09:13:43.311Z"
     },
     {
       "idm": "200",
@@ -3118,7 +3118,7 @@
         "name": "OLT",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
       },
-      "lastUpdated": "2025-07-25T06:02:28.598Z"
+      "lastUpdated": "2025-07-26T09:13:43.513Z"
     },
     {
       "idm": "201",
@@ -3134,7 +3134,7 @@
         "name": "VRANCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
       },
-      "lastUpdated": "2025-07-25T06:02:28.801Z"
+      "lastUpdated": "2025-07-26T09:13:43.715Z"
     },
     {
       "idm": "202",
@@ -3150,7 +3150,7 @@
         "name": "ARGEŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
       },
-      "lastUpdated": "2025-07-25T06:02:29.005Z"
+      "lastUpdated": "2025-07-26T09:13:43.919Z"
     },
     {
       "idm": "203",
@@ -3166,7 +3166,7 @@
         "name": "BUZĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
       },
-      "lastUpdated": "2025-07-25T06:02:29.208Z"
+      "lastUpdated": "2025-07-26T09:13:44.122Z"
     },
     {
       "idm": "204",
@@ -3182,7 +3182,7 @@
         "name": "BOTOŞANI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
       },
-      "lastUpdated": "2025-07-25T06:02:29.412Z"
+      "lastUpdated": "2025-07-26T09:13:44.325Z"
     },
     {
       "idm": "205",
@@ -3198,7 +3198,7 @@
         "name": "CLUJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
       },
-      "lastUpdated": "2025-07-25T06:02:29.615Z"
+      "lastUpdated": "2025-07-26T09:13:44.528Z"
     },
     {
       "idm": "206",
@@ -3214,7 +3214,7 @@
         "name": "TULCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
       },
-      "lastUpdated": "2025-07-25T06:02:29.818Z"
+      "lastUpdated": "2025-07-26T09:13:44.731Z"
     },
     {
       "idm": "207",
@@ -3230,7 +3230,7 @@
         "name": "MEHEDINŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
       },
-      "lastUpdated": "2025-07-25T06:02:30.023Z"
+      "lastUpdated": "2025-07-26T09:13:44.936Z"
     },
     {
       "idm": "208",
@@ -3246,7 +3246,7 @@
         "name": "BIHOR",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
       },
-      "lastUpdated": "2025-07-25T06:02:30.226Z"
+      "lastUpdated": "2025-07-26T09:13:45.138Z"
     },
     {
       "idm": "209",
@@ -3262,7 +3262,7 @@
         "name": "ARGEŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
       },
-      "lastUpdated": "2025-07-25T06:02:30.429Z"
+      "lastUpdated": "2025-07-26T09:13:45.342Z"
     },
     {
       "idm": "210",
@@ -3278,7 +3278,7 @@
         "name": "BUZĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
       },
-      "lastUpdated": "2025-07-25T06:02:30.634Z"
+      "lastUpdated": "2025-07-26T09:13:45.545Z"
     },
     {
       "idm": "211",
@@ -3294,7 +3294,7 @@
         "name": "DÂMBOVIŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
       },
-      "lastUpdated": "2025-07-25T06:02:30.836Z"
+      "lastUpdated": "2025-07-26T09:13:45.748Z"
     },
     {
       "idm": "212",
@@ -3310,7 +3310,7 @@
         "name": "CONSTANŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
       },
-      "lastUpdated": "2025-07-25T06:02:31.038Z"
+      "lastUpdated": "2025-07-26T09:13:45.952Z"
     },
     {
       "idm": "213",
@@ -3326,7 +3326,7 @@
         "name": "CLUJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
       },
-      "lastUpdated": "2025-07-25T06:02:31.240Z"
+      "lastUpdated": "2025-07-26T09:13:46.154Z"
     },
     {
       "idm": "214",
@@ -3342,7 +3342,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:31.444Z"
+      "lastUpdated": "2025-07-26T09:13:46.357Z"
     },
     {
       "idm": "215",
@@ -3358,7 +3358,7 @@
         "name": "SIBIU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=33"
       },
-      "lastUpdated": "2025-07-25T06:02:31.648Z"
+      "lastUpdated": "2025-07-26T09:13:46.561Z"
     },
     {
       "idm": "216",
@@ -3369,7 +3369,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:31.851Z"
+      "lastUpdated": "2025-07-26T09:13:46.763Z"
     },
     {
       "idm": "217",
@@ -3385,7 +3385,7 @@
         "name": "SĂLAJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=32"
       },
-      "lastUpdated": "2025-07-25T06:02:32.054Z"
+      "lastUpdated": "2025-07-26T09:13:46.965Z"
     },
     {
       "idm": "218",
@@ -3401,7 +3401,7 @@
         "name": "ARAD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
       },
-      "lastUpdated": "2025-07-25T06:02:32.257Z"
+      "lastUpdated": "2025-07-26T09:13:47.169Z"
     },
     {
       "idm": "219",
@@ -3417,7 +3417,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:32.461Z"
+      "lastUpdated": "2025-07-26T09:13:47.372Z"
     },
     {
       "idm": "332",
@@ -3433,7 +3433,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:32.665Z"
+      "lastUpdated": "2025-07-26T09:13:47.575Z"
     },
     {
       "idm": "220",
@@ -3449,7 +3449,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:32.869Z"
+      "lastUpdated": "2025-07-26T09:13:47.778Z"
     },
     {
       "idm": "221",
@@ -3465,7 +3465,7 @@
         "name": "OLT",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
       },
-      "lastUpdated": "2025-07-25T06:02:33.073Z"
+      "lastUpdated": "2025-07-26T09:13:47.980Z"
     },
     {
       "idm": "222",
@@ -3481,7 +3481,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:33.280Z"
+      "lastUpdated": "2025-07-26T09:13:48.183Z"
     },
     {
       "idm": "223",
@@ -3497,7 +3497,7 @@
         "name": "BUZĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
       },
-      "lastUpdated": "2025-07-25T06:02:33.486Z"
+      "lastUpdated": "2025-07-26T09:13:48.387Z"
     },
     {
       "idm": "224",
@@ -3513,7 +3513,7 @@
         "name": "BIHOR",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
       },
-      "lastUpdated": "2025-07-25T06:02:33.688Z"
+      "lastUpdated": "2025-07-26T09:13:48.591Z"
     },
     {
       "idm": "225",
@@ -3529,7 +3529,7 @@
         "name": "VRANCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
       },
-      "lastUpdated": "2025-07-25T06:02:33.893Z"
+      "lastUpdated": "2025-07-26T09:13:48.794Z"
     },
     {
       "idm": "226",
@@ -3545,7 +3545,7 @@
         "name": "DÂMBOVIŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
       },
-      "lastUpdated": "2025-07-25T06:02:34.100Z"
+      "lastUpdated": "2025-07-26T09:13:48.998Z"
     },
     {
       "idm": "227",
@@ -3561,7 +3561,7 @@
         "name": "TULCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
       },
-      "lastUpdated": "2025-07-25T06:02:34.304Z"
+      "lastUpdated": "2025-07-26T09:13:49.201Z"
     },
     {
       "idm": "228",
@@ -3577,7 +3577,7 @@
         "name": "TELEORMAN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
       },
-      "lastUpdated": "2025-07-25T06:02:34.508Z"
+      "lastUpdated": "2025-07-26T09:13:49.405Z"
     },
     {
       "idm": "229",
@@ -3593,7 +3593,7 @@
         "name": "SATU-MARE",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
       },
-      "lastUpdated": "2025-07-25T06:02:34.712Z"
+      "lastUpdated": "2025-07-26T09:13:49.609Z"
     },
     {
       "idm": "230",
@@ -3609,7 +3609,7 @@
         "name": "IALOMIŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=23"
       },
-      "lastUpdated": "2025-07-25T06:02:34.915Z"
+      "lastUpdated": "2025-07-26T09:13:49.813Z"
     },
     {
       "idm": "231",
@@ -3625,7 +3625,7 @@
         "name": "IALOMIŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=23"
       },
-      "lastUpdated": "2025-07-25T06:02:35.118Z"
+      "lastUpdated": "2025-07-26T09:13:50.015Z"
     },
     {
       "idm": "232",
@@ -3641,7 +3641,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:35.320Z"
+      "lastUpdated": "2025-07-26T09:13:50.219Z"
     },
     {
       "idm": "233",
@@ -3652,7 +3652,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:35.522Z"
+      "lastUpdated": "2025-07-26T09:13:50.421Z"
     },
     {
       "idm": "234",
@@ -3668,7 +3668,7 @@
         "name": "CĂLĂRAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=12"
       },
-      "lastUpdated": "2025-07-25T06:02:35.727Z"
+      "lastUpdated": "2025-07-26T09:13:50.625Z"
     },
     {
       "idm": "235",
@@ -3684,7 +3684,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:35.931Z"
+      "lastUpdated": "2025-07-26T09:13:50.828Z"
     },
     {
       "idm": "236",
@@ -3700,7 +3700,7 @@
         "name": "BRAŞOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
       },
-      "lastUpdated": "2025-07-25T06:02:36.134Z"
+      "lastUpdated": "2025-07-26T09:13:51.031Z"
     },
     {
       "idm": "237",
@@ -3716,7 +3716,7 @@
         "name": "BACĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
       },
-      "lastUpdated": "2025-07-25T06:02:36.337Z"
+      "lastUpdated": "2025-07-26T09:13:51.234Z"
     },
     {
       "idm": "238",
@@ -3732,7 +3732,7 @@
         "name": "ARAD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
       },
-      "lastUpdated": "2025-07-25T06:02:36.540Z"
+      "lastUpdated": "2025-07-26T09:13:51.437Z"
     },
     {
       "idm": "239",
@@ -3743,7 +3743,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:36.743Z"
+      "lastUpdated": "2025-07-26T09:13:51.639Z"
     },
     {
       "idm": "240",
@@ -3759,7 +3759,7 @@
         "name": "CONSTANŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=14"
       },
-      "lastUpdated": "2025-07-25T06:02:36.946Z"
+      "lastUpdated": "2025-07-26T09:13:51.842Z"
     },
     {
       "idm": "241",
@@ -3770,7 +3770,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:37.148Z"
+      "lastUpdated": "2025-07-26T09:13:52.044Z"
     },
     {
       "idm": "242",
@@ -3786,7 +3786,7 @@
         "name": "DOLJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
       },
-      "lastUpdated": "2025-07-25T06:02:37.352Z"
+      "lastUpdated": "2025-07-26T09:13:52.247Z"
     },
     {
       "idm": "243",
@@ -3802,7 +3802,7 @@
         "name": "TULCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
       },
-      "lastUpdated": "2025-07-25T06:02:37.555Z"
+      "lastUpdated": "2025-07-26T09:13:52.449Z"
     },
     {
       "idm": "244",
@@ -3818,7 +3818,7 @@
         "name": "ARAD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
       },
-      "lastUpdated": "2025-07-25T06:02:37.757Z"
+      "lastUpdated": "2025-07-26T09:13:52.652Z"
     },
     {
       "idm": "245",
@@ -3834,7 +3834,7 @@
         "name": "BOTOŞANI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=7"
       },
-      "lastUpdated": "2025-07-25T06:02:37.960Z"
+      "lastUpdated": "2025-07-26T09:13:52.855Z"
     },
     {
       "idm": "246",
@@ -3850,7 +3850,7 @@
         "name": "BUZĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=10"
       },
-      "lastUpdated": "2025-07-25T06:02:38.163Z"
+      "lastUpdated": "2025-07-26T09:13:53.057Z"
     },
     {
       "idm": "247",
@@ -3866,7 +3866,7 @@
         "name": "CARAŞ-SEVERIN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=11"
       },
-      "lastUpdated": "2025-07-25T06:02:38.366Z"
+      "lastUpdated": "2025-07-26T09:13:53.261Z"
     },
     {
       "idm": "248",
@@ -3882,7 +3882,7 @@
         "name": "DÂMBOVIŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=16"
       },
-      "lastUpdated": "2025-07-25T06:02:38.569Z"
+      "lastUpdated": "2025-07-26T09:13:53.464Z"
     },
     {
       "idm": "249",
@@ -3898,7 +3898,7 @@
         "name": "BRĂILA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=9"
       },
-      "lastUpdated": "2025-07-25T06:02:38.772Z"
+      "lastUpdated": "2025-07-26T09:13:53.666Z"
     },
     {
       "idm": "250",
@@ -3914,7 +3914,7 @@
         "name": "BRAŞOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
       },
-      "lastUpdated": "2025-07-25T06:02:38.974Z"
+      "lastUpdated": "2025-07-26T09:13:53.868Z"
     },
     {
       "idm": "251",
@@ -3930,7 +3930,7 @@
         "name": "ARGEŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
       },
-      "lastUpdated": "2025-07-25T06:02:39.176Z"
+      "lastUpdated": "2025-07-26T09:13:54.072Z"
     },
     {
       "idm": "252",
@@ -3946,7 +3946,7 @@
         "name": "BACĂU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=4"
       },
-      "lastUpdated": "2025-07-25T06:02:39.381Z"
+      "lastUpdated": "2025-07-26T09:13:54.276Z"
     },
     {
       "idm": "253",
@@ -3962,7 +3962,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:39.584Z"
+      "lastUpdated": "2025-07-26T09:13:54.478Z"
     },
     {
       "idm": "254",
@@ -3978,7 +3978,7 @@
         "name": "VRANCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
       },
-      "lastUpdated": "2025-07-25T06:02:39.789Z"
+      "lastUpdated": "2025-07-26T09:13:54.681Z"
     },
     {
       "idm": "255",
@@ -3994,7 +3994,7 @@
         "name": "VRANCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=40"
       },
-      "lastUpdated": "2025-07-25T06:02:39.993Z"
+      "lastUpdated": "2025-07-26T09:13:54.883Z"
     },
     {
       "idm": "256",
@@ -4010,7 +4010,7 @@
         "name": "TULCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
       },
-      "lastUpdated": "2025-07-25T06:02:40.195Z"
+      "lastUpdated": "2025-07-26T09:13:55.086Z"
     },
     {
       "idm": "257",
@@ -4026,7 +4026,7 @@
         "name": "DOLJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
       },
-      "lastUpdated": "2025-07-25T06:02:40.398Z"
+      "lastUpdated": "2025-07-26T09:13:55.289Z"
     },
     {
       "idm": "258",
@@ -4042,7 +4042,7 @@
         "name": "GORJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=20"
       },
-      "lastUpdated": "2025-07-25T06:02:40.602Z"
+      "lastUpdated": "2025-07-26T09:13:55.493Z"
     },
     {
       "idm": "259",
@@ -4058,7 +4058,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:40.805Z"
+      "lastUpdated": "2025-07-26T09:13:55.696Z"
     },
     {
       "idm": "260",
@@ -4074,7 +4074,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:41.008Z"
+      "lastUpdated": "2025-07-26T09:13:55.899Z"
     },
     {
       "idm": "261",
@@ -4090,7 +4090,7 @@
         "name": "TELEORMAN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
       },
-      "lastUpdated": "2025-07-25T06:02:41.212Z"
+      "lastUpdated": "2025-07-26T09:13:56.103Z"
     },
     {
       "idm": "262",
@@ -4106,7 +4106,7 @@
         "name": "SATU-MARE",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
       },
-      "lastUpdated": "2025-07-25T06:02:41.415Z"
+      "lastUpdated": "2025-07-26T09:13:56.306Z"
     },
     {
       "idm": "263",
@@ -4122,7 +4122,7 @@
         "name": "SUCEAVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
       },
-      "lastUpdated": "2025-07-25T06:02:41.618Z"
+      "lastUpdated": "2025-07-26T09:13:56.508Z"
     },
     {
       "idm": "264",
@@ -4138,7 +4138,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:41.821Z"
+      "lastUpdated": "2025-07-26T09:13:56.712Z"
     },
     {
       "idm": "265",
@@ -4154,7 +4154,7 @@
         "name": "TULCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
       },
-      "lastUpdated": "2025-07-25T06:02:42.025Z"
+      "lastUpdated": "2025-07-26T09:13:56.916Z"
     },
     {
       "idm": "266",
@@ -4170,7 +4170,7 @@
         "name": "TELEORMAN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
       },
-      "lastUpdated": "2025-07-25T06:02:42.229Z"
+      "lastUpdated": "2025-07-26T09:13:57.119Z"
     },
     {
       "idm": "267",
@@ -4186,7 +4186,7 @@
         "name": "CLUJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
       },
-      "lastUpdated": "2025-07-25T06:02:42.432Z"
+      "lastUpdated": "2025-07-26T09:13:57.322Z"
     },
     {
       "idm": "268",
@@ -4202,7 +4202,7 @@
         "name": "VÂLCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
       },
-      "lastUpdated": "2025-07-25T06:02:42.636Z"
+      "lastUpdated": "2025-07-26T09:13:57.528Z"
     },
     {
       "idm": "269",
@@ -4218,7 +4218,7 @@
         "name": "GALAŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
       },
-      "lastUpdated": "2025-07-25T06:02:42.839Z"
+      "lastUpdated": "2025-07-26T09:13:57.731Z"
     },
     {
       "idm": "270",
@@ -4234,7 +4234,7 @@
         "name": "SATU-MARE",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
       },
-      "lastUpdated": "2025-07-25T06:02:43.044Z"
+      "lastUpdated": "2025-07-26T09:13:57.935Z"
     },
     {
       "idm": "271",
@@ -4250,7 +4250,7 @@
         "name": "ALBA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=1"
       },
-      "lastUpdated": "2025-07-25T06:02:43.247Z"
+      "lastUpdated": "2025-07-26T09:13:58.138Z"
     },
     {
       "idm": "272",
@@ -4266,7 +4266,7 @@
         "name": "SATU-MARE",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
       },
-      "lastUpdated": "2025-07-25T06:02:43.449Z"
+      "lastUpdated": "2025-07-26T09:13:58.341Z"
     },
     {
       "idm": "273",
@@ -4282,7 +4282,7 @@
         "name": "BRAŞOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
       },
-      "lastUpdated": "2025-07-25T06:02:43.652Z"
+      "lastUpdated": "2025-07-26T09:13:58.543Z"
     },
     {
       "idm": "274",
@@ -4298,7 +4298,7 @@
         "name": "CĂLĂRAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=12"
       },
-      "lastUpdated": "2025-07-25T06:02:43.857Z"
+      "lastUpdated": "2025-07-26T09:13:58.746Z"
     },
     {
       "idm": "275",
@@ -4314,7 +4314,7 @@
         "name": "GALAŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
       },
-      "lastUpdated": "2025-07-25T06:02:44.061Z"
+      "lastUpdated": "2025-07-26T09:13:58.950Z"
     },
     {
       "idm": "276",
@@ -4330,7 +4330,7 @@
         "name": "GALAŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
       },
-      "lastUpdated": "2025-07-25T06:02:44.265Z"
+      "lastUpdated": "2025-07-26T09:13:59.153Z"
     },
     {
       "idm": "277",
@@ -4346,7 +4346,7 @@
         "name": "SIBIU",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=33"
       },
-      "lastUpdated": "2025-07-25T06:02:44.468Z"
+      "lastUpdated": "2025-07-26T09:13:59.356Z"
     },
     {
       "idm": "278",
@@ -4362,7 +4362,7 @@
         "name": "BISTRIŢA-NĂSĂUD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=6"
       },
-      "lastUpdated": "2025-07-25T06:02:44.671Z"
+      "lastUpdated": "2025-07-26T09:13:59.559Z"
     },
     {
       "idm": "279",
@@ -4378,7 +4378,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:44.875Z"
+      "lastUpdated": "2025-07-26T09:13:59.762Z"
     },
     {
       "idm": "280",
@@ -4394,7 +4394,7 @@
         "name": "CLUJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=13"
       },
-      "lastUpdated": "2025-07-25T06:02:45.078Z"
+      "lastUpdated": "2025-07-26T09:13:59.964Z"
     },
     {
       "idm": "281",
@@ -4410,7 +4410,7 @@
         "name": "VÂLCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
       },
-      "lastUpdated": "2025-07-25T06:02:45.282Z"
+      "lastUpdated": "2025-07-26T09:14:00.168Z"
     },
     {
       "idm": "282",
@@ -4421,7 +4421,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:45.486Z"
+      "lastUpdated": "2025-07-26T09:14:00.370Z"
     },
     {
       "idm": "283",
@@ -4437,7 +4437,7 @@
         "name": "HUNEDOARA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
       },
-      "lastUpdated": "2025-07-25T06:02:45.689Z"
+      "lastUpdated": "2025-07-26T09:14:00.573Z"
     },
     {
       "idm": "284",
@@ -4453,7 +4453,7 @@
         "name": "DOLJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
       },
-      "lastUpdated": "2025-07-25T06:02:45.893Z"
+      "lastUpdated": "2025-07-26T09:14:00.776Z"
     },
     {
       "idm": "285",
@@ -4469,7 +4469,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:46.097Z"
+      "lastUpdated": "2025-07-26T09:14:00.979Z"
     },
     {
       "idm": "286",
@@ -4480,7 +4480,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:46.299Z"
+      "lastUpdated": "2025-07-26T09:14:01.180Z"
     },
     {
       "idm": "287",
@@ -4496,7 +4496,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:46.502Z"
+      "lastUpdated": "2025-07-26T09:14:01.382Z"
     },
     {
       "idm": "288",
@@ -4512,7 +4512,7 @@
         "name": "DOLJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=17"
       },
-      "lastUpdated": "2025-07-25T06:02:46.706Z"
+      "lastUpdated": "2025-07-26T09:14:01.584Z"
     },
     {
       "idm": "289",
@@ -4528,7 +4528,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:46.909Z"
+      "lastUpdated": "2025-07-26T09:14:01.787Z"
     },
     {
       "idm": "290",
@@ -4544,7 +4544,7 @@
         "name": "BISTRIŢA-NĂSĂUD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=6"
       },
-      "lastUpdated": "2025-07-25T06:02:47.111Z"
+      "lastUpdated": "2025-07-26T09:14:01.990Z"
     },
     {
       "idm": "291",
@@ -4560,7 +4560,7 @@
         "name": "BIHOR",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
       },
-      "lastUpdated": "2025-07-25T06:02:47.315Z"
+      "lastUpdated": "2025-07-26T09:14:02.193Z"
     },
     {
       "idm": "292",
@@ -4576,7 +4576,7 @@
         "name": "GALAŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
       },
-      "lastUpdated": "2025-07-25T06:02:47.519Z"
+      "lastUpdated": "2025-07-26T09:14:02.397Z"
     },
     {
       "idm": "293",
@@ -4592,7 +4592,7 @@
         "name": "TULCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=37"
       },
-      "lastUpdated": "2025-07-25T06:02:47.722Z"
+      "lastUpdated": "2025-07-26T09:14:02.600Z"
     },
     {
       "idm": "294",
@@ -4608,7 +4608,7 @@
         "name": "OLT",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=29"
       },
-      "lastUpdated": "2025-07-25T06:02:47.926Z"
+      "lastUpdated": "2025-07-26T09:14:02.803Z"
     },
     {
       "idm": "295",
@@ -4624,7 +4624,7 @@
         "name": "SATU-MARE",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
       },
-      "lastUpdated": "2025-07-25T06:02:48.129Z"
+      "lastUpdated": "2025-07-26T09:14:03.006Z"
     },
     {
       "idm": "296",
@@ -4640,7 +4640,7 @@
         "name": "MARAMUREŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
       },
-      "lastUpdated": "2025-07-25T06:02:48.332Z"
+      "lastUpdated": "2025-07-26T09:14:03.209Z"
     },
     {
       "idm": "297",
@@ -4656,7 +4656,7 @@
         "name": "PRAHOVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
       },
-      "lastUpdated": "2025-07-25T06:02:48.536Z"
+      "lastUpdated": "2025-07-26T09:14:03.412Z"
     },
     {
       "idm": "298",
@@ -4672,7 +4672,7 @@
         "name": "BRAŞOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=8"
       },
-      "lastUpdated": "2025-07-25T06:02:48.739Z"
+      "lastUpdated": "2025-07-26T09:14:03.615Z"
     },
     {
       "idm": "299",
@@ -4688,7 +4688,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:48.942Z"
+      "lastUpdated": "2025-07-26T09:14:03.818Z"
     },
     {
       "idm": "300",
@@ -4704,7 +4704,7 @@
         "name": "VÂLCEA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=39"
       },
-      "lastUpdated": "2025-07-25T06:02:49.146Z"
+      "lastUpdated": "2025-07-26T09:14:04.020Z"
     },
     {
       "idm": "301",
@@ -4720,7 +4720,7 @@
         "name": "TIMIŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=36"
       },
-      "lastUpdated": "2025-07-25T06:02:49.348Z"
+      "lastUpdated": "2025-07-26T09:14:04.223Z"
     },
     {
       "idm": "302",
@@ -4736,7 +4736,7 @@
         "name": "BUCUREŞTI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=41"
       },
-      "lastUpdated": "2025-07-25T06:02:49.554Z"
+      "lastUpdated": "2025-07-26T09:14:04.426Z"
     },
     {
       "idm": "303",
@@ -4752,7 +4752,7 @@
         "name": "SATU-MARE",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=31"
       },
-      "lastUpdated": "2025-07-25T06:02:49.757Z"
+      "lastUpdated": "2025-07-26T09:14:04.629Z"
     },
     {
       "idm": "304",
@@ -4768,7 +4768,7 @@
         "name": "VASLUI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=38"
       },
-      "lastUpdated": "2025-07-25T06:02:49.960Z"
+      "lastUpdated": "2025-07-26T09:14:04.832Z"
     },
     {
       "idm": "305",
@@ -4784,7 +4784,7 @@
         "name": "HUNEDOARA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=22"
       },
-      "lastUpdated": "2025-07-25T06:02:50.162Z"
+      "lastUpdated": "2025-07-26T09:14:05.036Z"
     },
     {
       "idm": "306",
@@ -4800,7 +4800,7 @@
         "name": "MUREŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=27"
       },
-      "lastUpdated": "2025-07-25T06:02:50.364Z"
+      "lastUpdated": "2025-07-26T09:14:05.238Z"
     },
     {
       "idm": "307",
@@ -4816,7 +4816,7 @@
         "name": "SUCEAVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
       },
-      "lastUpdated": "2025-07-25T06:02:50.569Z"
+      "lastUpdated": "2025-07-26T09:14:05.442Z"
     },
     {
       "idm": "308",
@@ -4832,7 +4832,7 @@
         "name": "SUCEAVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=34"
       },
-      "lastUpdated": "2025-07-25T06:02:50.773Z"
+      "lastUpdated": "2025-07-26T09:14:05.644Z"
     },
     {
       "idm": "309",
@@ -4848,7 +4848,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:50.977Z"
+      "lastUpdated": "2025-07-26T09:14:05.848Z"
     },
     {
       "idm": "310",
@@ -4864,7 +4864,7 @@
         "name": "IALOMIŢA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=23"
       },
-      "lastUpdated": "2025-07-25T06:02:51.181Z"
+      "lastUpdated": "2025-07-26T09:14:06.052Z"
     },
     {
       "idm": "311",
@@ -4880,7 +4880,7 @@
         "name": "BIHOR",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
       },
-      "lastUpdated": "2025-07-25T06:02:51.384Z"
+      "lastUpdated": "2025-07-26T09:14:06.254Z"
     },
     {
       "idm": "312",
@@ -4896,7 +4896,7 @@
         "name": "PRAHOVA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=30"
       },
-      "lastUpdated": "2025-07-25T06:02:51.588Z"
+      "lastUpdated": "2025-07-26T09:14:06.456Z"
     },
     {
       "idm": "313",
@@ -4912,7 +4912,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:51.792Z"
+      "lastUpdated": "2025-07-26T09:14:06.659Z"
     },
     {
       "idm": "314",
@@ -4928,7 +4928,7 @@
         "name": "TELEORMAN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=35"
       },
-      "lastUpdated": "2025-07-25T06:02:51.995Z"
+      "lastUpdated": "2025-07-26T09:14:06.863Z"
     },
     {
       "idm": "315",
@@ -4944,7 +4944,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:52.198Z"
+      "lastUpdated": "2025-07-26T09:14:07.065Z"
     },
     {
       "idm": "316",
@@ -4960,7 +4960,7 @@
         "name": "NEAMŢ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=28"
       },
-      "lastUpdated": "2025-07-25T06:02:52.401Z"
+      "lastUpdated": "2025-07-26T09:14:07.267Z"
     },
     {
       "idm": "317",
@@ -4976,7 +4976,7 @@
         "name": "MARAMUREŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
       },
-      "lastUpdated": "2025-07-25T06:02:52.605Z"
+      "lastUpdated": "2025-07-26T09:14:07.469Z"
     },
     {
       "idm": "318",
@@ -4992,7 +4992,7 @@
         "name": "ILFOV",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=42"
       },
-      "lastUpdated": "2025-07-25T06:02:52.807Z"
+      "lastUpdated": "2025-07-26T09:14:07.671Z"
     },
     {
       "idm": "319",
@@ -5008,7 +5008,7 @@
         "name": "BUCUREŞTI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=41"
       },
-      "lastUpdated": "2025-07-25T06:02:53.011Z"
+      "lastUpdated": "2025-07-26T09:14:07.873Z"
     },
     {
       "idm": "320",
@@ -5024,7 +5024,7 @@
         "name": "CARAŞ-SEVERIN",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=11"
       },
-      "lastUpdated": "2025-07-25T06:02:53.215Z"
+      "lastUpdated": "2025-07-26T09:14:08.075Z"
     },
     {
       "idm": "321",
@@ -5040,7 +5040,7 @@
         "name": "ARGEŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=3"
       },
-      "lastUpdated": "2025-07-25T06:02:53.418Z"
+      "lastUpdated": "2025-07-26T09:14:08.278Z"
     },
     {
       "idm": "322",
@@ -5051,7 +5051,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:53.620Z"
+      "lastUpdated": "2025-07-26T09:14:08.479Z"
     },
     {
       "idm": "323",
@@ -5067,7 +5067,7 @@
         "name": "BIHOR",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=5"
       },
-      "lastUpdated": "2025-07-25T06:02:53.823Z"
+      "lastUpdated": "2025-07-26T09:14:08.682Z"
     },
     {
       "idm": "324",
@@ -5083,7 +5083,7 @@
         "name": "MARAMUREŞ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=25"
       },
-      "lastUpdated": "2025-07-25T06:02:54.027Z"
+      "lastUpdated": "2025-07-26T09:14:08.886Z"
     },
     {
       "idm": "325",
@@ -5099,7 +5099,7 @@
         "name": "GALAŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=18"
       },
-      "lastUpdated": "2025-07-25T06:02:54.231Z"
+      "lastUpdated": "2025-07-26T09:14:09.088Z"
     },
     {
       "idm": "326",
@@ -5115,7 +5115,7 @@
         "name": "ALBA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=1"
       },
-      "lastUpdated": "2025-07-25T06:02:54.438Z"
+      "lastUpdated": "2025-07-26T09:14:09.291Z"
     },
     {
       "idm": "327",
@@ -5131,7 +5131,7 @@
         "name": "GORJ",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=20"
       },
-      "lastUpdated": "2025-07-25T06:02:54.644Z"
+      "lastUpdated": "2025-07-26T09:14:09.494Z"
     },
     {
       "idm": "328",
@@ -5147,7 +5147,7 @@
         "name": "ARAD",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=2"
       },
-      "lastUpdated": "2025-07-25T06:02:54.849Z"
+      "lastUpdated": "2025-07-26T09:14:09.697Z"
     },
     {
       "idm": "329",
@@ -5163,7 +5163,7 @@
         "name": "MEHEDINŢI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=26"
       },
-      "lastUpdated": "2025-07-25T06:02:55.052Z"
+      "lastUpdated": "2025-07-26T09:14:09.899Z"
     },
     {
       "idm": "330",
@@ -5179,7 +5179,7 @@
         "name": "HARGHITA",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=21"
       },
-      "lastUpdated": "2025-07-25T06:02:55.255Z"
+      "lastUpdated": "2025-07-26T09:14:10.101Z"
     },
     {
       "idm": "331",
@@ -5190,7 +5190,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:55.457Z"
+      "lastUpdated": "2025-07-26T09:14:10.302Z"
     },
     {
       "idm": "2",
@@ -5206,7 +5206,7 @@
         "name": "IAŞI",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.ce?cir=24"
       },
-      "lastUpdated": "2025-07-25T06:02:55.660Z"
+      "lastUpdated": "2025-07-26T09:14:10.506Z"
     },
     {
       "idm": "146",
@@ -5217,7 +5217,7 @@
         "name": "Grupul parlamentar al minorităţilor naţionale",
         "url": "https://www.cdep.ro/pls/parlam/structura2015.gp?idg=8"
       },
-      "lastUpdated": "2025-07-25T06:02:55.862Z"
+      "lastUpdated": "2025-07-26T09:14:10.707Z"
     }
   ]
 }
