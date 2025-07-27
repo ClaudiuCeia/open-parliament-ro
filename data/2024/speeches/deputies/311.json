@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-27T00:06:23.901Z",
+  "lastUpdated": "2025-07-27T09:03:06.532Z",
   "data": [
     {
       "ids": "8909",
@@ -131,11 +131,6 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8894&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=8&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=8&sir=&sep=and&idv=7661&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 149/2024 pentru modificarea şi completarea unor acte normative cu privire la gestionarea financiară a fondurilor europene nerambursabile alocate României din FEGA şi FEADR, precum şi a fondurilor alocate de la bugetul de stat, aferente politicii agricole comune (PL-x 49/2025) (rămas pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1&sir=&sep=and&idv=7661&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
@@ -144,6 +139,11 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1,002&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=1,002&sir=&sep=and&idv=7661&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dumitru Ţiplea - declaraţie politică: \"Românii au ales un preşedinte pro-european. Acum avem nevoie de o guvernare credibilă şi reformatoare\";"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=8&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8894&idm=8&sir=&sep=and&idv=7661&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 149/2024 pentru modificarea şi completarea unor acte normative cu privire la gestionarea financiară a fondurilor europene nerambursabile alocate României din FEGA şi FEADR, precum şi a fondurilor alocate de la bugetul de stat, aferente politicii agricole comune (PL-x 49/2025) (rămas pentru votul final)."
         }
       ]
     },
@@ -156,9 +156,9 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8892&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=3&sir=&sep=and&idv=7661&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 157/2022 pentru instituirea unei scheme de ajutor de stat sub forma de grant acordat producătorilor agricoli care au înfiinţat culturi în toamna anului 2021 ce au fost afectate de seceta pedologică (PL-x 748/2022) (rămas pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=4&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=4&sir=&sep=and&idv=7661&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 167/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 157/2022 pentru instituirea unei scheme de ajutor de stat sub forma de grant acordat producătorilor agricoli care au înfiinţat culturi în toamna anului 2021 şi au fost afectate de seceta pedologică (PL-x 42/2023) (rămas pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=5&idl=1",
@@ -166,9 +166,9 @@
           "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 145/2024 pentru modificarea art. 16 alin. (1) din Legea nr. 195/2018 privind aprobarea Programului de susţinere a crescătorilor de suine pentru activitatea de reproducţie, precum şi a art. 15 alin. (1) din Legea nr. 227/2018 privind aprobarea Programului de susţinere pentru activitatea de reproducţie, incubaţie şi de creştere în sectorul avicol (PL-x 46/2025) (rămas pentru votul final)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=4&sir=&sep=and&idv=7661&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 167/2022 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 157/2022 pentru instituirea unei scheme de ajutor de stat sub forma de grant acordat producătorilor agricoli care au înfiinţat culturi în toamna anului 2021 şi au fost afectate de seceta pedologică (PL-x 42/2023) (rămas pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=3&sir=&sep=and&idv=7661&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7661%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 157/2022 pentru instituirea unei scheme de ajutor de stat sub forma de grant acordat producătorilor agricoli care au înfiinţat culturi în toamna anului 2021 ce au fost afectate de seceta pedologică (PL-x 748/2022) (rămas pentru votul final)."
         }
       ]
     },

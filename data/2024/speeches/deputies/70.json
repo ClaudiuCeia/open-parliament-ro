@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-07-27T00:04:54.074Z",
+  "lastUpdated": "2025-07-27T09:01:32.310Z",
   "data": [
     {
       "ids": "8914",
@@ -71,11 +71,6 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8909&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=6&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Propunerii legislative pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 83/1999 privind restituirea unor bunuri imobile care au aparţinut comunităţilor cetăţenilor aparţinând minorităţilor naţionale din România, pentru completarea Ordonanţei de urgenţă a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România precum şi pentru modificarea şi completarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România (Pl-x 203/2025) (rămasă pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=7&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=7&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Supunerea la votul final a:"
@@ -84,6 +79,11 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=7,003&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=7,003&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Proiectului de Lege pentru instituirea anului 2026 ca Anul Constantin Brâncuşi (PL-x 151/2025) (adoptat);"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=6&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Propunerii legislative pentru modificarea Ordonanţei de urgenţă a Guvernului nr. 83/1999 privind restituirea unor bunuri imobile care au aparţinut comunităţilor cetăţenilor aparţinând minorităţilor naţionale din România, pentru completarea Ordonanţei de urgenţă a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparţinut cultelor religioase din România precum şi pentru modificarea şi completarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România (Pl-x 203/2025) (rămasă pentru votul final)."
         }
       ]
     },
@@ -171,16 +171,6 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8903&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=6&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 68/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea preţului la energie, suportat parţial din fonduri externe nerambursabile (PL-x 456/2024) (rămas pentru votul final)."
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=5&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=5&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 82/2024 pentru modificarea şi completarea Legii nr. 360/2002 privind Statutul poliţistului (PL-x 487/2024) (rămas pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=8&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Supunerea la votul final a:"
@@ -189,6 +179,21 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=8,01&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=8,01&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Proiectului de Lege pentru modificarea şi completarea Ordonanţei de urgenţă nr. 31/2002 privind interzicerea organizaţiilor, simbolurilor şi faptelor cu caracter fascist, legionar, rasist sau xenofob şi a promovării cultului persoanelor vinovate de săvârşirea unor infracţiuni de genocid contra umanităţii şi de crime de război, precum şi pentru modificarea Legii nr. 157/2018 privind unele măsuri pentru prevenirea şi combaterea antisemitismului (PL-x 168/2025) (adoptat)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=5&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=5&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 82/2024 pentru modificarea şi completarea Legii nr. 360/2002 privind Statutul poliţistului (PL-x 487/2024) (rămas pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=6&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 68/2024 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 166/2022 privind unele măsuri pentru acordarea unui sprijin categoriilor de persoane vulnerabile pentru compensarea preţului la energie, suportat parţial din fonduri externe nerambursabile (PL-x 456/2024) (rămas pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=8&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Supunerea la votul final a:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=8,007&idl=1",
@@ -251,9 +256,9 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8890&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=6&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 67/2024 privind reorganizarea şi funcţionarea Institutului Naţional de Administraţie (PL-x 455/2024) (rămas pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=7&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=7&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 39/2024 pentru modificarea şi completarea Legii nr. 263/2004 privind asigurarea continuităţii asistenţei medicale primare prin centrele de permanenţă (PL-x 519/2024) (rămas pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=8&idl=1",
@@ -261,9 +266,9 @@
           "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 10/2024 pentru modificarea şi completarea unor acte normative (PL-x 194/2024) (rămas pentru votul final)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=7&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=7&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 39/2024 pentru modificarea şi completarea Legii nr. 263/2004 privind asigurarea continuităţii asistenţei medicale primare prin centrele de permanenţă (PL-x 519/2024) (rămas pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=6&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 67/2024 privind reorganizarea şi funcţionarea Institutului Naţional de Administraţie (PL-x 455/2024) (rămas pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=4&idl=1",
@@ -296,6 +301,11 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8881&idl=1",
       "transcripts": [
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=3&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Prezentarea şi dezbaterea moţiunii simple intitulate \"De la democraţie la regim hibrid: România sub jugul poliţiei politice asmuţite de ministrul Predoiu\", iniţiată de 56 de deputaţi (MS 1/2025)."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=6&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Supunerea la votul final a:"
@@ -304,11 +314,6 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=6,01&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=6,01&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Moţiunii simple iniţiată de 56 de deputaţi (MS 1/2025) (respinsă)."
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=3&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Prezentarea şi dezbaterea moţiunii simple intitulate \"De la democraţie la regim hibrid: România sub jugul poliţiei politice asmuţite de ministrul Predoiu\", iniţiată de 56 de deputaţi (MS 1/2025)."
         }
       ]
     },
@@ -336,9 +341,19 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8877&idl=1",
       "transcripts": [
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=3&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind aprobarea Politicii publice de proprietate privată a statului (PL-x 79/2025) (rămas pentru votul final)."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=14&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=14&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Supunerea la votul final a:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=14,012&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=14,012&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Proiectului de Lege privind instituirea \"Săptămânii naţionale a siguranţei rutiere\" (PL-x 593/2024) (adoptat);"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=14,011&idl=1",
@@ -351,24 +366,9 @@
           "description": "Proiectului de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 57/2019 privind Codul administrativ şi pentru modificarea art. 1 alin. (1) din Legea nr. 251/2004 privind unele măsuri referitoare la bunurile primite cu titlu gratuit cu prilejul unor acţiuni de protocol în exercitarea mandatului sau a funcţiei (PL-x 80/2025) (adoptat);"
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=3&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind aprobarea Politicii publice de proprietate privată a statului (PL-x 79/2025) (rămas pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=11&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=11&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Reexaminarea Legii privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 160/2020 pentru modificarea şi completarea Ordonanţei Guvernului nr. 22/1999 privind administrarea porturilor şi a căilor navigabile, utilizarea infrastructurilor de transport naval aparţinând domeniului public, precum şi desfăşurarea activităţilor de transport naval în porturi şi pe căile navigabile interioare, precum şi pentru completarea art. 25 alin. (1) din Legea concurenţei nr. 21/1996, ca urmare a Deciziei Curţii Constituţionale nr. 724 din 13 decembrie 2023, publicată în Monitorul Oficial al României, Partea I, nr. 115 din 9 februarie 2024 (PL-x 620/2020/2024) (rămasă pentru votul final)."
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=14&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=14&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Supunerea la votul final a:"
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=14,012&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=14,012&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Proiectului de Lege privind instituirea \"Săptămânii naţionale a siguranţei rutiere\" (PL-x 593/2024) (adoptat);"
         }
       ]
     },
@@ -401,6 +401,11 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8876&idl=1",
       "transcripts": [
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=9&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=9&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Hotărâre privind modificarea Regulamentului Camerei Deputaţilor (PHCD 17/2025) (rămas pentru votul final)."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=8&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Hotărâre privind modificarea art. 246 alin. (8) din Regulamentul Camerei Deputaţilor (PHCD 16/2025) (rămas pentru votul final)."
@@ -409,11 +414,6 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=10&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=10&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Propunerii legislative pentru modificarea şi completarea art. 34 din Legea drepturilor pacientului nr. 46/2003 (Pl-x 277/2018) (rămasă pentru votul final)."
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=9&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Hotărâre privind modificarea Regulamentului Camerei Deputaţilor (PHCD 17/2025) (rămas pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8876&idm=3&idl=1",
@@ -431,9 +431,14 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8875&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=1&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Propunerii legislative privind reparaţiile morale şi materiale pentru fostele cadre militare active, îndepărtate abuziv din armată în perioada 01 ianuarie 1962 - 25 decembrie 1989 (Pl-x 72/2018) (rămasă pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Supunerea la votul final a:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13,005&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13,005&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Proiectului de Lege pentru ratificarea Acordului între Guvernul României şi Guvernul Ungariei, semnat la Bucureşti la 3 septembrie 2024, pentru modificarea Acordului între Guvernul României şi Guvernul Republicii Ungare privind colaborarea în domeniul prevenirii şi combaterii criminalităţii transfrontaliere, semnat la Szeged la 21 octombrie 2008 (PL-x 673/2024) (adoptat);"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=12&idl=1",
@@ -446,24 +451,29 @@
           "description": "Supunerea la votul final a:"
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13,005&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13,005&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Proiectului de Lege pentru ratificarea Acordului între Guvernul României şi Guvernul Ungariei, semnat la Bucureşti la 3 septembrie 2024, pentru modificarea Acordului între Guvernul României şi Guvernul Republicii Ungare privind colaborarea în domeniul prevenirii şi combaterii criminalităţii transfrontaliere, semnat la Szeged la 21 octombrie 2008 (PL-x 673/2024) (adoptat);"
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13,015&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13,015&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Proiectului de Lege privind holdingurile (PL-x 305/2010) (respins);"
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13,006&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13,006&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Propunerii legislative pentru modificarea art. 24 alin. (6) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice (Pl-x 108/2015) (respinsă);"
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=1&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Propunerii legislative privind reparaţiile morale şi materiale pentru fostele cadre militare active, îndepărtate abuziv din armată în perioada 01 ianuarie 1962 - 25 decembrie 1989 (Pl-x 72/2018) (rămasă pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=7&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=7&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Propunerii legislative pentru recunoaşterea delfinilor drept persoane non-umane (Pl-x 333/2014) (rămasă pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Supunerea la votul final a:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13,006&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=13,006&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Propunerii legislative pentru modificarea art. 24 alin. (6) din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice (Pl-x 108/2015) (respinsă);"
         }
       ]
     },
@@ -476,9 +486,9 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8868&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=6&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei Guvernului nr. 32/2024 privind abrogarea art. III şi IV din Legea nr. 191/2011 pentru modificarea şi completarea Legii nr. 672/2002 privind auditul public intern (PL-x 517/2024) (rămas pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=9&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=9&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru completarea tabelelor-anexă nr. I-III la Legea nr. 143/2000 privind prevenirea şi combaterea traficului şi consumului ilicit de droguri (PL-x 631/2024) (rămas pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=10&idl=1",
@@ -491,11 +501,6 @@
           "description": "Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 66/2023 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 64/2022 privind ajustarea preţurilor şi a valorii devizelor generale în cadrul proiectelor finanţate din fonduri externe nerambursabile (PL-x 562/2023) (adoptat);"
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=9&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege pentru completarea tabelelor-anexă nr. I-III la Legea nr. 143/2000 privind prevenirea şi combaterea traficului şi consumului ilicit de droguri (PL-x 631/2024) (rămas pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
@@ -504,6 +509,11 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,01&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=1,01&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dumitru Coarnă - declaraţie politică intitulată \"Nu ne puteţi reduce la tăcere! România este şi va fi liberă!\";"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=6&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8868&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei Guvernului nr. 32/2024 privind abrogarea art. III şi IV din Legea nr. 191/2011 pentru modificarea şi completarea Legii nr. 672/2002 privind auditul public intern (PL-x 517/2024) (rămas pentru votul final)."
         }
       ]
     },
@@ -536,34 +546,24 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8863&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=8&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii (PL-x 513/2017) (rămas pentru votul final)."
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=6&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea art. 16 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 111/2010 privind concediul şi indemnizaţia lunară pentru creşterea copiilor (PL-x 504/2019) (rămas pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=3&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=3&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Prezentarea de către doamna deputat Maria Cernit, preşedintele Comisiei pentru egalitatea de şanse pentru femei şi bărbaţi, a unui mesaj cu prilejul Zilei internaţionale a femeii."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=7&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=7&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea Legii nr. 211/2011 privind regimul deşeurilor (PL-x 240/2021) (rămas pentru votul final)."
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=4&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Aprobarea prelungirii programului de lucru."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=8&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii (PL-x 513/2017) (rămas pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=11&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=11&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Supunerea la votul final a:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=11,004&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=11,004&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Proiectului de Lege pentru acordarea unor facilităţi în domeniul tineret şi sport pentru înlăturarea efectelor negative ale suspendării activităţilor pe perioada stării de urgenţă (PL-x 332/2020) (respins);"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=11,009&idl=1",
@@ -576,14 +576,19 @@
           "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea Legii nr. 95/2006 privind reforma în domeniul sănătăţii (PL-x 233/2021) (rămas pentru votul final)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=11&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=11&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Supunerea la votul final a:"
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=7&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=7&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea Legii nr. 211/2011 privind regimul deşeurilor (PL-x 240/2021) (rămas pentru votul final)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=11,004&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=11,004&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Proiectului de Lege pentru acordarea unor facilităţi în domeniul tineret şi sport pentru înlăturarea efectelor negative ale suspendării activităţilor pe perioada stării de urgenţă (PL-x 332/2020) (respins);"
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=6&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea art. 16 alin. (3) din Ordonanţa de urgenţă a Guvernului nr. 111/2010 privind concediul şi indemnizaţia lunară pentru creşterea copiilor (PL-x 504/2019) (rămas pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=4&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8863&idm=4&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Aprobarea prelungirii programului de lucru."
         }
       ]
     },
@@ -596,6 +601,11 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8862&idl=1",
       "transcripts": [
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8862&idm=8&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8862&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Propunerii legislative pentru anularea unor obligaţii fiscale în domeniul agricol (Pl-x 238/2018) (rămasă pentru votul final)."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8862&idm=12&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8862&idm=12&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Respingerea propunerii de prelungire a programului de lucru."
@@ -604,11 +614,6 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8862&idm=6&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8862&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege pentru modificarea art. 533 alin. (2) din Ordonanţa Guvernului nr. 68/2003 privind serviciile sociale (PL-x 72/2017) (rămas pentru votul final)."
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8862&idm=8&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8862&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Propunerii legislative pentru anularea unor obligaţii fiscale în domeniul agricol (Pl-x 238/2018) (rămasă pentru votul final)."
         }
       ]
     },
@@ -641,11 +646,6 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8861&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=2&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=2&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Aprobarea unor modificări ale ordinii de zi."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=4&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=4&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 41/2024 pentru modificarea şi completarea unor acte normative din domeniul feroviar (PL-x 474/2024) (rămas pentru votul final)."
@@ -654,6 +654,11 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=3&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=3&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 37/2024 privind desemnarea entităţii centrale de stocare din România şi pentru modificarea şi completarea unor acte normative în domeniul rezervelor de stat (PL-x 314/2024) (rămas pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=2&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8861&idm=2&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Aprobarea unor modificări ale ordinii de zi."
         }
       ]
     },
@@ -666,11 +671,6 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8857&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8857&idm=8&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8857&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege pentru aderarea Administraţiei Naţionale a Penitenciarelor la Asociaţia Internaţională a Instituţiilor Corecţionale şi Penitenciarelor şi pentru aprobarea plăţii cotizaţiei anuale la aceasta, precum şi pentru completarea Ordonanţei Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte (PL-x 738/2022) (rămas pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8857&idm=3&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8857&idm=3&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Proiectul de Lege privind aprobarea Ordonanţei Guvernului nr. 41/2023 pentru reglementarea unor măsuri fiscal-bugetare (PL-x 653/2023) (retrimis comisiilor)."
@@ -679,6 +679,11 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8857&idm=10&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8857&idm=10&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 28/2024 privind completarea art. 71 alin. (2) din Legea educaţiei fizice şi sportului nr. 69/2000, precum şi pentru stabilirea unor măsuri în domeniul (PL-x 472/2024) (rămas pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8857&idm=8&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8857&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru aderarea Administraţiei Naţionale a Penitenciarelor la Asociaţia Internaţională a Instituţiilor Corecţionale şi Penitenciarelor şi pentru aprobarea plăţii cotizaţiei anuale la aceasta, precum şi pentru completarea Ordonanţei Guvernului nr. 41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte (PL-x 738/2022) (rămas pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8857&idm=7&idl=1",
@@ -701,6 +706,36 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8856&idl=1",
       "transcripts": [
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=9&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=9&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind controlul utilizării spaţiului aerian naţional (PL-x 6/2025) (rămas pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=8&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind desfăşurarea pe timp de pace a misiunilor şi operaţiilor militare pe teritoriul statului român (PL-x 5/2025) (rămas pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=4&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=4&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Propunerii legislative privind unele măsuri de stimulare a învăţământului profesional, universitar şi a cercetării ştiinţifice (Pl-x 172/2014) (rămasă pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=11&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=11&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Supunerea la votul final a:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=11,009&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=11,009&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Propunerii legislative privind unele măsuri de stimulare a învăţământului profesional, universitar şi a cercetării ştiinţifice (Pl-x 172/2014) (respinsă);"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=10&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=10&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind transmiterea unui imobil situat în municipiul Tulcea, judeţul Tulcea, aflat în domeniul public al statului, din administrarea Administraţiei Rezervaţiei Biosferei, \"Delta Dunării\", aflată în subordinea Ministerului Mediului, Apelor şi Pădurilor, în administrarea Ministerului Apărării Naţionale (PL-x 42/2024) (rămas pentru votul final)."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=6&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Propunerii legislative pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor (Pl-x 703/2018) (rămasă pentru votul final)."
@@ -721,39 +756,14 @@
           "description": "Proiectului de Lege privind transmiterea unui imobil situat în municipiul Tulcea, judeţul Tulcea, aflat în domeniul public al statului, din administrarea Administraţiei Rezervaţiei Biosferei \"Delta Dunării\", aflată în subordinea Ministerului Mediului, Apelor şi Pădurilor, în administrarea Ministerului Apărării Naţionale (PL-x 42/2024) (adoptat)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=11,009&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=11,009&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Propunerii legislative privind unele măsuri de stimulare a învăţământului profesional, universitar şi a cercetării ştiinţifice (Pl-x 172/2014) (respinsă);"
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=2&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=2&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Aprobarea desfăşurării lucrărilor Comisiei pentru apărare, ordine publică şi siguranţă naţională în paralel cu plenul, pentru a finaliza dezbaterile la Proiectul de Lege privind desfăşurarea pe timp de pace a misiunilor şi operaţiilor militare pe teritoriul statului român (PL-x 5/2025) şi Proiectul de Lege privind controlul utilizării spaţiului aerian naţional (PL-x 6/2025)."
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=8&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind desfăşurarea pe timp de pace a misiunilor şi operaţiilor militare pe teritoriul statului român (PL-x 5/2025) (rămas pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=5&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=5&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Propunerii legislative pentru modificarea şi completarea Legii vânătorii şi a protecţiei fondului cinegetic nr. 407 din 9 noiembrie 2006 (Pl-x 670/2018) (rămasă pentru votul final)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=9&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind controlul utilizării spaţiului aerian naţional (PL-x 6/2025) (rămas pentru votul final)."
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=10&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=10&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind transmiterea unui imobil situat în municipiul Tulcea, judeţul Tulcea, aflat în domeniul public al statului, din administrarea Administraţiei Rezervaţiei Biosferei, \"Delta Dunării\", aflată în subordinea Ministerului Mediului, Apelor şi Pădurilor, în administrarea Ministerului Apărării Naţionale (PL-x 42/2024) (rămas pentru votul final)."
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=4&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Propunerii legislative privind unele măsuri de stimulare a învăţământului profesional, universitar şi a cercetării ştiinţifice (Pl-x 172/2014) (rămasă pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=2&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=2&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Aprobarea desfăşurării lucrărilor Comisiei pentru apărare, ordine publică şi siguranţă naţională în paralel cu plenul, pentru a finaliza dezbaterile la Proiectul de Lege privind desfăşurarea pe timp de pace a misiunilor şi operaţiilor militare pe teritoriul statului român (PL-x 5/2025) şi Proiectul de Lege privind controlul utilizării spaţiului aerian naţional (PL-x 6/2025)."
         }
       ]
     },
@@ -781,6 +791,11 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8852&idl=1",
       "transcripts": [
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=7&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=7&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Propunerii legislative pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 (Pl-x 278/2017) (rămasă pentru votul final)."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=8&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Supunerea la votul final a:"
@@ -789,11 +804,6 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=8,012&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=8,012&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Propunerii legislative pentru modificarea art. 391 din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor (Pl-x 572/2018) (respinsă);"
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=8&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Supunerea la votul final a:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=8,004&idl=1",
@@ -811,9 +821,9 @@
           "description": "Dezbateri asupra Propunerii legislative pentru completarea Legii învăţământului preuniversitar nr. 198/2023 (Pl-x 586/2024) (retrimisă comisiei)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=7&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=7&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Propunerii legislative pentru modificarea şi completarea Legii educaţiei fizice şi sportului nr. 69/2000 (Pl-x 278/2017) (rămasă pentru votul final)."
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=8&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=8&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Supunerea la votul final a:"
         }
       ]
     },
@@ -851,14 +861,14 @@
           "description": "Supunerea la votul final a:"
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8850&idm=6,003&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8850&idm=6,003&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Proiectului de Hotarâre privind reducerea numarului de posturi alocate compartimentelor din serviciile Camerei Deputaţilor (PHCD 3/2025) (adoptat);"
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8850&idm=6,004&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8850&idm=6,004&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Proiectului de Lege pentru aprobarea plafoanelor unor indicatori specificaţi în cadrul fiscal-bugetar pe anul 2025 (PL-x 37/2025) (adoptat)"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8850&idm=6,003&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8850&idm=6,003&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Proiectului de Hotarâre privind reducerea numarului de posturi alocate compartimentelor din serviciile Camerei Deputaţilor (PHCD 3/2025) (adoptat);"
         }
       ]
     },
@@ -886,14 +896,14 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8845&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8845&idm=6&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8845&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Informare privind demisia doamnei deputat Ecaterina-Mariana Szőke din Grupul parlamentar SOS şi activarea sa ca deputat neafiliat."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8845&idm=9&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8845&idm=9&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Informare privind modificări în componenţa numerică şi în conducerea grupurilor parlamentare."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8845&idm=6&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8845&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Informare privind demisia doamnei deputat Ecaterina-Mariana Szőke din Grupul parlamentar SOS şi activarea sa ca deputat neafiliat."
         }
       ]
     },
@@ -976,11 +986,6 @@
           "description": "Aprobarea componenţei numerice şi nominale a comisiilor permanente ale Camerei Deputaţilor."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=4&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=4&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Prezentarea denumirii, componenţei numerice şi conducerii grupurilor parlamentare."
@@ -989,6 +994,11 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=6&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=6&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Alegerea vicepreşedinţilor, secretarilor şi chestorilor Camerei Deputaţilor."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7205&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7205%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=14-07-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
         }
       ]
     },
