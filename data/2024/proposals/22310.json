@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-08-21T00:15:30.310Z",
+  "lastUpdated": "2025-08-21T09:12:15.363Z",
   "data": {
     "idp": "22310",
     "title": "Propunere legislativă pentru modificarea unor acte normative din domeniul pensiilor de serviciu",
@@ -13,8 +13,8 @@
     "type": "Propunere legislativa",
     "emergencyProcedure": true,
     "status": {
-      "short": "la Senat",
-      "long": "la Senat"
+      "short": "procedura legislativa încetata prin respingere definitiva de catre Senat",
+      "long": "procedura legislativa încetata prin respingere definitiva de catre Senat"
     },
     "initiators": [
       "59",
