@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:25:07.856Z",
+  "lastUpdated": "2025-08-25T18:26:54.770Z",
   "data": [
     {
       "idi": "77599",
@@ -898,6 +898,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i483B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79395&idl=1",
       "registrationId": "483B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79756",
+      "title": "Întrebarea nr.1798A/22-07-2025",
+      "description": "Stadiul implementării proiectelor PNRR în sănătate in județul Bihor",
+      "addressee": {
+        "idm": "208"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1798A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79756&idl=1",
+      "registrationId": "1798A",
       "requestedResponseType": "în scris",
       "answers": []
     }

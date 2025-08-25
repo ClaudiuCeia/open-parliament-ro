@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:19:05.419Z",
+  "lastUpdated": "2025-08-25T18:20:48.885Z",
   "data": [
     {
       "idi": "77809",
@@ -831,6 +831,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1740A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79698&idl=1",
       "registrationId": "1740A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79776",
+      "title": "Întrebarea nr.1818A/23-07-2025",
+      "description": "Incidentul privind pătrunderea aeronavelor ucrainene în spațiul aerian al României",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1818A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79776&idl=1",
+      "registrationId": "1818A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79777",
+      "title": "Întrebarea nr.1819A/23-07-2025",
+      "description": "Impactul restricțiilor impuse carierelor de piatră din județul Tulcea asupra lucrărilor de infrastructură",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1819A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79777&idl=1",
+      "registrationId": "1819A",
       "requestedResponseType": "în scris",
       "answers": []
     }

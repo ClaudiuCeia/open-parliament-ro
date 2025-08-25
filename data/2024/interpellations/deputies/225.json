@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:25:42.152Z",
+  "lastUpdated": "2025-08-25T18:27:28.656Z",
   "data": [
     {
       "idi": "79303",
@@ -51,6 +51,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1394A.pdf"
         }
       ]
+    },
+    {
+      "idi": "79750",
+      "title": "Întrebarea nr.1792A/21-07-2025",
+      "description": "Crearea unui cadru legal care să conducă la creșterea gradului de încasare a amenzilor contravenționale, scăderea costurilor administrative de procesare a contravențiilor și creșterea gradului de ordine și siguranță publică. Aducerea în atenția guvernului a unei soluții pentru colectarea unor sume de bani ca alternativă la măsura fiscală de introducere a contribuției la sănătate pentru pensionari.",
+      "addressee": {
+        "idm": "225"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1792A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79750&idl=1",
+      "registrationId": "1792A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

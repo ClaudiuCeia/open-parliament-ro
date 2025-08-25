@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:28:58.583Z",
+  "lastUpdated": "2025-08-25T18:30:47.686Z",
   "data": [
     {
       "idi": "78132",
@@ -1012,6 +1012,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1731A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79689&idl=1",
       "registrationId": "1731A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79766",
+      "title": "Întrebarea nr.1808A/22-07-2025",
+      "description": "Solicitare de informații privind măsurile adoptate și acțiunile întreprinse pentru combaterea comerțului ilegal cu produse fitosanitare și cu semințe contrafăcute",
+      "addressee": {
+        "idm": "311"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1808A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79766&idl=1",
+      "registrationId": "1808A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79767",
+      "title": "Întrebarea nr.1809A/22-07-2025",
+      "description": "Impactul marilor proiecte de infrastructură asupra industriei naționale de materiale de construcții. Precizări asupra unui proiect cu finanțare din PNRR",
+      "addressee": {
+        "idm": "311"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1809A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79767&idl=1",
+      "registrationId": "1809A",
       "requestedResponseType": "în scris",
       "answers": []
     }

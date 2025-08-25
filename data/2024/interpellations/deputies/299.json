@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:28:30.732Z",
+  "lastUpdated": "2025-08-25T18:30:19.559Z",
   "data": [
     {
       "idi": "78397",
@@ -37,6 +37,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/2r726A.pdf"
         }
       ]
+    },
+    {
+      "idi": "79742",
+      "title": "Întrebarea nr.1784A/18-07-2025",
+      "description": "Timpi excesivi de așteptare la Unitatea de Primiri Urgențe (UPU) a Spitalului Clinic Județean de Urgență „Sf. Spiridon” Iaşi – solicitare de date, analize şi măsuri",
+      "addressee": {
+        "idm": "299"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1784A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79742&idl=1",
+      "registrationId": "1784A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

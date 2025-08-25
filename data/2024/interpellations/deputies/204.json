@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:24:49.557Z",
+  "lastUpdated": "2025-08-25T18:26:36.174Z",
   "data": [
     {
       "idi": "77811",
@@ -918,6 +918,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1742A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79700&idl=1",
       "registrationId": "1742A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79778",
+      "title": "Întrebarea nr.1820A/23-07-2025",
+      "description": "Situația comunităților ortodoxe române din Ucraina și atacurile recente asupra Bisericii Ortodoxe Române",
+      "addressee": {
+        "idm": "204"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1820A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79778&idl=1",
+      "registrationId": "1820A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79780",
+      "title": "Întrebarea nr.1822A/23-07-2025",
+      "description": "Impactul adoptării de către Ucraina a legii privind dubla cetățenie asupra minorității românești",
+      "addressee": {
+        "idm": "204"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1822A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79780&idl=1",
+      "registrationId": "1822A",
       "requestedResponseType": "în scris",
       "answers": []
     }

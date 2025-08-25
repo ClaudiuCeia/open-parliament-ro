@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:27:36.140Z",
+  "lastUpdated": "2025-08-25T18:29:24.803Z",
   "data": [
     {
       "idi": "77476",
@@ -1521,6 +1521,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1749A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79707&idl=1",
       "registrationId": "1749A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79748",
+      "title": "Întrebarea nr.1790A/21-07-2025",
+      "description": "Eradicarea contrabandei cu produse din tutun – un pas important pentru stabilizarea bugetului",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1790A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79748&idl=1",
+      "registrationId": "1790A",
       "requestedResponseType": "în scris",
       "answers": []
     }

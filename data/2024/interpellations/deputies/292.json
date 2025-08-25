@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:27:59.880Z",
+  "lastUpdated": "2025-08-25T18:29:49.145Z",
   "data": [
     {
       "idi": "77740",
@@ -923,6 +923,90 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1638A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79596&idl=1",
       "registrationId": "1638A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79775",
+      "title": "Întrebarea nr.1817A/23-07-2025",
+      "description": "Situația investițiilor în construcția de stadioane și cofinanțarea locală a proiectelor",
+      "addressee": {
+        "idm": "292"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1817A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79775&idl=1",
+      "registrationId": "1817A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79779",
+      "title": "Întrebarea nr.1821A/23-07-2025",
+      "description": "Situația gravă a arhivei Bibliotecii Naționale a României și riscul distrugerii patrimoniului cultural",
+      "addressee": {
+        "idm": "292"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1821A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79779&idl=1",
+      "registrationId": "1821A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79781",
+      "title": "Întrebarea nr.1823A/23-07-2025",
+      "description": "Clarificări asupra proiectului de digitalizare a Ministerului Sănătății",
+      "addressee": {
+        "idm": "292"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1823A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79781&idl=1",
+      "registrationId": "1823A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79782",
+      "title": "Întrebarea nr.1824A/23-07-2025",
+      "description": "Problema indemnizațiilor din Consiliile de Administrație ale companiilor de stat",
+      "addressee": {
+        "idm": "292"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1824A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79782&idl=1",
+      "registrationId": "1824A",
       "requestedResponseType": "în scris",
       "answers": []
     }

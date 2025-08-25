@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:23:01.468Z",
+  "lastUpdated": "2025-08-25T18:24:46.462Z",
   "data": [
     {
       "idi": "77849",
@@ -30,6 +30,111 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r333A.pdf"
         }
       ]
+    },
+    {
+      "idi": "79770",
+      "title": "Întrebarea nr.1812A/23-07-2025",
+      "description": "Cuantumul cheltuielilor suportate de Ministerul Afacerilor Interne pentru aducerea în țară a persoanelor solicitate, extrădate sau extrădabile în anul 2024",
+      "addressee": {
+        "idm": "129"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1812A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79770&idl=1",
+      "registrationId": "1812A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79771",
+      "title": "Întrebarea nr.1813A/23-07-2025",
+      "description": "Stadiul studiului de fezabilitate pentru modernizarea și extinderea perioadei de acces pe DN7C",
+      "addressee": {
+        "idm": "129"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1813A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79771&idl=1",
+      "registrationId": "1813A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79772",
+      "title": "Întrebarea nr.1814A/23-07-2025",
+      "description": "73Starea de degradare a DN73C (porțiunea Curtea de Argeș - Câmpulung)și măsurile prevăzute pentru îmbunătățirea situației existente",
+      "addressee": {
+        "idm": "129"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1814A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79772&idl=1",
+      "registrationId": "1814A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79773",
+      "title": "Întrebarea nr.1815A/23-07-2025",
+      "description": "Stadiul lucrărilor de modernizare pe DN73 (porțiunea Câmpulung - Brașov)",
+      "addressee": {
+        "idm": "129"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1815A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79773&idl=1",
+      "registrationId": "1815A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79774",
+      "title": "Întrebarea nr.1816A/23-07-2025",
+      "description": "Populația de urși din județul Argeș și incidentele recente de pe DN7C - Transfăgărășan",
+      "addressee": {
+        "idm": "129"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1816A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79774&idl=1",
+      "registrationId": "1816A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

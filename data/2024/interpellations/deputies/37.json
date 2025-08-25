@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:20:12.577Z",
+  "lastUpdated": "2025-08-25T18:21:56.291Z",
   "data": [
     {
       "idi": "77548",
@@ -107,6 +107,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1674A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79632&idl=1",
       "registrationId": "1674A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79749",
+      "title": "Întrebarea nr.1791A/21-07-2025",
+      "description": "Necesitatea introducerii unei perioade de gratie pentru parcare amenajarea unui spațiu dedicat preluării rapide a pasagerilor în zona Aeroportului International „Henri Coandă\"",
+      "addressee": {
+        "idm": "37"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1791A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79749&idl=1",
+      "registrationId": "1791A",
       "requestedResponseType": "în scris",
       "answers": []
     }

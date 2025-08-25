@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:24:06.114Z",
+  "lastUpdated": "2025-08-25T18:25:51.893Z",
   "data": [
     {
       "idi": "77500",
@@ -1833,6 +1833,111 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1737A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79695&idl=1",
       "registrationId": "1737A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79751",
+      "title": "Întrebarea nr.1793A/21-07-2025",
+      "description": "Situația infrastructurii de baraje din România și riscurile asociate",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1793A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79751&idl=1",
+      "registrationId": "1793A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79752",
+      "title": "Întrebarea nr.1794A/21-07-2025",
+      "description": "Aplicarea procedurii de recunoaștere a rezidențiatului realizat în străinătate",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1794A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79752&idl=1",
+      "registrationId": "1794A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79753",
+      "title": "Întrebarea nr.1795A/21-07-2025",
+      "description": "Reglementarea și eficientizarea serviciilor de spitalizare de zi",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1795A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79753&idl=1",
+      "registrationId": "1795A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79754",
+      "title": "Întrebarea nr.1796A/21-07-2025",
+      "description": "Eficientizarea activității ambulatoriilor clinice de specialitate",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1796A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79754&idl=1",
+      "registrationId": "1796A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79755",
+      "title": "Întrebarea nr.1797A/21-07-2025",
+      "description": "Măsuri pentru eficientizarea cheltuielilor în sistemul medical",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1797A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79755&idl=1",
+      "registrationId": "1797A",
       "requestedResponseType": "în scris",
       "answers": []
     }

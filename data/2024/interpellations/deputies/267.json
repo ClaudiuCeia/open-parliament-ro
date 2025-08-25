@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:27:17.325Z",
+  "lastUpdated": "2025-08-25T18:29:05.843Z",
   "data": [
     {
       "idi": "78193",
@@ -207,6 +207,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1693A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79651&idl=1",
       "registrationId": "1693A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79740",
+      "title": "Întrebarea nr.1782A/17-07-2025",
+      "description": "Valorificarea tinerilor supradotați",
+      "addressee": {
+        "idm": "267"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1782A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79740&idl=1",
+      "registrationId": "1782A",
       "requestedResponseType": "în scris",
       "answers": []
     }

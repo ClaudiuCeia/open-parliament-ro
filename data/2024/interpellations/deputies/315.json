@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:29:17.325Z",
+  "lastUpdated": "2025-08-25T18:31:06.805Z",
   "data": [
     {
       "idi": "77649",
@@ -792,6 +792,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1767A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79725&idl=1",
       "registrationId": "1767A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79788",
+      "title": "Întrebarea nr.1830A/23-07-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1474A - Situația românilor blocați în Israel și Iran, în contextul escaladării conflictului din Orientul Mijlociu",
+      "addressee": {
+        "idm": "315"
+      },
+      "recipient": "Ministerul Afacerilor Externe",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1830A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79788&idl=1",
+      "registrationId": "1830A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79789",
+      "title": "Întrebarea nr.1831A/23-07-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1475A - Cazul morților suspecte de la Spitalul Sf. Pantelimon din București",
+      "addressee": {
+        "idm": "315"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1831A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79789&idl=1",
+      "registrationId": "1831A",
       "requestedResponseType": "în scris",
       "answers": []
     }

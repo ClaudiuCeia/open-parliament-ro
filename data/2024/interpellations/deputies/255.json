@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T09:26:38.751Z",
+  "lastUpdated": "2025-08-25T18:28:26.523Z",
   "data": [
     {
       "idi": "78952",
@@ -30,6 +30,69 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1107A.pdf"
         }
       ]
+    },
+    {
+      "idi": "79745",
+      "title": "Întrebarea nr.1787A/18-07-2025",
+      "description": "Încălcare a art. 30 alin. (7) din Constituția României prin recitalul artistului „Albert NBN” (Albert Tănasă) în cadrul festivalului „Beach, Please!”",
+      "addressee": {
+        "idm": "255"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1787A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79745&idl=1",
+      "registrationId": "1787A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79746",
+      "title": "Întrebarea nr.1788A/18-07-2025",
+      "description": "Ancheta privind presupusele deversări de poluanți în râul Bistrița de la ferma „La Provincia – Avicarvil”, Frâncești, Vâlcea",
+      "addressee": {
+        "idm": "255"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1788A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79746&idl=1",
+      "registrationId": "1788A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79747",
+      "title": "Întrebarea nr.1789A/18-07-2025",
+      "description": "Situația lucrărilor de consolidare a DN7CC, km 2+950 – 3+150, orașul Călimănești, județul Vâlcea",
+      "addressee": {
+        "idm": "255"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1789A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79747&idl=1",
+      "registrationId": "1789A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }
