@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T00:32:29.026Z",
+  "lastUpdated": "2025-08-25T09:29:10.033Z",
   "data": [
     {
       "idi": "77665",
@@ -778,6 +778,111 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1701A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79659&idl=1",
       "registrationId": "1701A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79732",
+      "title": "Întrebarea nr.1774A/16-07-2025",
+      "description": "Solicitare de trimitere a Corpului de Control pentru verificarea condițiilor legale de închidere a gropii de gunoi din Pasul Mestecăniș",
+      "addressee": {
+        "idm": "314"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1774A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79732&idl=1",
+      "registrationId": "1774A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79733",
+      "title": "Întrebarea nr.1775A/16-07-2025",
+      "description": "„Control de urgență pentru iazul de decantare Ostra (peste 8 milioane m3 steril) — stabilirea responsabilităților măsuri de securizare\"",
+      "addressee": {
+        "idm": "314"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1775A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79733&idl=1",
+      "registrationId": "1775A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79734",
+      "title": "Întrebarea nr.1776A/16-07-2025",
+      "description": "„Control de urgență pentru investi!ia hidro-energetică Pașcani pe râul Siret verificarea legalității, impactului măsurilor de protecție a mediului\"",
+      "addressee": {
+        "idm": "314"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1776A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79734&idl=1",
+      "registrationId": "1776A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79735",
+      "title": "Întrebarea nr.1777A/16-07-2025",
+      "description": "Situația discriminatorie a persoanelor dependente de hemodializă pierderea nejustificată a indemnizației de însoțitor",
+      "addressee": {
+        "idm": "314"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndomnului\nPetre-Florin Manole\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1777A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79735&idl=1",
+      "registrationId": "1777A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79736",
+      "title": "Întrebarea nr.1778A/16-07-2025",
+      "description": "„Pierdere finanțare PNRR pentru caravanele mobile de screening oncologic — stabilirea responsabilităților măsuri de remediere\"",
+      "addressee": {
+        "idm": "314"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1778A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79736&idl=1",
+      "registrationId": "1778A",
       "requestedResponseType": "în scris",
       "answers": []
     }

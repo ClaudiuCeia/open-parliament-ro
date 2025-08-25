@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T00:27:07.784Z",
+  "lastUpdated": "2025-08-25T09:23:47.127Z",
   "data": [
     {
       "idi": "77875",
@@ -193,6 +193,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1681A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79639&idl=1",
       "registrationId": "1681A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79728",
+      "title": "Întrebarea nr.1770A/15-07-2025",
+      "description": "Aplicarea Deciziei Curții Constituționale nr. 724/2024 și compensarea sumelor reținute neconstituțional din pensiile de serviciu",
+      "addressee": {
+        "idm": "162"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1770A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79728&idl=1",
+      "registrationId": "1770A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79729",
+      "title": "Întrebarea nr.1771A/15-07-2025",
+      "description": "Sancționarea manifestărilor publice care denigrează România și protejarea simbolurilor naționale în cadrul evenimentelor culturale",
+      "addressee": {
+        "idm": "162"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1771A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79729&idl=1",
+      "registrationId": "1771A",
       "requestedResponseType": "în scris",
       "answers": []
     }

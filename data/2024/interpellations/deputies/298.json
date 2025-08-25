@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-25T00:31:49.361Z",
+  "lastUpdated": "2025-08-25T09:28:30.004Z",
   "data": [
     {
       "idi": "77612",
@@ -2860,6 +2860,111 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1711A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79668&idl=1",
       "registrationId": "1711A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79709",
+      "title": "Întrebarea nr.1751A/14-07-2025",
+      "description": "Recuperarea primelor și adaosurilor salariale acordate în afara cadrului legal în cadrul Transelectrica S.A.",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1751A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79709&idl=1",
+      "registrationId": "1751A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79710",
+      "title": "Întrebarea nr.1752A/14-07-2025",
+      "description": "Românii sunt europenii cei mai expuşi riscului de sărăcie şi excluziune socială – situația pentru județul Brașov",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndomnului\nPetre-Florin Manole\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1752A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79710&idl=1",
+      "registrationId": "1752A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79711",
+      "title": "Întrebarea nr.1753A/14-07-2025",
+      "description": "Un nou gest sfidător de ”solidaritate” - indemnizațiile membrilor Consiliului de Administrație de la TAROM au fost dublate",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1753A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79711&idl=1",
+      "registrationId": "1753A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79712",
+      "title": "Întrebarea nr.1754A/14-07-2025",
+      "description": "Decizia de creștere a normei didactice va conduce la restrângere de activitate - ce se va întâmpla cu profesorii care nu au ore la plata cu ora? Situația pentru județul Brașov",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1754A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79712&idl=1",
+      "registrationId": "1754A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79713",
+      "title": "Întrebarea nr.1755A/14-07-2025",
+      "description": "Stadiul proiectului de Investiții Reconstrucția fostului punct vamal “Cetatea Rakoczi”, sat Ghimeș, comuna Ghimeș-Făget, județul Bacău",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-06-08T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1755A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79713&idl=1",
+      "registrationId": "1755A",
       "requestedResponseType": "în scris",
       "answers": []
     }
