@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T00:29:36.891Z",
+  "lastUpdated": "2025-08-26T09:27:46.849Z",
   "data": [
     {
       "idi": "77472",
@@ -1484,6 +1484,90 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1746A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79704&idl=1",
       "registrationId": "1746A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79800",
+      "title": "Întrebarea nr.1842A/24-07-2025",
+      "description": "Restanţele la plăţile către furnizorii din asistenţa medicală primară aflaţi în relaţie contractuală cu casele de asigurări de sănătate – situația pentru județul Prahova",
+      "addressee": {
+        "idm": "262"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1842A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79800&idl=1",
+      "registrationId": "1842A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79837",
+      "title": "Întrebarea nr.1879A/04-08-2025",
+      "description": "Clarificări despre starea de sănătate a locuitorilor județului Prahova",
+      "addressee": {
+        "idm": "262"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-04-08T00:00:00.000Z",
+        "presentation": "2025-04-08T00:00:00.000Z",
+        "communication": "2025-06-08T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1879A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79837&idl=1",
+      "registrationId": "1879A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79838",
+      "title": "Întrebarea nr.1880A/04-08-2025",
+      "description": "Numărul de localități din județul Prahova care funcționează exclusiv prin intermediul subvențiilor",
+      "addressee": {
+        "idm": "262"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": "2025-04-08T00:00:00.000Z",
+        "presentation": "2025-04-08T00:00:00.000Z",
+        "communication": "2025-06-08T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1880A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79838&idl=1",
+      "registrationId": "1880A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79849",
+      "title": "Întrebarea nr.1891A/06-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1312A – ”Dezastrul de la salina Praid se poate repeta - riscuri în zona de extracție a minei Slănic, probleme cu infiltrații în zona de exploatare de sub zona turistică”",
+      "addressee": {
+        "idm": "262"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": "2025-06-08T00:00:00.000Z",
+        "presentation": "2025-06-08T00:00:00.000Z",
+        "communication": "2025-06-08T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1891A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79849&idl=1",
+      "registrationId": "1891A",
       "requestedResponseType": "în scris",
       "answers": []
     }

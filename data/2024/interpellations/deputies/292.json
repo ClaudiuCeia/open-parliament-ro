@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T00:30:25.542Z",
+  "lastUpdated": "2025-08-26T09:28:37.766Z",
   "data": [
     {
       "idi": "77740",
@@ -1007,6 +1007,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1824A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79782&idl=1",
       "registrationId": "1824A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79811",
+      "title": "Întrebarea nr.1853A/29-07-2025",
+      "description": "Întârzieri ale lucrărilor la Lotul 3 al Autostrăzii A0 Nord",
+      "addressee": {
+        "idm": "292"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1853A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79811&idl=1",
+      "registrationId": "1853A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79814",
+      "title": "Întrebarea nr.1856A/29-07-2025",
+      "description": "Efectele comasării unităților de învățământ sub 500 de elevi. Impact administrativ, educațional și identitar",
+      "addressee": {
+        "idm": "292"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1856A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79814&idl=1",
+      "registrationId": "1856A",
       "requestedResponseType": "în scris",
       "answers": []
     }

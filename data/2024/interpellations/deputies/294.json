@@ -1,5 +1,27 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T00:30:27.004Z",
-  "data": []
+  "lastUpdated": "2025-08-26T09:28:39.229Z",
+  "data": [
+    {
+      "idi": "79819",
+      "title": "Întrebarea nr.1861A/30-07-2025",
+      "description": "Stadiul lucrărilor pe Loturile Autostrăzii A3",
+      "addressee": {
+        "idm": "294"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1861A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79819&idl=1",
+      "registrationId": "1861A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
 }

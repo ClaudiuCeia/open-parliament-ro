@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T00:27:15.864Z",
+  "lastUpdated": "2025-08-26T09:25:19.188Z",
   "data": [
     {
       "idi": "77811",
@@ -960,6 +960,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1822A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79780&idl=1",
       "registrationId": "1822A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79810",
+      "title": "Întrebarea nr.1852A/29-07-2025",
+      "description": "Inundații în județele Suceava și Neamț. Măsuri pentru prevenirea riscurilor viitoare",
+      "addressee": {
+        "idm": "204"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1852A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79810&idl=1",
+      "registrationId": "1852A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79813",
+      "title": "Întrebarea nr.1855A/29-07-2025",
+      "description": "Situația achiziției submarinelor „Scorpene” și perspectiva operativă a Forțelor Navale Române",
+      "addressee": {
+        "idm": "204"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1855A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79813&idl=1",
+      "registrationId": "1855A",
       "requestedResponseType": "în scris",
       "answers": []
     }

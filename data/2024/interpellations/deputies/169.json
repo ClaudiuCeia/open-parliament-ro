@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T00:26:38.530Z",
+  "lastUpdated": "2025-08-26T09:24:39.612Z",
   "data": [
     {
       "idi": "77906",
@@ -677,6 +677,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1732A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79690&idl=1",
       "registrationId": "1732A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79805",
+      "title": "Întrebarea nr.1847A/24-07-2025",
+      "description": "Situația și numărul adăposturilor de protecție civilă din județul Suceava și a rezervelor de alimente",
+      "addressee": {
+        "idm": "169"
+      },
+      "recipient": "Inspectoratul General pentru Situații de Urgență",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1847A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79805&idl=1",
+      "registrationId": "1847A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T00:21:33.131Z",
+  "lastUpdated": "2025-08-26T09:19:19.321Z",
   "data": [
     {
       "idi": "77809",
@@ -873,6 +873,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1819A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79777&idl=1",
       "registrationId": "1819A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79809",
+      "title": "Întrebarea nr.1851A/29-07-2025",
+      "description": "Măsuri privind protecția ecosistemului Deltei Dunării în contextul lucrărilor de dragare efectuate de Ucraina pe Canalul Bâstroe",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1851A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79809&idl=1",
+      "registrationId": "1851A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79812",
+      "title": "Întrebarea nr.1854A/29-07-2025",
+      "description": "Problema braconajului piscicol din Delta Dunării",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1854A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79812&idl=1",
+      "registrationId": "1854A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T00:27:25.622Z",
+  "lastUpdated": "2025-08-26T09:25:29.707Z",
   "data": [
     {
       "idi": "77532",
@@ -1176,6 +1176,69 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1481A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79439&idl=1",
       "registrationId": "1481A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79817",
+      "title": "Întrebarea nr.1859A/30-07-2025",
+      "description": "Autostrada A1 Sibiu - Pitești, Lotul 2 Boița - Cornetu și Lotul 3 Cornetu-Tigveni",
+      "addressee": {
+        "idm": "205"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nSorin-Mihai Grindeanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1859A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79817&idl=1",
+      "registrationId": "1859A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79818",
+      "title": "Întrebarea nr.1860A/30-07-2025",
+      "description": "DN7 sectorul Lazaret - Boița",
+      "addressee": {
+        "idm": "205"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1860A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79818&idl=1",
+      "registrationId": "1860A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79820",
+      "title": "Întrebarea nr.1862A/30-07-2025",
+      "description": "Stadiul dotărilor cu echipamente medicale moderne în cadrul Serviciilor de ambulanță și SMURD",
+      "addressee": {
+        "idm": "205"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1862A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79820&idl=1",
+      "registrationId": "1862A",
       "requestedResponseType": "în scris",
       "answers": []
     }

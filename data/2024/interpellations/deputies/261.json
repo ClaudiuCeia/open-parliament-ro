@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T00:29:24.808Z",
+  "lastUpdated": "2025-08-26T09:27:33.592Z",
   "data": [
     {
       "idi": "77562",
@@ -464,6 +464,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1619A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79577&idl=1",
       "registrationId": "1619A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79795",
+      "title": "Întrebarea nr.1837A/24-07-2025",
+      "description": "Numărul fermierilor români care primesc subvenții APIA – situația pentru județul Prahova",
+      "addressee": {
+        "idm": "261"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1837A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79795&idl=1",
+      "registrationId": "1837A",
       "requestedResponseType": "în scris",
       "answers": []
     }

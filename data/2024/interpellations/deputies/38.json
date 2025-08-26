@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T00:22:46.352Z",
+  "lastUpdated": "2025-08-26T09:20:38.111Z",
   "data": [
     {
       "idi": "77618",
@@ -704,6 +704,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1725A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79683&idl=1",
       "registrationId": "1725A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79798",
+      "title": "Întrebarea nr.1840A/24-07-2025",
+      "description": "Întârzieri sistematice în verificarea situațiilor de lucrări pentru proiectele finanțate din PNRR – un obstacol major pentru absorbția fondurilor europene",
+      "addressee": {
+        "idm": "38"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1840A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79798&idl=1",
+      "registrationId": "1840A",
       "requestedResponseType": "în scris",
       "answers": []
     }
