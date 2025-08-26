@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T09:22:31.936Z",
+  "lastUpdated": "2025-08-26T18:23:17.480Z",
   "data": [
     {
       "idi": "77601",
@@ -3489,6 +3489,216 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1457A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79415&idl=1",
       "registrationId": "1457A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79962",
+      "title": "Întrebarea nr.2004A/20-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr.752A/03-04-2025 “Derapajele ideologice și blasfemiatoare de pe scena Teatrului Naţional București“",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2004A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79962&idl=1",
+      "registrationId": "2004A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79963",
+      "title": "Întrebarea nr.2005A/20-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr.1455A/17-06-2025 - “Situaţia critică a încasărilor la bugetul statului din evaziunea fiscală depistată - eșecul politicilor fiscale și necesitatea unei reforme radicale”",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2005A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79963&idl=1",
+      "registrationId": "2005A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79964",
+      "title": "Întrebarea nr.2006A/20-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr.1209A/27-05-2025 -Sistemul concediilor și al indemnizațiilor de asigurări sociale de sănătate",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2006A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79964&idl=1",
+      "registrationId": "2006A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79965",
+      "title": "Întrebarea nr.2007A/20-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr.1213A/27-05-2025 - “Îmbunătăţirea sistemului de finanţare nerambursabilă a proiectelor culturale “",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2007A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79965&idl=1",
+      "registrationId": "2007A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79966",
+      "title": "Întrebarea nr.2008A/20-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr.1215A/27-05-2025 - “Situația copiilor diagnosticați cu ADHD “",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2008A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79966&idl=1",
+      "registrationId": "2008A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79967",
+      "title": "Întrebarea nr.2009A/20-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr.1327A/04-06-2025 - “Care va fi situaţia Salinei Praid?“",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2009A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79967&idl=1",
+      "registrationId": "2009A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79968",
+      "title": "Întrebarea nr.2010A/20-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr.1421A/12-06-2025 - “Drama minorilor dependenţi de droguri - Necesitatea urgentă de acţiune guvernamentală”",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2010A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79968&idl=1",
+      "registrationId": "2010A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79969",
+      "title": "Întrebarea nr.2011A/20-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr.1448A/17-06-2025 - “Necesitatea elaborării unui Plan Naţional de Achiziţie a Cărţii Românești”",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2011A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79969&idl=1",
+      "registrationId": "2011A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79970",
+      "title": "Întrebarea nr.2012A/20-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr.1451A/17-06-2025 - “Situaţia consumului energetic al operatorilor regionali de apă și canalizare și impactul asupra costurilor populaţiei, cazul ApaVital Iași”",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2012A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79970&idl=1",
+      "registrationId": "2012A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79971",
+      "title": "Întrebarea nr.2013A/20-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr.1454A/17-06-2025 - “Cantitatea de energie electrică livrată de ţara noastră Ucrainei”",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2013A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79971&idl=1",
+      "registrationId": "2013A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T09:28:12.780Z",
+  "lastUpdated": "2025-08-26T18:29:08.653Z",
   "data": [
     {
       "idi": "77476",
@@ -1563,6 +1563,174 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1878A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79836&idl=1",
       "registrationId": "1878A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79918",
+      "title": "Întrebarea nr.1960A/12-08-2025",
+      "description": "Clarificări despre acordul semnat de România cu Țările de Jos privind escadrila gratuită de 18 avioane F-16",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": "2025-12-08T00:00:00.000Z",
+        "presentation": "2025-12-08T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1960A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79918&idl=1",
+      "registrationId": "1960A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79927",
+      "title": "Întrebarea nr.1969A/13-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1097A - Numărul de cetățeni români care sunt scutiți de la plata CASS, dar beneficiază de servicii medicale",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1969A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79927&idl=1",
+      "registrationId": "1969A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79928",
+      "title": "Întrebarea nr.1970A/13-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1173A - Sănătatea românilor nu este o prioritate pentru Guvern - Comisia Europeană critică, din nou, România",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1970A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79928&idl=1",
+      "registrationId": "1970A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79929",
+      "title": "Întrebarea nr.1971A/13-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1263A - Drama minorilor dependenți de droguri",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1971A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79929&idl=1",
+      "registrationId": "1971A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79930",
+      "title": "Întrebarea nr.1972A/13-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1646A - Respectarea obligației legale de a crea servicii în comunitate pentru pacienții psihiatrici",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1972A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79930&idl=1",
+      "registrationId": "1972A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79931",
+      "title": "Întrebarea nr.1973A/13-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1647A - Prioritățile sistemului de sănătate",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1973A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79931&idl=1",
+      "registrationId": "1973A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79932",
+      "title": "Întrebarea nr.1974A/13-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1121A - Situația, pentru municipiul București, în ceea ce privește facturile restante la programul Anghel Saligny și PNDL",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1974A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79932&idl=1",
+      "registrationId": "1974A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79933",
+      "title": "Întrebarea nr.1975A/13-08-2025",
+      "description": "Reiterarea întrebării parlamentare nr. 1446A - Statul român este obligat să asigure accesul la noi tipuri de tratamente!",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1975A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79933&idl=1",
+      "registrationId": "1975A",
       "requestedResponseType": "în scris",
       "answers": []
     }

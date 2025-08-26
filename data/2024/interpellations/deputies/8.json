@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T09:19:19.321Z",
+  "lastUpdated": "2025-08-26T18:19:53.201Z",
   "data": [
     {
       "idi": "77809",
@@ -915,6 +915,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1854A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79812&idl=1",
       "registrationId": "1854A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79943",
+      "title": "Întrebarea nr.1985A/18-08-2025",
+      "description": "Verificarea legalității procedurii de achiziție pentru Varianta de Ocolire Reghin",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1985A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79943&idl=1",
+      "registrationId": "1985A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79944",
+      "title": "Întrebarea nr.1986A/18-08-2025",
+      "description": "Perspective privind construcția unui pod peste Dunăre între Călărași și Silistra",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1986A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79944&idl=1",
+      "registrationId": "1986A",
       "requestedResponseType": "în scris",
       "answers": []
     }

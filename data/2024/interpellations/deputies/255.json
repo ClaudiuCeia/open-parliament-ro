@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T09:27:12.517Z",
+  "lastUpdated": "2025-08-26T18:28:05.334Z",
   "data": [
     {
       "idi": "78952",
@@ -91,6 +91,111 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1789A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79747&idl=1",
       "registrationId": "1789A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79857",
+      "title": "Întrebarea nr.1899A/06-08-2025",
+      "description": "Posibile conflicte de interese și riscuri de influență ilegală în gestionarea fondurilor europene la Consiliul Județean Vâlcea",
+      "addressee": {
+        "idm": "255"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nDragoş Nicolae Pâslaru\n- Ministru",
+      "dates": {
+        "registration": "2025-06-08T00:00:00.000Z",
+        "presentation": "2025-06-08T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1899A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79857&idl=1",
+      "registrationId": "1899A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79867",
+      "title": "Întrebarea nr.1909A/07-08-2025",
+      "description": "Clarificări privind suspiciunile de promovări preferențiale în cadrul Inspectoratului de Poliție Județean Vâlcea",
+      "addressee": {
+        "idm": "255"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-07-08T00:00:00.000Z",
+        "presentation": "2025-07-08T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1909A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79867&idl=1",
+      "registrationId": "1909A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79907",
+      "title": "Întrebarea nr.1949A/11-08-2025",
+      "description": "Ancheta privind presupusele deversări de poluanți în râul Bistrița de la ferma „La Provincia – Avicarvil”, Frâncești, Vâlcea",
+      "addressee": {
+        "idm": "255"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": "2025-11-08T00:00:00.000Z",
+        "presentation": "2025-11-08T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1949A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79907&idl=1",
+      "registrationId": "1949A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79908",
+      "title": "Întrebarea nr.1950A/11-08-2025",
+      "description": "Situația lucrărilor de consolidare a DN7CC, km 2+950 – 3+150, orașul Călimănești, județul Vâlcea",
+      "addressee": {
+        "idm": "255"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": "2025-11-08T00:00:00.000Z",
+        "presentation": "2025-11-08T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1950A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79908&idl=1",
+      "registrationId": "1950A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79909",
+      "title": "Întrebarea nr.1951A/11-08-2025",
+      "description": "Încălcare a art. 30 alin. (7) din Constituția României prin recitalul artistului „Albert NBN” (Albert Tănasă) în cadrul festivalului „Beach, Please!”",
+      "addressee": {
+        "idm": "255"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-11-08T00:00:00.000Z",
+        "presentation": "2025-11-08T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1951A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79909&idl=1",
+      "registrationId": "1951A",
       "requestedResponseType": "în scris",
       "answers": []
     }

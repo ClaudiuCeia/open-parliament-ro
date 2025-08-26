@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T09:24:12.670Z",
+  "lastUpdated": "2025-08-26T18:24:59.277Z",
   "data": [
     {
       "idi": "77875",
@@ -235,6 +235,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1771A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79729&idl=1",
       "registrationId": "1771A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79910",
+      "title": "Întrebarea nr.1952A/11-08-2025",
+      "description": "Sancționarea manifestărilor publice care denigrează România și protejarea simbolurilor naționale în cadrul evenimentelor culturale",
+      "addressee": {
+        "idm": "162"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-11-08T00:00:00.000Z",
+        "presentation": "2025-11-08T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-04-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1952A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79910&idl=1",
+      "registrationId": "1952A",
       "requestedResponseType": "în scris",
       "answers": []
     }

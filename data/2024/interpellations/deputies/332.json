@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T09:26:07.860Z",
+  "lastUpdated": "2025-08-26T18:26:59.071Z",
   "data": [
     {
       "idi": "79280",
@@ -78,6 +78,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1632A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79590&idl=1",
       "registrationId": "1632A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79937",
+      "title": "Întrebarea nr.1979A/18-08-2025",
+      "description": "Dificultățile în derularea contractelor PNRR - Componenta C4 ”Transport sustenabil” și din alte resurse, pentru modernizarea/repararea materialului rulant și a contractelor sectoriale conexe",
+      "addressee": {
+        "idm": "332"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1979A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79937&idl=1",
+      "registrationId": "1979A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79938",
+      "title": "Întrebarea nr.1980A/18-08-2025",
+      "description": "Dificultățile în derularea contractelor PNRR - Componenta C4 ”Transport sustenabil”, I2 - pentru modernizarea/repararea materialului rulant și a contractelor sectoriale conexe",
+      "addressee": {
+        "idm": "332"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1980A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79938&idl=1",
+      "registrationId": "1980A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-26T09:26:02.320Z",
+  "lastUpdated": "2025-08-26T18:26:53.149Z",
   "data": [
     {
       "idi": "77550",
@@ -673,6 +673,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1877A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79835&idl=1",
       "registrationId": "1877A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79939",
+      "title": "Întrebarea nr.1981A/18-08-2025",
+      "description": "Riscurile digitalizării complete a procedurilor pentru muncitorii extracomunitari și avantajul nejustificat acordat agențiilor externe de muncă temporară",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-10-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i1981A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79939&idl=1",
+      "registrationId": "1981A",
       "requestedResponseType": "în scris",
       "answers": []
     }
