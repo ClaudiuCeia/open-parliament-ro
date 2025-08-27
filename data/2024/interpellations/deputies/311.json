@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T09:30:49.807Z",
+  "lastUpdated": "2025-08-27T18:31:11.153Z",
   "data": [
     {
       "idi": "78132",
@@ -822,9 +822,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1438A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79349&idl=1",
-      "registrationId": "1438A",
+      "registrationId": "1438A15048",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "15048",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1438A.pdf"
+        }
+      ]
     },
     {
       "idi": "79350",
@@ -843,9 +851,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1439A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79350&idl=1",
-      "registrationId": "1439A",
+      "registrationId": "1439A15363",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "15363",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1439A.pdf"
+        }
+      ]
     },
     {
       "idi": "79482",
@@ -885,9 +901,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1525A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79483&idl=1",
-      "registrationId": "1525A",
+      "registrationId": "1525A266434",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266434",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1525A.pdf"
+        }
+      ]
     },
     {
       "idi": "79561",

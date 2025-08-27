@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T09:27:32.688Z",
+  "lastUpdated": "2025-08-27T18:27:55.673Z",
   "data": [
     {
       "idi": "79220",
@@ -48,9 +48,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1377A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79287&idl=1",
-      "registrationId": "1377A",
+      "registrationId": "1377A10454",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10454",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1377A.pdf"
+        }
+      ]
     },
     {
       "idi": "79431",
@@ -69,9 +77,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1473A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79431&idl=1",
-      "registrationId": "1473A",
+      "registrationId": "1473A10575",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10575",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1473A.pdf"
+        }
+      ]
     },
     {
       "idi": "79493",
@@ -90,9 +106,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1535A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79493&idl=1",
-      "registrationId": "1535A",
+      "registrationId": "1535A10664",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10664",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1535A.pdf"
+        }
+      ]
     },
     {
       "idi": "79571",

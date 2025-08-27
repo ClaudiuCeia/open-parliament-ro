@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T09:30:40.582Z",
+  "lastUpdated": "2025-08-27T18:31:02.095Z",
   "data": [
     {
       "idi": "77566",
@@ -1010,9 +1010,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1436A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79345&idl=1",
-      "registrationId": "1436A",
+      "registrationId": "1436A15046",
       "requestedResponseType": "în scris şi oral",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "15046",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1436A.pdf"
+        }
+      ]
     },
     {
       "idi": "79489",
@@ -1031,9 +1039,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1531A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79489&idl=1",
-      "registrationId": "1531A",
+      "registrationId": "1531A27422",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "27422",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndoamna\nDiana-Anda Buzoianu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1531A.pdf"
+        }
+      ]
     },
     {
       "idi": "79490",

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T09:29:38.685Z",
+  "lastUpdated": "2025-08-27T18:30:01.557Z",
   "data": [
     {
       "idi": "77576",
@@ -648,9 +648,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1566A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79524&idl=1",
-      "registrationId": "1566A",
+      "registrationId": "1566A261",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "261",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndomnul\nÁkos Derzsi\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1566A.pdf"
+        }
+      ]
     },
     {
       "idi": "79567",

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T09:29:21.973Z",
+  "lastUpdated": "2025-08-27T18:29:44.695Z",
   "data": [
     {
       "idi": "77476",
@@ -1373,9 +1373,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1554A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79512&idl=1",
-      "registrationId": "1554A",
+      "registrationId": "1554A260",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "260",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nDaniela Barbu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1554A.pdf"
+        }
+      ]
     },
     {
       "idi": "79604",

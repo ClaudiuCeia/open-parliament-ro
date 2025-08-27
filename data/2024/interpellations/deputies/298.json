@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T09:30:18.915Z",
+  "lastUpdated": "2025-08-27T18:30:42.014Z",
   "data": [
     {
       "idi": "77612",
@@ -925,9 +925,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i602A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78191&idl=1",
-      "registrationId": "602A",
+      "registrationId": "602A19858",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "19858",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Avocatul Poporului\ncomunicat de:\ndoamna\nRenate Weber\n- Avocatul Poporului",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r602A.pdf"
+        }
+      ]
     },
     {
       "idi": "78192",
@@ -2502,9 +2510,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1549A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79507&idl=1",
-      "registrationId": "1549A",
+      "registrationId": "1549A161273",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161273",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlexandru Nazare\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1549A.pdf"
+        }
+      ]
     },
     {
       "idi": "79508",
@@ -2615,9 +2631,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1579A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79537&idl=1",
-      "registrationId": "1579A",
+      "registrationId": "1579A19858",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "19858",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Avocatul Poporului\ncomunicat de:\ndoamna\nRenate Weber\n- Avocatul Poporului",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1579A.pdf"
+        }
+      ]
     },
     {
       "idi": "79538",
@@ -2720,9 +2744,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1626A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79584&idl=1",
-      "registrationId": "1626A",
+      "registrationId": "1626A21141",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "21141",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1626A.pdf"
+        }
+      ]
     },
     {
       "idi": "79585",

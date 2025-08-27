@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T09:27:29.381Z",
+  "lastUpdated": "2025-08-27T18:27:52.423Z",
   "data": [
     {
       "idi": "77581",
@@ -88,6 +88,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r791A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80011",
+      "title": "Întrebarea nr.2053A/27-08-2025",
+      "description": "Aplicarea Regulamentului European privind serviciile digitale (DSA) și transparența activității moderatorilor de conținut TikTok în România",
+      "addressee": {
+        "idm": "232"
+      },
+      "recipient": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\nîn atenţia:\ndomnului\nValeriu Ştefan Zgonea\n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2053A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80011&idl=1",
+      "registrationId": "2053A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

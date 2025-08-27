@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T09:22:01.051Z",
+  "lastUpdated": "2025-08-27T18:22:34.765Z",
   "data": [
     {
       "idi": "77595",
@@ -425,9 +425,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i471B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79383&idl=1",
-      "registrationId": "471B",
+      "registrationId": "471B153613",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "153613",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r471B.pdf"
+        }
+      ]
     },
     {
       "idi": "79384",
@@ -467,9 +475,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i473B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79385&idl=1",
-      "registrationId": "473B",
+      "registrationId": "473B34035",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "34035",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nOana Silvia Ţoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r473B.pdf"
+        }
+      ]
     }
   ]
 }

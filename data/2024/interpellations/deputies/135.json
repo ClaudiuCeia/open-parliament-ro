@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T09:24:36.898Z",
+  "lastUpdated": "2025-08-27T18:25:06.712Z",
   "data": [
     {
       "idi": "77823",
@@ -930,9 +930,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i348B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78907&idl=1",
-      "registrationId": "348B",
+      "registrationId": "348B31325",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "31325",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Energiei\ncomunicat de:\ndomnul\nPavel-Casian Niţulescu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r348B.pdf"
+        }
+      ]
     },
     {
       "idi": "78908",
@@ -1646,9 +1654,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i462B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79374&idl=1",
-      "registrationId": "462B",
+      "registrationId": "462B26343",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "26343",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndoamna\nDiana-Anda Buzoianu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r462B.pdf"
+        }
+      ]
     },
     {
       "idi": "79375",
@@ -1717,9 +1733,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i465B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79377&idl=1",
-      "registrationId": "465B",
+      "registrationId": "465B19824",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "19824",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r465B.pdf"
+        }
+      ]
     },
     {
       "idi": "79702",

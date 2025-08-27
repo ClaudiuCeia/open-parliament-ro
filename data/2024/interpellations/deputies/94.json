@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T09:23:24.924Z",
+  "lastUpdated": "2025-08-27T18:23:57.839Z",
   "data": [
     {
       "idi": "77573",
@@ -439,9 +439,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1482A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79440&idl=1",
-      "registrationId": "1482A",
+      "registrationId": "1482A161220",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161220",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlexandru Nazare\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1482A.pdf"
+        }
+      ]
     },
     {
       "idi": "79441",
@@ -481,7 +489,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1484A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79442&idl=1",
-      "registrationId": "1484A5473",
+      "registrationId": "1484A5473161220",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -490,6 +498,13 @@
           "responseType": "în scris",
           "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nLaurenţiu-Viorel Gîdei\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1484A.pdf"
+        },
+        {
+          "registrationId": "161220",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlexandru Nazare\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1484A.pdf"
         }
       ]
     },

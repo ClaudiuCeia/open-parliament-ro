@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T09:21:01.516Z",
+  "lastUpdated": "2025-08-27T18:21:38.375Z",
   "data": [
     {
       "idi": "77462",
@@ -200,9 +200,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i729A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78400&idl=1",
-      "registrationId": "729A",
+      "registrationId": "729A11733",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11733",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r729A.pdf"
+        }
+      ]
     },
     {
       "idi": "78628",
