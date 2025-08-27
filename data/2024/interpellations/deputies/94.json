@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:26:44.064Z",
+  "lastUpdated": "2025-08-27T09:23:24.924Z",
   "data": [
     {
       "idi": "77573",
@@ -481,9 +481,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1484A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79442&idl=1",
-      "registrationId": "1484A",
+      "registrationId": "1484A5473",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "5473",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nLaurenţiu-Viorel Gîdei\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1484A.pdf"
+        }
+      ]
     },
     {
       "idi": "79593",

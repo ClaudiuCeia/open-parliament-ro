@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:29:15.766Z",
+  "lastUpdated": "2025-08-27T09:26:05.121Z",
   "data": [
     {
       "idi": "77977",
@@ -183,6 +183,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1961A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79919&idl=1",
       "registrationId": "1961A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79974",
+      "title": "Întrebarea nr.2016A/20-08-2025",
+      "description": "Sesizare referitoare la raportul Direcției județene pentru cultură Neamț, privind distrugerea exponatelor de la Muzeul Zoologic \"C. Romanescu\" din Sat. Dreptu, com. Poiana Teiului, Județul Neamț",
+      "addressee": {
+        "idm": "200"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2016A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79974&idl=1",
+      "registrationId": "2016A",
       "requestedResponseType": "în scris",
       "answers": []
     }

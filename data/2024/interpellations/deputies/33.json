@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:24:26.849Z",
+  "lastUpdated": "2025-08-27T09:20:58.343Z",
   "data": [
     {
       "idi": "78786",
@@ -220,6 +220,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1991A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79949&idl=1",
       "registrationId": "1991A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79973",
+      "title": "Întrebarea nr.2015A/20-08-2025",
+      "description": "Reacțiile și acțiunile punctuale ale României în cazurile concrete din ultimii trei ani de încălcare flagrantă a drepturilor minorității române din Ucraina",
+      "addressee": {
+        "idm": "33"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2015A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79973&idl=1",
+      "registrationId": "2015A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:23:23.307Z",
+  "lastUpdated": "2025-08-27T09:19:51.487Z",
   "data": [
     {
       "idi": "77546",
@@ -423,6 +423,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1750A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79708&idl=1",
       "registrationId": "1750A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79997",
+      "title": "Întrebarea nr.2039A/26-08-2025",
+      "description": "Remunerarea personalului misiunilor diplomatice",
+      "addressee": {
+        "idm": "13"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2039A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79997&idl=1",
+      "registrationId": "2039A",
       "requestedResponseType": "în scris",
       "answers": []
     }

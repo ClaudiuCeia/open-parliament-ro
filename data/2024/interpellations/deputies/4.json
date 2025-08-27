@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:22:47.463Z",
+  "lastUpdated": "2025-08-27T09:19:14.000Z",
   "data": [
     {
       "idi": "77764",
@@ -329,9 +329,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1412A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79322&idl=1",
-      "registrationId": "1412A",
+      "registrationId": "1412A1330",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1330",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nLiviu-Ionuţ Moşteanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1412A.pdf"
+        }
+      ]
     },
     {
       "idi": "79592",

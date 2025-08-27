@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:31:35.474Z",
+  "lastUpdated": "2025-08-27T09:28:28.310Z",
   "data": [
     {
       "idi": "77984",
@@ -1128,9 +1128,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1545A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79503&idl=1",
-      "registrationId": "1545A",
+      "registrationId": "1545A161273",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161273",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlexandru Nazare\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1545A.pdf"
+        }
+      ]
     },
     {
       "idi": "79504",
@@ -1170,9 +1178,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1547A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79505&idl=1",
-      "registrationId": "1547A",
+      "registrationId": "1547A5469",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "5469",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1547A.pdf"
+        }
+      ]
     },
     {
       "idi": "79513",

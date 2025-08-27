@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:26:36.029Z",
+  "lastUpdated": "2025-08-27T09:23:16.600Z",
   "data": [
     {
       "idi": "77601",
@@ -3249,9 +3249,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1428A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79347&idl=1",
-      "registrationId": "1428A",
+      "registrationId": "1428A5451",
       "requestedResponseType": "în scris şi oral",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "5451",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndoamna\nDaniela Barbu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1428A.pdf"
+        }
+      ]
     },
     {
       "idi": "79405",
@@ -3699,6 +3707,321 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2013A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79971&idl=1",
       "registrationId": "2013A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79975",
+      "title": "Întrebarea nr.2017A/21-08-2025",
+      "description": "Redirecționarea fondurilor destinate apărării împotriva inundațiilor către lucrări de lărgire a plajelor. Risc sistemic și responsabilități instituționale",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2017A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79975&idl=1",
+      "registrationId": "2017A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79976",
+      "title": "Întrebarea nr.2018A/21-08-2025",
+      "description": "Inundații devastatoare: solicitare de măsuri guvernamentale și acces la Fondul de Solidaritate al UE",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2018A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79976&idl=1",
+      "registrationId": "2018A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79977",
+      "title": "Întrebarea nr.2019A/21-08-2025",
+      "description": "Măsuri concrete ale MADR pentru sprijinirea comunităților afectate de inundațiile din județul Suceava (Broșteni, Stulpicani, Ostra)",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2019A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79977&idl=1",
+      "registrationId": "2019A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79978",
+      "title": "Întrebarea nr.2020A/21-08-2025",
+      "description": "Clarificări privind lucrările de golire și retehnologizare a barajului Vidraru",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2020A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79978&idl=1",
+      "registrationId": "2020A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79979",
+      "title": "Întrebarea nr.2021A/21-08-2025",
+      "description": "Clarificări privind întâlnirea cu federațiile sindicale și măsurile necesare pentru buna funcționare a sistemului educațional până la sfârșitul anului 2025",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2021A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79979&idl=1",
+      "registrationId": "2021A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79980",
+      "title": "Întrebarea nr.2022A/21-08-2025",
+      "description": "Lipsa de acțiuni concrete în raport cu discursul public privind combaterea discriminării împotriva romilor",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndoamnei\nCristina-Emanuela Dascălu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2022A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79980&idl=1",
+      "registrationId": "2022A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79981",
+      "title": "Întrebarea nr.2023A/21-08-2025",
+      "description": "Clarificări privind reforma administrației publice locale și procesul de descentralizare",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-12-09T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2023A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79981&idl=1",
+      "registrationId": "2023A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79982",
+      "title": "Întrebarea nr.2024A/21-08-2025",
+      "description": "Posibila suspendare a activităților culturale în weekend și sărbători legale",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2024A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79982&idl=1",
+      "registrationId": "2024A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79983",
+      "title": "Întrebarea nr.2025A/21-08-2025",
+      "description": "Clarificări privind angajamentele asumate în cadrul formatului trilateral RO-MD-UA și proiectele de conectivitate regională",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2025A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79983&idl=1",
+      "registrationId": "2025A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79984",
+      "title": "Întrebarea nr.2026A/21-08-2025",
+      "description": "Criză de apă potabilă în localitățile afectate de inundațiile din județul Suceava – cauze, responsabilități și măsuri remediate",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2026A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79984&idl=1",
+      "registrationId": "2026A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79985",
+      "title": "Întrebarea nr.2027A/21-08-2025",
+      "description": "Clarificări privind criteriile de selecție, implementarea și monitorizarea noului program de investiții în patrimoniul cultural finanțat prin BDCE",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2027A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79985&idl=1",
+      "registrationId": "2027A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79986",
+      "title": "Întrebarea nr.2028A/21-08-2025",
+      "description": "Măsuri concrete pentru sprijinirea comunității românești din Ucraina și recunoașterea drepturilor sale culturale și educaționale",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2028A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79986&idl=1",
+      "registrationId": "2028A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79987",
+      "title": "Întrebarea nr.2029A/21-08-2025",
+      "description": "Absența prim-ministrului de la fața locului în județele afectate de inundații",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2029A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79987&idl=1",
+      "registrationId": "2029A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79988",
+      "title": "Întrebarea nr.2030A/21-08-2025",
+      "description": "Situația fostei Grădini de Vară din Mamaia – între degradare, neglijență și potențial cultural",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2030A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79988&idl=1",
+      "registrationId": "2030A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79989",
+      "title": "Întrebarea nr.2031A/21-08-2025",
+      "description": "Risc ecologic major la Lacul Bicaz – acumulare masivă de deșeuri și resturi aduse de viituri",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2031A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79989&idl=1",
+      "registrationId": "2031A",
       "requestedResponseType": "în scris",
       "answers": []
     }

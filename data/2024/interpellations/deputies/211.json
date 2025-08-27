@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:30:01.838Z",
+  "lastUpdated": "2025-08-27T09:26:52.774Z",
   "data": [
     {
       "idi": "77828",
@@ -416,9 +416,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i969A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78762&idl=1",
-      "registrationId": "969A",
+      "registrationId": "969A31296",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "31296",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Energiei\ncomunicat de:\ndomnul\nPavel-Casian Niţulescu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r969A.pdf"
+        }
+      ]
     },
     {
       "idi": "78784",
@@ -1043,9 +1051,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1433A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79342&idl=1",
-      "registrationId": "1433A",
+      "registrationId": "1433A228",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "228",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nOana Silvia Ţoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1433A.pdf"
+        }
+      ]
     },
     {
       "idi": "79343",

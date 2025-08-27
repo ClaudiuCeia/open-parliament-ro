@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:22:44.155Z",
+  "lastUpdated": "2025-08-27T09:19:10.545Z",
   "data": [
     {
       "idi": "78064",
@@ -201,6 +201,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1491A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79449&idl=1",
       "registrationId": "1491A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79996",
+      "title": "Întrebarea nr.2038A/25-08-2025",
+      "description": "Întrebare privind decontarea cheltuielilor pentru tratamentul doamnei , pacientă cu arsuri grave transferată în Belgia",
+      "addressee": {
+        "idm": "3"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2038A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79996&idl=1",
+      "registrationId": "2038A",
       "requestedResponseType": "în scris",
       "answers": []
     }

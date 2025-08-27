@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:23:16.154Z",
+  "lastUpdated": "2025-08-27T09:19:43.601Z",
   "data": [
     {
       "idi": "77809",
@@ -957,6 +957,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1986A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79944&idl=1",
       "registrationId": "1986A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79992",
+      "title": "Întrebarea nr.2034A/21-08-2025",
+      "description": "Evoluția exporturilor de cereale și impactul asupra agricultorilor români",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2034A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79992&idl=1",
+      "registrationId": "2034A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79993",
+      "title": "Întrebarea nr.2035A/21-08-2025",
+      "description": "Clarificări privind lucrările de retehnologizare și golire controlată a acumulării Vidraru",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2035A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79993&idl=1",
+      "registrationId": "2035A",
       "requestedResponseType": "în scris",
       "answers": []
     }

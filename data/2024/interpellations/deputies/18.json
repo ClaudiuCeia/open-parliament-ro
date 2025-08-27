@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:23:45.518Z",
+  "lastUpdated": "2025-08-27T09:20:15.961Z",
   "data": [
     {
       "idi": "77804",
@@ -1492,6 +1492,216 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1965A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79923&idl=1",
       "registrationId": "1965A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79998",
+      "title": "Întrebarea nr.2040A/26-08-2025",
+      "description": "Solicitare privind situația facturilor la energie electrică cu TVA majorat la 21% încă din luna iulie",
+      "addressee": {
+        "idm": "18"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2040A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79998&idl=1",
+      "registrationId": "2040A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "79999",
+      "title": "Întrebarea nr.2041A/26-08-2025",
+      "description": "Situaţia investiţiei privind exploatarea zăcământului de sare de la Ocna Mureş",
+      "addressee": {
+        "idm": "18"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2041A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79999&idl=1",
+      "registrationId": "2041A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80000",
+      "title": "Întrebarea nr.2042A/26-08-2025",
+      "description": "Solicitare privind situația producției și exportului de armament",
+      "addressee": {
+        "idm": "18"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2042A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80000&idl=1",
+      "registrationId": "2042A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80001",
+      "title": "Întrebarea nr.2043A/26-08-2025",
+      "description": "Solicitare privind situația ROMARM",
+      "addressee": {
+        "idm": "18"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2043A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80001&idl=1",
+      "registrationId": "2043A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80002",
+      "title": "Întrebarea nr.2044A/26-08-2025",
+      "description": "Implicarea industriei naționale de apărare în programele de înzestrare ale Armatei Române",
+      "addressee": {
+        "idm": "18"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2044A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80002&idl=1",
+      "registrationId": "2044A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80003",
+      "title": "Întrebarea nr.2045A/26-08-2025",
+      "description": "Solicitare privind situația dezvoltării inteligenței artificiale",
+      "addressee": {
+        "idm": "18"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2045A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80003&idl=1",
+      "registrationId": "2045A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80004",
+      "title": "Întrebarea nr.2046A/26-08-2025",
+      "description": "Solicitare privind impactul inteligenței artificiale asupra pieței muncii",
+      "addressee": {
+        "idm": "18"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2046A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80004&idl=1",
+      "registrationId": "2046A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80005",
+      "title": "Întrebarea nr.2047A/26-08-2025",
+      "description": "Solicitare privind măsurile întreprinse în vederea modernizării industriei de apărare",
+      "addressee": {
+        "idm": "18"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2047A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80005&idl=1",
+      "registrationId": "2047A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80006",
+      "title": "Întrebarea nr.2048A/26-08-2025",
+      "description": "Solicitare privind situația atragerii fondurilor europene dedicate apărării",
+      "addressee": {
+        "idm": "18"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2048A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80006&idl=1",
+      "registrationId": "2048A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80007",
+      "title": "Întrebarea nr.2049A/26-08-2025",
+      "description": "Solicitare privind situația Uzinei Mecanice Cugir",
+      "addressee": {
+        "idm": "18"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2049A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80007&idl=1",
+      "registrationId": "2049A",
       "requestedResponseType": "în scris",
       "answers": []
     }

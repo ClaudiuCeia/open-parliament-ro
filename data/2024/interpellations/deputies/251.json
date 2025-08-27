@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:31:17.436Z",
+  "lastUpdated": "2025-08-27T09:28:10.085Z",
   "data": [
     {
       "idi": "78836",
@@ -163,9 +163,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1442A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79353&idl=1",
-      "registrationId": "1442A",
+      "registrationId": "1442A3809",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "3809",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Guvernul României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1442A.pdf"
+        }
+      ]
     },
     {
       "idi": "79372",

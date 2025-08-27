@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:30:04.317Z",
+  "lastUpdated": "2025-08-27T09:26:55.225Z",
   "data": [
     {
       "idi": "77776",
@@ -175,6 +175,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r142B.pdf"
         }
       ]
+    },
+    {
+      "idi": "79994",
+      "title": "Întrebarea nr.2036A/22-08-2025",
+      "description": "Situația repartizării aleatorii a dosarelor în aplicația ECRIS către completuri de judecată",
+      "addressee": {
+        "idm": "213"
+      },
+      "recipient": "Ministerul  Justiției\nîn atenţia:\ndomnului\nRadu Marinescu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2036A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=79994&idl=1",
+      "registrationId": "2036A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

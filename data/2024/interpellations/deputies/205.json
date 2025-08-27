@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-27T00:29:38.052Z",
+  "lastUpdated": "2025-08-27T09:26:28.108Z",
   "data": [
     {
       "idi": "77532",
@@ -1091,9 +1091,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1144A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78989&idl=1",
-      "registrationId": "1144A",
+      "registrationId": "1144A320038",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "320038",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nLaurenţiu-Viorel Gîdei\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1144A.pdf"
+        }
+      ]
     },
     {
       "idi": "79436",
@@ -1112,9 +1120,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1478A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79436&idl=1",
-      "registrationId": "1478A",
+      "registrationId": "1478A19697",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "19697",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1478A.pdf"
+        }
+      ]
     },
     {
       "idi": "79437",
@@ -1133,9 +1149,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1479A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79437&idl=1",
-      "registrationId": "1479A",
+      "registrationId": "1479A19699",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "19699",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1479A.pdf"
+        }
+      ]
     },
     {
       "idi": "79438",
