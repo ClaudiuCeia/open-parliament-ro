@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-28T09:30:23.568Z",
+  "lastUpdated": "2025-08-28T18:30:57.394Z",
   "data": [
     {
       "idi": "77612",
@@ -2581,9 +2581,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1552A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79510&idl=1",
-      "registrationId": "1552A",
+      "registrationId": "1552A10664",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10664",
+          "date": "2025-01-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1552A.pdf"
+        }
+      ]
     },
     {
       "idi": "79535",
@@ -2723,9 +2731,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1625A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79583&idl=1",
-      "registrationId": "1625A",
+      "registrationId": "1625A516",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "516",
+          "date": "2025-04-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1625A.pdf"
+        }
+      ]
     },
     {
       "idi": "79584",
@@ -2886,9 +2902,24 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1710A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79667&idl=1",
-      "registrationId": "1710A",
+      "registrationId": "1710A10960812",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10960",
+          "date": "2025-01-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1710A.pdf"
+        },
+        {
+          "registrationId": "812",
+          "date": "2025-04-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nDragoş Nicolae Pîslaru\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1710A.pdf"
+        }
+      ]
     },
     {
       "idi": "79668",
@@ -2936,9 +2967,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1751A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79709&idl=1",
-      "registrationId": "1751A",
+      "registrationId": "1751A22658",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "22658",
+          "date": "2025-04-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1751A.pdf"
+        }
+      ]
     },
     {
       "idi": "79710",
@@ -3020,9 +3059,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1755A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79713&idl=1",
-      "registrationId": "1755A",
+      "registrationId": "1755A6182",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6182",
+          "date": "2025-04-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1755A.pdf"
+        }
+      ]
     }
   ]
 }
