@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-28T00:22:56.003Z",
+  "lastUpdated": "2025-08-28T09:20:37.803Z",
   "data": [
     {
       "idi": "78209",
@@ -479,9 +479,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1514A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79472&idl=1",
-      "registrationId": "1514A",
+      "registrationId": "1514A389",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "389",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\ncomunicat de:\ndomnul\nÁkos Derzsi\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1514A.pdf"
+        }
+      ]
     },
     {
       "idi": "79474",
@@ -500,9 +508,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1516A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79474&idl=1",
-      "registrationId": "1516A",
+      "registrationId": "1516A35222",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "35222",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nOana Silvia Ţoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1516A.pdf"
+        }
+      ]
     },
     {
       "idi": "79498",
@@ -550,9 +566,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1592A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79550&idl=1",
-      "registrationId": "1592A",
+      "registrationId": "1592A16094",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "16094",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1592A.pdf"
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-28T00:22:50.313Z",
+  "lastUpdated": "2025-08-28T09:20:32.208Z",
   "data": [
     {
       "idi": "77804",
@@ -1068,9 +1068,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1297A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79207&idl=1",
-      "registrationId": "1297A",
+      "registrationId": "1297A14461",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "14461",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1297A.pdf"
+        }
+      ]
     },
     {
       "idi": "79319",
@@ -1176,9 +1184,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1568A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79526&idl=1",
-      "registrationId": "1568A",
+      "registrationId": "1568A27422",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "27422",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndoamna\nDiana-Anda Buzoianu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1568A.pdf"
+        }
+      ]
     },
     {
       "idi": "79527",
@@ -1247,9 +1263,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1571A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79529&idl=1",
-      "registrationId": "1571A",
+      "registrationId": "1571A10664",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10664",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1571A.pdf"
+        }
+      ]
     },
     {
       "idi": "79531",

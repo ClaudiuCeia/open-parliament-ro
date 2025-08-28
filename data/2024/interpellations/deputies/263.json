@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-28T00:31:24.325Z",
+  "lastUpdated": "2025-08-28T09:29:01.131Z",
   "data": [
     {
       "idi": "77699",
@@ -135,9 +135,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1683A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79641&idl=1",
-      "registrationId": "1683A",
+      "registrationId": "1683A16361",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "16361",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1683A.pdf"
+        }
+      ]
     },
     {
       "idi": "79642",
@@ -156,9 +164,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1684A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79642&idl=1",
-      "registrationId": "1684A",
+      "registrationId": "1684A46476",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "46476",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1684A.pdf"
+        }
+      ]
     },
     {
       "idi": "79726",

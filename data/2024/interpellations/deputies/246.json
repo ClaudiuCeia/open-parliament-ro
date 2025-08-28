@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-28T00:30:30.766Z",
+  "lastUpdated": "2025-08-28T09:28:09.158Z",
   "data": [
     {
       "idi": "77720",
@@ -280,9 +280,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i416B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79161&idl=1",
-      "registrationId": "416B",
+      "registrationId": "416B161288",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161288",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r416B.pdf"
+        }
+      ]
     },
     {
       "idi": "79162",

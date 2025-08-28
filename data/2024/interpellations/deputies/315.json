@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-28T00:33:37.309Z",
+  "lastUpdated": "2025-08-28T09:31:14.888Z",
   "data": [
     {
       "idi": "77649",
@@ -48,9 +48,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i167A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=77650&idl=1",
-      "registrationId": "167A",
+      "registrationId": "167A5926",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "5926",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r167A.pdf"
+        }
+      ]
     },
     {
       "idi": "77651",
@@ -568,9 +576,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1474A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79432&idl=1",
-      "registrationId": "1474A",
+      "registrationId": "1474A34865",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "34865",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nOana Silvia Ţoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1474A.pdf"
+        }
+      ]
     },
     {
       "idi": "79433",
@@ -610,9 +626,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1575A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79533&idl=1",
-      "registrationId": "1575A",
+      "registrationId": "1575A5926",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "5926",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1575A.pdf"
+        }
+      ]
     },
     {
       "idi": "79534",

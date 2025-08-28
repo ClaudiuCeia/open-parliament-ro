@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-28T00:25:49.150Z",
+  "lastUpdated": "2025-08-28T09:23:29.540Z",
   "data": [
     {
       "idi": "77601",
@@ -1989,9 +1989,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1068A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78863&idl=1",
-      "registrationId": "1068A",
+      "registrationId": "1068A15486",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "15486",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1068A.pdf"
+        }
+      ]
     },
     {
       "idi": "78864",
@@ -2920,9 +2928,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1382A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79292&idl=1",
-      "registrationId": "1382A",
+      "registrationId": "1382A320089",
       "requestedResponseType": "în scris şi oral",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "320089",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nLaurenţiu-Viorel Gîdei\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1382A.pdf"
+        }
+      ]
     },
     {
       "idi": "79293",
@@ -3294,9 +3310,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1447A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79405&idl=1",
-      "registrationId": "1447A",
+      "registrationId": "1447A10575",
       "requestedResponseType": "în scris şi oral",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10575",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1447A.pdf"
+        }
+      ]
     },
     {
       "idi": "79406",
@@ -3336,9 +3360,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1449A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79407&idl=1",
-      "registrationId": "1449A",
+      "registrationId": "1449A320088",
       "requestedResponseType": "în scris şi oral",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "320088",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nLaurenţiu-Viorel Gîdei\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1449A.pdf"
+        }
+      ]
     },
     {
       "idi": "79408",
@@ -3428,9 +3460,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1453A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79411&idl=1",
-      "registrationId": "1453A",
+      "registrationId": "1453A266411",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266411",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1453A.pdf"
+        }
+      ]
     },
     {
       "idi": "79412",
@@ -3512,7 +3552,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1457A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79415&idl=1",
-      "registrationId": "1457A161222",
+      "registrationId": "1457A161222320087",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -3521,6 +3561,13 @@
           "responseType": "în scris",
           "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAlin Marius Andrieş\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1457A.pdf"
+        },
+        {
+          "registrationId": "320087",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nLaurenţiu-Viorel Gîdei\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1457A.pdf"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-28T00:32:06.587Z",
+  "lastUpdated": "2025-08-28T09:29:43.528Z",
   "data": [
     {
       "idi": "77576",
@@ -627,9 +627,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1565A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79523&idl=1",
-      "registrationId": "1565A",
+      "registrationId": "1565A15385",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "15385",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1565A.pdf"
+        }
+      ]
     },
     {
       "idi": "79524",
@@ -698,9 +706,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1610A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79568&idl=1",
-      "registrationId": "1610A",
+      "registrationId": "1610A516",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "516",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nDragoş Nicolae Pîslaru\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1610A.pdf"
+        }
+      ]
     },
     {
       "idi": "79672",
