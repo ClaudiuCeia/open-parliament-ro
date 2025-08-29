@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-29T00:23:00.302Z",
+  "lastUpdated": "2025-08-29T09:20:56.243Z",
   "data": [
     {
       "idi": "77593",
@@ -1403,9 +1403,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1162A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79008&idl=1",
-      "registrationId": "1162A",
+      "registrationId": "1162A1054",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1054",
+          "date": "2025-07-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1162A.pdf"
+        }
+      ]
     },
     {
       "idi": "79009",
@@ -1985,9 +1993,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1650A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79608&idl=1",
-      "registrationId": "1650A",
+      "registrationId": "1650A6228",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6228",
+          "date": "2025-05-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Guvernul României\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1650A.pdf"
+        }
+      ]
     },
     {
       "idi": "79609",
@@ -2077,9 +2093,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1717A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79675&idl=1",
-      "registrationId": "1717A",
+      "registrationId": "1717A885676",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "885676",
+          "date": "2025-05-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1717A.pdf"
+        }
+      ]
     },
     {
       "idi": "79676",
@@ -2140,9 +2164,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1720A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79678&idl=1",
-      "registrationId": "1720A",
+      "registrationId": "1720A885676",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "885676",
+          "date": "2025-07-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1720A.pdf"
+        }
+      ]
     },
     {
       "idi": "79691",

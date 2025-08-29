@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-08-29T00:28:16.792Z",
+  "lastUpdated": "2025-08-29T09:26:16.131Z",
   "data": [
     {
       "idi": "77811",
@@ -807,9 +807,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1637A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79595&idl=1",
-      "registrationId": "1637A",
+      "registrationId": "1637A5068",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "5068",
+          "date": "2025-07-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Culturii\ncomunicat de:\ndomnul\nAndras Istvan Demeter\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1637A.pdf"
+        }
+      ]
     },
     {
       "idi": "79597",
@@ -928,9 +936,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1741A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79699&idl=1",
-      "registrationId": "1741A",
+      "registrationId": "1741A23623",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "23623",
+          "date": "2025-07-08T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1741A.pdf"
+        }
+      ]
     },
     {
       "idi": "79700",
@@ -1118,6 +1134,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1995A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79953&idl=1",
       "registrationId": "1995A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80015",
+      "title": "Întrebarea nr.2057A/27-08-2025",
+      "description": "Clarificări privind progresele și termenele aferente includerii României în programul Visa Waiver",
+      "addressee": {
+        "idm": "204"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2057A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80015&idl=1",
+      "registrationId": "2057A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80017",
+      "title": "Întrebarea nr.2059A/27-08-2025",
+      "description": "Progresul proiectelor pentru centrele destinate tratamentului marilor arși",
+      "addressee": {
+        "idm": "204"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2059A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80017&idl=1",
+      "registrationId": "2059A",
       "requestedResponseType": "în scris",
       "answers": []
     }
