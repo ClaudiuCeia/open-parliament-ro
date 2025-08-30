@@ -1,0 +1,42 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-08-30T09:13:32.874Z",
+  "data": {
+    "idp": "22497",
+    "title": "Proiect de Lege pentru modificarea şi completarea unor acte normative şi pentru stabilirea unor măsuri în domeniul sănătăţii",
+    "registrationNumber": {
+      "bpi": "312/29-08-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor + Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "înregistrat la Camera Deputatilor",
+      "long": "înregistrat la Camera Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/3/em243.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/3/pl243.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/3/ces243.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/3/cl243.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22497"
+  }
+}
