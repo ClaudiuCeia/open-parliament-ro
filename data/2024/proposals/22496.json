@@ -1,11 +1,12 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-08-30T09:13:32.499Z",
+  "lastUpdated": "2025-08-30T18:13:30.119Z",
   "data": {
     "idp": "22496",
     "title": "Proiect de Lege pentru modificarea şi completarea unor acte normative din domeniul pensiilor de serviciu",
     "registrationNumber": {
-      "bpi": "311/29-08-2025"
+      "bpi": "311/29-08-2025",
+      "senateChamber": "L209/2025"
     },
     "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
     "decidingChamber": "Camera Deputaţilor + Senatul",

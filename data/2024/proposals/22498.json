@@ -1,11 +1,12 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-08-30T09:13:33.115Z",
+  "lastUpdated": "2025-08-30T18:13:30.814Z",
   "data": {
     "idp": "22498",
     "title": "Proiect de Lege pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.109/2011 privind guvernanţa corporativă a întreprinderilor publice",
     "registrationNumber": {
-      "bpi": "313/29-08-2025"
+      "bpi": "313/29-08-2025",
+      "senateChamber": "L211/2025"
     },
     "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
     "decidingChamber": "Camera Deputaţilor + Senatul",

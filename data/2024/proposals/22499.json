@@ -1,11 +1,12 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-08-30T09:13:33.340Z",
+  "lastUpdated": "2025-08-30T18:13:31.072Z",
   "data": {
     "idp": "22499",
     "title": "Proiect de Lege privind eficientizarea activităţii unor autorităţi administrative autonome",
     "registrationNumber": {
-      "bpi": "314/29-08-2025"
+      "bpi": "314/29-08-2025",
+      "senateChamber": "L212/2025"
     },
     "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
     "decidingChamber": "Camera Deputaţilor + Senatul",
