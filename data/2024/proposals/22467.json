@@ -1,0 +1,63 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-01T15:01:16.750Z",
+  "data": {
+    "idp": "22467",
+    "title": "Proiect de Lege privind prevenirea şi combaterea consumului de droguri în rândul minorilor şi al tinerilor",
+    "registrationNumber": {
+      "bpi": "284/01-07-2025",
+      "senateChamber": "L139/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "103",
+      "246",
+      "158",
+      "50",
+      "75",
+      "101",
+      "128",
+      "152",
+      "175",
+      "218",
+      "231",
+      "304",
+      "323",
+      "33",
+      "57",
+      "72",
+      "81",
+      "82",
+      "85",
+      "97",
+      "100"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/7/em284.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/7/ces284.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/7/cl284.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/7/csm284.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22467"
+  }
+}

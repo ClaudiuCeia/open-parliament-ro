@@ -1,0 +1,46 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-01T15:01:15.211Z",
+  "data": {
+    "idp": "22494",
+    "title": "Proiect de Lege pentru ratificarea Convenţiei-cadru a Consiliului Europei privind valoarea patrimoniului cultural pentru societate, adoptată şi deschisă spre semnare la Faro, la 27 octombrie 2005, semnată de România la Strasbourg, la 17 februarie 2025",
+    "registrationNumber": {
+      "bpi": "309/18-08-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/3/em309.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/3/pl309.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/3/decret309.pdf",
+        "title": "Decretul privind supunerea spre ratificare Parlamentului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/3/memo309.pdf",
+        "title": "Memorandum"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/3/cl309.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22494"
+  }
+}

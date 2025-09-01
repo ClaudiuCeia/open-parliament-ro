@@ -1,0 +1,42 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-01T15:01:15.654Z",
+  "data": {
+    "idp": "22495",
+    "title": "Proiect de Lege pentru aprobarea Acordului-cadru de împrumut - Proiectul privind patrimoniul cultural şi istoric din România - dintre România şi Banca de Dezvoltare a Consiliului Europei, semnat la Paris la 29 noiembrie 2024 şi la Bucureşti la 16 decembrie 2024",
+    "registrationNumber": {
+      "bpi": "310/18-08-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/4/em310.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/4/pl310.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/4/memo310.pdf",
+        "title": "Memorandum"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/30/4/cl310.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22495"
+  }
+}

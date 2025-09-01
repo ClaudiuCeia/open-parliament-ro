@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-01T15:01:17.920Z",
+  "data": {
+    "idp": "22471",
+    "title": "Proiect de Lege pentru modificarea art.1391 alin.(1) din Legea nr.287/2009 privind Codul Civil",
+    "registrationNumber": {
+      "bpi": "288/01-07-2025",
+      "senateChamber": "L188/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n287/2009",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "20",
+      "95",
+      "105",
+      "40"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/1/as288.pdf",
+        "title": "Adresa Senatului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/1/em288.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/1/ces288.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/1/cl288.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/1/pvg288bp_2025.pdf",
+        "title": "Punctul de vedere al Guvernului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22471"
+  }
+}
