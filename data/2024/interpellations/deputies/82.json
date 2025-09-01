@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T09:21:26.340Z",
+  "lastUpdated": "2025-09-01T18:21:15.945Z",
   "data": [
     {
       "idi": "77492",
@@ -656,9 +656,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1137A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78982&idl=1",
-      "registrationId": "1137A",
+      "registrationId": "1137A9407",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "9407",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1137A.pdf"
+        }
+      ]
     },
     {
       "idi": "79183",
@@ -841,6 +849,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2014A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79972&idl=1",
       "registrationId": "2014A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80019",
+      "title": "Întrebarea nr.2061A/01-09-2025",
+      "description": "Raportul Corpului de Control în urma verificărilor de la Colegiul de Arte Baia Mare",
+      "addressee": {
+        "idm": "82"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-01-09T00:00:00.000Z",
+        "presentation": "2025-01-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2061A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80019&idl=1",
+      "registrationId": "2061A",
       "requestedResponseType": "în scris",
       "answers": []
     }

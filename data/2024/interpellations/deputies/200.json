@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T09:24:43.890Z",
+  "lastUpdated": "2025-09-01T18:24:33.554Z",
   "data": [
     {
       "idi": "77977",
@@ -127,9 +127,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1850A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79808&idl=1",
-      "registrationId": "1850A",
+      "registrationId": "1850A6639",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6639",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1850A.pdf"
+        }
+      ]
     },
     {
       "idi": "79841",

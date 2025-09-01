@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T09:25:30.731Z",
+  "lastUpdated": "2025-09-01T18:25:21.234Z",
   "data": [
     {
       "idi": "77828",
@@ -1286,9 +1286,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1597A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79555&idl=1",
-      "registrationId": "1597A",
+      "registrationId": "1597A1221",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1221",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1597A.pdf"
+        }
+      ]
     },
     {
       "idi": "79576",
@@ -1550,6 +1558,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1904A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79862&idl=1",
       "registrationId": "1904A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80024",
+      "title": "Întrebarea nr.2066A/01-09-2025",
+      "description": "Complicitatea prin tăcere a Guvernului României la distrugerea Deltei Dunării prin dragările efectuate de partea ucraineană pe Canalul Bîstroe",
+      "addressee": {
+        "idm": "211"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": "2025-01-09T00:00:00.000Z",
+        "presentation": "2025-01-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2066A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80024&idl=1",
+      "registrationId": "2066A",
       "requestedResponseType": "în scris",
       "answers": []
     }

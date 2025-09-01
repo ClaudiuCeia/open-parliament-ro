@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-09-01T09:13:29.490Z",
+  "lastUpdated": "2025-09-01T18:12:58.480Z",
   "data": {
     "idp": "22459",
     "title": "Propunere legislativă pentru completarea Legii nr.50/1991 privind autorizarea executării lucrărilor de construcţii, republicată în Monitorul Oficial al României, Partea I, nr.933 din 13 octombrie 2004, cu modificările şi completările ulterioare",
@@ -12,14 +12,15 @@
     "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n50/1991",
     "emergencyProcedure": false,
     "status": {
-      "short": "în termenul acordat pentru avize si puncte de vedere solicitate",
-      "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+      "short": "procedura legislativa încetata",
+      "long": "procedura legislativa încetata"
     },
     "initiators": [
       "3",
       "5",
       "70",
       "86",
+      "101",
       "135",
       "245",
       "318",
@@ -31,7 +32,6 @@
       "301",
       "315",
       "21",
-      "101",
       "128",
       "152",
       "312",

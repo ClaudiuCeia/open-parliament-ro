@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T09:24:44.551Z",
+  "lastUpdated": "2025-09-01T18:24:34.451Z",
   "data": [
     {
       "idi": "78215",
@@ -30,6 +30,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r134B.pdf"
         }
       ]
+    },
+    {
+      "idi": "80022",
+      "title": "Întrebarea nr.2064A/01-09-2025",
+      "description": "Minerii din Berbești-Alunu, victime ale indiferenței Guvernului și ale dezastrului creat de noile măsuri fiscale",
+      "addressee": {
+        "idm": "201"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": "2025-01-09T00:00:00.000Z",
+        "presentation": "2025-01-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2064A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80022&idl=1",
+      "registrationId": "2064A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

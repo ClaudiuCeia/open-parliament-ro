@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T09:27:56.038Z",
+  "lastUpdated": "2025-09-01T18:27:44.764Z",
   "data": [
     {
       "idi": "77476",
@@ -156,9 +156,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i303A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=77819&idl=1",
-      "registrationId": "303A",
+      "registrationId": "303A3627",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "3627",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r303A.pdf"
+        }
+      ]
     },
     {
       "idi": "77820",
@@ -1074,9 +1082,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1173A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79019&idl=1",
-      "registrationId": "1173A",
+      "registrationId": "1173A6632",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6632",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1173A.pdf"
+        }
+      ]
     },
     {
       "idi": "79110",
@@ -1095,9 +1111,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1263A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79110&idl=1",
-      "registrationId": "1263A",
+      "registrationId": "1263A10910",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10910",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1263A.pdf"
+        }
+      ]
     },
     {
       "idi": "79111",
@@ -1116,7 +1140,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1264A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79111&idl=1",
-      "registrationId": "1264A3823",
+      "registrationId": "1264A382310911",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -1125,6 +1149,13 @@
           "responseType": "în scris",
           "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nMarcel-Ioan Boloş\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1264A.pdf"
+        },
+        {
+          "registrationId": "10911",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1264A.pdf"
         }
       ]
     },
@@ -1720,9 +1751,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1970A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79928&idl=1",
-      "registrationId": "1970A",
+      "registrationId": "1970A6632",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6632",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1970A.pdf"
+        }
+      ]
     },
     {
       "idi": "79929",
@@ -1741,9 +1780,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1971A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79929&idl=1",
-      "registrationId": "1971A",
+      "registrationId": "1971A10910",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10910",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1971A.pdf"
+        }
+      ]
     },
     {
       "idi": "79930",

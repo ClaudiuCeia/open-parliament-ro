@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T09:24:09.350Z",
+  "lastUpdated": "2025-09-01T18:23:59.477Z",
   "data": [
     {
       "idi": "77500",
@@ -1540,9 +1540,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1463A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79421&idl=1",
-      "registrationId": "1463A",
+      "registrationId": "1463A26342",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "26342",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nCosmin-Răzvan Butuza\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1463A.pdf"
+        }
+      ]
     },
     {
       "idi": "79422",
@@ -1819,9 +1827,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1699A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79657&idl=1",
-      "registrationId": "1699A",
+      "registrationId": "1699A6633",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6633",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1699A.pdf"
+        }
+      ]
     },
     {
       "idi": "79692",
@@ -1932,9 +1948,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1793A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79751&idl=1",
-      "registrationId": "1793A",
+      "registrationId": "1793A33080",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "33080",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nCosmin-Răzvan Butuza\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1793A.pdf"
+        }
+      ]
     },
     {
       "idi": "79752",
@@ -2403,6 +2427,90 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2052A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80010&idl=1",
       "registrationId": "2052A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80025",
+      "title": "Întrebarea nr.2067A/01-09-2025",
+      "description": "Implementarea politicilor de mediu în România după raportul UE 2025",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": "2025-01-09T00:00:00.000Z",
+        "presentation": "2025-01-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2067A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80025&idl=1",
+      "registrationId": "2067A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80026",
+      "title": "Întrebarea nr.2068A/01-09-2025",
+      "description": "Structura și cheltuielile ambasadelor și consulatelor României",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-01-09T00:00:00.000Z",
+        "presentation": "2025-01-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2068A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80026&idl=1",
+      "registrationId": "2068A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80027",
+      "title": "Întrebarea nr.2069A/01-09-2025",
+      "description": "Situația locuințelor ANL din municipiul Cluj-Napoca",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": "2025-01-09T00:00:00.000Z",
+        "presentation": "2025-01-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2069A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80027&idl=1",
+      "registrationId": "2069A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80028",
+      "title": "Întrebarea nr.2070A/01-09-2025",
+      "description": "Măsurile Ministerului Educației pentru desfășurarea normală a începutului anului școlar 2025–2026",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-01-09T00:00:00.000Z",
+        "presentation": "2025-01-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2070A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80028&idl=1",
+      "registrationId": "2070A",
       "requestedResponseType": "în scris",
       "answers": []
     }

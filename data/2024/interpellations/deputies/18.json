@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T09:19:10.411Z",
+  "lastUpdated": "2025-09-01T18:18:58.836Z",
   "data": [
     {
       "idi": "77804",
@@ -736,7 +736,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1239A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79086&idl=1",
-      "registrationId": "1239A2953",
+      "registrationId": "1239A295310309",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -745,6 +745,13 @@
           "responseType": "în scris",
           "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1239A.pdf"
+        },
+        {
+          "registrationId": "10309",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1239A.pdf"
         }
       ]
     },
@@ -1337,9 +1344,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1863A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79821&idl=1",
-      "registrationId": "1863A",
+      "registrationId": "1863A6625",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6625",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1863A.pdf"
+        }
+      ]
     },
     {
       "idi": "79822",
@@ -1463,9 +1478,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1869A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79827&idl=1",
-      "registrationId": "1869A",
+      "registrationId": "1869A6626",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6626",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1869A.pdf"
+        }
+      ]
     },
     {
       "idi": "79828",

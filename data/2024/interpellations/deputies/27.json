@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T09:19:46.854Z",
+  "lastUpdated": "2025-09-01T18:19:35.155Z",
   "data": [
     {
       "idi": "77593",
@@ -1432,9 +1432,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1163A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79009&idl=1",
-      "registrationId": "1163A",
+      "registrationId": "1163A10300",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10300",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1163A.pdf"
+        }
+      ]
     },
     {
       "idi": "79010",
@@ -1482,7 +1490,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1165A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79011&idl=1",
-      "registrationId": "1165A3798",
+      "registrationId": "1165A379810301",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -1491,6 +1499,13 @@
           "responseType": "în scris",
           "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nMarcel-Ioan Boloş\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1165A.pdf"
+        },
+        {
+          "registrationId": "10301",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1165A.pdf"
         }
       ]
     },
@@ -2243,9 +2258,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1835A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79793&idl=1",
-      "registrationId": "1835A",
+      "registrationId": "1835A11289",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11289",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1835A.pdf"
+        }
+      ]
     },
     {
       "idi": "79794",
@@ -2285,9 +2308,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1838A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79796&idl=1",
-      "registrationId": "1838A",
+      "registrationId": "1838A11289",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11289",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1838A.pdf"
+        }
+      ]
     },
     {
       "idi": "79797",

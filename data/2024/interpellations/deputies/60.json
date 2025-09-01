@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T09:20:32.615Z",
+  "lastUpdated": "2025-09-01T18:20:21.516Z",
   "data": [
     {
       "idi": "78216",
@@ -236,6 +236,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1958A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79916&idl=1",
       "registrationId": "1958A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80021",
+      "title": "Întrebarea nr.2063A/01-09-2025",
+      "description": "Transparența privind ajutoarele militare acordate Ucrainei",
+      "addressee": {
+        "idm": "60"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": "2025-01-09T00:00:00.000Z",
+        "presentation": "2025-01-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2063A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80021&idl=1",
+      "registrationId": "2063A",
       "requestedResponseType": "în scris",
       "answers": []
     }
