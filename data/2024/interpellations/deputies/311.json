@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T00:33:03.760Z",
+  "lastUpdated": "2025-09-01T09:29:21.894Z",
   "data": [
     {
       "idi": "78132",
@@ -142,7 +142,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i628A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78299&idl=1",
-      "registrationId": "628A2549",
+      "registrationId": "628A25495748",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -151,6 +151,13 @@
           "responseType": "în scris",
           "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nMarcel-Ioan Boloş\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r628A.pdf"
+        },
+        {
+          "registrationId": "5748",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r628A.pdf"
         }
       ]
     },
@@ -959,7 +966,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1604A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79562&idl=1",
-      "registrationId": "1604A266443",
+      "registrationId": "1604A26644310715",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -968,6 +975,13 @@
           "responseType": "în scris",
           "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1604A.pdf"
+        },
+        {
+          "registrationId": "10715",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională Sanitar Veterinară şi Pentru Siguranţa Alimentelor",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1604A.pdf"
         }
       ]
     },

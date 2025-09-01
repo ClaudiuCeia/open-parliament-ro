@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T00:31:13.650Z",
+  "lastUpdated": "2025-09-01T09:27:30.744Z",
   "data": [
     {
       "idi": "77699",
@@ -193,9 +193,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1768A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79726&idl=1",
-      "registrationId": "1768A",
+      "registrationId": "1768A11113",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11113",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1768A.pdf"
+        }
+      ]
     },
     {
       "idi": "79727",
@@ -214,9 +222,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1769A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79727&idl=1",
-      "registrationId": "1769A",
+      "registrationId": "1769A885676",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "885676",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1769A.pdf"
+        }
+      ]
     }
   ]
 }

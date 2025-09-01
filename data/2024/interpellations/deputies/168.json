@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T00:27:53.923Z",
+  "lastUpdated": "2025-09-01T09:24:09.350Z",
   "data": [
     {
       "idi": "77500",
@@ -1561,9 +1561,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1464A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79422&idl=1",
-      "registrationId": "1464A",
+      "registrationId": "1464A11770",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11770",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1464A.pdf"
+        }
+      ]
     },
     {
       "idi": "79557",
@@ -1782,9 +1790,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1698A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79656&idl=1",
-      "registrationId": "1698A",
+      "registrationId": "1698A16361",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "16361",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1698A.pdf"
+        }
+      ]
     },
     {
       "idi": "79657",
@@ -1866,9 +1882,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1736A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79694&idl=1",
-      "registrationId": "1736A",
+      "registrationId": "1736A885676",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "885676",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1736A.pdf"
+        }
+      ]
     },
     {
       "idi": "79695",
@@ -2076,9 +2100,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1871A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79829&idl=1",
-      "registrationId": "1871A",
+      "registrationId": "1871A23919",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "23919",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nStefan-Radu Oprea\n- Secretar General",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1871A.pdf"
+        }
+      ]
     },
     {
       "idi": "79830",

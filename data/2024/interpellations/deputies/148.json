@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T00:27:19.244Z",
+  "lastUpdated": "2025-09-01T09:23:34.352Z",
   "data": [
     {
       "idi": "79386",
@@ -48,9 +48,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i475B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79387&idl=1",
-      "registrationId": "475B",
+      "registrationId": "475B161219",
       "requestedResponseType": "în scris şi oral",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161219",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r475B.pdf"
+        }
+      ]
     },
     {
       "idi": "79388",

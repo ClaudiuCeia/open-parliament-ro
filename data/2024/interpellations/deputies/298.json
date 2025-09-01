@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T00:32:34.279Z",
+  "lastUpdated": "2025-09-01T09:28:52.625Z",
   "data": [
     {
       "idi": "77612",
@@ -1872,9 +1872,24 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1129A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=78974&idl=1",
-      "registrationId": "1129A",
+      "registrationId": "1129A31318972",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "3131",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1129A.pdf"
+        },
+        {
+          "registrationId": "8972",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1129A.pdf"
+        }
+      ]
     },
     {
       "idi": "78975",
@@ -2096,9 +2111,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1252A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79099&idl=1",
-      "registrationId": "1252A",
+      "registrationId": "1252A10907",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10907",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1252A.pdf"
+        }
+      ]
     },
     {
       "idi": "79100",
@@ -2117,9 +2140,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1253A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79100&idl=1",
-      "registrationId": "1253A",
+      "registrationId": "1253A10908",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10908",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1253A.pdf"
+        }
+      ]
     },
     {
       "idi": "79101",
@@ -2138,7 +2169,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1254A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79101&idl=1",
-      "registrationId": "1254A57",
+      "registrationId": "1254A5710909",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -2147,6 +2178,13 @@
           "responseType": "în scris",
           "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nDragoş Nicolae Pîslaru\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1254A.pdf"
+        },
+        {
+          "registrationId": "10909",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1254A.pdf"
         }
       ]
     },
@@ -2547,9 +2585,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1550A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79508&idl=1",
-      "registrationId": "1550A",
+      "registrationId": "1550A10664",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10664",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1550A.pdf"
+        }
+      ]
     },
     {
       "idi": "79509",
@@ -2921,9 +2967,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1709A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79666&idl=1",
-      "registrationId": "1709A",
+      "registrationId": "1709A266451",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266451",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1709A.pdf"
+        }
+      ]
     },
     {
       "idi": "79667",
@@ -3007,7 +3061,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1751A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79709&idl=1",
-      "registrationId": "1751A2265822658",
+      "registrationId": "1751A2265822658885676",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -3023,6 +3077,13 @@
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nStefan-Radu Oprea\n- Secretar General",
           "textUrl": "https://www.cdep.ro/interpel/2025/2r1751A.pdf"
+        },
+        {
+          "registrationId": "885676",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/3r1751A.pdf"
         }
       ]
     },

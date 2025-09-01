@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T00:22:41.533Z",
+  "lastUpdated": "2025-09-01T09:18:55.293Z",
   "data": [
     {
       "idi": "77553",
@@ -865,9 +865,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1673A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79631&idl=1",
-      "registrationId": "1673A",
+      "registrationId": "1673A10960",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "10960",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1673A.pdf"
+        }
+      ]
     }
   ]
 }

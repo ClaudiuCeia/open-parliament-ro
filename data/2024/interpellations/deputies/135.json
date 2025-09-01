@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T00:27:05.852Z",
+  "lastUpdated": "2025-09-01T09:23:20.830Z",
   "data": [
     {
       "idi": "77823",
@@ -1631,9 +1631,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i456B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79368&idl=1",
-      "registrationId": "456B",
+      "registrationId": "456B19703",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "19703",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r456B.pdf"
+        }
+      ]
     },
     {
       "idi": "79369",
@@ -1652,9 +1660,24 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i457B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79369&idl=1",
-      "registrationId": "457B",
+      "registrationId": "457B161219161219",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161219",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r457B.pdf"
+        },
+        {
+          "registrationId": "161219",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r457B.pdf"
+        }
+      ]
     },
     {
       "idi": "79373",

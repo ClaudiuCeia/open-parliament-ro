@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-01T00:24:32.515Z",
+  "lastUpdated": "2025-09-01T09:20:47.465Z",
   "data": [
     {
       "idi": "77734",
@@ -284,7 +284,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1738A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79696&idl=1",
-      "registrationId": "1738A11113",
+      "registrationId": "1738A1111316586",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -293,6 +293,13 @@
           "responseType": "în scris",
           "author": "Ministerul Educaţiei şi Cercetării",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1738A.pdf"
+        },
+        {
+          "registrationId": "16586",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1738A.pdf"
         }
       ]
     },
