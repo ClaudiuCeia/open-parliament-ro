@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T09:19:03.053Z",
+  "lastUpdated": "2025-09-02T18:16:27.789Z",
   "data": [
     {
       "idi": "77809",
@@ -1105,6 +1105,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2058A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80016&idl=1",
       "registrationId": "2058A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80039",
+      "title": "Întrebarea nr.2081A/02-09-2025",
+      "description": "Stadiul lucrărilor la noua centrală pe gaz de la Mintia și integrarea acesteia în SEN",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": "2025-02-09T00:00:00.000Z",
+        "presentation": "2025-02-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2081A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80039&idl=1",
+      "registrationId": "2081A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80041",
+      "title": "Întrebarea nr.2083A/02-09-2025",
+      "description": "Impactul majorării TVA la carte și măsurile de sprijin lectura publică",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": "2025-02-09T00:00:00.000Z",
+        "presentation": "2025-02-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2083A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80041&idl=1",
+      "registrationId": "2083A",
       "requestedResponseType": "în scris",
       "answers": []
     }

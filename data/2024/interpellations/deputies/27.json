@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T09:20:11.230Z",
+  "lastUpdated": "2025-09-02T18:17:37.962Z",
   "data": [
     {
       "idi": "77593",
@@ -2695,6 +2695,90 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2054A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80012&idl=1",
       "registrationId": "2054A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80048",
+      "title": "Întrebarea nr.2090A/02-09-2025",
+      "description": "Numărul de avioane ucrainene care au intrat în spațiul aerian național",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-09T00:00:00.000Z",
+        "presentation": "2025-02-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2090A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80048&idl=1",
+      "registrationId": "2090A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80049",
+      "title": "Întrebarea nr.2091A/02-09-2025",
+      "description": "Continuitatea tratamentelor pentru bolnavii de cancer din România",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-02-09T00:00:00.000Z",
+        "presentation": "2025-02-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2091A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80049&idl=1",
+      "registrationId": "2091A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80050",
+      "title": "Întrebarea nr.2092A/02-09-2025",
+      "description": "Fondurile ajunse în economia României, sub formă de investiții și transferuri de tehnologie, în urma contractelor de achiziții de tehnică militară care depășesc 10 milioane de euro",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-02-09T00:00:00.000Z",
+        "presentation": "2025-02-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2092A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80050&idl=1",
+      "registrationId": "2092A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80051",
+      "title": "Întrebarea nr.2093A/02-09-2025",
+      "description": "Situația persoanelor condamnate pentru crimă",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul  Justiției\nîn atenţia:\ndomnului\nRadu Marinescu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-09T00:00:00.000Z",
+        "presentation": "2025-02-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2093A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80051&idl=1",
+      "registrationId": "2093A",
       "requestedResponseType": "în scris",
       "answers": []
     }

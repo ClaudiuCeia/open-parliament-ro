@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T09:29:48.952Z",
+  "lastUpdated": "2025-09-02T18:27:18.247Z",
   "data": [
     {
       "idi": "78132",
@@ -1158,6 +1158,48 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1809A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80035",
+      "title": "Întrebarea nr.2077A/02-09-2025",
+      "description": "Solicitare de informații privind situația obiectivelor de investiții în îmbunătățiri funciare și starea financiară a SNIF",
+      "addressee": {
+        "idm": "311"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-09T00:00:00.000Z",
+        "presentation": "2025-02-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2077A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80035&idl=1",
+      "registrationId": "2077A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80036",
+      "title": "Întrebarea nr.2078A/02-09-2025",
+      "description": "Stadiul obiectivelor de infrastructură aflate în derulare la nivelul județului Bihor, cu finanțare asigurată din PNRR",
+      "addressee": {
+        "idm": "311"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": "2025-02-09T00:00:00.000Z",
+        "presentation": "2025-02-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2078A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80036&idl=1",
+      "registrationId": "2078A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

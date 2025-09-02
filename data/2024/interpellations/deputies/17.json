@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T09:19:19.791Z",
+  "lastUpdated": "2025-09-02T18:16:45.448Z",
   "data": [
     {
       "idi": "77553",
@@ -876,6 +876,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1673A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80037",
+      "title": "Întrebarea nr.2079A/02-09-2025",
+      "description": "Investiții urgente pentru eliminarea riscului de inundații la nivelul județului Suceava",
+      "addressee": {
+        "idm": "17"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": "2025-02-09T00:00:00.000Z",
+        "presentation": "2025-02-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2079A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80037&idl=1",
+      "registrationId": "2079A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T09:23:31.817Z",
+  "lastUpdated": "2025-09-02T18:20:59.959Z",
   "data": [
     {
       "idi": "78230",
@@ -405,6 +405,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1762A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80045",
+      "title": "Întrebarea nr.2087A/02-09-2025",
+      "description": "Ce soluții aveți pentru reducerea inflației și creșterea nivelului de trai al românilor?",
+      "addressee": {
+        "idm": "134"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": "2025-02-09T00:00:00.000Z",
+        "presentation": "2025-02-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2087A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80045&idl=1",
+      "registrationId": "2087A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }
