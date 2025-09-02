@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T00:32:10.018Z",
+  "lastUpdated": "2025-09-02T09:30:01.941Z",
   "data": [
     {
       "idi": "77665",
@@ -798,9 +798,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1774A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79732&idl=1",
-      "registrationId": "1774A",
+      "registrationId": "1774A32374",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "32374",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nCosmin-Răzvan Butuza\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1774A.pdf"
+        }
+      ]
     },
     {
       "idi": "79733",
@@ -819,9 +827,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1775A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79733&idl=1",
-      "registrationId": "1775A",
+      "registrationId": "1775A32374",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "32374",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nCosmin-Răzvan Butuza\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1775A.pdf"
+        }
+      ]
     },
     {
       "idi": "79734",
@@ -840,9 +856,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1776A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79734&idl=1",
-      "registrationId": "1776A",
+      "registrationId": "1776A32374",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "32374",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nCosmin-Răzvan Butuza\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1776A.pdf"
+        }
+      ]
     },
     {
       "idi": "79735",

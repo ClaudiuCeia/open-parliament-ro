@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T00:28:51.348Z",
+  "lastUpdated": "2025-09-02T09:26:43.418Z",
   "data": [
     {
       "idi": "77542",
@@ -570,7 +570,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1561A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79519&idl=1",
-      "registrationId": "1561A43026",
+      "registrationId": "1561A4302643026",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -579,6 +579,13 @@
           "responseType": "în scris",
           "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1561A.pdf"
+        },
+        {
+          "registrationId": "43026",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1561A.pdf"
         }
       ]
     },

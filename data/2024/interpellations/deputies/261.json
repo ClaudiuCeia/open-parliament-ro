@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T00:29:48.500Z",
+  "lastUpdated": "2025-09-02T09:27:40.939Z",
   "data": [
     {
       "idi": "77562",
@@ -408,9 +408,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1493A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79451&idl=1",
-      "registrationId": "1493A",
+      "registrationId": "1493A5251",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "5251",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1493A.pdf"
+        }
+      ]
     },
     {
       "idi": "79453",
@@ -508,9 +516,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1837A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79795&idl=1",
-      "registrationId": "1837A",
+      "registrationId": "1837A266472",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266472",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1837A.pdf"
+        }
+      ]
     }
   ]
 }

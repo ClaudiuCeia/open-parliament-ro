@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T00:21:02.169Z",
+  "lastUpdated": "2025-09-02T09:18:52.605Z",
   "data": [
     {
       "idi": "77466",
@@ -1922,7 +1922,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1783A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79741&idl=1",
-      "registrationId": "1783A6628",
+      "registrationId": "1783A66286746",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -1931,6 +1931,13 @@
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1783A.pdf"
+        },
+        {
+          "registrationId": "6746",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1783A.pdf"
         }
       ]
     },
@@ -2130,7 +2137,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1806A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79764&idl=1",
-      "registrationId": "1806A16877103630",
+      "registrationId": "1806A16877266468103630",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -2139,6 +2146,13 @@
           "responseType": "în scris",
           "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1806A.pdf"
+        },
+        {
+          "registrationId": "266468",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/3r1806A.pdf"
         },
         {
           "registrationId": "103630",

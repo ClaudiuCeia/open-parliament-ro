@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T00:22:37.411Z",
+  "lastUpdated": "2025-09-02T09:20:28.285Z",
   "data": [
     {
       "idi": "77618",
@@ -823,9 +823,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1897A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79855&idl=1",
-      "registrationId": "1897A",
+      "registrationId": "1897A9797",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "9797",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1897A.pdf"
+        }
+      ]
     },
     {
       "idi": "79856",

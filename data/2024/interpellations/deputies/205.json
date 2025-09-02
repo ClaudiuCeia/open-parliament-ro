@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T00:27:42.242Z",
+  "lastUpdated": "2025-09-02T09:25:34.590Z",
   "data": [
     {
       "idi": "77532",
@@ -454,9 +454,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i241A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=77757&idl=1",
-      "registrationId": "241A",
+      "registrationId": "241A31596",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "31596",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Energiei\ncomunicat de:\ndomnul\nPavel-Casian Niţulescu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r241A.pdf"
+        }
+      ]
     },
     {
       "idi": "77758",
@@ -1286,9 +1294,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1862A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79820&idl=1",
-      "registrationId": "1862A",
+      "registrationId": "1862A17802",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "17802",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1862A.pdf"
+        }
+      ]
     },
     {
       "idi": "79920",

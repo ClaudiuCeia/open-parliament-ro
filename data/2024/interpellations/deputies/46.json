@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T00:22:45.015Z",
+  "lastUpdated": "2025-09-02T09:20:36.135Z",
   "data": [
     {
       "idi": "79618",
@@ -19,9 +19,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1660A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79618&idl=1",
-      "registrationId": "1660A",
+      "registrationId": "1660A6752",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6752",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1660A.pdf"
+        }
+      ]
     },
     {
       "idi": "79619",
@@ -40,9 +48,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1661A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79619&idl=1",
-      "registrationId": "1661A",
+      "registrationId": "1661A30484",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "30484",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nCosmin-Răzvan Butuza\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1661A.pdf"
+        }
+      ]
     },
     {
       "idi": "79620",

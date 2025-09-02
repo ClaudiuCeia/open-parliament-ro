@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T00:21:12.829Z",
+  "lastUpdated": "2025-09-02T09:19:03.053Z",
   "data": [
     {
       "idi": "77809",
@@ -870,9 +870,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1740A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79698&idl=1",
-      "registrationId": "1740A",
+      "registrationId": "1740A32374",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "32374",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nCosmin-Răzvan Butuza\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1740A.pdf"
+        }
+      ]
     },
     {
       "idi": "79776",
@@ -891,9 +899,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1818A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79776&idl=1",
-      "registrationId": "1818A",
+      "registrationId": "1818A1550",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1550",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Apărării Naţionale\ncomunicat de:\ndomnul\nLiviu-Ionuţ Moşteanu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1818A.pdf"
+        }
+      ]
     },
     {
       "idi": "79777",

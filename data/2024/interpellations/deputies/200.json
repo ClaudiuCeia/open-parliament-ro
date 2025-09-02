@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T00:27:19.251Z",
+  "lastUpdated": "2025-09-02T09:25:11.642Z",
   "data": [
     {
       "idi": "77977",
@@ -127,7 +127,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1850A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79808&idl=1",
-      "registrationId": "1850A6639",
+      "registrationId": "1850A66396748",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -136,6 +136,13 @@
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1850A.pdf"
+        },
+        {
+          "registrationId": "6748",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1850A.pdf"
         }
       ]
     },
@@ -156,9 +163,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1883A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79841&idl=1",
-      "registrationId": "1883A",
+      "registrationId": "1883A3071",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "3071",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nOana Silvia Ţoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1883A.pdf"
+        }
+      ]
     },
     {
       "idi": "79873",
@@ -198,9 +213,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1961A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79919&idl=1",
-      "registrationId": "1961A",
+      "registrationId": "1961A56815",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "56815",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Curtea de Conturi a României",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1961A.pdf"
+        }
+      ]
     },
     {
       "idi": "79974",

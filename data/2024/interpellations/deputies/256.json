@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-02T00:29:38.935Z",
+  "lastUpdated": "2025-09-02T09:27:31.600Z",
   "data": [
     {
       "idi": "77984",
@@ -135,9 +135,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i399A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=77988&idl=1",
-      "registrationId": "399A",
+      "registrationId": "399A31595",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "31595",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Energiei\ncomunicat de:\ndomnul\nPavel-Casian Niţulescu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r399A.pdf"
+        }
+      ]
     },
     {
       "idi": "77989",
@@ -1146,9 +1154,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1522A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79480&idl=1",
-      "registrationId": "1522A",
+      "registrationId": "1522A5251",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "5251",
+          "date": "2025-03-07T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1522A.pdf"
+        }
+      ]
     },
     {
       "idi": "79503",
@@ -1362,9 +1378,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1722A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79680&idl=1",
-      "registrationId": "1722A",
+      "registrationId": "1722A48748",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "48748",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1722A.pdf"
+        }
+      ]
     },
     {
       "idi": "79721",
