@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-03T00:27:45.997Z",
+  "lastUpdated": "2025-09-03T09:25:21.412Z",
   "data": [
     {
       "idi": "77500",
@@ -1648,9 +1648,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1644A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79602&idl=1",
-      "registrationId": "1644A",
+      "registrationId": "1644A266446",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266446",
+          "date": "2025-01-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1644A.pdf"
+        }
+      ]
     },
     {
       "idi": "79603",
@@ -2132,7 +2140,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1871A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79829&idl=1",
-      "registrationId": "1871A23919",
+      "registrationId": "1871A23919366851",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -2141,6 +2149,13 @@
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nStefan-Radu Oprea\n- Secretar General",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1871A.pdf"
+        },
+        {
+          "registrationId": "366851",
+          "date": "2025-01-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Inspectoratul de Stat în Construcţii",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1871A.pdf"
         }
       ]
     },

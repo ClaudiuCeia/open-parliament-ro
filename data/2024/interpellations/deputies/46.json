@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-03T00:23:43.090Z",
+  "lastUpdated": "2025-09-03T09:21:16.623Z",
   "data": [
     {
       "idi": "79618",
@@ -319,9 +319,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1922A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79880&idl=1",
-      "registrationId": "1922A",
+      "registrationId": "1922A52435",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "52435",
+          "date": "2025-01-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1922A.pdf"
+        }
+      ]
     },
     {
       "idi": "79881",

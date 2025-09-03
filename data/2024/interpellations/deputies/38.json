@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-03T00:23:34.502Z",
+  "lastUpdated": "2025-09-03T09:21:07.900Z",
   "data": [
     {
       "idi": "77618",
@@ -873,9 +873,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1914A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79872&idl=1",
-      "registrationId": "1914A",
+      "registrationId": "1914A80826",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "80826",
+          "date": "2025-01-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1914A.pdf"
+        }
+      ]
     }
   ]
 }

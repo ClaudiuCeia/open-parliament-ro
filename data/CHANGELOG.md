@@ -5,6 +5,10 @@ All notable changes to the Open Parliament Romania dataset will be documented in
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.233] - 2025-09-03
+
+- Updated data in 5 scraper(s): deputy-speeches (331 items), deputy-proposal-mappings (332 items), proposals (930 items), deputy-details (332 items), deputy-interpellations (332 items)
+
 ## [0.2.232] - 2025-09-03
 
 - Updated data in 6 scraper(s): deputy-speeches (331 items), deputy-proposal-mappings (332 items), proposals (930 items), deputy-details (332 items), deputy-motions (1 items), deputy-interpellations (332 items)
