@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-03T09:24:08.709Z",
+  "lastUpdated": "2025-09-03T18:25:39.104Z",
   "data": [
     {
       "idi": "77849",
@@ -165,6 +165,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1816A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79774&idl=1",
       "registrationId": "1816A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80055",
+      "title": "Întrebarea nr.2097A/03-09-2025",
+      "description": "Bilanțul aplicării prevederilor Legii 26 din 28 februarie 2024 privind ordinul de protecție în perioada 31 august 2024 - 31 august 2025",
+      "addressee": {
+        "idm": "129"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-09T00:00:00.000Z",
+        "presentation": "2025-03-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2097A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80055&idl=1",
+      "registrationId": "2097A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-03T09:27:16.770Z",
+  "lastUpdated": "2025-09-03T18:28:48.297Z",
   "data": [
     {
       "idi": "77646",
@@ -913,6 +913,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1631A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80065",
+      "title": "Întrebarea nr.2107A/03-09-2025",
+      "description": "Situația familiilor din Crucea și Ostra care riscă să rămână fără locuințe în urma scoaterii la licitație a 71 de apartamente de serviciu ale Companiei Naționale a Uraniului",
+      "addressee": {
+        "idm": "228"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": "2025-03-09T00:00:00.000Z",
+        "presentation": "2025-03-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2107A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80065&idl=1",
+      "registrationId": "2107A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

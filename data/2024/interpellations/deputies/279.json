@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-03T09:29:14.275Z",
+  "lastUpdated": "2025-09-03T18:30:46.522Z",
   "data": [
     {
       "idi": "77476",
@@ -1335,9 +1335,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1446A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79404&idl=1",
-      "registrationId": "1446A",
+      "registrationId": "1446A11769",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11769",
+          "date": "2025-01-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1446A.pdf"
+        }
+      ]
     },
     {
       "idi": "79435",
@@ -1472,9 +1480,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1646A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79604&idl=1",
-      "registrationId": "1646A",
+      "registrationId": "1646A4037",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "4037",
+          "date": "2025-01-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1646A.pdf"
+        }
+      ]
     },
     {
       "idi": "79605",
@@ -1830,9 +1846,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1972A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79930&idl=1",
-      "registrationId": "1972A",
+      "registrationId": "1972A4037",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "4037",
+          "date": "2025-01-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1972A.pdf"
+        }
+      ]
     },
     {
       "idi": "79931",
@@ -1902,6 +1926,69 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1975A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79933&idl=1",
       "registrationId": "1975A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80057",
+      "title": "Întrebarea nr.2099A/03-09-2025",
+      "description": "Situația liniei de producţie de măşti sanitare inaugurată în pandemie la Dragomireşti",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": "2025-03-09T00:00:00.000Z",
+        "presentation": "2025-03-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2099A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80057&idl=1",
+      "registrationId": "2099A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80058",
+      "title": "Întrebarea nr.2100A/03-09-2025",
+      "description": "Clarificări despre cheltuielile asumate de România în cadrul programului Security Action for Europe (SAFE)",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-09T00:00:00.000Z",
+        "presentation": "2025-03-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2100A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80058&idl=1",
+      "registrationId": "2100A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80059",
+      "title": "Întrebarea nr.2101A/03-09-2025",
+      "description": "Situația proiectelor de mobilare și digitalizare a școlilor din municipiul București",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-03-09T00:00:00.000Z",
+        "presentation": "2025-03-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2101A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80059&idl=1",
+      "registrationId": "2101A",
       "requestedResponseType": "în scris",
       "answers": []
     }

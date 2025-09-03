@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-03T09:18:44.894Z",
+  "lastUpdated": "2025-09-03T18:20:13.967Z",
   "data": {
     "idm": "314",
     "name": "Emanuel-Dumitru UNGUREANU",
@@ -28,11 +28,11 @@
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=6672&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 36,
+        "count": 29,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=314&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Întrebari şi interpelări": {
-        "count": 37,
+        "count": 38,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=314&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
       }
     }

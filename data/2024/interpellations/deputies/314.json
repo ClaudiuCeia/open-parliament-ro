@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-03T09:30:55.927Z",
+  "lastUpdated": "2025-09-03T18:32:28.328Z",
   "data": [
     {
       "idi": "77665",
@@ -1029,6 +1029,27 @@
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79955&idl=1",
       "registrationId": "1997A",
       "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80056",
+      "title": "Întrebarea nr.2098A/03-09-2025",
+      "description": "Întrebări privind legalitatea autorizației de funcționare a balastierei din comuna Gălănești, județul Suceava, și riscurile asupra alimentării cu apă a populației",
+      "addressee": {
+        "idm": "314"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-09T00:00:00.000Z",
+        "presentation": "2025-03-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2098A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80056&idl=1",
+      "registrationId": "2098A",
+      "requestedResponseType": "în scris şi oral",
       "answers": []
     }
   ]

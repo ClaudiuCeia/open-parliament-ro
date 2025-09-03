@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-03T09:19:41.943Z",
+  "lastUpdated": "2025-09-03T18:21:11.787Z",
   "data": [
     {
       "idi": "78682",
@@ -88,6 +88,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r306B.pdf"
         }
       ]
+    },
+    {
+      "idi": "80054",
+      "title": "Întrebarea nr.2096A/03-09-2025",
+      "description": "Situația elevilor de la Liceul Tehnologic „I.C. Brătianu” din Nicolae Bălcescu, Constanța",
+      "addressee": {
+        "idm": "12"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-03-09T00:00:00.000Z",
+        "presentation": "2025-03-09T00:00:00.000Z",
+        "communication": "2025-03-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2096A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80054&idl=1",
+      "registrationId": "2096A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

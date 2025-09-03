@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-03T09:19:27.254Z",
+  "lastUpdated": "2025-09-03T18:20:57.143Z",
   "data": [
     {
       "idi": "77466",
@@ -2432,9 +2432,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1927A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79885&idl=1",
-      "registrationId": "1927A",
+      "registrationId": "1927A11141",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11141",
+          "date": "2025-02-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Institutul Naţional de Statistică\ncomunicat de:\ndomnul\nAndrei Tudorel\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1927A.pdf"
+        }
+      ]
     },
     {
       "idi": "79893",

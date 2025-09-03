@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-03T09:25:21.412Z",
+  "lastUpdated": "2025-09-03T18:26:52.742Z",
   "data": [
     {
       "idi": "77500",
@@ -1985,9 +1985,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1794A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79752&idl=1",
-      "registrationId": "1794A",
+      "registrationId": "1794A2480",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "2480",
+          "date": "2025-01-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1794A.pdf"
+        }
+      ]
     },
     {
       "idi": "79753",
@@ -2197,9 +2205,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1882A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79840&idl=1",
-      "registrationId": "1882A",
+      "registrationId": "1882A12081",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "12081",
+          "date": "2025-02-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Consiliul Concurenţei\ncomunicat de:\ndomnul\nBogdan Chiriţoiu\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1882A.pdf"
+        }
+      ]
     },
     {
       "idi": "79886",

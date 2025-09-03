@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-03T09:16:23.591Z",
+  "lastUpdated": "2025-09-03T18:17:50.482Z",
   "data": {
     "idm": "160",
     "name": "KELEMEN Hunor",
@@ -28,7 +28,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=3323&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 27,
+        "count": 21,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=160&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       }
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-03T09:21:38.435Z",
+  "lastUpdated": "2025-09-03T18:23:07.161Z",
   "data": [
     {
       "idi": "78216",
@@ -257,6 +257,69 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2063A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80021&idl=1",
       "registrationId": "2063A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80060",
+      "title": "Întrebarea nr.2102A/03-09-2025",
+      "description": "Situația cazurilor de corupție sesizate în județul Maramureș în ultimii 5 ani",
+      "addressee": {
+        "idm": "60"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-09T00:00:00.000Z",
+        "presentation": "2025-03-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2102A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80060&idl=1",
+      "registrationId": "2102A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80061",
+      "title": "Întrebarea nr.2103A/03-09-2025",
+      "description": "Criteriile și procedura pentru numirea noului consul al României la Bruxelles",
+      "addressee": {
+        "idm": "60"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-09T00:00:00.000Z",
+        "presentation": "2025-03-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2103A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80061&idl=1",
+      "registrationId": "2103A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80062",
+      "title": "Întrebarea nr.2104A/03-09-2025",
+      "description": "Situația consumului și traficului de droguri în județul Maramureș în ultimii 5 ani",
+      "addressee": {
+        "idm": "60"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-03-09T00:00:00.000Z",
+        "presentation": "2025-03-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2104A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80062&idl=1",
+      "registrationId": "2104A",
       "requestedResponseType": "în scris",
       "answers": []
     }
