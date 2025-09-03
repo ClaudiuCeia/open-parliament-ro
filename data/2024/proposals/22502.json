@@ -1,0 +1,41 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-03T12:01:32.209Z",
+  "data": {
+    "idp": "22502",
+    "title": "Propunere legislativă pentru completarea Legii nr.1/1998 privind organizarea şi funcţionarea Serviciului de Informaţii Externe",
+    "registrationNumber": {
+      "bpi": "317/02-09-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n1/1998",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "în termenul acordat pentru avize si puncte de vedere solicitate",
+      "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+    },
+    "initiators": [
+      "54",
+      "214",
+      "109",
+      "22",
+      "110"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-10-07T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/7/em317.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/7/pl317.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22502"
+  }
+}
