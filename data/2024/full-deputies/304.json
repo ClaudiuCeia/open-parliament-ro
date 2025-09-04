@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-04T00:20:51.572Z",
+  "lastUpdated": "2025-09-04T09:18:48.050Z",
   "data": {
     "idm": "304",
     "name": "Elena-Laura TOADER",
@@ -36,7 +36,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7792&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 23,
+        "count": 35,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=304&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Întrebari şi interpelări": {
@@ -44,7 +44,7 @@
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=304&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
       },
       "Moţiuni": {
-        "count": 2,
+        "count": 6,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=304&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
       }
     }

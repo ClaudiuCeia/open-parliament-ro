@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-04T00:18:31.903Z",
+  "lastUpdated": "2025-09-04T09:16:31.427Z",
   "data": {
     "idm": "154",
     "name": "Cosmin-Teodor IOSUB",
@@ -36,7 +36,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7703&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 16,
+        "count": 28,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=154&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Proiecte de hotarâre iniţiate": {
@@ -44,7 +44,7 @@
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=154&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
       },
       "Moţiuni": {
-        "count": 4,
+        "count": 8,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=154&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
       }
     }

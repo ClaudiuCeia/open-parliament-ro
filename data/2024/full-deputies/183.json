@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-04T00:18:59.079Z",
+  "lastUpdated": "2025-09-04T09:16:58.958Z",
   "data": {
     "idm": "183",
     "name": "Sergiu-Lucian MATEI",
@@ -36,7 +36,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7730&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 11,
+        "count": 30,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=183&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Întrebari şi interpelări": {
@@ -44,7 +44,7 @@
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=183&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
       },
       "Moţiuni": {
-        "count": 2,
+        "count": 6,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=183&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
       }
     }

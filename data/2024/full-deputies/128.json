@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-04T00:18:08.286Z",
+  "lastUpdated": "2025-09-04T09:16:08.235Z",
   "data": {
     "idm": "128",
     "name": "Ionel GOIDESCU",
@@ -40,7 +40,7 @@
         "url": "https://www.cdep.ro/bp/sedinte2015.cautare?idv=7676&leg=2024&ope=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 31,
+        "count": 46,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=128&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Proiecte de hotarâre iniţiate": {
@@ -48,7 +48,7 @@
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=128&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
       },
       "Moţiuni": {
-        "count": 2,
+        "count": 6,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=128&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
       }
     }

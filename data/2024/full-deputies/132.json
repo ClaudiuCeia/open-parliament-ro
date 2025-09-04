@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-04T00:18:12.604Z",
+  "lastUpdated": "2025-09-04T09:16:12.710Z",
   "data": {
     "idm": "132",
     "name": "Daniel GROFU",
@@ -40,11 +40,11 @@
         "url": "https://www.cdep.ro/bp/sedinte2015.cautare?idv=7758&leg=2024&ope=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 12,
+        "count": 31,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=132&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Moţiuni": {
-        "count": 3,
+        "count": 4,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=132&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
       }
     }

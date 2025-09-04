@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-04T00:19:32.024Z",
+  "lastUpdated": "2025-09-04T09:17:31.238Z",
   "data": {
     "idm": "218",
     "name": "Vasile NAGY",
@@ -32,7 +32,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7282&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 25,
+        "count": 38,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=218&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Întrebari şi interpelări": {
@@ -40,7 +40,7 @@
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=218&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
       },
       "Moţiuni": {
-        "count": 2,
+        "count": 6,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=218&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
       }
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-04T00:17:49.453Z",
+  "lastUpdated": "2025-09-04T09:15:49.399Z",
   "data": {
     "idm": "108",
     "name": "Gabriel-Florinel FLOREA",
@@ -36,7 +36,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2024.lista?idv=7778&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 12,
+        "count": 19,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=108&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Proiecte de hotarâre iniţiate": {
@@ -48,7 +48,7 @@
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=108&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
       },
       "Moţiuni": {
-        "count": 4,
+        "count": 8,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=108&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
       }
     }

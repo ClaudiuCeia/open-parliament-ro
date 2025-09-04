@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-04T00:18:29.804Z",
+  "lastUpdated": "2025-09-04T09:16:29.730Z",
   "data": {
     "idm": "152",
     "name": "Tudor IONESCU",
@@ -32,7 +32,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7653&leg=2024&topic1=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 29,
+        "count": 42,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=152&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       },
       "Proiecte de hotarâre iniţiate": {
@@ -44,7 +44,7 @@
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=152&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
       },
       "Moţiuni": {
-        "count": 2,
+        "count": 6,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=152&cam=2&leg=2024&pag=11&idl=1&prn=0&par="
       }
     }
