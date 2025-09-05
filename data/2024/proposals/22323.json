@@ -1,11 +1,12 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-09-05T09:13:01.807Z",
+  "lastUpdated": "2025-09-05T15:14:07.988Z",
   "data": {
     "idp": "22323",
     "title": "Proiect de Lege pentru ratificarea Protocolului semnat la Ashgabat la 20 ianuarie 2025, de amendare a Acordului între Guvernul României şi Guvernul Turkmenistanului în domeniul transporturilor internaţionale rutiere de persoane şi mărfuri, semnat la Bucureşti la 16 noiembrie 1994",
     "registrationNumber": {
-      "bpi": "123/25-04-2025"
+      "bpi": "123/25-04-2025",
+      "senateChamber": "B385/2025"
     },
     "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
     "decidingChamber": "Senatul",

@@ -1,11 +1,12 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-09-05T09:13:06.585Z",
+  "lastUpdated": "2025-09-05T15:14:14.402Z",
   "data": {
     "idp": "22339",
     "title": "Proiect de Lege pentru ratificarea Convenţiei între România şi Principatul Andorra pentru eliminarea dublei impuneri cu privire la impozitele pe venit şi pe capital şi prevenirea evaziunii fiscale şi a evitării plăţii impozitelor şi a Protocolului la Convenţie, semnate la New York la 27 septembrie 2024",
     "registrationNumber": {
-      "bpi": "139/07-05-2025"
+      "bpi": "139/07-05-2025",
+      "senateChamber": "B384/2025"
     },
     "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
     "decidingChamber": "Senatul",
