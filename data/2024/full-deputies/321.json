@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-08T00:21:21.703Z",
+  "lastUpdated": "2025-09-08T09:18:39.854Z",
   "data": {
     "idm": "321",
     "name": "Florin-Bogdan VELCESCUchestor al Camerei Deputaţilor",
@@ -24,11 +24,11 @@
     },
     "activity": {
       "Luări de cuvânt": {
-        "count": 21,
+        "count": 22,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7650&leg=2024&idl=1"
       },
       "- din care declaraţii politice": {
-        "count": 2,
+        "count": 3,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7650&leg=2024&topic1=1"
       },
       "Propuneri legislative iniţiate": {
