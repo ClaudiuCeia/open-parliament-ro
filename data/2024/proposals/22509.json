@@ -1,0 +1,63 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-08T15:06:09.090Z",
+  "data": {
+    "idp": "22509",
+    "title": "Propunere legislativă pentru modificarea şi completare art.7 din Legea nr.41/1994 privind organizarea şi funcţionarea Societăţii Române de Radiodifuziune şi Societăţii Române de Televiziune",
+    "registrationNumber": {
+      "bpi": "324/03-09-2025",
+      "senateChamber": "B256/03.09.2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n41/1994",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "56",
+      "57",
+      "79",
+      "84",
+      "110",
+      "118",
+      "143",
+      "182",
+      "199",
+      "232",
+      "259",
+      "273",
+      "283",
+      "311"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-09-17T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/9/em324.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/9/pl324.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/9/ces324.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/9/cl324.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/9/cna324.pdf",
+        "title": "Avizul Consiliului Național al Audiovizualului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22509"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-08T15:06:08.795Z",
+  "data": {
+    "idp": "22507",
+    "title": "Propunere legislativă pentru completarea art.191 alin.(1) din Legea învăţământului preuniversitar nr.198/2023",
+    "registrationNumber": {
+      "bpi": "322/03-09-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "în termenul acordat pentru avize si puncte de vedere solicitate",
+      "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+    },
+    "initiators": [
+      "95",
+      "124",
+      "9",
+      "267",
+      "28",
+      "87",
+      "159",
+      "176",
+      "180",
+      "195",
+      "277",
+      "291",
+      "316",
+      "37",
+      "331",
+      "37",
+      "15",
+      "36",
+      "54",
+      "117"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-10-09T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/8/em322.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/40/8/pl322.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22507"
+  }
+}

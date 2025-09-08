@@ -1,0 +1,73 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-08T15:06:09.926Z",
+  "data": {
+    "idp": "22511",
+    "title": "Proiect de Lege pentru instituirea Programului Subvenţii pentru căminul familiei",
+    "registrationNumber": {
+      "bpi": "326/03-09-2025",
+      "senateChamber": "L152/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "25",
+      "28",
+      "85",
+      "87",
+      "111",
+      "139",
+      "159",
+      "160",
+      "161",
+      "163",
+      "165",
+      "166",
+      "176",
+      "180",
+      "195",
+      "206",
+      "291",
+      "316",
+      "329",
+      "330",
+      "6",
+      "32",
+      "54",
+      "55",
+      "71",
+      "115",
+      "117"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/2/em326.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/2/ces326.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/2/cl326.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/2/BN326.pdf",
+        "title": "Avizul Băncii Naționale a României"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/2/opcfisc326.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22511"
+  }
+}
