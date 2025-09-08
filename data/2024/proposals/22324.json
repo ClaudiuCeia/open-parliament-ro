@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-09-08T09:12:52.864Z",
+  "lastUpdated": "2025-09-08T18:08:10.207Z",
   "data": {
     "idp": "22324",
     "title": "Propunere legislativă pentru modificarea Legii nr.47/1992 privind organizarea şi funcţionarea Curţii Constituţionale",
@@ -12,11 +12,10 @@
     "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n47/1992",
     "emergencyProcedure": false,
     "status": {
-      "short": "raport  depus; urmeaza sa intre pe ordinea de zi",
-      "long": "raport  depus; urmeaza sa intre pe ordinea de zi"
+      "short": "pe ordinea de zi a sedintelor Camerei Deputatilor",
+      "long": "pe ordinea de zi a sedintelor Camerei Deputatilor"
     },
     "initiators": [
-      "221",
       "11",
       "13",
       "15",
@@ -71,6 +70,7 @@
       "315",
       "321",
       "325",
+      "221",
       "7",
       "22",
       "23",

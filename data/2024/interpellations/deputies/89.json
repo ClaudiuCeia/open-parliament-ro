@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-08T09:23:18.746Z",
+  "lastUpdated": "2025-09-08T18:18:25.377Z",
   "data": [
     {
       "idi": "77601",
@@ -2446,9 +2446,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1209A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79055&idl=1",
-      "registrationId": "1209A",
+      "registrationId": "1209A3960",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "3960",
+          "date": "2025-08-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Casa Naţională a Asigurărilor de Sănătate",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1209A.pdf"
+        }
+      ]
     },
     {
       "idi": "79056",

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-08T09:29:47.264Z",
+  "lastUpdated": "2025-09-08T18:24:48.043Z",
   "data": [
     {
       "idi": "77476",
@@ -1718,9 +1718,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1878A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79836&idl=1",
-      "registrationId": "1878A",
+      "registrationId": "1878A6080",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6080",
+          "date": "2025-08-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Culturii\ncomunicat de:\ndomnul\nAndras Istvan Demeter\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1878A.pdf"
+        }
+      ]
     },
     {
       "idi": "79918",

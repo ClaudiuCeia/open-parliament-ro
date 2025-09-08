@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-08T09:20:51.763Z",
+  "lastUpdated": "2025-09-08T18:15:59.865Z",
   "data": [
     {
       "idi": "78786",
@@ -206,9 +206,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1990A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79948&idl=1",
-      "registrationId": "1990A",
+      "registrationId": "1990A1051",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1051",
+          "date": "2025-08-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1990A.pdf"
+        }
+      ]
     },
     {
       "idi": "79949",
