@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-09T00:33:14.703Z",
+  "lastUpdated": "2025-09-09T12:30:42.163Z",
   "data": [
     {
       "idi": "77612",
@@ -3233,6 +3233,111 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1755A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80111",
+      "title": "Întrebarea nr.2121A/09-09-2025",
+      "description": "Clarificări despre activitatea Departamentului pentru Dezvoltare Durabilă",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": "2025-09-09T00:00:00.000Z",
+        "presentation": "2025-09-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2121A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80111&idl=1",
+      "registrationId": "2121A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80112",
+      "title": "Întrebarea nr.2122A/09-09-2025",
+      "description": "Peste 40% dintre copii români trăiesc sub pragul sărăciei – situația din județul Brașov",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndomnului\nPetre-Florin Manole\n- Ministru",
+      "dates": {
+        "registration": "2025-09-09T00:00:00.000Z",
+        "presentation": "2025-09-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2122A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80112&idl=1",
+      "registrationId": "2122A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80113",
+      "title": "Întrebarea nr.2123A/09-09-2025",
+      "description": "Ratele de vaccinare a copiilor împotriva rujeolei, tusei convulsive, rubeolei și oreionului – situația pentru județul Brașov",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-09-09T00:00:00.000Z",
+        "presentation": "2025-09-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2123A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80113&idl=1",
+      "registrationId": "2123A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80114",
+      "title": "Întrebarea nr.2124A/09-09-2025",
+      "description": "Situația Programului Național „Vouchere culturale pentru elevi“ – județul Brașov",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-09-09T00:00:00.000Z",
+        "presentation": "2025-09-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2124A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80114&idl=1",
+      "registrationId": "2124A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80115",
+      "title": "Întrebarea nr.2125A/09-09-2025",
+      "description": "Situația achizițiilor de servicii de „formare profesională” de către instituțiile din județul Brașov",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": "2025-09-09T00:00:00.000Z",
+        "presentation": "2025-09-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2125A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80115&idl=1",
+      "registrationId": "2125A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

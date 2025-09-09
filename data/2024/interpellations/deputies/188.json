@@ -1,5 +1,27 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-09T00:28:34.357Z",
-  "data": []
+  "lastUpdated": "2025-09-09T12:25:50.909Z",
+  "data": [
+    {
+      "idi": "80089",
+      "title": "Interpelarea nr.513B/09-09-2025",
+      "description": "Siguranța circulației pe DN 6 (supranumit „drumul morții”) din Caraș-Severin",
+      "addressee": {
+        "idm": "188"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": "2025-09-09T00:00:00.000Z",
+        "presentation": "2025-09-09T00:00:00.000Z",
+        "communication": "2025-09-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i513B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80089&idl=1",
+      "registrationId": "513B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
 }

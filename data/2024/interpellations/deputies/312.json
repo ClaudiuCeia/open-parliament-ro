@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-09T00:33:51.037Z",
+  "lastUpdated": "2025-09-09T12:31:20.407Z",
   "data": [
     {
       "idi": "77881",
@@ -405,6 +405,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r422B.pdf"
         }
       ]
+    },
+    {
+      "idi": "80081",
+      "title": "Interpelarea nr.505B/09-09-2025",
+      "description": "Are Statul Român datorii de achitat către Complexul Energetic Oltenia? Care sunt acestea? Cum și când intenționează să le achite?",
+      "addressee": {
+        "idm": "312"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": "2025-09-09T00:00:00.000Z",
+        "presentation": "2025-09-09T00:00:00.000Z",
+        "communication": "2025-09-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i505B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80081&idl=1",
+      "registrationId": "505B",
+      "requestedResponseType": "în scris şi oral",
+      "answers": []
     }
   ]
 }

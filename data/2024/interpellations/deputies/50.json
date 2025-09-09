@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-09T00:23:59.831Z",
+  "lastUpdated": "2025-09-09T12:21:03.786Z",
   "data": [
     {
       "idi": "77704",
@@ -443,6 +443,48 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r469B.pdf"
         }
       ]
+    },
+    {
+      "idi": "80068",
+      "title": "Interpelarea nr.492B/09-09-2025",
+      "description": "Impactul reformelor fiscale asupra populației și mediului de afaceri",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": "2025-09-09T00:00:00.000Z",
+        "presentation": "2025-09-09T00:00:00.000Z",
+        "communication": "2025-09-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i492B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80068&idl=1",
+      "registrationId": "492B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80083",
+      "title": "Interpelarea nr.507B/09-09-2025",
+      "description": "Comasarea școlilor și grădinițelor în contextul celui de-al doilea pachet legislativ în educație",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Educației\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-09-09T00:00:00.000Z",
+        "presentation": "2025-09-09T00:00:00.000Z",
+        "communication": "2025-09-09T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i507B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80083&idl=1",
+      "registrationId": "507B",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

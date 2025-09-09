@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-09T00:19:15.425Z",
+  "lastUpdated": "2025-09-09T12:16:16.242Z",
   "data": {
     "idm": "188",
     "name": "Samuel-Virgil MICLĂU",
@@ -38,6 +38,10 @@
       "Proiecte de hotarâre iniţiate": {
         "count": 2,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=188&cam=2&leg=2024&pag=32&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=188&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
       },
       "Moţiuni": {
         "count": 8,

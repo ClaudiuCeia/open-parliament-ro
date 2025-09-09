@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-09-09T00:16:14.536Z",
+  "lastUpdated": "2025-09-09T12:13:24.682Z",
   "data": {
     "idp": "22499",
     "title": "Proiect de Lege privind eficientizarea activităţii unor autorităţi administrative autonome",
@@ -13,8 +13,8 @@
     "type": "Proiect de Lege",
     "emergencyProcedure": true,
     "status": {
-      "short": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala",
-      "long": "depus la Secretarul general în vederea exercitarii de catre deputati a dreptului de a sesiza Curtea Constitutionala"
+      "short": "lege trimisa la promulgare",
+      "long": "lege trimisa la promulgare"
     },
     "initiators": [
       "GOVERNMENT"
