@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-10T00:28:59.416Z",
+  "lastUpdated": "2025-09-10T09:27:39.286Z",
   "data": [
     {
       "idi": "78193",
@@ -294,6 +294,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2037A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79995&idl=1",
       "registrationId": "2037A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80136",
+      "title": "Întrebarea nr.2146A/10-09-2025",
+      "description": "Întârzieri și birocrație excesivă în procesarea vizelor de lungă ședere pentru muncitorii din state non-UE",
+      "addressee": {
+        "idm": "267"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-10-09T00:00:00.000Z",
+        "presentation": "2025-10-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2146A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80136&idl=1",
+      "registrationId": "2146A",
       "requestedResponseType": "în scris",
       "answers": []
     }

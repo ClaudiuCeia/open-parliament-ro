@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-10T00:24:06.898Z",
+  "lastUpdated": "2025-09-10T09:22:44.908Z",
   "data": [
     {
       "idi": "77557",
@@ -476,6 +476,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2065A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80023&idl=1",
       "registrationId": "2065A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80132",
+      "title": "Întrebarea nr.2142A/10-09-2025",
+      "description": "Situația îngrijorătoare a analfabetismului și a analfabetismului funcțional în România",
+      "addressee": {
+        "idm": "119"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-10-09T00:00:00.000Z",
+        "presentation": "2025-10-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2142A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80132&idl=1",
+      "registrationId": "2142A",
       "requestedResponseType": "în scris",
       "answers": []
     }

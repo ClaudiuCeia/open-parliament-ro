@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-10T00:23:40.297Z",
+  "lastUpdated": "2025-09-10T09:22:18.289Z",
   "data": [
     {
       "idi": "78314",
@@ -70,6 +70,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2109A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80099&idl=1",
       "registrationId": "2109A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80130",
+      "title": "Întrebarea nr.2140A/10-09-2025",
+      "description": "Situația proiectelor de construire a creșelor și grădinițelor în județul Bacău",
+      "addressee": {
+        "idm": "99"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": "2025-10-09T00:00:00.000Z",
+        "presentation": "2025-10-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2140A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80130&idl=1",
+      "registrationId": "2140A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80131",
+      "title": "Întrebarea nr.2141A/10-09-2025",
+      "description": "Numărul de localități din județul Bacău care beneficiază de servicii medicale prestate de medici stomatologi aflaţi în relaţie cu Casa Judeţeană de Asigurări de Sănătate",
+      "addressee": {
+        "idm": "99"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": "2025-10-09T00:00:00.000Z",
+        "presentation": "2025-10-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2141A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80131&idl=1",
+      "registrationId": "2141A",
       "requestedResponseType": "în scris",
       "answers": []
     }
