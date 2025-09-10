@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-10T12:01:37.580Z",
+  "data": {
+    "idp": "22515",
+    "title": "Proiect de Lege pentru completarea art.96 din Legea fondului funciar nr.18/1991",
+    "registrationNumber": {
+      "bpi": "330/09-09-2025",
+      "senateChamber": "L146/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n18/1991",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "124",
+      "222",
+      "14",
+      "31",
+      "46",
+      "49",
+      "56",
+      "88",
+      "110",
+      "182",
+      "199",
+      "234",
+      "243",
+      "244",
+      "271",
+      "273",
+      "283",
+      "311",
+      "320",
+      "76"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/4/em330.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/4/ces330.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/4/cl330.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/4/cconc330.pdf",
+        "title": "Avizul Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22515"
+  }
+}

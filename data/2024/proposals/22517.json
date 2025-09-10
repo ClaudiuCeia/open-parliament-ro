@@ -1,0 +1,49 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-10T12:01:38.178Z",
+  "data": {
+    "idp": "22517",
+    "title": "Proiect de Lege pentru modificarea şi completarea art.15 din Ordonanţa de urgenţă nr.77/2009 privind organizarea şi exploatarea jocurilor de noroc",
+    "registrationNumber": {
+      "bpi": "332/09-09-2025",
+      "senateChamber": "L126/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n77/2009",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "9",
+      "66",
+      "81",
+      "84",
+      "110",
+      "182",
+      "232",
+      "271",
+      "283",
+      "311",
+      "76"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/6/em332.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/6/ces332.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/6/cl332.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22517"
+  }
+}

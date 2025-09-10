@@ -1,43 +1,41 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-09-10T12:01:38.450Z",
+  "lastUpdated": "2025-09-10T12:01:38.965Z",
   "data": {
-    "idp": "22313",
-    "title": "Propunere legislativă pentru modificarea Legii nr.334/2006, republicată, privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+    "idp": "22518",
+    "title": "Propunere legislativă pentru modificarea şi completarea articolului 139 alineatul (1) din Legea nr.53/2003 privind Codul muncii, în vederea includerii zilei de 4 februarie(Ziua Mondială de Luptă Împotriva Cancerului) în lista sărbătorilor legale nelucrătoare",
     "registrationNumber": {
-      "bpi": "112/09-04-2025333/09-09-2025",
-      "senateChamber": "L163/2025"
+      "bpi": "335/09-09-2025",
+      "senateChamber": "L168/2025"
     },
     "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
     "decidingChamber": "Camera Deputaţilor",
-    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n334/2006",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n53/2003",
     "emergencyProcedure": false,
     "status": {
       "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
       "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
     },
     "initiators": [
+      "62",
       "101",
       "103",
       "246",
       "318",
       "158",
-      "137",
-      "21",
-      "50",
       "67",
       "75",
       "128",
       "152",
-      "148",
       "169",
+      "175",
       "218",
       "231",
       "237",
       "304",
       "312",
       "319",
-      "113",
+      "323",
       "57",
       "33",
       "82",
@@ -45,36 +43,31 @@
       "8",
       "128",
       "72",
-      "81",
       "97"
     ],
     "publicConsultation": null,
     "documents": [
       {
-        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/7/em333.pdf",
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/9/em335.pdf",
         "title": "Expunerea de motive"
       },
       {
-        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/7/pl333.pdf",
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/9/pl335.pdf",
         "title": "Forma iniţiatorului"
       },
       {
-        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/7/ces333.pdf",
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/9/ces335.pdf",
         "title": "Avizul Consiliului Economic şi Social"
       },
       {
-        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/7/cl333.pdf",
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/9/cl335.pdf",
         "title": "Avizul Consiliului Legislativ"
       },
       {
-        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/7/pvg333.pdf",
-        "title": "Punctul de vedere al Guvernului"
-      },
-      {
-        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/7/opcfisc333.pdf",
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/9/opcfisc.pdf",
         "title": "Opinia Consiliului Fiscal"
       }
     ],
-    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22313"
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22518"
   }
 }

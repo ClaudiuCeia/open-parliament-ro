@@ -1,0 +1,67 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-10T12:01:37.843Z",
+  "data": {
+    "idp": "22516",
+    "title": "Proiect de Lege pentru modificarea şi completarea unor acte normative",
+    "registrationNumber": {
+      "bpi": "331/09-09-2025",
+      "senateChamber": "L122/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "34",
+      "76",
+      "168",
+      "305",
+      "46",
+      "49",
+      "84",
+      "110",
+      "199",
+      "232",
+      "271",
+      "273",
+      "308",
+      "311",
+      "4",
+      "25",
+      "111",
+      "161",
+      "1",
+      "15",
+      "31",
+      "53",
+      "58",
+      "91",
+      "98"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/5/em331.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/5/ces331.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/5/cl331.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/50/5/cconc331.pdf",
+        "title": "Avizul Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22516"
+  }
+}
