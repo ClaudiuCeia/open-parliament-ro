@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-10T09:20:54.485Z",
+  "lastUpdated": "2025-09-10T18:09:57.295Z",
   "data": [
     {
       "idi": "79104",
@@ -113,9 +113,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1884A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79842&idl=1",
-      "registrationId": "1884A",
+      "registrationId": "1884A1634",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1634",
+          "date": "2025-08-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nDragoş Nicolae Pîslaru\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1884A.pdf"
+        }
+      ]
     },
     {
       "idi": "79843",
@@ -134,9 +142,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1885A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79843&idl=1",
-      "registrationId": "1885A",
+      "registrationId": "1885A193146",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "193146",
+          "date": "2025-08-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1885A.pdf"
+        }
+      ]
     },
     {
       "idi": "79844",
@@ -155,9 +171,24 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1886A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79844&idl=1",
-      "registrationId": "1886A",
+      "registrationId": "1886A384141193146",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "384141",
+          "date": "2025-08-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Inspectoratul de Stat în Construcţii",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1886A.pdf"
+        },
+        {
+          "registrationId": "193146",
+          "date": "2025-08-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1886A.pdf"
+        }
+      ]
     },
     {
       "idi": "79845",

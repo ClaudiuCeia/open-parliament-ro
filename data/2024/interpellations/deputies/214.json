@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-10T09:25:44.700Z",
+  "lastUpdated": "2025-09-10T18:14:51.684Z",
   "data": [
     {
       "idi": "77550",
@@ -683,9 +683,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1876A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79834&idl=1",
-      "registrationId": "1876A",
+      "registrationId": "1876A194180",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "194180",
+          "date": "2025-08-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1876A.pdf"
+        }
+      ]
     },
     {
       "idi": "79835",

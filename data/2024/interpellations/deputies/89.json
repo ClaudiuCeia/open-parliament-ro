@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-10T09:22:05.170Z",
+  "lastUpdated": "2025-09-10T18:11:09.767Z",
   "data": [
     {
       "idi": "77601",
@@ -2815,9 +2815,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1327A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79237&idl=1",
-      "registrationId": "1327A",
+      "registrationId": "1327A320472",
       "requestedResponseType": "în scris şi oral",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "320472",
+          "date": "2025-08-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\ncomunicat de:\ndomnul\nLaurenţiu-Viorel Gîdei\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1327A.pdf"
+        }
+      ]
     },
     {
       "idi": "79238",
@@ -3688,9 +3696,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i2005A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79963&idl=1",
-      "registrationId": "2005A",
+      "registrationId": "2005A161220",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "161220",
+          "date": "2025-08-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r2005A.pdf"
+        }
+      ]
     },
     {
       "idi": "79964",
@@ -4180,6 +4196,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2031A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79989&idl=1",
       "registrationId": "2031A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80145",
+      "title": "Întrebarea nr.2155A/10-09-2025",
+      "description": "Situația cardurilor educaţionale în valoare de 500 de lei, destinate elevilor din medii vulnerabile, distribuite în județul Iași",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nDragoş Nicolae Pîslaru\n- Ministru",
+      "dates": {
+        "registration": "2025-10-09T00:00:00.000Z",
+        "presentation": "2025-10-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2155A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80145&idl=1",
+      "registrationId": "2155A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80146",
+      "title": "Întrebarea nr.2156A/10-09-2025",
+      "description": "Modernizarea sistemelor electrice din spitalele din România – situația pentru județul Iași",
+      "addressee": {
+        "idm": "89"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nDragoş Nicolae Pîslaru\n- Ministru",
+      "dates": {
+        "registration": "2025-10-09T00:00:00.000Z",
+        "presentation": "2025-10-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2156A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80146&idl=1",
+      "registrationId": "2156A",
       "requestedResponseType": "în scris",
       "answers": []
     }

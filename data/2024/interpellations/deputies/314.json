@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-10T09:29:42.078Z",
+  "lastUpdated": "2025-09-10T18:18:50.121Z",
   "data": [
     {
       "idi": "77665",
@@ -1049,6 +1049,69 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2098A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80056&idl=1",
       "registrationId": "2098A",
+      "requestedResponseType": "în scris şi oral",
+      "answers": []
+    },
+    {
+      "idi": "80141",
+      "title": "Întrebarea nr.2151A/10-09-2025",
+      "description": "Măsuri dispuse de Ministerul Mediului și Garda Națională de Mediu în legătură cu posibila depozitare ilegală a deșeurilor provenite din Salina Cacica pe terenurile adiacente comunei Cacica, județul Suceava, precum și verificarea modului în care Garda de Mediu Suceava a efectuat controalele și a raportat situația",
+      "addressee": {
+        "idm": "314"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": "2025-10-09T00:00:00.000Z",
+        "presentation": "2025-10-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2151A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80141&idl=1",
+      "registrationId": "2151A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80142",
+      "title": "Întrebarea nr.2152A/10-09-2025",
+      "description": "Întrebări privind abuzurile Autorității Naționale pentru Persoane cu Dizabilități împotriva pacienților cu insuficiență renală cronică",
+      "addressee": {
+        "idm": "314"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndomnului\nPetre-Florin Manole\n- Ministru",
+      "dates": {
+        "registration": "2025-10-09T00:00:00.000Z",
+        "presentation": "2025-10-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2152A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80142&idl=1",
+      "registrationId": "2152A",
+      "requestedResponseType": "în scris şi oral",
+      "answers": []
+    },
+    {
+      "idi": "80143",
+      "title": "Întrebarea nr.2153A/10-09-2025",
+      "description": "Întrebări privind includerea autostrăzii Pașcani–Siret în proiectele finanțate prin programul european SAFE",
+      "addressee": {
+        "idm": "314"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": "2025-10-09T00:00:00.000Z",
+        "presentation": "2025-10-09T00:00:00.000Z",
+        "communication": "2025-10-09T00:00:00.000Z",
+        "responseDue": "2025-01-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2153A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80143&idl=1",
+      "registrationId": "2153A",
       "requestedResponseType": "în scris şi oral",
       "answers": []
     }
