@@ -1,7 +1,27 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-11T00:05:30.381Z",
+  "lastUpdated": "2025-09-11T09:02:44.169Z",
   "data": [
+    {
+      "ids": "8920",
+      "idv": "7160",
+      "idm": "214",
+      "date": "2025-09-08T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 8 septembrie 2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8920&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8920&idm=11&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8920&idm=11&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Hotărâre privind înfiinţarea unei comisii parlamentare de anchetă pentru investigarea circumstanţelor şi responsabilităţilor legate de anulare alegerilor prezidenţiale din România din decembrie 2024 (PHCD 57/2025) (rămas pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8920&idm=9&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8920&idm=9&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Hotărâre privind înfiinţarea unei comisii parlamentare de anchetă privind investigarea abuzurilor sexuale şi comportamentele deviante din universităţile româneşti (PHCD 56/2025) (rămas pentru votul final)."
+        }
+      ]
+    },
     {
       "ids": "8911",
       "idv": "7160",
@@ -12,7 +32,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8911&idm=2&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8911&idm=2&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=04-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=04-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8911&idm=2&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea şi adoptarea Propunerii legislative privind modificarea şi completarea Legii nr.96/2006 privind Statutul deputaţilor şi al senatorilor. (L184/2025; Pl-x 210/2025)"
         }
       ]
@@ -27,7 +47,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8893&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8893&idm=1&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=04-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=04-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8893&idm=1&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Alocuţiuni consacrate marcării zilei de 14 mai - Ziua Solidarităţii şi Prieteniei dintre România şi Statul Israel."
         }
       ]
@@ -42,7 +62,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=3&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=04-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=04-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8881&idm=3&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Prezentarea şi dezbaterea moţiunii simple intitulate \"De la democraţie la regim hibrid: România sub jugul poliţiei politice asmuţite de ministrul Predoiu\", iniţiată de 56 de deputaţi (MS 1/2025)."
         }
       ]
@@ -57,7 +77,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8846&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8846&idm=4&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=04-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=04-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8846&idm=4&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Depunerea jurământului de către membrii Comisiei parlamentare speciale pentru controlul activităţii Serviciului de Informaţii Externe"
         }
       ]
@@ -72,7 +92,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=04-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=04-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7160&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7160%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
         }
       ]
