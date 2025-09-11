@@ -1,11 +1,12 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-09-11T09:11:26.903Z",
+  "lastUpdated": "2025-09-11T18:10:01.662Z",
   "data": {
     "idp": "22324",
     "title": "Propunere legislativă pentru modificarea Legii nr.47/1992 privind organizarea şi funcţionarea Curţii Constituţionale",
     "registrationNumber": {
-      "bpi": "124/25-04-2025"
+      "bpi": "124/25-04-2025",
+      "senateChamber": "B398/2025"
     },
     "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
     "decidingChamber": "Senatul",

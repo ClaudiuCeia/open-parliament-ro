@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-11T09:22:22.166Z",
+  "lastUpdated": "2025-09-11T18:21:14.627Z",
   "data": [
     {
       "idi": "77673",
@@ -634,6 +634,195 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1908A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79866&idl=1",
       "registrationId": "1908A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80168",
+      "title": "Întrebarea nr.2178A/11-09-2025",
+      "description": "Măsuri pentru siguranța populației și a locuințelor din jurul Salinei Praid",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": "2025-11-09T00:00:00.000Z",
+        "presentation": "2025-11-09T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2178A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80168&idl=1",
+      "registrationId": "2178A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80169",
+      "title": "Întrebarea nr.2179A/11-09-2025",
+      "description": "Impactul asupra turismului și economiei locale generate de închiderea Salinei Praid",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": "2025-11-09T00:00:00.000Z",
+        "presentation": "2025-11-09T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2179A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80169&idl=1",
+      "registrationId": "2179A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80170",
+      "title": "Întrebarea nr.2180A/11-09-2025",
+      "description": "Impactul bugetar al scăderii producției de sare de la Salina Praid",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": "2025-11-09T00:00:00.000Z",
+        "presentation": "2025-11-09T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2180A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80170&idl=1",
+      "registrationId": "2180A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80171",
+      "title": "Întrebarea nr.2181A/11-09-2025",
+      "description": "Strategia națională privind resursa de sare și gestionarea situației Salinei Praid",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": "2025-11-09T00:00:00.000Z",
+        "presentation": "2025-11-09T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2181A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80171&idl=1",
+      "registrationId": "2181A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80172",
+      "title": "Întrebarea nr.2182A/11-09-2025",
+      "description": "Posibilitatea accesării de fonduri europene pentru refacerea Salinei Praid și dezvoltarea turismului alternativ",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nDragoş Nicolae Pîslaru\n- Ministru",
+      "dates": {
+        "registration": "2025-11-09T00:00:00.000Z",
+        "presentation": "2025-11-09T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-09-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2182A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80172&idl=1",
+      "registrationId": "2182A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80173",
+      "title": "Întrebarea nr.2183A/11-09-2025",
+      "description": "Situația Salinei Praid – stadiul intervențiilor la sol, în subteran, evaluarea apei din galerii și refacerea lucrărilor miniere",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": "2025-11-09T00:00:00.000Z",
+        "presentation": "2025-11-09T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2183A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80173&idl=1",
+      "registrationId": "2183A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80174",
+      "title": "Întrebarea nr.2184A/11-09-2025",
+      "description": "Implicarea institutelor de cercetare și universităților în monitorizarea fenomenelor de la Salina Praid",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": "2025-11-09T00:00:00.000Z",
+        "presentation": "2025-11-09T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2184A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80174&idl=1",
+      "registrationId": "2184A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80175",
+      "title": "Întrebarea nr.2185A/11-09-2025",
+      "description": "Stocurile de sare pentru deszăpezirea drumurilor naționale și impactul închiderii Salinei Praid",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": "2025-11-09T00:00:00.000Z",
+        "presentation": "2025-11-09T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2185A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80175&idl=1",
+      "registrationId": "2185A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80176",
+      "title": "Întrebarea nr.2186A/11-09-2025",
+      "description": "Situația resurselor de sare de la Salina Praid și din perimetrele adiacente – impactul inundațiilor, producția, resursele umane și planul de continuitate",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": "2025-11-09T00:00:00.000Z",
+        "presentation": "2025-11-09T00:00:00.000Z",
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2186A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80176&idl=1",
+      "registrationId": "2186A",
       "requestedResponseType": "în scris",
       "answers": []
     }
