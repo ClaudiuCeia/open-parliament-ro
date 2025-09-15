@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-15T12:02:23.357Z",
+  "data": {
+    "idp": "22521",
+    "title": "Proiect de Lege pentru ratificarea Acordului-cadru avansat dintre Uniunea Europeană şi statele sale membre, pe de o parte, şi Republica Chile, pe de altă parte, semnat la Bruxelles, la 13 decembrie 2023",
+    "registrationNumber": {
+      "bpi": "338/12-09-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/0/adradmprez338.pdf",
+        "title": "Adresa Administrației Prezidențiale"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/0/em338.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/0/decret338.pdf",
+        "title": "Decretul privind supunerea spre ratificare Parlamentului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/0/pl338.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/0/memo338.pdf",
+        "title": "Memorandum"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/0/cl338.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22521"
+  }
+}
