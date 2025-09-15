@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-15T09:23:48.402Z",
+  "lastUpdated": "2025-09-15T18:05:07.701Z",
   "data": [
     {
       "idi": "77500",
@@ -1764,9 +1764,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1696A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79654&idl=1",
-      "registrationId": "1696A",
+      "registrationId": "1696A1936",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1936",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1696A.pdf"
+        }
+      ]
     },
     {
       "idi": "79655",
@@ -2106,9 +2114,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1857A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79815&idl=1",
-      "registrationId": "1857A",
+      "registrationId": "1857A34167",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "34167",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nCosmin-Răzvan Butuza\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1857A.pdf"
+        }
+      ]
     },
     {
       "idi": "79816",
@@ -2326,9 +2342,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1932A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79890&idl=1",
-      "registrationId": "1932A",
+      "registrationId": "1932A6969",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "6969",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1932A.pdf"
+        }
+      ]
     },
     {
       "idi": "79891",

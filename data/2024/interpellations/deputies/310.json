@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-15T09:28:58.880Z",
+  "lastUpdated": "2025-09-15T18:10:24.082Z",
   "data": [
     {
       "idi": "77566",
@@ -1135,6 +1135,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2117A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80107&idl=1",
       "registrationId": "2117A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80183",
+      "title": "Întrebarea nr.2193A/15-09-2025",
+      "description": "Precizări obiective privind absența unui reprezentat al MAE de la lucrările Comisiei pentru politică externă din data de 10 septembrie",
+      "addressee": {
+        "idm": "310"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2193A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80183&idl=1",
+      "registrationId": "2193A",
       "requestedResponseType": "în scris",
       "answers": []
     }

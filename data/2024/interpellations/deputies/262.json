@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-15T09:27:12.633Z",
+  "lastUpdated": "2025-09-15T18:08:34.379Z",
   "data": [
     {
       "idi": "77472",
@@ -1626,9 +1626,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1880A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79838&idl=1",
-      "registrationId": "1880A",
+      "registrationId": "1880A198248",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "198248",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\ncomunicat de:\ndomnul\nAurel-Dragoş Drăghescu\n- Subsecretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1880A.pdf"
+        }
+      ]
     },
     {
       "idi": "79849",
@@ -1668,9 +1676,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1910A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79868&idl=1",
-      "registrationId": "1910A",
+      "registrationId": "1910A17909",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "17909",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nSilviu Nicu Macovei\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1910A.pdf"
+        }
+      ]
     },
     {
       "idi": "79869",

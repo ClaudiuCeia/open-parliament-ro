@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-15T09:28:39.599Z",
+  "lastUpdated": "2025-09-15T18:10:03.151Z",
   "data": [
     {
       "idi": "78397",
@@ -55,9 +55,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1784A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79742&idl=1",
-      "registrationId": "1784A",
+      "registrationId": "1784A2479",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "2479",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1784A.pdf"
+        }
+      ]
     },
     {
       "idi": "79852",

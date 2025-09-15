@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-15T09:23:23.537Z",
+  "lastUpdated": "2025-09-15T18:04:42.091Z",
   "data": [
     {
       "idi": "77875",
@@ -200,7 +200,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1681A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79639&idl=1",
-      "registrationId": "1681A6631",
+      "registrationId": "1681A66317018",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -209,6 +209,13 @@
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1681A.pdf"
+        },
+        {
+          "registrationId": "7018",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1681A.pdf"
         }
       ]
     },
@@ -229,7 +236,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1770A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79728&idl=1",
-      "registrationId": "1770A6631",
+      "registrationId": "1770A66317018",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -238,6 +245,13 @@
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1770A.pdf"
+        },
+        {
+          "registrationId": "7018",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1770A.pdf"
         }
       ]
     },
@@ -294,7 +308,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1952A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79910&idl=1",
-      "registrationId": "1952A17913",
+      "registrationId": "1952A179131059",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -303,6 +317,13 @@
           "responseType": "în scris",
           "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nMarian-Cătălin Predoiu\n- Ministru",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1952A.pdf"
+        },
+        {
+          "registrationId": "1059",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1952A.pdf"
         }
       ]
     },

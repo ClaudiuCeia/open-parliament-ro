@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-15T09:24:04.198Z",
+  "lastUpdated": "2025-09-15T18:05:23.597Z",
   "data": [
     {
       "idi": "77703",
@@ -271,6 +271,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i511B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80087&idl=1",
       "registrationId": "511B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80193",
+      "title": "Întrebarea nr.2203A/15-09-2025",
+      "description": "Necesitatea instituirii unui mecanism permanent de audit extern al S.R.I. in domeniile securității cibernetice si activității financiare",
+      "addressee": {
+        "idm": "175"
+      },
+      "recipient": "Serviciul Român de Informaţii\nîn atenţia:\ndomnului\nRăzvan Ionescu\n- Director",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2203A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80193&idl=1",
+      "registrationId": "2203A",
       "requestedResponseType": "în scris",
       "answers": []
     }
