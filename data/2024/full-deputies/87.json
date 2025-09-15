@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-15T09:14:10.983Z",
+  "lastUpdated": "2025-09-15T15:14:31.202Z",
   "data": {
     "idm": "87",
     "name": "CSOMA Botond",
@@ -24,7 +24,7 @@
     },
     "activity": {
       "Luări de cuvânt": {
-        "count": 17,
+        "count": 18,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=6745&leg=2024&idl=1"
       },
       "Luări de cuvânt în BP": {

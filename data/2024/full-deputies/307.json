@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-15T09:17:07.695Z",
+  "lastUpdated": "2025-09-15T15:17:28.037Z",
   "data": {
     "idm": "307",
     "name": "Bogdan Gheorghe TRIF",
@@ -24,11 +24,11 @@
     },
     "activity": {
       "Luări de cuvânt": {
-        "count": 4,
+        "count": 5,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7340&leg=2024&idl=1"
       },
       "- din care declaraţii politice": {
-        "count": 3,
+        "count": 4,
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7340&leg=2024&topic1=1"
       },
       "Declaraţii politice depuse în scris": {

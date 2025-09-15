@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-15T09:19:56.611Z",
+  "lastUpdated": "2025-09-15T15:20:22.398Z",
   "data": [
     {
       "idi": "77659",
@@ -153,6 +153,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r724A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80192",
+      "title": "Întrebarea nr.2202A/15-09-2025",
+      "description": "Susținerea și implementarea programului de relansare economică inițiat de Partidul Social Democrat",
+      "addressee": {
+        "idm": "54"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2202A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80192&idl=1",
+      "registrationId": "2202A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

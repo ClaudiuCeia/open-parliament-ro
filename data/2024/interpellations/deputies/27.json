@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-15T09:19:15.960Z",
+  "lastUpdated": "2025-09-15T15:19:41.083Z",
   "data": [
     {
       "idi": "77593",
@@ -2461,9 +2461,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1941A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79899&idl=1",
-      "registrationId": "1941A",
+      "registrationId": "1941A11499",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11499",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1941A.pdf"
+        }
+      ]
     },
     {
       "idi": "79900",
@@ -2482,9 +2490,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1942A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79900&idl=1",
-      "registrationId": "1942A",
+      "registrationId": "1942A11499",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11499",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1942A.pdf"
+        }
+      ]
     },
     {
       "idi": "79901",
@@ -2524,9 +2540,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1944A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79902&idl=1",
-      "registrationId": "1944A",
+      "registrationId": "1944A11499",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11499",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1944A.pdf"
+        }
+      ]
     },
     {
       "idi": "79903",
@@ -2687,9 +2711,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i2001A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79959&idl=1",
-      "registrationId": "2001A",
+      "registrationId": "2001A55609",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "55609",
+          "date": "2025-11-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r2001A.pdf"
+        }
+      ]
     },
     {
       "idi": "79960",

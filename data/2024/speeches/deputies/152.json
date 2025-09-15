@@ -1,7 +1,27 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-15T09:02:22.037Z",
+  "lastUpdated": "2025-09-15T15:02:27.288Z",
   "data": [
+    {
+      "ids": "8925",
+      "idv": "7653",
+      "idm": "152",
+      "date": "2025-09-10T00:00:00.000Z",
+      "title": "Sedinta Camerei Deputatilor din 10 septembrie 2025",
+      "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8925&idl=1",
+      "transcripts": [
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=1,022&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=1,022&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Tudor Ionescu - declaraţie politică intitulată \"Avram Iancu suntem toţi!\";"
+        }
+      ]
+    },
     {
       "ids": "8916",
       "idv": "7653",
@@ -12,12 +32,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8916&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8916&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8916&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8916&idm=1,011&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8916&idm=1,011&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8916&idm=1,011&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică având ca subiect sărbătorirea Zilei Limbii Române, la 31 august;"
         }
       ]
@@ -32,12 +52,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1,012&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1,012&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1,012&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică având ca temă \"Ziua Drapelului Naţional\";"
         }
       ]
@@ -52,12 +72,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=9&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Alegerea preşedintelui Camerei Deputaţilor (PHCD 49/2025) (vot secret cu buletine de vot)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=3&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8908&idm=3&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Informare privind excluderea din cadrul Grupului parlamentar SOS România a doamnelor deputat Rodica Plopeanu, Mariana Vârgă şi a domnului deputat Mădălin-Laurenţiu Făget, şi activarea lor ca deputaţi neafiliaţi."
         }
       ]
@@ -72,12 +92,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1,013&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1,013&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1,013&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică privind \"Comemorarea părintelui naţionalismului românesc, Mihai Eminescu\";"
         }
       ]
@@ -92,7 +112,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8904&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8904&idm=3&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8904&idm=3&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Elogierea marelui poet Mihai Eminescu, cu prilejul împlinirii a 136 de ani de la trecerea sa în eternitate."
         }
       ]
@@ -107,17 +127,17 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=7&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=7&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=7&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege privind unele măsuri pentru prevenirea şi combaterea antisemitismului, xenofobiei, radicalizării şi a discursului instigator la ură (PL-x 168/2025) (rămas pentru votul final)."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1,02&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1,02&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8903&idm=1,02&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică intitulată \"România nu acceptă niciun fel de imixtiuni în treburile interne ale statului român din partea ambasadorilor străini!\";"
         }
       ]
@@ -132,7 +152,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8902&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8902&idm=4&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8902&idm=4&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege privind consacrarea zilei de 8 mai ca \"Ziua Victoriei Coaliţiei Naţiunilor Unite în cel de-al Doilea Război Mondial\" (PL-x 477/2020) (rămas pentru votul final)."
         }
       ]
@@ -146,19 +166,19 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8900&idl=1",
       "transcripts": [
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=4&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=4&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Intervenţii din partea grupurilor parlamentare pentru marcarea Zilei Tratatului de la Trianon."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=1,023&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=1,023&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=1,023&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică având titlul \"La mulţi ani, copii ai României, născuţi în ţară sau în afara graniţelor!\";"
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8900&idm=4&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Intervenţii din partea grupurilor parlamentare pentru marcarea Zilei Tratatului de la Trianon."
         }
       ]
     },
@@ -172,12 +192,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1,027&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1,027&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8898&idm=1,027&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică având titlul \"Ziua Românilor de Pretutindeni - ziua românilor din exilul economic şi din comunităţile autohtone româneşti din afara graniţelor\"."
         }
       ]
@@ -192,12 +212,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8897&idm=10&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8897&idm=10&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8897&idm=10&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Primirea de răspunsuri la interpelările adresate membrilor Guvernului."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8897&idm=10,006&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8897&idm=10,006&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8897&idm=10,006&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu"
         }
       ]
@@ -212,12 +232,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1,008&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1,008&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8892&idm=1,008&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică: \"Ziua Internaţională a familiei 2025 - sărbătorim familia, spunem «nu» parteneriatului civil!\";"
         }
       ]
@@ -231,24 +251,24 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8890&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=9&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Supunerea la votul final a:"
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=9,011&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=9,011&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Proiectului de Lege pentru modificarea art. 11 din Legea nr. 122/2006 privind azilul în România (PL-x 712/2022) (adoptat);"
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=1,01&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=1,01&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=1,01&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - intervenţie \"Pentru o Românie liberă, suverană şi independentă, împotriva Statelor Unite ale Europei!\";"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=9&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=9&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Supunerea la votul final a:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=9,011&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8890&idm=9,011&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Proiectului de Lege pentru modificarea art. 11 din Legea nr. 122/2006 privind azilul în România (PL-x 712/2022) (adoptat);"
         }
       ]
     },
@@ -262,7 +282,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=4&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8889&idm=4&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege pentru modificarea art. 11 din Legea nr. 122/2006 privind azilul în România (PL-x 712/2022) (rămas pentru votul final)."
         }
       ]
@@ -277,7 +297,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=7&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=7&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8888&idm=7&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor Calea către următorul cadru financiar multianual COM (2025) 46 (PHCD 36/2025) (rămas pentru votul final)."
         }
       ]
@@ -292,12 +312,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8887&idm=11&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8887&idm=11&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8887&idm=11&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Prezentarea, pe scurt, a interpelărilor adresate membrilor Guvernului."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8887&idm=11,006&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8887&idm=11,006&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8887&idm=11,006&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu"
         }
       ]
@@ -312,12 +332,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1,008&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1,008&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8886&idm=1,008&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică: \"Romania este o ţară profund creştină, iar parlamentarii sunt chemaţi să afirme valorile creştine în viaţa politică şi să le transpună în legislaţia naţională\";"
         }
       ]
@@ -332,7 +352,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8884&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8884&idm=9&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8884&idm=9&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 42/2024 pentru modificarea şi completarea Legii nr. 339/2005 privind regimul juridic al plantelor, substanţelor şi preparatelor stupefiante şi psihotrope (PL-x 597/2024) (rămas pentru votul final)."
         }
       ]
@@ -346,23 +366,28 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8883&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=6&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=6&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind instituirea zilei de 15 iunie ca Ziua Banatului Montan (PL-x 82/2025) (rămas pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Prezentarea, pe scurt, a interpelărilor adresate membrilor Guvernului."
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,009&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,009&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,009&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu"
         },
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=6&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=6&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind instituirea zilei de 15 iunie ca Ziua Banatului Montan (PL-x 82/2025) (rămas pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Prezentarea, pe scurt, a interpelărilor adresate membrilor Guvernului."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,007&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,007&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8883&idm=8,007&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Andrei George Plujar"
         }
       ]
@@ -377,12 +402,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1,025&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1,025&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8877&idm=1,025&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică având titlul \"Principala prioritate a politicii externe a României trebuie să fie reunificarea celor două state româneşti, România şi Republica Moldova\";"
         }
       ]
@@ -397,7 +422,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=7&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=7&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8875&idm=7&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Propunerii legislative pentru recunoaşterea delfinilor drept persoane non-umane (Pl-x 333/2014) (rămasă pentru votul final)."
         }
       ]
@@ -412,7 +437,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8866&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8866&idm=3&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8866&idm=3&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - Planul comun de punere în aplicare a Pactului privind migraţia şi azilul COM (2024) 251 (PHCD 18/2025) (rămas pentru votul final)."
         }
       ]
@@ -427,12 +452,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1,022&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1,022&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8856&idm=1,022&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică intitulată \"Partidul SOS România respinge orice formă de dominaţie străină din partea Comisiei Europene şi a marilor puteri\";"
         }
       ]
@@ -447,7 +472,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=8&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=8&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8853&idm=8&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Propunerii legislative pentru completarea Ordonanţei Guvernului nr. 25/2014 privind încadrarea în muncă şi detaşarea străinilor pe teritoriul României şi pentru modificarea şi completarea unor acte normative privind regimul străinilor în România (Pl-x 494/2018) (rămasă pentru votul final)."
         }
       ]
@@ -462,12 +487,12 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
         },
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1,011&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1,011&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8852&idm=1,011&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Tudor Ionescu - declaraţie politică având titlul \"Partidul SOS România se opune aducerii în România a 100.000 de lucrători străini, în anul 2025\";"
         }
       ]
@@ -482,7 +507,7 @@
       "transcripts": [
         {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=08-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8840&idm=3&sir=&sep=and&idv=7653&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7653%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=10-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Depunerea jurământului de credinţă faţă de ţară şi popor de către deputaţi, în şedinţă solemnă."
         }
       ]
