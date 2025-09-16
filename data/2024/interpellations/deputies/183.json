@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-16T00:27:42.534Z",
+  "lastUpdated": "2025-09-16T09:26:02.675Z",
   "data": [
     {
       "idi": "79172",
@@ -73,6 +73,48 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/2r1567A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80197",
+      "title": "Interpelarea nr.524B/16-09-2025",
+      "description": "Situația utilizării fondurilor publice alocate Complexului Energetic Valea Jiului pentru închiderea și ecologizarea minelor",
+      "addressee": {
+        "idm": "183"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-07-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i524B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80197&idl=1",
+      "registrationId": "524B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80198",
+      "title": "Interpelarea nr.525B/16-09-2025",
+      "description": "Situația angajărilor prin numiri politice comparativ cu cele realizate prin concurs în instituțiile publice",
+      "addressee": {
+        "idm": "183"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-07-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i525B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80198&idl=1",
+      "registrationId": "525B",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

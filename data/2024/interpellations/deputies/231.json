@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-16T00:29:19.313Z",
+  "lastUpdated": "2025-09-16T09:27:52.366Z",
   "data": [
     {
       "idi": "77607",
@@ -439,6 +439,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i506B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80082&idl=1",
       "registrationId": "506B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80201",
+      "title": "Interpelarea nr.528B/16-09-2025",
+      "description": "Impactul activității SC Clean Tech Internațional SRL Ciulnița asupra calității aerului și sănătății publice în municipiul Slobozia",
+      "addressee": {
+        "idm": "231"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-07-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i528B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80201&idl=1",
+      "registrationId": "528B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80202",
+      "title": "Interpelarea nr.529B/16-09-2025",
+      "description": "ISACCL și transparența cheltuielilor publice: poziția Guvernului",
+      "addressee": {
+        "idm": "231"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-07-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i529B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80202&idl=1",
+      "registrationId": "529B",
       "requestedResponseType": "în scris",
       "answers": []
     }

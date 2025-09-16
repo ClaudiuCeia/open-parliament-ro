@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-16T00:23:28.497Z",
+  "lastUpdated": "2025-09-16T09:21:13.095Z",
   "data": [
     {
       "idi": "77704",
@@ -483,6 +483,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i507B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80083&idl=1",
       "registrationId": "507B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80203",
+      "title": "Interpelarea nr.530B/16-09-2025",
+      "description": "Necesitatea analizării oportunității majorării cotei reduse de TVA în domeniul HORECA",
+      "addressee": {
+        "idm": "50"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-07-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i530B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80203&idl=1",
+      "registrationId": "530B",
       "requestedResponseType": "în scris",
       "answers": []
     }
