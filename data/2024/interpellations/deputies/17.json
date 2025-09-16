@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-16T09:19:31.329Z",
+  "lastUpdated": "2025-09-16T18:19:45.757Z",
   "data": [
     {
       "idi": "77553",
@@ -924,6 +924,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2114A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80104&idl=1",
       "registrationId": "2114A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80242",
+      "title": "Întrebarea nr.2210A/16-09-2025",
+      "description": "Precizări cu privire la tarifele de energie electrică din Regiunea de Nord-Est și distribuirea tichetelor electronice pentru energie",
+      "addressee": {
+        "idm": "17"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2210A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80242&idl=1",
+      "registrationId": "2210A",
       "requestedResponseType": "în scris",
       "answers": []
     }

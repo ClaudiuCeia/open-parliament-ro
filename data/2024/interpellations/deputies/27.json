@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-16T09:20:31.920Z",
+  "lastUpdated": "2025-09-16T18:20:41.505Z",
   "data": [
     {
       "idi": "77593",
@@ -2875,6 +2875,195 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2093A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80051&idl=1",
       "registrationId": "2093A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80245",
+      "title": "Întrebarea nr.2213A/16-09-2025",
+      "description": "Clarificări despre obligativitatea comercianților de a accepta plata cu cardul",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2213A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80245&idl=1",
+      "registrationId": "2213A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80246",
+      "title": "Întrebarea nr.2214A/16-09-2025",
+      "description": "Situația comasărilor unităților școlare",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2214A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80246&idl=1",
+      "registrationId": "2214A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80247",
+      "title": "Întrebarea nr.2215A/16-09-2025",
+      "description": "Derogare pentru proprietarii de tractoare vechi",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2215A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80247&idl=1",
+      "registrationId": "2215A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80248",
+      "title": "Întrebarea nr.2216A/16-09-2025",
+      "description": "Pot susține spitalele din România efectele dezastroase ale unui conflict militar major?",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2216A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80248&idl=1",
+      "registrationId": "2216A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80249",
+      "title": "Întrebarea nr.2217A/16-09-2025",
+      "description": "Situația ambulatoriilor de specialitate județul Mureș",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2217A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80249&idl=1",
+      "registrationId": "2217A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80256",
+      "title": "Întrebarea nr.2224A/16-09-2025",
+      "description": "Numărul de refugiați relocați în România",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2224A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80256&idl=1",
+      "registrationId": "2224A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80257",
+      "title": "Întrebarea nr.2225A/16-09-2025",
+      "description": "Numirile de inspectori generali, inspectori generali adjuncți, inspectori școlari pe discipline și directori și directori adjuncți de școli în județul Mureș",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Răzvan Biro\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2225A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80257&idl=1",
+      "registrationId": "2225A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80258",
+      "title": "Întrebarea nr.2226A/16-09-2025",
+      "description": "Clarificări despre anularea scutirilor de impozit pentru persoanele cu handicap grav",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2226A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80258&idl=1",
+      "registrationId": "2226A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80259",
+      "title": "Întrebarea nr.2227A/16-09-2025",
+      "description": "Efectele măsurilor aplicate de Legea Bolojan în județul Mureș",
+      "addressee": {
+        "idm": "27"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2227A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80259&idl=1",
+      "registrationId": "2227A",
       "requestedResponseType": "în scris",
       "answers": []
     }

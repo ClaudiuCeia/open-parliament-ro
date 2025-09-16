@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-16T09:28:25.607Z",
+  "lastUpdated": "2025-09-16T18:27:45.501Z",
   "data": [
     {
       "idi": "77707",
@@ -481,6 +481,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i526B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80199&idl=1",
       "registrationId": "526B",
+      "requestedResponseType": "în scris şi oral",
+      "answers": []
+    },
+    {
+      "idi": "80232",
+      "title": "Interpelarea nr.559B/16-09-2025",
+      "description": "Problema învățării in regim simultan a claselor in care se studiază in limba ucraineană maternă, in județul Caraș-Severin",
+      "addressee": {
+        "idm": "241"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-07-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i559B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80232&idl=1",
+      "registrationId": "559B",
       "requestedResponseType": "în scris şi oral",
       "answers": []
     }

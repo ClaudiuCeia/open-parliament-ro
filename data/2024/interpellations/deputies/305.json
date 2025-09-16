@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-16T09:31:22.828Z",
+  "lastUpdated": "2025-09-16T18:30:20.336Z",
   "data": [
     {
       "idi": "77911",
@@ -862,6 +862,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i548B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80221&idl=1",
       "registrationId": "548B",
+      "requestedResponseType": "în scris şi oral",
+      "answers": []
+    },
+    {
+      "idi": "80230",
+      "title": "Interpelarea nr.557B/16-09-2025",
+      "description": "Interpelare privind oprirea definitivă a producției și închiderea capacităților pe termen nelimitat (posibil definitiv) la combinatul siderurgic ArcelorMittal Hunedoara – proprietate ArcelorMittal Group Europa",
+      "addressee": {
+        "idm": "305"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-07-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i557B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80230&idl=1",
+      "registrationId": "557B",
       "requestedResponseType": "în scris şi oral",
       "answers": []
     }

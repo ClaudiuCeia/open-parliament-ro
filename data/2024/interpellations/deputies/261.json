@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-16T09:29:11.480Z",
+  "lastUpdated": "2025-09-16T18:28:25.986Z",
   "data": [
     {
       "idi": "77562",
@@ -554,6 +554,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i514B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80090&idl=1",
       "registrationId": "514B",
+      "requestedResponseType": "în scris şi oral",
+      "answers": []
+    },
+    {
+      "idi": "80233",
+      "title": "Interpelarea nr.560B/16-09-2025",
+      "description": "Solicit promovarea de politici publice, pentru aducerea prețul energiei la un nivel suportabil pentru populație și competitiv pentru companii",
+      "addressee": {
+        "idm": "261"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-07-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i560B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80233&idl=1",
+      "registrationId": "560B",
       "requestedResponseType": "în scris şi oral",
       "answers": []
     }

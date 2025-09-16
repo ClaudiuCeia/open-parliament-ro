@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-16T09:26:18.242Z",
+  "lastUpdated": "2025-09-16T18:25:52.465Z",
   "data": [
     {
       "idi": "78215",
@@ -50,6 +50,27 @@
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80022&idl=1",
       "registrationId": "2064A",
       "requestedResponseType": "în scris şi oral",
+      "answers": []
+    },
+    {
+      "idi": "80234",
+      "title": "Interpelarea nr.561B/16-09-2025",
+      "description": "Impactul negativ al măsurilor adoptate în învățământul preuniversitar la începutul anului școlar 2025–2026 asupra cadrelor didactice și calității actului educațional",
+      "addressee": {
+        "idm": "201"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-07-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i561B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80234&idl=1",
+      "registrationId": "561B",
+      "requestedResponseType": "în scris",
       "answers": []
     }
   ]

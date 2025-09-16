@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-16T09:26:55.873Z",
+  "lastUpdated": "2025-09-16T18:26:25.983Z",
   "data": [
     {
       "idi": "77599",
@@ -1067,6 +1067,69 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i520B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80096&idl=1",
       "registrationId": "520B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80236",
+      "title": "Întrebarea nr.2204A/15-09-2025",
+      "description": "Situația imobilelor școlare din județul Bihor",
+      "addressee": {
+        "idm": "208"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2204A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80236&idl=1",
+      "registrationId": "2204A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80237",
+      "title": "Întrebarea nr.2205A/15-09-2025",
+      "description": "Eliminarea scutirii de impozite pentru persoanele cu dizabilități",
+      "addressee": {
+        "idm": "208"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2205A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80237&idl=1",
+      "registrationId": "2205A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80229",
+      "title": "Interpelarea nr.556B/16-09-2025",
+      "description": "Situația actuală a Planului National de Redresare și Reziliență — alocări, sume încasate, proiecte majore",
+      "addressee": {
+        "idm": "208"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nDragoş Nicolae Pîslaru\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-07-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i556B.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80229&idl=1",
+      "registrationId": "556B",
       "requestedResponseType": "în scris",
       "answers": []
     }

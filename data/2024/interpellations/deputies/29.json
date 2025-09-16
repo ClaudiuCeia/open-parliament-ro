@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-16T09:20:32.991Z",
+  "lastUpdated": "2025-09-16T18:20:42.849Z",
   "data": [
     {
       "idi": "77672",
@@ -30,6 +30,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r189A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80255",
+      "title": "Întrebarea nr.2223A/16-09-2025",
+      "description": "Ponderea sumelor colectate din potențialul de colectare TVA la nivel național și pe fiecare organ fiscal, precum și documentele justificative aferente – anii 2024 și 2025 (primele 8 luni)",
+      "addressee": {
+        "idm": "29"
+      },
+      "recipient": "Ministerul Finanțelor",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2223A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80255&idl=1",
+      "registrationId": "2223A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }
