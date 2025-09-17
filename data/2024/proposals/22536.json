@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-17T12:01:42.153Z",
+  "data": {
+    "idp": "22536",
+    "title": "Proiect de Lege privind modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.63/2008 pentru completarea Ordonanţei Guvernului nr.41/1994 privind autorizarea plăţii cotizaţiilor la organizaţiile internaţionale interguvernamentale la care România este parte, precum şi pentru aprobarea plăţii cotizaţiei anuale de participare a Consiliului Superior al Magistraturii la Reţeaua Europeană a Consiliilor Judiciare (RECJ) şi pentru îndeplinirea obligaţiilor care decurg din calitatea de membru a Institutului Naţional al Magistraturii la Reţeaua Europeană de Formare Judiciară (EJTN)",
+    "registrationNumber": {
+      "bpi": "354/16-09-2025",
+      "senateChamber": "L215/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n63/2008",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/70/6/em354.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/70/6/cl354.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22536"
+  }
+}

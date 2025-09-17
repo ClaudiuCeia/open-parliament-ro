@@ -1,0 +1,70 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-17T12:01:41.852Z",
+  "data": {
+    "idp": "22539",
+    "title": "Proiect de Lege pentru modificarea alin.(3) al art.66 din Ordonanţa de urgenţă a Guvernului nr.195/2002 privind circulaţia pe drumurile publice şi pentru completarea Ordonanţei Guvernului nr.27/2011 privind transporturile rutiere",
+    "registrationNumber": {
+      "bpi": "357/16-09-2025",
+      "senateChamber": "L167/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n195/2002",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "196",
+      "30",
+      "25",
+      "28",
+      "85",
+      "87",
+      "111",
+      "139",
+      "159",
+      "160",
+      "163",
+      "165",
+      "166",
+      "176",
+      "180",
+      "195",
+      "206",
+      "291",
+      "316",
+      "329",
+      "330",
+      "32",
+      "132",
+      "54",
+      "55",
+      "71",
+      "115",
+      "117"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/70/5/em357.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/70/5/ces357.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/70/5/cl357.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/70/5/cconc357.pdf",
+        "title": "Avizul Consiliului Concurenței"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22539"
+  }
+}

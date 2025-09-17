@@ -1,0 +1,70 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-17T12:01:40.067Z",
+  "data": {
+    "idp": "22530",
+    "title": "Propunere legislativă pentru modificarea Legii nr.223/2015 privind pensiile militare de stat şi a Legii nr.282/2023 pentru modificarea şi completarea unor acte normative din domeniul pensiilor de serviciu şi a Legii nr.227/2015 privind Codul fiscal",
+    "registrationNumber": {
+      "bpi": "347/16-09-2025",
+      "senateChamber": "B263/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n223/2015",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "20",
+      "27",
+      "38",
+      "47",
+      "60",
+      "74",
+      "91",
+      "99",
+      "100",
+      "108",
+      "119",
+      "154",
+      "200",
+      "210",
+      "235",
+      "240",
+      "261",
+      "279",
+      "55",
+      "132",
+      "229",
+      "250",
+      "257",
+      "28",
+      "133"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-09-24T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/8/em347.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/8/pl347.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/8/ces347.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/8/cl347.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22530"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-17T12:01:41.582Z",
+  "data": {
+    "idp": "22538",
+    "title": "Proiect de Lege pentru modificarea OUG nr.112/2022 privind instituirea unor măsuri pentru stimularea investiţiilor cu finanţare din fonduri externe nerambursabile în domeniul eficienţei energetice, resurselor regenerabile de energie pentru întreprinderi mari şi întreprinderi mici şi mijlocii, energiei verzi din surse regenerabile destinate autorităţilor publice locale, precum şi unele măsuri în domeniul specializării inteligente, precum şi pentru modificarea şi completarea unor acte normative",
+    "registrationNumber": {
+      "bpi": "356/16-09-2025",
+      "senateChamber": "L162/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n112/2022",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "208",
+      "10",
+      "15",
+      "27",
+      "30",
+      "31",
+      "40",
+      "53",
+      "136",
+      "91",
+      "98",
+      "6"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/70/4/em356.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/70/4/ces356.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/70/4/cl356.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22538"
+  }
+}

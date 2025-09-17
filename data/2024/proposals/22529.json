@@ -1,0 +1,80 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-17T12:01:39.817Z",
+  "data": {
+    "idp": "22529",
+    "title": "Propunere legislativă pentru modificarea art.108 din Legea învăţământului preuniversitar nr.198/2023",
+    "registrationNumber": {
+      "bpi": "346/16-09-2025",
+      "senateChamber": "B258/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "12",
+      "26",
+      "29",
+      "36",
+      "44",
+      "82",
+      "90",
+      "125",
+      "149",
+      "167",
+      "172",
+      "181",
+      "189",
+      "247",
+      "260",
+      "269",
+      "293",
+      "299",
+      "314",
+      "317",
+      "328",
+      "3",
+      "4",
+      "24",
+      "34",
+      "46",
+      "64",
+      "68",
+      "73",
+      "78",
+      "80",
+      "96",
+      "127",
+      "111",
+      "112"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-09-24T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/7/em346.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/7/pl346.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/7/ces346.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/7/cl346.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22529"
+  }
+}

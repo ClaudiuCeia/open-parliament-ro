@@ -1,0 +1,96 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-17T12:01:39.495Z",
+  "data": {
+    "idp": "22526",
+    "title": "Propunere legislativă privind pierderea dreptului de a beneficia de pensie specială a persoanelor condamnate pentru fapte de corupţie",
+    "registrationNumber": {
+      "bpi": "343/16-09-2025",
+      "senateChamber": "B229/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "4",
+      "12",
+      "29",
+      "36",
+      "45",
+      "48",
+      "73",
+      "82",
+      "90",
+      "94",
+      "98",
+      "121",
+      "125",
+      "126",
+      "149",
+      "172",
+      "181",
+      "189",
+      "220",
+      "236",
+      "247",
+      "269",
+      "285",
+      "287",
+      "293",
+      "299",
+      "313",
+      "314",
+      "317",
+      "4",
+      "11",
+      "24",
+      "34",
+      "63",
+      "64",
+      "68",
+      "73",
+      "78",
+      "80",
+      "96",
+      "111",
+      "112"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/6/em343.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/6/pl343.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/6/ces343.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/6/cl343.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/6/agfpublici343.pdf",
+        "title": "Avizul Agenției Naționale a Funcționarilor Publici"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/6/ccont343.pdf",
+        "title": "Avizul Curții de Conturi"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/60/6/csml343.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22526"
+  }
+}
