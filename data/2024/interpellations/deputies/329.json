@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-17T09:30:08.610Z",
+  "lastUpdated": "2025-09-17T18:31:34.417Z",
   "data": [
     {
       "idi": "77965",
@@ -88,6 +88,48 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1023A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80275",
+      "title": "Întrebarea nr.2243A/17-09-2025",
+      "description": "Stadiul soluționării dosarului de despăgubire nr.60151/CC",
+      "addressee": {
+        "idm": "329"
+      },
+      "recipient": "Autoritatea Naţională pentru Restituirea Proprietăţilor",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2243A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80275&idl=1",
+      "registrationId": "2243A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80276",
+      "title": "Întrebarea nr.2244A/17-09-2025",
+      "description": "Tergiversarea soluționării dosarelor",
+      "addressee": {
+        "idm": "329"
+      },
+      "recipient": "Ministerul  Justiției",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2244A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80276&idl=1",
+      "registrationId": "2244A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

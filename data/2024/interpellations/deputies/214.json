@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-17T09:25:40.741Z",
+  "lastUpdated": "2025-09-17T18:27:06.078Z",
   "data": [
     {
       "idi": "77550",
@@ -742,6 +742,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1981A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79939&idl=1",
       "registrationId": "1981A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80265",
+      "title": "Întrebarea nr.2233A/16-09-2025",
+      "description": "Fundamentarea reorganizării RNP Romsilva și impactul asupra Direcției Silvice Iași - solicitare privind menținerea Municipiului Iași ca sediu regional",
+      "addressee": {
+        "idm": "214"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2233A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80265&idl=1",
+      "registrationId": "2233A",
       "requestedResponseType": "în scris",
       "answers": []
     }

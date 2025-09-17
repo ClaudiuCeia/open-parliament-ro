@@ -1,11 +1,12 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-09-17T09:12:06.420Z",
+  "lastUpdated": "2025-09-17T18:13:20.223Z",
   "data": {
     "idp": "22301",
     "title": "Propunere legislativă privind completarea unor acte normative din domeniul apărării naţionale, ordinii publice şi siguranţei naţionale şi completarea Legii nr.286/2009 privind Codul Penal",
     "registrationNumber": {
-      "bpi": "101/08-04-2025"
+      "bpi": "101/08-04-2025",
+      "senateChamber": "B412/2025"
     },
     "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
     "decidingChamber": "Senatul",

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-17T09:22:02.690Z",
+  "lastUpdated": "2025-09-17T18:23:27.658Z",
   "data": [
     {
       "idi": "77573",
@@ -704,6 +704,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2201A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80191&idl=1",
       "registrationId": "2201A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80278",
+      "title": "Întrebarea nr.2246A/17-09-2025",
+      "description": "Solicitare informaţii privind proiectul ″Regenerare urbană prin revitalizarea zonei centrale - Piaţa Mihai Viteazul Craiova - R.E.G.E.N.E.R.A.T.E. CRAIOVA-ZONA PIAŢA MIHAI VITEAZUL’’",
+      "addressee": {
+        "idm": "94"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": "2025-08-10T00:00:00.000Z"
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2246A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80278&idl=1",
+      "registrationId": "2246A",
       "requestedResponseType": "în scris",
       "answers": []
     }
