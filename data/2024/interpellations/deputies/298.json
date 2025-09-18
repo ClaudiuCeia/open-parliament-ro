@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T00:31:18.943Z",
+  "lastUpdated": "2025-09-18T09:29:04.294Z",
   "data": [
     {
       "idi": "77612",
@@ -3406,6 +3406,111 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2171A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80161&idl=1",
       "registrationId": "2171A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80282",
+      "title": "Întrebarea nr.2250A/18-09-2025",
+      "description": "Numirile din pix în funcțiile de inspectori generali, inspectori generali adjuncți, inspectori școlari pe discipline și directori și directori adjuncți de școli",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2250A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80282&idl=1",
+      "registrationId": "2250A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80283",
+      "title": "Întrebarea nr.2251A/18-09-2025",
+      "description": "Numărul de unități școlare și de clase comasate în județul Brașov",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2251A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80283&idl=1",
+      "registrationId": "2251A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80284",
+      "title": "Întrebarea nr.2252A/18-09-2025",
+      "description": "Clarificări despre restricția creată de Ministerul Educației pentru elevi în ceea ce privește bursele sociale",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2252A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80284&idl=1",
+      "registrationId": "2252A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80285",
+      "title": "Întrebarea nr.2253A/18-09-2025",
+      "description": "Ambulatoriile de specialitate din România – situația pentru județul Brașov",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2253A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80285&idl=1",
+      "registrationId": "2253A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80286",
+      "title": "Întrebarea nr.2254A/18-09-2025",
+      "description": "Poliția Română – dezastrul din mediul rural, situația din județul Brașov",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2254A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80286&idl=1",
+      "registrationId": "2254A",
       "requestedResponseType": "în scris",
       "answers": []
     }

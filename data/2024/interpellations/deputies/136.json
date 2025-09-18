@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T00:25:45.062Z",
+  "lastUpdated": "2025-09-18T09:23:22.703Z",
   "data": [
     {
       "idi": "77673",
@@ -591,9 +591,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1906A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79864&idl=1",
-      "registrationId": "1906A",
+      "registrationId": "1906A266479",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266479",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1906A.pdf"
+        }
+      ]
     },
     {
       "idi": "79865",
@@ -823,6 +831,111 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2186A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80176&idl=1",
       "registrationId": "2186A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80288",
+      "title": "Întrebarea nr.2256A/18-09-2025",
+      "description": "Destinația sumelor reprezentând 5% din PIB pentru apărare – componenta de infrastructură strategică civil-militară și estimarea investițiilor pe regiuni pentru următorii 5 ani",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2256A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80288&idl=1",
+      "registrationId": "2256A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80289",
+      "title": "Întrebarea nr.2257A/18-09-2025",
+      "description": "Utilizarea bugetului de 5 % din PIB pentru apărare în raport cu finanțările SAFE și cu marile investiții strategice naționale",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2257A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80289&idl=1",
+      "registrationId": "2257A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80290",
+      "title": "Întrebarea nr.2258A/18-09-2025",
+      "description": "Situația lucrărilor hidrotehnice pe râurile Neagra și Bistrița (zona Broșteni) și pe cursurile aferente din Neamț și Suceava; verificarea existenței/ruperii unui “baraj în aval de Neagra”",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2258A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80290&idl=1",
+      "registrationId": "2258A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80291",
+      "title": "Întrebarea nr.2259A/18-09-2025",
+      "description": "Infrastructuri locale anti-inundații (rigole, podețe, bazine de retenție, apărări de mal) finanțate prin programele MDLPA în UAT-urile din Neamț și Suceava afectate de viituri (Broșteni – Neagra și aval pe Bistrița)",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2259A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80291&idl=1",
+      "registrationId": "2259A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80292",
+      "title": "Întrebarea nr.2260A/18-09-2025",
+      "description": "Lucrări de protecție la inundații finanțate prin programele MDLPA în județul Galați (rigole, podețe, consolidări de mal, bazine de retenție urbane – zona Pechea și localități limitrofe)",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației\nîn atenţia:\ndomnului\nAttila-Zoltán Cseke\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2260A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80292&idl=1",
+      "registrationId": "2260A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T00:23:42.506Z",
+  "lastUpdated": "2025-09-18T09:21:19.502Z",
   "data": [
     {
       "idi": "79260",
@@ -136,6 +136,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1601A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79559&idl=1",
       "registrationId": "1601A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80279",
+      "title": "Întrebarea nr.2247A/17-09-2025",
+      "description": "Protejarea consumatorilor după suspendarea plafonării prețului la energie",
+      "addressee": {
+        "idm": "88"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2247A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80279&idl=1",
+      "registrationId": "2247A",
       "requestedResponseType": "în scris",
       "answers": []
     }

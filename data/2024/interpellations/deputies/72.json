@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T00:23:03.718Z",
+  "lastUpdated": "2025-09-18T09:20:39.758Z",
   "data": [
     {
       "idi": "79104",
@@ -171,9 +171,16 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1886A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79844&idl=1",
-      "registrationId": "1886A384141193146",
+      "registrationId": "1886A193146384141399730",
       "requestedResponseType": "în scris",
       "answers": [
+        {
+          "registrationId": "193146",
+          "date": "2025-08-09T00:00:00.000Z",
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1886A.pdf"
+        },
         {
           "registrationId": "384141",
           "date": "2025-08-09T00:00:00.000Z",
@@ -182,11 +189,11 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/2r1886A.pdf"
         },
         {
-          "registrationId": "193146",
-          "date": "2025-08-09T00:00:00.000Z",
+          "registrationId": "399730",
+          "date": null,
           "responseType": "în scris",
-          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
-          "textUrl": "https://www.cdep.ro/interpel/2025/r1886A.pdf"
+          "author": "Inspectoratul de Stat în Construcţii",
+          "textUrl": "https://www.cdep.ro/interpel/2025/3r1886A.pdf"
         }
       ]
     },
@@ -207,9 +214,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1887A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79845&idl=1",
-      "registrationId": "1887A",
+      "registrationId": "1887A25975",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "25975",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1887A.pdf"
+        }
+      ]
     },
     {
       "idi": "79917",

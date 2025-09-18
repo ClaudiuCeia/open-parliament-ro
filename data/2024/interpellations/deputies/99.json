@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T00:24:31.219Z",
+  "lastUpdated": "2025-09-18T09:22:07.803Z",
   "data": [
     {
       "idi": "78314",
@@ -112,6 +112,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2141A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80131&idl=1",
       "registrationId": "2141A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80287",
+      "title": "Întrebarea nr.2255A/18-09-2025",
+      "description": "Elevii și preșcolarii din România nu primesc fructe și legume proaspete, din cauza neadoptării Hotărârii de Guvern privind implementarea Programului pentru școli",
+      "addressee": {
+        "idm": "99"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2255A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80287&idl=1",
+      "registrationId": "2255A",
       "requestedResponseType": "în scris",
       "answers": []
     }

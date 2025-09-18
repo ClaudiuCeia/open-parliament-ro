@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T00:31:33.958Z",
+  "lastUpdated": "2025-09-18T09:29:19.353Z",
   "data": [
     {
       "idi": "77923",
@@ -162,6 +162,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2200A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80190&idl=1",
       "registrationId": "2200A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80280",
+      "title": "Întrebarea nr.2248A/17-09-2025",
+      "description": "Stadiul implementării Legii nr.111/2022. privind reglementarea activităţii prestatorului casnic",
+      "addressee": {
+        "idm": "308"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndomnului\nPetre-Florin Manole\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2248A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80280&idl=1",
+      "registrationId": "2248A",
       "requestedResponseType": "în scris",
       "answers": []
     }

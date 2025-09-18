@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T00:27:28.222Z",
+  "lastUpdated": "2025-09-18T09:25:08.977Z",
   "data": [
     {
       "idi": "77532",
@@ -1331,9 +1331,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1962A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79920&idl=1",
-      "registrationId": "1962A",
+      "registrationId": "1962A27037",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "27037",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Transporturilor şi Infrastructurii\ncomunicat de:\ndomnul\nCiprian-Constantin Şerban\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1962A.pdf"
+        }
+      ]
     },
     {
       "idi": "79921",
