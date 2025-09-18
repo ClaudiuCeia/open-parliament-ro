@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T09:30:10.364Z",
+  "lastUpdated": "2025-09-18T18:24:34.310Z",
   "data": [
     {
       "idi": "77826",
@@ -447,6 +447,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2195A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80185&idl=1",
       "registrationId": "2195A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80315",
+      "title": "Întrebarea nr.2283A/18-09-2025",
+      "description": "Situația finanțării prin PNRR a campusului pentru învățământ profesional dual la Alba Iulia",
+      "addressee": {
+        "idm": "326"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nDragoş Nicolae Pîslaru\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2283A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80315&idl=1",
+      "registrationId": "2283A",
       "requestedResponseType": "în scris",
       "answers": []
     }

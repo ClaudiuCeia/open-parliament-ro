@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T09:23:22.703Z",
+  "lastUpdated": "2025-09-18T18:17:51.921Z",
   "data": [
     {
       "idi": "77673",
@@ -936,6 +936,132 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2260A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80292&idl=1",
       "registrationId": "2260A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80295",
+      "title": "Întrebarea nr.2263A/18-09-2025",
+      "description": "Lucrări de apărare la inundații pe zona Dunării și infrastructura de transport expusă riscului în județul Galați (diguri portuare, maluri, drumuri/CF vulnerabile)",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2263A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80295&idl=1",
+      "registrationId": "2263A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80296",
+      "title": "Întrebarea nr.2264A/18-09-2025",
+      "description": "Impactul lucrărilor la Vidraru asupra turismului (Transfăgărășan, lac/port Vidraru, operatori locali) și măsuri de sprijin",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2264A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80296&idl=1",
+      "registrationId": "2264A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80297",
+      "title": "Întrebarea nr.2265A/18-09-2025",
+      "description": "Situația lucrărilor hidrotehnice pe râurile Neagra și Bistrița (zona Broșteni) și pe cursurile aferente din Neamț și Suceava; verificarea existenței/ruperii unui “baraj în aval de Neagra”",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2265A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80297&idl=1",
+      "registrationId": "2265A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80298",
+      "title": "Întrebarea nr.2266A/18-09-2025",
+      "description": "Siguranța barajului Vidraru și a lucrărilor hidrotehnice aferente în contextul retehnologizării; avize, inspecții și managementul riscurilor",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2266A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80298&idl=1",
+      "registrationId": "2266A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80299",
+      "title": "Întrebarea nr.2267A/18-09-2025",
+      "description": "Corelarea calendarului retehnologizării centralei Vidraru cu oprirea Unității 1 Cernavodă; riscuri pentru adecvarea și stabilitatea puterii sincronizate",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2267A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80299&idl=1",
+      "registrationId": "2267A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80300",
+      "title": "Întrebarea nr.2268A/18-09-2025",
+      "description": "Situația digurilor, barajelor de retenție și a lucrărilor de apărare la inundații în bazinul Prut–Siret–Bârlad (zona Galați – Pechea, Geru, Suhu)",
+      "addressee": {
+        "idm": "136"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2268A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80300&idl=1",
+      "registrationId": "2268A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T09:28:31.491Z",
+  "lastUpdated": "2025-09-18T18:22:55.547Z",
   "data": [
     {
       "idi": "77740",
@@ -1355,6 +1355,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2133A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80123&idl=1",
       "registrationId": "2133A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80311",
+      "title": "Întrebarea nr.2279A/18-09-2025",
+      "description": "Reintroducerea disciplinei „Istoria României” în învățământul liceal",
+      "addressee": {
+        "idm": "292"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2279A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80311&idl=1",
+      "registrationId": "2279A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80314",
+      "title": "Întrebarea nr.2282A/18-09-2025",
+      "description": "Măsuri de consolidare fiscal-bugetară în contextul concluziilor misiunii FMI",
+      "addressee": {
+        "idm": "292"
+      },
+      "recipient": "Ministerul Finanțelor\nîn atenţia:\ndomnului\nAlexandru Nazare\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2282A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80314&idl=1",
+      "registrationId": "2282A",
       "requestedResponseType": "în scris",
       "answers": []
     }

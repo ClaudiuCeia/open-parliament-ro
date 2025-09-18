@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T09:24:57.127Z",
+  "lastUpdated": "2025-09-18T18:19:24.381Z",
   "data": [
     {
       "idi": "77811",
@@ -1290,6 +1290,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2132A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80122&idl=1",
       "registrationId": "2132A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80310",
+      "title": "Întrebarea nr.2278A/18-09-2025",
+      "description": "Măsuri pentru consolidarea apărării spațiului aerian românesc în contextul incursiunilor cu drone",
+      "addressee": {
+        "idm": "204"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2278A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80310&idl=1",
+      "registrationId": "2278A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80313",
+      "title": "Întrebarea nr.2281A/18-09-2025",
+      "description": "Finanțarea și prioritizarea proiectelor de infrastructură rutieră în Moldova. Autostrăzile A7 și A8, podurile de frontieră și conectarea județului Botoșani",
+      "addressee": {
+        "idm": "204"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2281A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80313&idl=1",
+      "registrationId": "2281A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T09:23:33.205Z",
+  "lastUpdated": "2025-09-18T18:18:02.038Z",
   "data": [
     {
       "idi": "77996",
@@ -138,6 +138,48 @@
           "textUrl": ""
         }
       ]
+    },
+    {
+      "idi": "80293",
+      "title": "Întrebarea nr.2261A/18-09-2025",
+      "description": "Situația migrației în și din România, situația repatrierilor în România",
+      "addressee": {
+        "idm": "152"
+      },
+      "recipient": "Institutul Naţional de Statistică\nîn atenţia:\ndomnului\nTudorel Andrei \n- Presedinte",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2261A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80293&idl=1",
+      "registrationId": "2261A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80294",
+      "title": "Întrebarea nr.2262A/18-09-2025",
+      "description": "Aducerea unor populații străine în România, în scop de muncă, versus încurajarea repatrierii cetățenilor români emigrați",
+      "addressee": {
+        "idm": "152"
+      },
+      "recipient": "Ministerul Afacerilor Externe\nîn atenţia:\ndomnului\nOana Silvia Ţoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2262A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80294&idl=1",
+      "registrationId": "2262A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

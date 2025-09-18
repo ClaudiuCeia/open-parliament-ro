@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-18T09:18:14.929Z",
+  "lastUpdated": "2025-09-18T18:12:43.563Z",
   "data": [
     {
       "idi": "77809",
@@ -1205,6 +1205,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2131A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80121&idl=1",
       "registrationId": "2131A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80309",
+      "title": "Întrebarea nr.2277A/18-09-2025",
+      "description": "Procesul de rebranding al Companiei Naționale „Poșta Română”",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2277A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80309&idl=1",
+      "registrationId": "2277A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80312",
+      "title": "Întrebarea nr.2280A/18-09-2025",
+      "description": "Impactul posibilelor modificări ale Legii offshore asupra investițiilor din energie",
+      "addressee": {
+        "idm": "8"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2280A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80312&idl=1",
+      "registrationId": "2280A",
       "requestedResponseType": "în scris",
       "answers": []
     }
