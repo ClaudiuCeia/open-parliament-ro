@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-19T00:28:41.925Z",
+  "lastUpdated": "2025-09-19T09:25:22.200Z",
   "data": [
     {
       "idi": "77581",
@@ -128,6 +128,69 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2187A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80177&idl=1",
       "registrationId": "2187A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80318",
+      "title": "Întrebarea nr.2286A/19-09-2025",
+      "description": "Digitalizarea proceselor de autorizare și avizare în cadrul ANSVSA și accesibilitatea acestora pentru cetățeni și operatori economici",
+      "addressee": {
+        "idm": "232"
+      },
+      "recipient": "Autoritatea Naţională Sanitar Veterinară şi Pentru Siguranţa Alimentelor",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2286A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80318&idl=1",
+      "registrationId": "2286A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80319",
+      "title": "Întrebarea nr.2287A/19-09-2025",
+      "description": "Serviciile publice prestate de către Direcțiile de Sănătate Publică și gradul de digitalizare a al acestora",
+      "addressee": {
+        "idm": "232"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2287A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80319&idl=1",
+      "registrationId": "2287A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80320",
+      "title": "Întrebarea nr.2288A/19-09-2025",
+      "description": "Mecanismele de furnizare și reutilizare a informațiilor din Registrul Comerțului",
+      "addressee": {
+        "idm": "232"
+      },
+      "recipient": "Ministerul  Justiției",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2288A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80320&idl=1",
+      "registrationId": "2288A",
       "requestedResponseType": "în scris",
       "answers": []
     }

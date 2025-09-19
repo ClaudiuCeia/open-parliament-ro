@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-19T00:04:37.185Z",
+  "lastUpdated": "2025-09-19T09:02:17.057Z",
   "data": [
     {
       "ids": "8928",
@@ -11,11 +11,6 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8928&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8928&idm=9&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8928&idm=9&sir=&sep=and&idv=6698&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6698%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=15-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6698%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=15-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei Guvernului nr. 37/2024 privind aprobarea realizării de către Ministerul Muncii şi Solidarităţii Sociale, în colaborare cu Serviciul de Telecomunicaţii Speciale, a reţelei securizate de comunicaţii de date de arie extinsă pentru sistemul informatic \"Hub de servicii MMSS-SII MMSS\", precum şi pentru modificarea şi completarea unor acte normative (PL-x 557/2024) (rămas pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8928&idm=11&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8928&idm=11&sir=&sep=and&idv=6698&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6698%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=15-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6698%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=15-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 61/2024 pentru modificarea şi completarea Legii nr. 146/2021 privind monitorizarea electronică în cadrul unor proceduri judiciare şi execuţional penale (PL-x 408/2024) (rămas pentru votul final)."
@@ -24,6 +19,11 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8928&idm=12&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8928&idm=12&sir=&sep=and&idv=6698&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6698%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=15-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6698%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=15-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Dezbaterea Proiectului de Lege pentru modificarea Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap (PL-x 598/2024) (rămas pentru votul final)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8928&idm=9&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8928&idm=9&sir=&sep=and&idv=6698&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6698%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=15-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=6698%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=15-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru aprobarea Ordonanţei Guvernului nr. 37/2024 privind aprobarea realizării de către Ministerul Muncii şi Solidarităţii Sociale, în colaborare cu Serviciul de Telecomunicaţii Speciale, a reţelei securizate de comunicaţii de date de arie extinsă pentru sistemul informatic \"Hub de servicii MMSS-SII MMSS\", precum şi pentru modificarea şi completarea unor acte normative (PL-x 557/2024) (rămas pentru votul final)."
         }
       ]
     },
@@ -32,7 +32,7 @@
       "idv": "6698",
       "idm": "85",
       "date": "2025-09-07T00:00:00.000Z",
-      "title": "Sedinta Camerei Deputatilor din 7 septembrie 2025",
+      "title": "Sedinta comuna a Camerei Deputatilor si Senatului din 7 septembrie 2025",
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8929&idl=1",
       "transcripts": [
         {

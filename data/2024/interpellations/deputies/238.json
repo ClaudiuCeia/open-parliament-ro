@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-19T00:28:54.388Z",
+  "lastUpdated": "2025-09-19T09:25:34.657Z",
   "data": [
     {
       "idi": "79956",
@@ -20,6 +20,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i1998A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79956&idl=1",
       "registrationId": "1998A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80316",
+      "title": "Întrebarea nr.2284A/18-09-2025",
+      "description": "Reluarea transportului feroviar de călători pe secția de cale ferată 318 (Ineu – Cermei)",
+      "addressee": {
+        "idm": "238"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2284A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80316&idl=1",
+      "registrationId": "2284A",
       "requestedResponseType": "în scris",
       "answers": []
     }

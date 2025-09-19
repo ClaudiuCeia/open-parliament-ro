@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-19T00:16:44.248Z",
+  "lastUpdated": "2025-09-19T09:13:54.330Z",
   "data": {
     "idm": "106",
     "name": "Mihai-Viorel FIFOR",
@@ -28,7 +28,7 @@
         "url": "https://www.cdep.ro/pls/steno/steno2015.lista?idv=7226&leg=2024&idl=1"
       },
       "Propuneri legislative iniţiate": {
-        "count": 7,
+        "count": 8,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=106&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
       }
     }

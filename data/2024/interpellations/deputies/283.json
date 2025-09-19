@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-19T00:30:39.357Z",
+  "lastUpdated": "2025-09-19T09:27:18.063Z",
   "data": [
     {
       "idi": "78128",
@@ -78,6 +78,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2188A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80178&idl=1",
       "registrationId": "2188A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80317",
+      "title": "Întrebarea nr.2285A/19-09-2025",
+      "description": "referitor la modul de aplicare a dispozițiilor legale privind numirea directorilor în societățile comerciale la care Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului deține calitatea de acționar și autoritate publică tutelară",
+      "addressee": {
+        "idm": "283"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2285A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80317&idl=1",
+      "registrationId": "2285A",
       "requestedResponseType": "în scris",
       "answers": []
     }
