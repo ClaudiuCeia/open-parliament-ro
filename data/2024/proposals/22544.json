@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-22T12:01:41.346Z",
+  "data": {
+    "idp": "22544",
+    "title": "Propunere legislativă privind instituirea mecanismului permanent de audit extern al Serviciului Român de Informaţii în domeniul securităţii cibernetice şi al activităţii financiare",
+    "registrationNumber": {
+      "bpi": "361/17-09-2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "în termenul acordat pentru avize si puncte de vedere solicitate",
+      "long": "în termenul acordat pentru avize si puncte de vedere solicitate"
+    },
+    "initiators": [
+      "175",
+      "218"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-10-27T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/70/9/em361.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/70/9/pl361.pdf",
+        "title": "Forma iniţiatorului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22544"
+  }
+}
