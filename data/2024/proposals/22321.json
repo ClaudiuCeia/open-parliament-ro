@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-09-22T09:11:42.510Z",
+  "lastUpdated": "2025-09-22T15:12:03.483Z",
   "data": {
     "idp": "22321",
     "title": "Propunere legislativă pentru conectarea românilor din afara graniţelor cu ţara",
@@ -12,8 +12,8 @@
     "type": "Propunere legislativa",
     "emergencyProcedure": false,
     "status": {
-      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
-      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+      "short": "la Senat",
+      "long": "la Senat"
     },
     "initiators": [
       "118",

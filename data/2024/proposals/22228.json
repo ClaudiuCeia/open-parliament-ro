@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-09-22T09:11:18.352Z",
+  "lastUpdated": "2025-09-22T15:11:38.664Z",
   "data": {
     "idp": "22228",
     "title": "Proiect de Lege pentru aprobarea Ordonanţei de urgenţă a Guvernului nr.155/2024 privind instituirea unui cadru pentru securitatea cibernetică a reţelelor şi sistemelor informatice din spaţiul cibernetic naţional civil",
@@ -36,6 +36,10 @@
       {
         "textUrl": "https://www.cdep.ro/proiecte/2025/000/50/2/comp30.pdf",
         "title": "Tabel comparativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/000/50/2/csat52.pdf",
+        "title": "Avizul Consiliului Suprem de Apărare a Țării"
       }
     ],
     "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22228"

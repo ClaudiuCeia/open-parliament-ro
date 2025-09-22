@@ -1,6 +1,6 @@
 {
   "version": "0.0.3",
-  "lastUpdated": "2025-09-22T09:16:33.999Z",
+  "lastUpdated": "2025-09-22T15:16:44.219Z",
   "data": {
     "idm": "289",
     "name": "Ionuţ-Marian STROE",
@@ -30,6 +30,10 @@
       "Propuneri legislative iniţiate": {
         "count": 6,
         "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=289&cam=2&leg=2024&pag=2&idl=1&prn=0&par="
+      },
+      "Întrebari şi interpelări": {
+        "count": 1,
+        "url": "https://www.cdep.ro/pls/parlam/structura2015.mp?idm=289&cam=2&leg=2024&pag=3&idl=1&prn=0&par="
       }
     }
   }
