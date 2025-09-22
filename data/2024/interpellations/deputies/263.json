@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-22T00:30:15.398Z",
+  "lastUpdated": "2025-09-22T09:27:17.771Z",
   "data": [
     {
       "idi": "77699",
@@ -233,6 +233,27 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1769A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80322",
+      "title": "Întrebarea nr.2290A/22-09-2025",
+      "description": "Clarificări privind reacția ezitantă a Ministerului Apărării în legătură cu apariția unei drone controlate de un stat străin pe teritoriul României",
+      "addressee": {
+        "idm": "263"
+      },
+      "recipient": "Ministerul Apărării Naţionale\nîn atenţia:\ndomnului\nLiviu-Ionuţ Moşteanu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2290A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80322&idl=1",
+      "registrationId": "2290A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-22T00:27:20.559Z",
+  "lastUpdated": "2025-09-22T09:24:20.362Z",
   "data": [
     {
       "idi": "77977",
@@ -251,6 +251,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2016A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79974&idl=1",
       "registrationId": "2016A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80321",
+      "title": "Întrebarea nr.2289A/22-09-2025",
+      "description": "Suspendarea unui Certificat de handicap accentuat, permanent și nerevizuibil",
+      "addressee": {
+        "idm": "200"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndomnului\nPetre-Florin Manole\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2289A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80321&idl=1",
+      "registrationId": "2289A",
       "requestedResponseType": "în scris",
       "answers": []
     }

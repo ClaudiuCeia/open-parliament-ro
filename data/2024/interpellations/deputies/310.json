@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-22T00:32:10.686Z",
+  "lastUpdated": "2025-09-22T09:29:09.144Z",
   "data": [
     {
       "idi": "77566",
@@ -1156,6 +1156,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2193A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80183&idl=1",
       "registrationId": "2193A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80323",
+      "title": "Întrebarea nr.2291A/22-09-2025",
+      "description": "Strategia privind accelerarea procedurilor de recuperare a metalelor rare, rezultate în urma reciclării echipamentelor electrice și electronice",
+      "addressee": {
+        "idm": "310"
+      },
+      "recipient": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului\nîn atenţia:\ndomnului\nRadu-Dinel Miruţă\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2291A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80323&idl=1",
+      "registrationId": "2291A",
       "requestedResponseType": "în scris",
       "answers": []
     }
