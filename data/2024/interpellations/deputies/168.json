@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-22T09:23:43.315Z",
+  "lastUpdated": "2025-09-22T18:07:52.725Z",
   "data": [
     {
       "idi": "77500",
@@ -2684,6 +2684,111 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2150A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80140&idl=1",
       "registrationId": "2150A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80326",
+      "title": "Întrebarea nr.2294A/22-09-2025",
+      "description": "Măsuri pentru prevenirea abandonului școlar în mediul rural",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2294A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80326&idl=1",
+      "registrationId": "2294A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80327",
+      "title": "Întrebarea nr.2295A/22-09-2025",
+      "description": "Lipsa infrastructurii sportive în școlile din județul Cluj",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2295A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80327&idl=1",
+      "registrationId": "2295A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80328",
+      "title": "Întrebarea nr.2296A/22-09-2025",
+      "description": "Protejarea fermierilor români în contextul preluării brandului Napolact",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Consiliul Concurenţei\nîn atenţia:\ndomnului\nBogdan Marius Chiriţoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2296A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80328&idl=1",
+      "registrationId": "2296A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80329",
+      "title": "Întrebarea nr.2297A/22-09-2025",
+      "description": "Implicarea României în relația economică și comercială cu Ucraina",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2297A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80329&idl=1",
+      "registrationId": "2297A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80330",
+      "title": "Întrebarea nr.2298A/22-09-2025",
+      "description": "Finalizarea centralei termoelectrice de la Iernut",
+      "addressee": {
+        "idm": "168"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2298A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80330&idl=1",
+      "registrationId": "2298A",
       "requestedResponseType": "în scris",
       "answers": []
     }
