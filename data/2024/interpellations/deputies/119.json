@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-23T00:24:44.267Z",
+  "lastUpdated": "2025-09-23T09:22:22.805Z",
   "data": [
     {
       "idi": "77557",
@@ -454,9 +454,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1832A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79790&idl=1",
-      "registrationId": "1832A",
+      "registrationId": "1832A266431",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266431",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1832A.pdf"
+        }
+      ]
     },
     {
       "idi": "80023",
