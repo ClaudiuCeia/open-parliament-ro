@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-23T09:18:17.554Z",
+  "lastUpdated": "2025-09-23T18:20:41.011Z",
   "data": [
     {
       "idi": "77553",
@@ -945,6 +945,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2210A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80242&idl=1",
       "registrationId": "2210A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80342",
+      "title": "Întrebarea nr.2309A/23-09-2025",
+      "description": "Programe care vor fi finanțate și derulate de Administrația Fondului pentru Mediu în anul 2026",
+      "addressee": {
+        "idm": "17"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2309A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80342&idl=1",
+      "registrationId": "2309A",
       "requestedResponseType": "în scris",
       "answers": []
     }

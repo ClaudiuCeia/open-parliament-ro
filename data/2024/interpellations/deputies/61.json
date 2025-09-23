@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-23T09:20:08.014Z",
+  "lastUpdated": "2025-09-23T18:22:45.824Z",
   "data": [
     {
       "idi": "78034",
@@ -439,6 +439,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2164A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80154&idl=1",
       "registrationId": "2164A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80346",
+      "title": "Întrebarea nr.2313A/23-09-2025",
+      "description": "Stadiul implementării proiectelor cu fonduri europene în spitalele publice din județul Cluj",
+      "addressee": {
+        "idm": "61"
+      },
+      "recipient": "Ministerul Investițiilor si Proiectelor Europene\nîn atenţia:\ndomnului\nDragoş Nicolae Pîslaru\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2313A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80346&idl=1",
+      "registrationId": "2313A",
       "requestedResponseType": "în scris",
       "answers": []
     }

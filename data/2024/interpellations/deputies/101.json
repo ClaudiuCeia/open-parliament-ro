@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-23T09:22:01.085Z",
+  "lastUpdated": "2025-09-23T18:24:53.435Z",
   "data": [
     {
       "idi": "77602",
@@ -762,6 +762,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i551B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80224&idl=1",
       "registrationId": "551B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80344",
+      "title": "Întrebarea nr.2311A/23-09-2025",
+      "description": "Utilizarea fondurilor alocate pentru modernizarea grupurilor sanitare în unitățile de învățământ din județul Vaslui",
+      "addressee": {
+        "idm": "101"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2311A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80344&idl=1",
+      "registrationId": "2311A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80345",
+      "title": "Întrebarea nr.2312A/23-09-2025",
+      "description": "Clarificări privind procedurile legale de prelevare, transport și depozitare a probelor biologice în cauze penale",
+      "addressee": {
+        "idm": "101"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2312A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80345&idl=1",
+      "registrationId": "2312A",
       "requestedResponseType": "în scris",
       "answers": []
     }

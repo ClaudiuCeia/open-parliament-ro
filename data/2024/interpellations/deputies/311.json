@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-23T09:29:29.973Z",
+  "lastUpdated": "2025-09-23T18:33:25.398Z",
   "data": [
     {
       "idi": "78132",
@@ -1290,6 +1290,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2209A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80241&idl=1",
       "registrationId": "2209A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80340",
+      "title": "Întrebarea nr.2307A/23-09-2025",
+      "description": "Solicitare de informații privind programe de investiții în patrimoniul cultural susținute în anul 2025",
+      "addressee": {
+        "idm": "311"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2307A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80340&idl=1",
+      "registrationId": "2307A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80341",
+      "title": "Întrebarea nr.2308A/23-09-2025",
+      "description": "Solicitare de informații cu privire la programele și investițiile demarate la nivelul județului Bihor",
+      "addressee": {
+        "idm": "311"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2308A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80341&idl=1",
+      "registrationId": "2308A",
       "requestedResponseType": "în scris",
       "answers": []
     }

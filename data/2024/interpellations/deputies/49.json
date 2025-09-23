@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-23T09:19:48.432Z",
+  "lastUpdated": "2025-09-23T18:22:24.178Z",
   "data": [
     {
       "idi": "77930",
@@ -655,6 +655,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2211A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80243&idl=1",
       "registrationId": "2211A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80343",
+      "title": "Întrebarea nr.2310A/23-09-2025",
+      "description": "Precizări privind rezultatele Programului ”Tineri fermieri” în anii 2023-2025",
+      "addressee": {
+        "idm": "49"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2310A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80343&idl=1",
+      "registrationId": "2310A",
       "requestedResponseType": "în scris",
       "answers": []
     }
