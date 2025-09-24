@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T09:23:57.959Z",
+  "lastUpdated": "2025-09-24T15:26:21.498Z",
   "data": [
     {
       "idi": "78173",
@@ -78,6 +78,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2245A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80277&idl=1",
       "registrationId": "2245A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80392",
+      "title": "Întrebarea nr.2359A/24-09-2025",
+      "description": "Excluderea elevilor premiați la competițiile sportive școlare naționale (CSS-LPS) din criteriile de acordare a burselor de merit",
+      "addressee": {
+        "idm": "159"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2359A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80392&idl=1",
+      "registrationId": "2359A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T09:24:03.604Z",
+  "lastUpdated": "2025-09-24T15:26:28.180Z",
   "data": [
     {
       "idi": "78174",
@@ -95,6 +95,48 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/2r1128A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80388",
+      "title": "Întrebarea nr.2355A/24-09-2025",
+      "description": "Situația doamnei Varga respectiv nr. Dosarului doamnei",
+      "addressee": {
+        "idm": "165"
+      },
+      "recipient": "Autoritatea Naţională pentru Restituirea Proprietăţilor",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2355A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80388&idl=1",
+      "registrationId": "2355A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80389",
+      "title": "Întrebarea nr.2356A/24-09-2025",
+      "description": "Situația cetățenilor europeni după aderarea României la Spațiul Schengen",
+      "addressee": {
+        "idm": "165"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2356A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80389&idl=1",
+      "registrationId": "2356A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

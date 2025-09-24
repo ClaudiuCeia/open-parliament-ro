@@ -1,11 +1,12 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-09-24T09:11:53.377Z",
+  "lastUpdated": "2025-09-24T15:12:42.215Z",
   "data": {
     "idp": "22321",
     "title": "Propunere legislativă pentru conectarea românilor din afara graniţelor cu ţara",
     "registrationNumber": {
-      "bpi": "120/16-04-2025"
+      "bpi": "120/16-04-2025",
+      "senateChamber": "B435/2025"
     },
     "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
     "decidingChamber": "Senatul",

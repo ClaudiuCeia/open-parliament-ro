@@ -1,5 +1,48 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T09:28:11.838Z",
-  "data": []
+  "lastUpdated": "2025-09-24T15:30:54.292Z",
+  "data": [
+    {
+      "idi": "80394",
+      "title": "Întrebarea nr.2361A/24-09-2025",
+      "description": "Transparentizarea programelor Departamentului pentru Românii de Pretutindeni",
+      "addressee": {
+        "idm": "272"
+      },
+      "recipient": "Departamentul pentru Românii de Pretutindeni",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2361A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80394&idl=1",
+      "registrationId": "2361A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80395",
+      "title": "Întrebarea nr.2362A/24-09-2025",
+      "description": "Implicarea DRP în protecția copiilor români instituționalizați sau supuși procedurilor de plasament forțat în străinătate",
+      "addressee": {
+        "idm": "272"
+      },
+      "recipient": "Departamentul pentru Românii de Pretutindeni",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2362A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80395&idl=1",
+      "registrationId": "2362A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    }
+  ]
 }

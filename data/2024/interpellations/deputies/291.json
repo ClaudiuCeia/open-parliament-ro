@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T09:28:47.091Z",
+  "lastUpdated": "2025-09-24T15:31:31.983Z",
   "data": [
     {
       "idi": "77576",
@@ -761,6 +761,48 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1715A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80390",
+      "title": "Întrebarea nr.2357A/24-09-2025",
+      "description": "Erori în deciziile de recalculare și nesoluționarea cererilor depuse de cetățean",
+      "addressee": {
+        "idm": "291"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2357A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80390&idl=1",
+      "registrationId": "2357A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80393",
+      "title": "Întrebarea nr.2360A/24-09-2025",
+      "description": "Revenire la întrebarea referitoare la stadiul Dosarelor aferente cererilor de retrocedare nr.62526/CC și 62538/CC, depuse de către domnul",
+      "addressee": {
+        "idm": "291"
+      },
+      "recipient": "Autoritatea Naţională pentru Restituirea Proprietăţilor",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2360A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80393&idl=1",
+      "registrationId": "2360A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }
