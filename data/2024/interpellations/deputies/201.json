@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T03:16:35.126Z",
+  "lastUpdated": "2025-09-24T09:25:05.690Z",
   "data": [
     {
       "idi": "78215",
@@ -70,6 +70,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i561B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80234&idl=1",
       "registrationId": "561B",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80364",
+      "title": "Întrebarea nr.2331A/24-09-2025",
+      "description": "Simplificarea procedurii de acordare a concediului medical pentru îngrijirea copilului bolnav, în vederea eliminării birocrației excesive și a riscurilor pentru copii și părinți",
+      "addressee": {
+        "idm": "201"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2331A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80364&idl=1",
+      "registrationId": "2331A",
       "requestedResponseType": "în scris",
       "answers": []
     }

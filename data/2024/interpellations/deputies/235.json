@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T03:18:06.233Z",
+  "lastUpdated": "2025-09-24T09:26:37.407Z",
   "data": [
     {
       "idi": "79220",
@@ -201,6 +201,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2220A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80252&idl=1",
       "registrationId": "2220A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80370",
+      "title": "Întrebarea nr.2337A/24-09-2025",
+      "description": "Pentru o educație de calitate - solicitare de clarificări și măsuri concrete",
+      "addressee": {
+        "idm": "235"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2337A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80370&idl=1",
+      "registrationId": "2337A",
       "requestedResponseType": "în scris",
       "answers": []
     }

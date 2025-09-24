@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T00:21:58.390Z",
+  "lastUpdated": "2025-09-24T09:19:16.237Z",
   "data": [
     {
       "idi": "77530",
@@ -583,6 +583,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2175A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80165&idl=1",
       "registrationId": "2175A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80383",
+      "title": "Întrebarea nr.2350A/24-09-2025",
+      "description": "Clarificări privind achiziția unui număr de 70 de ambulanțe pentru Serviciul de Ambulanță Județean Iași",
+      "addressee": {
+        "idm": "26"
+      },
+      "recipient": "Ministerul Afacerilor Interne",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2350A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80383&idl=1",
+      "registrationId": "2350A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80384",
+      "title": "Întrebarea nr.2351A/24-09-2025",
+      "description": "Situația existentă la nivelul M.A.I. despre cazurile de violență, înregistrate la nivel național în anul 2025",
+      "addressee": {
+        "idm": "26"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2351A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80384&idl=1",
+      "registrationId": "2351A",
       "requestedResponseType": "în scris",
       "answers": []
     }

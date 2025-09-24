@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T03:18:27.494Z",
+  "lastUpdated": "2025-09-24T09:26:59.517Z",
   "data": [
     {
       "idi": "77471",
@@ -1430,6 +1430,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2219A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80251&idl=1",
       "registrationId": "2219A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80353",
+      "title": "Întrebarea nr.2320A/24-09-2025",
+      "description": "Peste 40% dintre copii romani träiesc sub pragul säräciei – situația din județul Constanța",
+      "addressee": {
+        "idm": "240"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndomnului\nPetre-Florin Manole\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2320A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80353&idl=1",
+      "registrationId": "2320A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80354",
+      "title": "Întrebarea nr.2321A/24-09-2025",
+      "description": "Românii sunt europenii cei mai expuşi riscului de sărăcie şi excluziune socială – situația pentru județul Constanța",
+      "addressee": {
+        "idm": "240"
+      },
+      "recipient": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale\nîn atenţia:\ndomnului\nPetre-Florin Manole\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2321A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80354&idl=1",
+      "registrationId": "2321A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T03:17:55.444Z",
+  "lastUpdated": "2025-09-24T09:26:26.583Z",
   "data": [
     {
       "idi": "77646",
@@ -932,6 +932,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2107A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80065&idl=1",
       "registrationId": "2107A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80366",
+      "title": "Întrebarea nr.2333A/24-09-2025",
+      "description": "Măsuri urgente pentru echilibrarea producției de energie regenerabilă și protejarea consumatorilor români",
+      "addressee": {
+        "idm": "228"
+      },
+      "recipient": "Ministerul Energiei\nîn atenţia:\ndomnului\nBogdan-Gruia Ivan\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2333A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80366&idl=1",
+      "registrationId": "2333A",
       "requestedResponseType": "în scris",
       "answers": []
     }

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T03:14:23.334Z",
+  "lastUpdated": "2025-09-24T09:22:53.382Z",
   "data": [
     {
       "idi": "77557",
@@ -526,6 +526,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2221A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80253&idl=1",
       "registrationId": "2221A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80359",
+      "title": "Întrebarea nr.2326A/24-09-2025",
+      "description": "Combaterea traficului de droguri în proximitatea școlilor și în comunitățile vulnerabile",
+      "addressee": {
+        "idm": "119"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2326A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80359&idl=1",
+      "registrationId": "2326A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80360",
+      "title": "Întrebarea nr.2327A/24-09-2025",
+      "description": "Măsuri concrete privind prevenirea și combaterea consumului și traficului de droguri în rândul tinerilor",
+      "addressee": {
+        "idm": "119"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2327A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80360&idl=1",
+      "registrationId": "2327A",
       "requestedResponseType": "în scris",
       "answers": []
     }

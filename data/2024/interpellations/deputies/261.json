@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T03:19:13.165Z",
+  "lastUpdated": "2025-09-24T09:27:45.499Z",
   "data": [
     {
       "idi": "77562",
@@ -576,6 +576,27 @@
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80233&idl=1",
       "registrationId": "560B",
       "requestedResponseType": "în scris şi oral",
+      "answers": []
+    },
+    {
+      "idi": "80363",
+      "title": "Întrebarea nr.2330A/24-09-2025",
+      "description": "Ce soluții aveți pentru un preț la energie apropiat de minimul european",
+      "addressee": {
+        "idm": "261"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2330A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80363&idl=1",
+      "registrationId": "2330A",
+      "requestedResponseType": "în scris",
       "answers": []
     }
   ]

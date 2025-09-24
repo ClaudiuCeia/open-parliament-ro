@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T03:21:14.247Z",
+  "lastUpdated": "2025-09-24T09:29:46.625Z",
   "data": [
     {
       "idi": "77923",
@@ -191,6 +191,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2248A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80280&idl=1",
       "registrationId": "2248A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80351",
+      "title": "Întrebarea nr.2318A/23-09-2025",
+      "description": "Măsuri dispuse la nivelul județului Sibiu pentru gestiunea sustenabilă a efectivelor de urși",
+      "addressee": {
+        "idm": "308"
+      },
+      "recipient": "Ministerul Mediului, Apelor şi Pădurilor\nîn atenţia:\ndoamnei\nDiana-Anda Buzoianu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2318A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80351&idl=1",
+      "registrationId": "2318A",
       "requestedResponseType": "în scris",
       "answers": []
     }

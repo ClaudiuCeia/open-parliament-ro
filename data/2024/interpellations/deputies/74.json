@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T00:23:39.031Z",
+  "lastUpdated": "2025-09-24T09:20:59.034Z",
   "data": [
     {
       "idi": "78798",
@@ -175,6 +175,69 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1948A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80358",
+      "title": "Întrebarea nr.2325A/24-09-2025",
+      "description": "Cititoare cărți electronice de identitate",
+      "addressee": {
+        "idm": "74"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2325A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80358&idl=1",
+      "registrationId": "2325A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80361",
+      "title": "Întrebarea nr.2328A/24-09-2025",
+      "description": "Solicitare privind identificarea de soluții cu privire la deficitul de personal înregistrat la nivelul Inspectoratului pentru Situații de Urgență Călărași",
+      "addressee": {
+        "idm": "74"
+      },
+      "recipient": "Ministerul Afacerilor Interne\nîn atenţia:\ndomnului\nMarian-Cătălin Predoiu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2328A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80361&idl=1",
+      "registrationId": "2328A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80362",
+      "title": "Întrebarea nr.2329A/24-09-2025",
+      "description": "Solicitare de informații privind impactul măsurilor prevăzute în Legea nr.141/2025 asupra unităților de învățământ din județul Călărași",
+      "addressee": {
+        "idm": "74"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2329A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80362&idl=1",
+      "registrationId": "2329A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

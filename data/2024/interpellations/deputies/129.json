@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T03:14:38.851Z",
+  "lastUpdated": "2025-09-24T09:23:08.956Z",
   "data": [
     {
       "idi": "77849",
@@ -214,6 +214,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2301A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80333&idl=1",
       "registrationId": "2301A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80352",
+      "title": "Întrebarea nr.2319A/23-09-2025",
+      "description": "Date referitoare la rata de vaccinare a copiilor din județul Argeș și categoriile vulnerabile la vaccinul antigripal în județul Argeș",
+      "addressee": {
+        "idm": "129"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2319A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80352&idl=1",
+      "registrationId": "2319A",
       "requestedResponseType": "în scris",
       "answers": []
     }

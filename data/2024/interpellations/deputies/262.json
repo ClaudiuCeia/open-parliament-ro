@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T03:19:29.220Z",
+  "lastUpdated": "2025-09-24T09:28:02.221Z",
   "data": [
     {
       "idi": "77472",
@@ -2005,6 +2005,48 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2229A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80261&idl=1",
       "registrationId": "2229A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80355",
+      "title": "Întrebarea nr.2322A/24-09-2025",
+      "description": "Fonduri pentru toate tratamentele în străinătate de pe listele de aşteptare – românii au dreptul la viață!",
+      "addressee": {
+        "idm": "262"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2322A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80355&idl=1",
+      "registrationId": "2322A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80356",
+      "title": "Întrebarea nr.2323A/24-09-2025",
+      "description": "Sursele de finanţare pentru autostrada A8",
+      "addressee": {
+        "idm": "262"
+      },
+      "recipient": "Ministerul Transporturilor şi Infrastructurii\nîn atenţia:\ndomnului\nCiprian-Constantin Şerban\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2323A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80356&idl=1",
+      "registrationId": "2323A",
       "requestedResponseType": "în scris",
       "answers": []
     }

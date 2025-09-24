@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T03:21:56.911Z",
+  "lastUpdated": "2025-09-24T09:30:29.898Z",
   "data": [
     {
       "idi": "77649",
@@ -963,6 +963,69 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1831A.pdf"
         }
       ]
+    },
+    {
+      "idi": "80371",
+      "title": "Întrebarea nr.2338A/24-09-2025",
+      "description": "România se împrumută cu 17 miliarde de euro pentru a cumpăra armament din Franța și Germania, deși suntem la un pas de intrarea în incapacitate de plată",
+      "addressee": {
+        "idm": "315"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2338A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80371&idl=1",
+      "registrationId": "2338A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80372",
+      "title": "Întrebarea nr.2339A/24-09-2025",
+      "description": "Demersurile întreprinse în ultima perioadă pentru recuperarea coifului dacic",
+      "addressee": {
+        "idm": "315"
+      },
+      "recipient": "Ministerul Culturii\nîn atenţia:\ndomnului\nAndras Istvan Demeter\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2339A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80372&idl=1",
+      "registrationId": "2339A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80373",
+      "title": "Întrebarea nr.2340A/24-09-2025",
+      "description": "Lipsa de transparență și haosul administrativ din școlile bucureștene, la începutul anului școlar 2025–2026",
+      "addressee": {
+        "idm": "315"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2340A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80373&idl=1",
+      "registrationId": "2340A",
+      "requestedResponseType": "în scris",
+      "answers": []
     }
   ]
 }

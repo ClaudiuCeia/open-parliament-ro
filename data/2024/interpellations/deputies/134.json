@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-24T03:14:46.274Z",
+  "lastUpdated": "2025-09-24T09:23:16.359Z",
   "data": [
     {
       "idi": "78230",
@@ -445,6 +445,27 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i512B.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80088&idl=1",
       "registrationId": "512B",
+      "requestedResponseType": "în scris şi oral",
+      "answers": []
+    },
+    {
+      "idi": "80381",
+      "title": "Întrebarea nr.2348A/24-09-2025",
+      "description": "Ce soluții aveți pentru susținerea românilor cu credite la bănci față de faptul că au crescut dobânzile la credite în urma măsurilor luate de Guvernul pe care îl conduceți",
+      "addressee": {
+        "idm": "134"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": null,
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2348A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80381&idl=1",
+      "registrationId": "2348A",
       "requestedResponseType": "în scris şi oral",
       "answers": []
     }
