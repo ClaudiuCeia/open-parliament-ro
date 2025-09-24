@@ -1,32 +1,32 @@
 {
   "version": "0.1.0",
-  "lastUpdated": "2025-07-01T13:31:40.400Z",
+  "lastUpdated": "2025-09-24T12:02:04.829Z",
   "data": {
     "idp": "22311",
     "title": "Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.155 din 21 noiembrie 2001 privind aprobarea programului de gestionare a câinilor fără stăpân şi pentru modificarea şi completarea Legii nr.205 din 26 mai 2004 privind protecţia animalelor, republicată",
     "registrationNumber": {
-      "bpi": "110/09-04-2025",
-      "deputyChamber": "BP110/09.04.2025"
+      "bpi": "110/09-04-2025379/23-09-2025",
+      "senateChamber": "L165/2025"
     },
     "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
     "decidingChamber": "Camera Deputaţilor",
     "type": "Propunere legislativa\npentru\nmodificarea\nO.U.G. nr.\n155/2001",
     "emergencyProcedure": false,
     "status": {
-      "short": "la senat",
-      "long": "la Senat"
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
     },
     "initiators": [
+      "101",
       "103",
       "246",
       "318",
       "158",
+      "75",
       "137",
       "21",
       "50",
       "67",
-      "75",
-      "101",
       "128",
       "152",
       "148",
@@ -37,23 +37,48 @@
       "304",
       "312",
       "319",
-      "113"
+      "113",
+      "57",
+      "33",
+      "82",
+      "85",
+      "8",
+      "128",
+      "72",
+      "81",
+      "97"
     ],
     "publicConsultation": null,
     "documents": [
       {
-        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/10/0/in110.pdf",
-        "title": "Adresa iniţiatorului"
-      },
-      {
-        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/10/0/em110.pdf",
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/90/4/em379.pdf",
         "title": "Expunerea de motive"
       },
       {
-        "textUrl": "https://www.cdep.ro/proiecte/bp/2025/100/10/0/pl110.pdf",
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/90/4/pl379.pdf",
         "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/90/4/ces379.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/90/4/cl379.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/90/4/cna379.pdf",
+        "title": "Avizul Consiliului Național al Audiovizualului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/90/4/opcfisc379.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/90/4/pvg379.pdf",
+        "title": "Punctul de vedere al Guvernului"
       }
     ],
-    "url": "https://www.cdep.ro//pls/proiecte/upl_pck2015.proiect?idp=22311"
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22311"
   }
 }

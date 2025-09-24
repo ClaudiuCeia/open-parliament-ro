@@ -1,0 +1,71 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-24T12:02:00.095Z",
+  "data": {
+    "idp": "22550",
+    "title": "Propunere legislativă pentru modificarea alineatului (4) al articolului 139 din Legea învăţământului preuniversitar nr.198/2023 şi pentru modificarea şi completarea Legii învăţământului superior nr.199/2023",
+    "registrationNumber": {
+      "bpi": "366/23-09-2025",
+      "senateChamber": "L137/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Senatul",
+    "type": "Propunere legislativa\npentru\nmodificarea\nL. nr.\n198/2023\nmodificarea\nL. nr.\n199/2023",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "39",
+      "71",
+      "95",
+      "117",
+      "124",
+      "138",
+      "184",
+      "307",
+      "310",
+      "89",
+      "243",
+      "291",
+      "331",
+      "9",
+      "18",
+      "39",
+      "109",
+      "105",
+      "27",
+      "49",
+      "76",
+      "136"
+    ],
+    "publicConsultation": {
+      "dueDate": "2025-10-06T00:00:00.000Z",
+      "count": 0
+    },
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/0/em366.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/0/pl366.pdf",
+        "title": "Forma iniţiatorului"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/0/ces366.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/0/cl366.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/0/opcfisc366.pdf",
+        "title": "Opinia Consiliului Fiscal"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22550"
+  }
+}

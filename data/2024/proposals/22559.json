@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-24T12:02:04.419Z",
+  "data": {
+    "idp": "22559",
+    "title": "Proiect de Lege privind instituirea zilei de 21 septembrie ca Ziua Munţilor Apuseni",
+    "registrationNumber": {
+      "bpi": "375/23-09-2025",
+      "senateChamber": "L178/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "18",
+      "34",
+      "61",
+      "64",
+      "76",
+      "93",
+      "95",
+      "102",
+      "130",
+      "147",
+      "156",
+      "168",
+      "194",
+      "265",
+      "290",
+      "305",
+      "326",
+      "66",
+      "205",
+      "1"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/90/3/em375.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/90/3/ces375.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/90/3/cl375.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/90/3/cna375.pdf",
+        "title": "Avizul Consiliului Național al Audiovizualului"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22559"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-24T12:02:02.050Z",
+  "data": {
+    "idp": "22556",
+    "title": "Proiect de Lege pentru modificarea şi completarea Legii nr.319/2024 privind stabilirea unor măsuri pentru punerea în aplicare a Convenţiei privind combaterea coruperii funcţionarilor publici străini în cadrul operaţiunilor economice internaţionale, adoptată la Paris la 21 noiembrie 1997, precum şi pentru completarea Legii nr.302/2004 privind cooperarea judiciară internaţională în materie penală",
+    "registrationNumber": {
+      "bpi": "372/23-09-2025",
+      "senateChamber": "L317/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nL. nr.\n319/2024",
+    "emergencyProcedure": true,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "GOVERNMENT"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/6/em372.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/6/cl372.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22556"
+  }
+}

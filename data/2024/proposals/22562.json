@@ -1,0 +1,45 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-24T12:02:03.038Z",
+  "data": {
+    "idp": "22562",
+    "title": "Proiect de Lege pentru completarea art.3 din Ordonanţa de urgenţă a Guvernului nr.75/1999 privind activitatea de audit financiar, precum şi a art.62 din Legea nr.162/2017 privind auditul statutar al situaţiilor financiare anuale şi al situaţiilor financiare anuale consolidate şi de modificare a unor acte normative",
+    "registrationNumber": {
+      "bpi": "378/23-09-2025",
+      "senateChamber": "L192/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.U.G. nr.\n75/1999",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "1",
+      "40",
+      "49"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/9/em378.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/9/ces378.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/9/cl378.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/9/csm378.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22562"
+  }
+}

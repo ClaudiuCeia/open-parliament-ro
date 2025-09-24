@@ -1,0 +1,57 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-24T12:02:02.301Z",
+  "data": {
+    "idp": "22560",
+    "title": "Proiect de Lege pentru completarea art.14 din Ordonanţa Guvernului nr.65/1994 privind organizarea activităţii de expertiză contabilă şi a contabililor autorizaţi",
+    "registrationNumber": {
+      "bpi": "376/23-09-2025",
+      "senateChamber": "L189/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.G. nr.\n65/1994",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "105",
+      "1",
+      "10",
+      "15",
+      "27",
+      "30",
+      "31",
+      "40",
+      "53",
+      "58",
+      "70",
+      "76",
+      "91",
+      "98",
+      "122"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/7/em376.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/7/ces376.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/7/cl376.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/7/csm376.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22560"
+  }
+}

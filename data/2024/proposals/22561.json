@@ -1,0 +1,47 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-09-24T12:02:02.736Z",
+  "data": {
+    "idp": "22561",
+    "title": "Proiect de Lege pentru completarea art.2 din Ordonanţa Guvernului nr.71/2001 privind organizarea şi exercitarea activităţii de consultanţă fiscală, precum şi a art.2 din Ordonanţa Guvernului nr.24/2011 privind unele măsuri în domeniul evaluării bunurilor",
+    "registrationNumber": {
+      "bpi": "377/23-09-2025",
+      "senateChamber": "L191/2025"
+    },
+    "legislativeProcedure": "cf. Constitutiei revizuita în 2003",
+    "decidingChamber": "Camera Deputaţilor",
+    "type": "Proiect de Lege\npentru\nmodificarea\nO.G. nr.\n71/2001",
+    "emergencyProcedure": false,
+    "status": {
+      "short": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor",
+      "long": "trimis pentru raport la comisiile permanente ale Camerei Deputatilor"
+    },
+    "initiators": [
+      "39",
+      "105",
+      "1",
+      "40",
+      "49"
+    ],
+    "publicConsultation": null,
+    "documents": [
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/8/em377.pdf",
+        "title": "Expunerea de motive"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/8/ces377.pdf",
+        "title": "Avizul Consiliului Economic şi Social"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/8/cl377.pdf",
+        "title": "Avizul Consiliului Legislativ"
+      },
+      {
+        "textUrl": "https://www.cdep.ro/proiecte/2025/200/80/8/csm377.pdf",
+        "title": "Avizul Consiliului Superior al Magistraturii"
+      }
+    ],
+    "url": "https://www.cdep.ro/pls/proiecte/upl_pck2015.proiect?idp=22561"
+  }
+}
