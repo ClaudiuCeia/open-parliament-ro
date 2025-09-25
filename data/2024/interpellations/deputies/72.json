@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-25T09:22:41.087Z",
+  "lastUpdated": "2025-09-25T18:23:21.875Z",
   "data": [
     {
       "idi": "79104",
@@ -142,7 +142,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1885A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79843&idl=1",
-      "registrationId": "1885A193146",
+      "registrationId": "1885A193146202611",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -151,6 +151,13 @@
           "responseType": "în scris",
           "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1885A.pdf"
+        },
+        {
+          "registrationId": "202611",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Dezvoltării, Lucrărilor Publice si Administrației",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1885A.pdf"
         }
       ]
     },
@@ -243,7 +250,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1959A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79917&idl=1",
-      "registrationId": "1959A11499",
+      "registrationId": "1959A1149937041",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -252,6 +259,13 @@
           "responseType": "în scris",
           "author": "Ministerul Educaţiei şi Cercetării",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1959A.pdf"
+        },
+        {
+          "registrationId": "37041",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nCosmin-Răzvan Butuza\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1959A.pdf"
         }
       ]
     }

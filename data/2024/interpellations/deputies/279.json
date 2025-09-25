@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-25T09:30:53.843Z",
+  "lastUpdated": "2025-09-25T18:31:36.516Z",
   "data": [
     {
       "idi": "77476",
@@ -2034,6 +2034,69 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2212A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80244&idl=1",
       "registrationId": "2212A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80407",
+      "title": "Întrebarea nr.2374A/25-09-2025",
+      "description": "Situația terenurilor deținute în concesiune de la statul român de către domnul",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Agriculturii şi Dezvoltării Rurale\nîn atenţia:\ndomnului\nFlorin-Ionuţ Barbu\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-01-10T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2374A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80407&idl=1",
+      "registrationId": "2374A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80408",
+      "title": "Întrebarea nr.2375A/25-09-2025",
+      "description": "Efectele măsurilor aplicate prin ”Legea Bolojan” în municipiul București",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Educaţiei şi Cercetării\nîn atenţia:\ndomnului\nDaniel-Ovidiu David\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-01-10T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2375A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80408&idl=1",
+      "registrationId": "2375A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80409",
+      "title": "Întrebarea nr.2376A/25-09-2025",
+      "description": "O nouă victimă a unui sistem de sănătate disfuncțional",
+      "addressee": {
+        "idm": "279"
+      },
+      "recipient": "Ministerul Sănătăţii\nîn atenţia:\ndomnului\nAlexandru-Florin Rogobete\n- Ministru",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-01-10T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2376A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80409&idl=1",
+      "registrationId": "2376A",
       "requestedResponseType": "în scris",
       "answers": []
     }

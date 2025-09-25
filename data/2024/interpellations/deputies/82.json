@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-25T09:23:18.372Z",
+  "lastUpdated": "2025-09-25T18:23:59.133Z",
   "data": [
     {
       "idi": "77492",
@@ -801,9 +801,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1892A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79850&idl=1",
-      "registrationId": "1892A",
+      "registrationId": "1892A52939",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "52939",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul  Justiției\ncomunicat de:\ndomnul\nRadu Marinescu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1892A.pdf"
+        }
+      ]
     },
     {
       "idi": "79851",
@@ -851,9 +859,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1957A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79915&idl=1",
-      "registrationId": "1957A",
+      "registrationId": "1957A1323",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1323",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Investițiilor si Proiectelor Europene\ncomunicat de:\ndomnul\nDragoş Nicolae Pîslaru\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1957A.pdf"
+        }
+      ]
     },
     {
       "idi": "79972",

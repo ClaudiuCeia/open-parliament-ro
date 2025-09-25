@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-25T09:21:22.340Z",
+  "lastUpdated": "2025-09-25T18:22:02.985Z",
   "data": [
     {
       "idi": "77593",
@@ -2261,9 +2261,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1834A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79792&idl=1",
-      "registrationId": "1834A",
+      "registrationId": "1834A885706",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "885706",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor\ncomunicat de:\ndomnul\nAttila György\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1834A.pdf"
+        }
+      ]
     },
     {
       "idi": "79793",
@@ -2693,9 +2701,24 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1999A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79957&idl=1",
-      "registrationId": "1999A",
+      "registrationId": "1999A8857493477",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "885749",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Finanțelor",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1999A.pdf"
+        },
+        {
+          "registrationId": "3477",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Agentia Nationala de Administrare Fiscala",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1999A.pdf"
+        }
+      ]
     },
     {
       "idi": "79958",
@@ -2764,9 +2787,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i2002A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79960&idl=1",
-      "registrationId": "2002A",
+      "registrationId": "2002A266485",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "266485",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Agriculturii şi Dezvoltării Rurale\ncomunicat de:\ndomnul\nFlorin-Ionuţ Barbu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r2002A.pdf"
+        }
+      ]
     },
     {
       "idi": "79961",

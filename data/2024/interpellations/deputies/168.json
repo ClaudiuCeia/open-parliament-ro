@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-25T09:26:32.263Z",
+  "lastUpdated": "2025-09-25T18:27:14.978Z",
   "data": [
     {
       "idi": "77500",
@@ -2279,9 +2279,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1929A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79887&idl=1",
-      "registrationId": "1929A",
+      "registrationId": "1929A4030",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "4030",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Sănătăţii\ncomunicat de:\ndomnul\nStela Firu\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1929A.pdf"
+        }
+      ]
     },
     {
       "idi": "79888",
@@ -2465,7 +2473,7 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1978A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79936&idl=1",
-      "registrationId": "1978A7121",
+      "registrationId": "1978A71217253",
       "requestedResponseType": "în scris",
       "answers": [
         {
@@ -2474,6 +2482,13 @@
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
           "textUrl": "https://www.cdep.ro/interpel/2025/r1978A.pdf"
+        },
+        {
+          "registrationId": "7253",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1978A.pdf"
         }
       ]
     },
@@ -2494,9 +2509,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i2050A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80008&idl=1",
-      "registrationId": "2050A",
+      "registrationId": "2050A75810",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "75810",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională pentru Protecţia Consumatorului",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r2050A.pdf"
+        }
+      ]
     },
     {
       "idi": "80009",

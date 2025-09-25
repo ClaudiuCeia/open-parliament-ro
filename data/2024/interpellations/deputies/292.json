@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-25T09:31:24.283Z",
+  "lastUpdated": "2025-09-25T18:32:06.849Z",
   "data": [
     {
       "idi": "77740",
@@ -1207,9 +1207,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i2032A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79990&idl=1",
-      "registrationId": "2032A",
+      "registrationId": "2032A11647",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11647",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r2032A.pdf"
+        }
+      ]
     },
     {
       "idi": "79991",
@@ -1228,9 +1236,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i2033A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79991&idl=1",
-      "registrationId": "2033A",
+      "registrationId": "2033A18565",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "18565",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Interne\ncomunicat de:\ndomnul\nSilviu Nicu Macovei\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r2033A.pdf"
+        }
+      ]
     },
     {
       "idi": "80013",

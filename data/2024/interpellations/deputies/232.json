@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-25T09:28:47.983Z",
+  "lastUpdated": "2025-09-25T18:29:29.583Z",
   "data": [
     {
       "idi": "77581",
@@ -106,9 +106,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i2053A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80011&idl=1",
-      "registrationId": "2053A",
+      "registrationId": "2053A-",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "-",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\ncomunicat de:\ndomnul\nValeriu Ştefan Zgonea\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r2053A.pdf"
+        }
+      ]
     },
     {
       "idi": "80177",

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-25T09:31:59.608Z",
+  "lastUpdated": "2025-09-25T18:32:43.530Z",
   "data": [
     {
       "idi": "77612",
@@ -3511,6 +3511,90 @@
       "textUrl": "https://www.cdep.ro/interpel/2025/i2254A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80286&idl=1",
       "registrationId": "2254A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80396",
+      "title": "Întrebarea nr.2363A/25-09-2025",
+      "description": "Clarificări eliminarea adaosului comercial pentru o serie de produse de bază",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-01-10T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2363A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80396&idl=1",
+      "registrationId": "2363A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80397",
+      "title": "Întrebarea nr.2364A/25-09-2025",
+      "description": "De ce instituții precum ANRE, ASF și ANCOM primesc o amânare de o lună ca să taie cu 30% salariile și indemnizațiile, respectiv posturile",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Guvernul României\nîn atenţia:\ndomnului\nIlie Bolojan\n- Prim-Ministru al României",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-01-10T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2364A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80397&idl=1",
+      "registrationId": "2364A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80398",
+      "title": "Întrebarea nr.2365A/25-09-2025",
+      "description": "Clarificări despre procesul de vot din turul II al alegerilor prezidențiale din România",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "Autoritatea Electorală Permanentă",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-01-10T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2365A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80398&idl=1",
+      "registrationId": "2365A",
+      "requestedResponseType": "în scris",
+      "answers": []
+    },
+    {
+      "idi": "80399",
+      "title": "Întrebarea nr.2366A/25-09-2025",
+      "description": "Statul român este mut în privința grupului paramilitar înarmat ”Getica”",
+      "addressee": {
+        "idm": "298"
+      },
+      "recipient": "",
+      "dates": {
+        "registration": null,
+        "presentation": null,
+        "communication": "2025-01-10T00:00:00.000Z",
+        "responseDue": null
+      },
+      "mode": "în scris",
+      "textUrl": "https://www.cdep.ro/interpel/2025/i2366A.pdf",
+      "url": "https://www.cdep.rointerpelari2015.detalii?idi=80399&idl=1",
+      "registrationId": "2366A",
       "requestedResponseType": "în scris",
       "answers": []
     }

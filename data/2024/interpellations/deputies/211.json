@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-25T09:28:07.776Z",
+  "lastUpdated": "2025-09-25T18:28:49.757Z",
   "data": [
     {
       "idi": "77828",
@@ -1510,9 +1510,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1781A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79739&idl=1",
-      "registrationId": "1781A",
+      "registrationId": "1781A33080",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "33080",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nCosmin-Răzvan Butuza\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1781A.pdf"
+        }
+      ]
     },
     {
       "idi": "79860",

@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-25T09:24:12.787Z",
+  "lastUpdated": "2025-09-25T18:24:54.517Z",
   "data": [
     {
       "idi": "77573",
@@ -640,9 +640,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1992A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79950&idl=1",
-      "registrationId": "1992A",
+      "registrationId": "1992A11548",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "11548",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Educaţiei şi Cercetării",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1992A.pdf"
+        }
+      ]
     },
     {
       "idi": "79951",
@@ -682,9 +690,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i2116A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=80106&idl=1",
-      "registrationId": "2116A",
+      "registrationId": "2116A-",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "-",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Autoritatea Naţională pentru Administrare şi Reglementare în Comunicaţii\ncomunicat de:\ndomnul\nValeriu Ştefan Zgonea\n- Presedinte",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r2116A.pdf"
+        }
+      ]
     },
     {
       "idi": "80191",

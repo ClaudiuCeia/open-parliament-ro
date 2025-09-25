@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-25T09:27:11.383Z",
+  "lastUpdated": "2025-09-25T18:27:53.781Z",
   "data": [
     {
       "idi": "77977",
@@ -135,9 +135,16 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1850A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79808&idl=1",
-      "registrationId": "1850A66396748",
+      "registrationId": "1850A674866397191",
       "requestedResponseType": "în scris",
       "answers": [
+        {
+          "registrationId": "6748",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/2r1850A.pdf"
+        },
         {
           "registrationId": "6639",
           "date": null,
@@ -146,11 +153,11 @@
           "textUrl": "https://www.cdep.ro/interpel/2025/r1850A.pdf"
         },
         {
-          "registrationId": "6748",
+          "registrationId": "7191",
           "date": null,
           "responseType": "în scris",
           "author": "Secretariatul General al Guvernului\ncomunicat de:\ndomnul\nNini Săpunaru\n- Secretar de Stat",
-          "textUrl": "https://www.cdep.ro/interpel/2025/2r1850A.pdf"
+          "textUrl": "https://www.cdep.ro/interpel/2025/3r1850A.pdf"
         }
       ]
     },
@@ -200,9 +207,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i1915A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79873&idl=1",
-      "registrationId": "1915A",
+      "registrationId": "1915A37041",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "37041",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Mediului, Apelor şi Pădurilor\ncomunicat de:\ndomnul\nCosmin-Răzvan Butuza\n- Secretar de Stat",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r1915A.pdf"
+        }
+      ]
     },
     {
       "idi": "79919",
