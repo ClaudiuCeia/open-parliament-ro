@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-28T00:05:47.578Z",
+  "lastUpdated": "2025-09-28T09:02:44.571Z",
   "data": [
     {
       "ids": "8930",
@@ -11,11 +11,6 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8930&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8930&idm=4&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8930&idm=4&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Propunerii legislative pentru completarea Legii vânătorii şi a protecţiei fondului cinegetic nr. 407/2006 (Pl-x 216/2025) (rămasă pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8930&idm=1&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8930&idm=1&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
@@ -24,6 +19,11 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8930&idm=1,004&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8930&idm=1,004&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "George-Mihail Neamţu - declaraţie politică referitoare la teme de actualitate;"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8930&idm=4&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8930&idm=4&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Propunerii legislative pentru completarea Legii vânătorii şi a protecţiei fondului cinegetic nr. 407/2006 (Pl-x 216/2025) (rămasă pentru votul final)."
         }
       ]
     },
@@ -36,11 +36,6 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8925&idl=1",
       "transcripts": [
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=6&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=6&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 20/2024 pentru modificarea Ordonanţei Guvernului nr. 51/1998 privind îmbunătăţirea sistemului de finanţare nerambursabilă a proiectelor culturale (PL-x 89/2024) (rămas pentru votul final)."
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=7&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=7&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Supunerea la votul final a:"
@@ -49,6 +44,11 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=7,004&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=7,004&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Proiectului de Hotărâre privind adoptarea opiniei referitoare la Comunicarea Comisiei către Parlamentul European, Consiliu, Comitetul Economic şi Social European şi Comitetul Regiunilor - O foaie de parcurs privind drepturile femeilor COM (2025) 97 (PHCD 41/2025) (adoptat);"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=6&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8925&idm=6&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege privind aprobarea Ordonanţei Guvernului nr. 20/2024 pentru modificarea Ordonanţei Guvernului nr. 51/1998 privind îmbunătăţirea sistemului de finanţare nerambursabilă a proiectelor culturale (PL-x 89/2024) (rămas pentru votul final)."
         }
       ]
     },
@@ -61,6 +61,11 @@
       "link": "https://www.cdep.ro/pls/steno/steno2015.sumar?ids=8909&idl=1",
       "transcripts": [
         {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=5&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=5&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Dezbaterea Proiectului de Lege pentru instituirea anului 2026 ca Anul Constantin Brâncuşi (PL-x 151/2025) (rămas pentru votul final)."
+        },
+        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
@@ -69,11 +74,6 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1,006&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=1,006&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "George-Mihail Neamţu - declaraţie politică referitoare la simularea meritocraţiei şi degradarea funcţiei publice;"
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=5&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8909&idm=5&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Dezbaterea Proiectului de Lege pentru instituirea anului 2026 ca Anul Constantin Brâncuşi (PL-x 151/2025) (rămas pentru votul final)."
         }
       ]
     },
@@ -91,16 +91,6 @@
           "description": "Dezbaterea Proiectului de Lege pentru modificarea şi completarea Legii nr. 489/2006 privind libertatea religioasă şi regimul general al cultelor (PL-x 166/2025) (rămas pentru votul final)."
         },
         {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
-        },
-        {
-          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1,005&idl=1",
-          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1,005&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
-          "description": "George-Mihail Neamţu - declaraţie politică despre identitatea naţională şi apărarea valorilor româneşti;"
-        },
-        {
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Supunerea la votul final a:"
@@ -109,6 +99,16 @@
           "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9,011&idl=1",
           "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=9,011&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
           "description": "Proiectului de Lege pentru modificarea şi completarea Legii nr. 489/2006 privind libertatea religioasă şi regimul general al cultelor (PL-x 166/2025) (adoptat)."
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "Declaraţii politice şi intervenţii ale deputaţilor:"
+        },
+        {
+          "fullTextUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1,005&idl=1",
+          "relevantSectionUrl": "https://www.cdep.ro/pls/steno/steno2015.stenograma?ids=8905&idm=1,005&sir=&sep=and&idv=7660&idl=1&nav=%3Ca%20href=%22/pls/steno/steno2015.cautare%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%22%3EInterogare%3C/a%3E%20%26gt%20%3Ca%20href=%22/pls/steno/steno2015.lista%3Fcam=%26com=0%26leg=%26topic1=0%26topic2=0%26topic3=0%26topic4=0%26topic5=0%26nrp=%26anp=%26idv=7660%26sir=%26sep=and%26ts=0%26dat1=20-12-2024%26dat2=22-09-2025%26ord=0%26pag=1000%26idl=1%26pags=1%22%3ERezultate%3C/a%3E",
+          "description": "George-Mihail Neamţu - declaraţie politică despre identitatea naţională şi apărarea valorilor româneşti;"
         }
       ]
     },
