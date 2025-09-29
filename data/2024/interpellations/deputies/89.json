@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "lastUpdated": "2025-09-29T00:25:58.699Z",
+  "lastUpdated": "2025-09-29T09:23:17.248Z",
   "data": [
     {
       "idi": "77601",
@@ -4163,9 +4163,17 @@
       "mode": "în scris",
       "textUrl": "https://www.cdep.ro/interpel/2025/i2025A.pdf",
       "url": "https://www.cdep.rointerpelari2015.detalii?idi=79983&idl=1",
-      "registrationId": "2025A",
+      "registrationId": "2025A1692",
       "requestedResponseType": "în scris",
-      "answers": []
+      "answers": [
+        {
+          "registrationId": "1692",
+          "date": null,
+          "responseType": "în scris",
+          "author": "Ministerul Afacerilor Externe\ncomunicat de:\ndomnul\nOana Silvia Ţoiu\n- Ministru",
+          "textUrl": "https://www.cdep.ro/interpel/2025/r2025A.pdf"
+        }
+      ]
     },
     {
       "idi": "79984",
